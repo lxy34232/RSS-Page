@@ -62,6 +62,9 @@ interface Props {
 
 const { source, groupName } = Astro.props;
 
+// Get base URL for links
+const baseUrl = import.meta.env.BASE_URL;
+
 // Filter entries from the last 30 days
 const thirtyDaysAgo = new Date();
 thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
@@ -83,7 +86,7 @@ const sortedEntries = filteredEntries.sort((a, b) => {
 <Layout title={`${source.name} - RSS 新闻聚合`}>
   <div class="feed-page">
     <div class="breadcrumb">
-      <a href="/RSS-Page/">← 返回首页</a>
+      <a href={baseUrl}>← 返回首页</a>
       <span class="separator">/</span>
       <span class="group-name">{groupName}</span>
       <span class="separator">/</span>
@@ -114,7 +117,7 @@ const sortedEntries = filteredEntries.sort((a, b) => {
     </div>
     
     <div class="back-link">
-      <a href="/RSS-Page/">← 返回首页</a>
+      <a href={baseUrl}>← 返回首页</a>
     </div>
   </div>
 </Layout>
