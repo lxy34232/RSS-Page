@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T08:59:11.207130",
+  "lastUpdated": "2025-12-02T09:02:11.498047",
   "daysFilter": 14,
   "groups": [
     {
@@ -137,8 +137,8 @@
       "groupName": "咨询机构",
       "sources": [
         {
-          "name": "Github 趋势",
-          "url": "https://rsshub.app/github/trending/daily/javascript",
+          "name": "KPMG Insights",
+          "url": "https://rsshub.app/kpmg/insights",
           "entries": []
         }
       ]
