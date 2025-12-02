@@ -1,0 +1,231 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import FeedItem from '../../components/FeedItem.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+interface FeedEntry {
+  title: string;
+  link: string;
+  pubDate?: string;
+  description?: string;
+}
+
+interface Source {
+  name: string;
+  url: string;
+  entries: FeedEntry[];
+}
+
+interface Group {
+  groupName: string;
+  sources: Source[];
+}
+
+interface FeedData {
+  lastUpdated: string;
+  daysFilter: number;
+  groups: Group[];
+}
+
+// Generate static paths for all feeds
+export function getStaticPaths() {
+  const dataPath = path.join(process.cwd(), 'data', 'rss_feeds.json');
+  
+  if (!fs.existsSync(dataPath)) {
+    return [];
+  }
+  
+  const rawData = fs.readFileSync(dataPath, 'utf-8');
+  const feedData: FeedData = JSON.parse(rawData);
+  
+  const paths: { params: { feedname: string }; props: { source: Source; groupName: string } }[] = [];
+  
+  for (const group of feedData.groups) {
+    for (const source of group.sources) {
+      // Create a URL-friendly slug from the source name
+      const feedname = encodeURIComponent(source.name);
+      paths.push({
+        params: { feedname },
+        props: { source, groupName: group.groupName }
+      });
+    }
+  }
+  
+  return paths;
+}
+
+interface Props {
+  source: Source;
+  groupName: string;
+}
+
+const { source, groupName } = Astro.props;
+
+// Get base URL for links
+const baseUrl = import.meta.env.BASE_URL;
+
+// Filter entries from the last 30 days
+const thirtyDaysAgo = new Date();
+thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+
+const filteredEntries = source.entries.filter((entry) => {
+  if (!entry.pubDate) return true; // Include entries without date
+  const entryDate = new Date(entry.pubDate);
+  return entryDate >= thirtyDaysAgo;
+});
+
+// Sort entries by date (newest first)
+const sortedEntries = filteredEntries.sort((a, b) => {
+  if (!a.pubDate) return 1;
+  if (!b.pubDate) return -1;
+  return new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime();
+});
+---
+
+<Layout title={`${source.name} - RSS 新闻聚合`}>
+  <div class="feed-page">
+    <div class="breadcrumb">
+      <a href={baseUrl}>← 返回首页</a>
+      <span class="separator">/</span>
+      <span class="group-name">{groupName}</span>
+      <span class="separator">/</span>
+      <span class="current">{source.name}</span>
+    </div>
+    
+    <div class="feed-header">
+      <h1>{source.name}</h1>
+      <p class="feed-info">📅 显示最近 30 天的内容 | 共 {sortedEntries.length} 条</p>
+    </div>
+    
+    <div class="entries-list">
+      {sortedEntries.length > 0 ? (
+        sortedEntries.map((entry) => (
+          <FeedItem
+            title={entry.title}
+            link={entry.link}
+            pubDate={entry.pubDate}
+            description={entry.description}
+          />
+        ))
+      ) : (
+        <div class="no-entries">
+          <h2>暂无内容</h2>
+          <p>该订阅源在最近 30 天内没有更新内容。</p>
+        </div>
+      )}
+    </div>
+    
+    <div class="back-link">
+      <a href={baseUrl}>← 返回首页</a>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .feed-page {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem;
+    background: var(--card-background);
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    flex-wrap: wrap;
+  }
+
+  .breadcrumb a {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .separator {
+    color: var(--text-muted);
+  }
+
+  .group-name {
+    color: var(--text-muted);
+  }
+
+  .current {
+    color: var(--text-color);
+    font-weight: 500;
+  }
+
+  .feed-header {
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+  }
+
+  .feed-header h1 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.75rem;
+  }
+
+  .feed-info {
+    margin: 0;
+    opacity: 0.9;
+    font-size: 0.95rem;
+  }
+
+  .entries-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background: var(--card-background);
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .no-entries {
+    text-align: center;
+    padding: 3rem;
+  }
+
+  .no-entries h2 {
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+  }
+
+  .no-entries p {
+    color: var(--text-muted);
+  }
+
+  .back-link {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 1rem;
+  }
+
+  .back-link a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    background: var(--primary-color);
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+  }
+
+  .back-link a:hover {
+    background: var(--secondary-color);
+    text-decoration: none;
+  }
+</style>
