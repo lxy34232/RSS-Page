@@ -48,7 +48,7 @@ RSS_FEED_GROUPS = [
         "feeds": [
             {
                 "name": "KPMG Insights",
-                "url": "https://rsshub.app/kpmg/insights"
+                "url": "rsshub://kpmg/insights"
             }
         ]
     },
