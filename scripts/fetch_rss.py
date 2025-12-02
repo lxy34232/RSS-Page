@@ -30,7 +30,7 @@ DEFAULT_DAYS_FILTER = 14
 MAX_ENTRIES_PER_FEED = 20
 
 # RSSHub base URL (can be overridden via environment variable)
-RSSHUB_BASE_URL = os.environ.get("RSSHUB_BASE_URL", "https://rsshub.app")
+RSSHUB_BASE_URL = os.environ.get("RSSHUB_BASE_URL", "https://rsshub.rssforever.com")
 
 # RSS feed sources organized by groups
 RSS_FEED_GROUPS = [
