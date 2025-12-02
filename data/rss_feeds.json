@@ -1,74 +1,74 @@
 {
-  "lastUpdated": "2025-12-02T14:57:12.241213",
+  "lastUpdated": "2025-12-02T07:35:21.424986",
   "feeds": [
-    {
-      "title": "Beej's Guide to C Programming",
-      "link": "https://beej.us/guide/bgc/",
-      "pubDate": "2025-12-02T06:19:28",
-      "description": "Article URL: https://beej.us/guide/bgc/ Comments URL: https://news.ycombinator.com/item?id=46118195 Points: 6 # Comments: 4",
-      "source": "Hacker News"
-    },
     {
       "title": "Frequently Asked Unicycling Questions",
       "link": "https://vale.rocks/posts/unicycle-faq",
       "pubDate": "2025-12-02T05:27:18",
-      "description": "Article URL: https://vale.rocks/posts/unicycle-faq Comments URL: https://news.ycombinator.com/item?id=46117900 Points: 11 # Comments: 5",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Beej's Guide to Learning Computer Science",
-      "link": "https://beej.us/guide/bglcs/html/split/",
-      "pubDate": "2025-12-02T03:47:11",
-      "description": "Article URL: https://beej.us/guide/bglcs/html/split/ Comments URL: https://news.ycombinator.com/item?id=46117280 Points: 140 # Comments: 22",
+      "description": "Article URL: https://vale.rocks/posts/unicycle-faq Comments URL: https://news.ycombinator.com/item?id=46117900 Points: 18 # Comments: 5",
       "source": "Hacker News"
     },
     {
       "title": "Decreasing Certificate Lifetimes to 45 Days",
       "link": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
       "pubDate": "2025-12-02T03:24:44",
-      "description": "Article URL: https://letsencrypt.org/2025/12/02/from-90-to-45.html Comments URL: https://news.ycombinator.com/item?id=46117126 Points: 43 # Comments: 5",
+      "description": "Article URL: https://letsencrypt.org/2025/12/02/from-90-to-45.html Comments URL: https://news.ycombinator.com/item?id=46117126 Points: 65 # Comments: 25",
       "source": "Hacker News"
     },
     {
       "title": "What will enter the public domain in 2026?",
       "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
       "pubDate": "2025-12-02T03:23:10",
-      "description": "Article URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/ Comments URL: https://news.ycombinator.com/item?id=46117112 Points: 147 # Comments: 35",
+      "description": "Article URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/ Comments URL: https://news.ycombinator.com/item?id=46117112 Points: 169 # Comments: 46",
       "source": "Hacker News"
     },
     {
       "title": "Reverse math shows why hard problems are hard",
       "link": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
       "pubDate": "2025-12-02T02:35:47",
-      "description": "Article URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ Comments URL: https://news.ycombinator.com/item?id=46116724 Points: 56 # Comments: 7",
+      "description": "Article URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ Comments URL: https://news.ycombinator.com/item?id=46116724 Points: 66 # Comments: 9",
       "source": "Hacker News"
     },
     {
       "title": "Notes on Bhutan",
       "link": "https://apropos.substack.com/p/notes-on-bhutan",
       "pubDate": "2025-12-02T01:30:15",
-      "description": "Article URL: https://apropos.substack.com/p/notes-on-bhutan Comments URL: https://news.ycombinator.com/item?id=46116179 Points: 15 # Comments: 0",
+      "description": "Article URL: https://apropos.substack.com/p/notes-on-bhutan Comments URL: https://news.ycombinator.com/item?id=46116179 Points: 22 # Comments: 2",
       "source": "Hacker News"
     },
     {
       "title": "Arcee Trinity Mini: US-Trained Moe Model",
       "link": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
       "pubDate": "2025-12-02T00:31:01",
-      "description": "Article URL: https://www.arcee.ai/blog/the-trinity-manifesto?src=hn Comments URL: https://news.ycombinator.com/item?id=46115682 Points: 49 # Comments: 12",
+      "description": "Article URL: https://www.arcee.ai/blog/the-trinity-manifesto?src=hn Comments URL: https://news.ycombinator.com/item?id=46115682 Points: 51 # Comments: 12",
       "source": "Hacker News"
     },
     {
       "title": "AI agents find $4.6M in blockchain smart contract exploits",
       "link": "https://red.anthropic.com/2025/smart-contracts/",
       "pubDate": "2025-12-01T23:44:51",
-      "description": "Article URL: https://red.anthropic.com/2025/smart-contracts/ Comments URL: https://news.ycombinator.com/item?id=46115214 Points: 155 # Comments: 80",
+      "description": "Article URL: https://red.anthropic.com/2025/smart-contracts/ Comments URL: https://news.ycombinator.com/item?id=46115214 Points: 161 # Comments: 81",
       "source": "Hacker News"
     },
     {
       "title": "Last Week on My Mac: Losing confidence",
       "link": "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/",
       "pubDate": "2025-12-01T22:56:16",
-      "description": "Article URL: https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/ Comments URL: https://news.ycombinator.com/item?id=46114599 Points: 359 # Comments: 190",
+      "description": "Article URL: https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/ Comments URL: https://news.ycombinator.com/item?id=46114599 Points: 370 # Comments: 199",
+      "source": "Hacker News"
+    },
+    {
+      "title": "John Giannandrea to retire from Apple",
+      "link": "https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/",
+      "pubDate": "2025-12-01T22:20:33",
+      "description": "Additional reporting: https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring... Comments URL: https://news.ycombinator.com/item?id=46114122 Points: 88 # Comments: 298",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Instagram chief orders staff back to the office five days a week in 2026",
+      "link": "https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12",
+      "pubDate": "2025-12-01T20:55:56",
+      "description": "Article URL: https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12 Comments URL: https://news.ycombinator.com/item?id=46113092 Points: 212 # Comments: 239",
       "source": "Hacker News"
     },
     {
@@ -79,10 +79,17 @@
       "source": "BBC News"
     },
     {
-      "title": "Appeals court disqualifies ex-Trump lawyer Alina Habba as New Jersey prosecutor",
-      "link": "https://www.bbc.com/news/articles/cewjg272dq9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T19:15:59",
-      "description": "An appeals court disqualified Alina Habba, Trump's former personal attorney, from serving as US Attorney for New Jersey.",
+      "title": "US Navy commander ordered second  Venezuela boat strike, White House says",
+      "link": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-02T03:18:12",
+      "description": "The White House confirmed the second strikes on 2 September, but denied reports that Defence Secretary Hegseth said \"kill everybody\" on board the vessel.",
+      "source": "BBC News"
+    },
+    {
+      "title": "India tells smartphone makers to put state-run cyber safety app on new devices",
+      "link": "https://www.bbc.com/news/articles/cedxyvx74p4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-02T07:16:03",
+      "description": "India wants all smartphone makers to pre-install new devices with a state-owned cyber security app.",
       "source": "BBC News"
     },
     {
@@ -107,38 +114,31 @@
       "source": "BBC News"
     },
     {
-      "title": "Shock in Cameroon as 74-year-old opposition firebrand dies in detention",
-      "link": "https://www.bbc.com/news/articles/ckg9204y4w5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T17:38:50",
-      "description": "Anicet Ekane's lawyer says the family was given little explanation - \"his wife was just presented the corpse\".",
+      "title": "Italian town freezes Pavarotti statue knee-deep in Christmas ice rink, angering widow",
+      "link": "https://www.bbc.com/news/articles/cre3q9edqx8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-02T05:19:12",
+      "description": "The opera legend's widow said the town had made an \"absurd decision\" after it also encouraged skaters to high five the statue.",
       "source": "BBC News"
     },
     {
-      "title": "Death toll in Indonesia floods passes 500 with hundreds more missing",
+      "title": "Appeals court disqualifies ex-Trump lawyer Alina Habba as New Jersey prosecutor",
+      "link": "https://www.bbc.com/news/articles/cewjg272dq9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-01T19:15:59",
+      "description": "An appeals court disqualified Alina Habba, Trump's former personal attorney, from serving as US Attorney for New Jersey.",
+      "source": "BBC News"
+    },
+    {
+      "title": "Death toll in Indonesia floods passes 600",
       "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-02T06:16:07",
+      "pubDate": "2025-12-02T07:10:41",
       "description": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region.",
       "source": "BBC News"
     },
     {
-      "title": "WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests",
-      "link": "https://www.bbc.com/news/articles/czrk7g50e1po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T00:19:04",
-      "description": "Anti-government demonstrators are likely to have been targeted with camite, our investigation finds.",
-      "source": "BBC News"
-    },
-    {
-      "title": "Drug lord El Chapo's son pleads guilty in US drug trafficking case",
-      "link": "https://www.bbc.com/news/articles/ckgz28zyp8vo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T22:18:26",
-      "description": "Joaquín Guzmán López's guilty plea comes after US prosecutors pledged last May to not pursue the death penalty against him.",
-      "source": "BBC News"
-    },
-    {
-      "title": "Dozens missing as deadly landslide hits two boats in Peru",
-      "link": "https://www.bbc.com/news/articles/cz0n1rm95yxo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T19:13:10",
-      "description": "Rescue efforts in Peru's central Ucayali region are being hindered by strong currents on the river, one official said.",
+      "title": "Shock in Cameroon as 74-year-old opposition firebrand dies in detention",
+      "link": "https://www.bbc.com/news/articles/ckg9204y4w5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-01T17:38:50",
+      "description": "Anicet Ekane's lawyer says the family was given little explanation - \"his wife was just presented the corpse\".",
       "source": "BBC News"
     },
     {
