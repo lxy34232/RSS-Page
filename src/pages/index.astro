@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import FeedItem from '../components/FeedItem.astro';
+import GroupSection from '../components/GroupSection.astro';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -9,18 +9,30 @@ interface FeedEntry {
   link: string;
   pubDate?: string;
   description?: string;
-  source?: string;
+}
+
+interface Source {
+  name: string;
+  url: string;
+  entries: FeedEntry[];
+}
+
+interface Group {
+  groupName: string;
+  sources: Source[];
 }
 
 interface FeedData {
   lastUpdated: string;
-  feeds: FeedEntry[];
+  daysFilter: number;
+  groups: Group[];
 }
 
 // Read the RSS data from the JSON file
 let feedData: FeedData = {
   lastUpdated: new Date().toISOString(),
-  feeds: []
+  daysFilter: 14,
+  groups: []
 };
 
 const dataPath = path.join(process.cwd(), 'data', 'rss_feeds.json');
@@ -29,24 +41,23 @@ if (fs.existsSync(dataPath)) {
   feedData = JSON.parse(rawData);
 }
 
-// Sort feeds by publication date (newest first)
-const sortedFeeds = feedData.feeds.sort((a, b) => {
-  const dateA = a.pubDate ? new Date(a.pubDate).getTime() : 0;
-  const dateB = b.pubDate ? new Date(b.pubDate).getTime() : 0;
-  return dateB - dateA;
-});
+// Calculate total entry count
+const totalEntries = feedData.groups.reduce((total, group) => 
+  total + group.sources.reduce((sourceTotal, source) => 
+    sourceTotal + source.entries.length, 0), 0);
 ---
 
 <Layout title="RSS 新闻聚合">
+  <div class="filter-info">
+    <p>📅 显示最近 {feedData.daysFilter} 天的内容 | 共 {totalEntries} 条</p>
+  </div>
+  
   <div class="feeds-container">
-    {sortedFeeds.length > 0 ? (
-      sortedFeeds.map((feed) => (
-        <FeedItem
-          title={feed.title}
-          link={feed.link}
-          pubDate={feed.pubDate}
-          description={feed.description}
-          source={feed.source}
+    {feedData.groups.length > 0 ? (
+      feedData.groups.map((group) => (
+        <GroupSection
+          groupName={group.groupName}
+          sources={group.sources}
         />
       ))
     ) : (
@@ -62,9 +73,24 @@ const sortedFeeds = feedData.feeds.sort((a, b) => {
 </Layout>
 
 <style>
+  .filter-info {
+    text-align: center;
+    padding: 1rem;
+    background: var(--card-background);
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  .filter-info p {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+
   .feeds-container {
     display: grid;
-    gap: 1rem;
+    gap: 2rem;
   }
 
   .no-feeds {

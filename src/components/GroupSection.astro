@@ -1,0 +1,54 @@
+---
+import SourceSection from './SourceSection.astro';
+
+export interface FeedEntry {
+  title: string;
+  link: string;
+  pubDate?: string;
+  description?: string;
+}
+
+export interface Source {
+  name: string;
+  url: string;
+  entries: FeedEntry[];
+}
+
+export interface Props {
+  groupName: string;
+  sources: Source[];
+}
+
+const { groupName, sources } = Astro.props;
+---
+
+<section class="group-section">
+  <h2 class="group-title">{groupName}</h2>
+  <div class="sources-container">
+    {sources.map((source) => (
+      <SourceSection
+        name={source.name}
+        entries={source.entries}
+      />
+    ))}
+  </div>
+</section>
+
+<style>
+  .group-section {
+    margin-bottom: 2rem;
+  }
+
+  .group-title {
+    font-size: 1.5rem;
+    color: var(--text-color);
+    border-bottom: 3px solid var(--primary-color);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .sources-container {
+    display: grid;
+    gap: 1.5rem;
+  }
+</style>

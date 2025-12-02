@@ -1,215 +1,86 @@
 {
-  "lastUpdated": "2025-12-02T07:51:08.929309",
-  "feeds": [
+  "lastUpdated": "2025-12-02T08:17:28.682124",
+  "daysFilter": 14,
+  "groups": [
     {
-      "title": "Rootless Pings in Rust",
-      "link": "https://bou.ke/blog/rust-ping/",
-      "pubDate": "2025-12-02T07:01:03",
-      "description": "Article URL: https://bou.ke/blog/rust-ping/ Comments URL: https://news.ycombinator.com/item?id=46118432 Points: 7 # Comments: 0",
-      "source": "Hacker News"
+      "groupName": "国家政策",
+      "sources": [
+        {
+          "name": "中国科学院科研进展",
+          "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml",
+          "entries": [
+            {
+              "title": "科学家发现新型量子材料",
+              "link": "https://www.cas.cn/example1",
+              "pubDate": "2025-12-01T10:00:00",
+              "description": "中国科学院物理研究所团队在量子材料领域取得重大突破..."
+            },
+            {
+              "title": "人工智能助力科研创新",
+              "link": "https://www.cas.cn/example2",
+              "pubDate": "2025-11-30T14:30:00",
+              "description": "最新研究表明人工智能技术正在加速科学发现的进程..."
+            }
+          ]
+        }
+      ]
     },
     {
-      "title": "Why Replicate is joining Cloudflare",
-      "link": "https://blog.cloudflare.com/why-replicate-joining-cloudflare/",
-      "pubDate": "2025-12-02T05:40:39",
-      "description": "Article URL: https://blog.cloudflare.com/why-replicate-joining-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=46117993 Points: 8 # Comments: 2",
-      "source": "Hacker News"
+      "groupName": "咨询机构",
+      "sources": [
+        {
+          "name": "KPMG Insights",
+          "url": "rsshub://kpmg/insights",
+          "entries": [
+            {
+              "title": "2024年全球经济展望",
+              "link": "https://kpmg.com/insights/example1",
+              "pubDate": "2025-12-01T08:00:00",
+              "description": "毕马威发布最新全球经济分析报告，深入探讨市场趋势..."
+            }
+          ]
+        }
+      ]
     },
     {
-      "title": "Frequently Asked Unicycling Questions",
-      "link": "https://vale.rocks/posts/unicycle-faq",
-      "pubDate": "2025-12-02T05:27:18",
-      "description": "Article URL: https://vale.rocks/posts/unicycle-faq Comments URL: https://news.ycombinator.com/item?id=46117900 Points: 24 # Comments: 7",
-      "source": "Hacker News"
+      "groupName": "研究院所",
+      "sources": [
+        {
+          "name": "Forrester Blogs",
+          "url": "https://www.forrester.com/blogs/feed/",
+          "entries": [
+            {
+              "title": "The Future of Customer Experience",
+              "link": "https://www.forrester.com/blogs/example1",
+              "pubDate": "2025-11-29T16:00:00",
+              "description": "Exploring the latest trends in customer experience technology..."
+            }
+          ]
+        }
+      ]
     },
     {
-      "title": "Apple Releases Open Weights Video Model",
-      "link": "https://starflow-v.github.io",
-      "pubDate": "2025-12-02T05:10:01",
-      "description": "Article URL: https://starflow-v.github.io Comments URL: https://news.ycombinator.com/item?id=46117802 Points: 26 # Comments: 1",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Decreasing Certificate Lifetimes to 45 Days",
-      "link": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
-      "pubDate": "2025-12-02T03:24:44",
-      "description": "Article URL: https://letsencrypt.org/2025/12/02/from-90-to-45.html Comments URL: https://news.ycombinator.com/item?id=46117126 Points: 78 # Comments: 49",
-      "source": "Hacker News"
-    },
-    {
-      "title": "What will enter the public domain in 2026?",
-      "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
-      "pubDate": "2025-12-02T03:23:10",
-      "description": "Article URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/ Comments URL: https://news.ycombinator.com/item?id=46117112 Points: 182 # Comments: 50",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Reverse math shows why hard problems are hard",
-      "link": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
-      "pubDate": "2025-12-02T02:35:47",
-      "description": "Article URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ Comments URL: https://news.ycombinator.com/item?id=46116724 Points: 72 # Comments: 11",
-      "source": "Hacker News"
-    },
-    {
-      "title": "After Windows Update, Password icon invisible, click where it used to be",
-      "link": "https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93",
-      "pubDate": "2025-12-02T02:12:14",
-      "description": "Article URL: https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93 Comments URL: https://news.ycombinator.com/item?id=46116567 Points: 13 # Comments: 0",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Notes on Bhutan",
-      "link": "https://apropos.substack.com/p/notes-on-bhutan",
-      "pubDate": "2025-12-02T01:30:15",
-      "description": "Article URL: https://apropos.substack.com/p/notes-on-bhutan Comments URL: https://news.ycombinator.com/item?id=46116179 Points: 28 # Comments: 6",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Arcee Trinity Mini: US-Trained Moe Model",
-      "link": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
-      "pubDate": "2025-12-02T00:31:01",
-      "description": "Article URL: https://www.arcee.ai/blog/the-trinity-manifesto?src=hn Comments URL: https://news.ycombinator.com/item?id=46115682 Points: 53 # Comments: 12",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Putin and Trump's envoy set for key Ukraine talks in Moscow",
-      "link": "https://www.bbc.com/news/articles/ce8ng3yjenpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-02T07:38:56",
-      "description": "Steve Witkoff will hold talks at the Kremlin, after the White House said it was \"optimistic\" about a breakthrough.",
-      "source": "BBC News"
-    },
-    {
-      "title": "US Navy commander ordered second  Venezuela boat strike, White House says",
-      "link": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-02T03:18:12",
-      "description": "The White House confirmed the second strikes on 2 September, but denied reports that Defence Secretary Hegseth said \"kill everybody\" on board the vessel.",
-      "source": "BBC News"
-    },
-    {
-      "title": "India tells smartphone makers to put state-run cyber safety app on new devices",
-      "link": "https://www.bbc.com/news/articles/cedxyvx74p4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-02T07:16:03",
-      "description": "India wants all smartphone makers to pre-install new devices with a state-owned cyber security app.",
-      "source": "BBC News"
-    },
-    {
-      "title": "Honduras presidential candidates locked in 'technical tie', official says",
-      "link": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-02T05:06:31",
-      "description": "Right-wing candidate Nasry Asfura leads former TV host Salvador Nasralla by just 515 votes, according to country's electoral authority.",
-      "source": "BBC News"
-    },
-    {
-      "title": "Mangione in court as lawyers seek to rule out notebook, gun and other key evidence",
-      "link": "https://www.bbc.com/news/articles/c33mz477p4po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T21:56:30",
-      "description": "A legal expert explains how the defence could stand to gain even if their longshot bid fails this week.",
-      "source": "BBC News"
-    },
-    {
-      "title": "Hong Kong leader orders investigation into deadly fire that killed 151",
-      "link": "https://www.bbc.com/news/articles/ce8ng18p7v3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-02T05:58:21",
-      "description": "The fire is the deadliest the city has seen in more than 70 years.",
-      "source": "BBC News"
-    },
-    {
-      "title": "Italian town freezes Pavarotti statue knee-deep in Christmas ice rink, angering widow",
-      "link": "https://www.bbc.com/news/articles/cre3q9edqx8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-02T05:19:12",
-      "description": "The opera legend's widow said the town had made an \"absurd decision\" after it also encouraged skaters to high five the statue.",
-      "source": "BBC News"
-    },
-    {
-      "title": "Appeals court disqualifies ex-Trump lawyer Alina Habba as New Jersey prosecutor",
-      "link": "https://www.bbc.com/news/articles/cewjg272dq9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T19:15:59",
-      "description": "An appeals court disqualified Alina Habba, Trump's former personal attorney, from serving as US Attorney for New Jersey.",
-      "source": "BBC News"
-    },
-    {
-      "title": "Death toll in Indonesia floods passes 600",
-      "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-02T07:10:41",
-      "description": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region.",
-      "source": "BBC News"
-    },
-    {
-      "title": "Shock in Cameroon as 74-year-old opposition firebrand dies in detention",
-      "link": "https://www.bbc.com/news/articles/ckg9204y4w5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T17:38:50",
-      "description": "Anicet Ekane's lawyer says the family was given little explanation - \"his wife was just presented the corpse\".",
-      "source": "BBC News"
-    },
-    {
-      "title": "What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out",
-      "link": "https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/",
-      "pubDate": "2025-12-02T04:03:25",
-      "description": "You can imagine how this is all going over in Silicon Valley, where the libertarian ethos runs deep.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down",
-      "link": "https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/",
-      "pubDate": "2025-12-02T01:34:46",
-      "description": "His replacement is Amar Subramanya, a highly regarded Microsoft executive who spent 16 years at Google, most recently leading engineering for the Gemini Assistant. It's a savvy hire, given that Subramanya knows the competition intimately.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "One of Google’s biggest AI advantages is what it already knows about you",
-      "link": "https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/",
-      "pubDate": "2025-12-02T00:17:52",
-      "description": "The promise is AI that's uniquely helpful because it knows you. But the risk is AI that feels more like surveillance than service.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Zillow drops climate risk scores after agents complained of lost sales",
-      "link": "https://techcrunch.com/2025/12/01/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales/",
-      "pubDate": "2025-12-01T22:44:28",
-      "description": "The move is a loss for homebuyers, who through Zillow had ready access to a property's climate risk scores from First Street.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Shopify resolves outage disrupting merchants on Cyber Monday",
-      "link": "https://techcrunch.com/2025/12/01/shopify-resolves-outage-disrupting-merchants-on-cyber-monday/",
-      "pubDate": "2025-12-01T21:31:02",
-      "description": "Shopify was down for many merchants this morning, preventing them from processing transactions. It appears to be fixed now.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Nvidia announces new open AI models and tools for autonomous driving research",
-      "link": "https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/",
-      "pubDate": "2025-12-01T21:00:22",
-      "description": "Nvidia continues its push into physical AI with the release of a new reasoning world model and other tools for physical AI.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AWS re:Invent 2025: How to watch and follow along live",
-      "link": "https://techcrunch.com/2025/12/01/aws-reinvent-2025-how-to-watch-and-follow-along-live/",
-      "pubDate": "2025-12-01T20:50:00",
-      "description": "Amazon Web Services’ big annual event, re:Invent 2025, is getting into full swing in Las Vegas this week, and you can follow the keynotes live right here.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "MKBHD’s wallpaper app Panels is shutting down",
-      "link": "https://techcrunch.com/2025/12/01/mkbhds-wallpaper-app-panels-is-shutting-down/",
-      "pubDate": "2025-12-01T20:13:15",
-      "description": "From the time Brownlee launched Panels in September 2024, the app struggled to find an audience of its own. \"We knew it was niche … and ultimately, we weren't able to turn it into the vision I had,\" Marques Brownlee said.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Construction workers are cashing in on the AI boom",
-      "link": "https://techcrunch.com/2025/12/01/construction-workers-are-cashing-in-on-the-ai-boom/",
-      "pubDate": "2025-12-01T19:13:50",
-      "description": "\"I pinch myself going to work every day,\" one 51-year-old says of his new supervisor role overseeing 200 workers at a data center site.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Data center energy demand forecasted to soar nearly 300% through 2035",
-      "link": "https://techcrunch.com/2025/12/01/data-center-energy-demand-forecasted-to-soar-nearly-300-through-2035/",
-      "pubDate": "2025-12-01T19:08:42",
-      "description": "New planned data centers promise to consume even more energy than expected. Meanwhile, a grid monitor is blaming such growth for high electricity prices.",
-      "source": "TechCrunch"
+      "groupName": "行业信息",
+      "sources": [
+        {
+          "name": "NASA APOD",
+          "url": "rsshub://nasa/apod",
+          "entries": [
+            {
+              "title": "Galaxy NGC 1300",
+              "link": "https://apod.nasa.gov/apod/example1",
+              "pubDate": "2025-12-02T05:00:00",
+              "description": "A stunning barred spiral galaxy about 69 million light-years away..."
+            },
+            {
+              "title": "Comet Leonard's Tail",
+              "link": "https://apod.nasa.gov/apod/example2",
+              "pubDate": "2025-12-01T05:00:00",
+              "description": "Remarkable image captures the intricate tail structure of Comet Leonard..."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
