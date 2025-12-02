@@ -1,74 +1,74 @@
 {
-  "lastUpdated": "2025-12-02T06:42:28.405375",
+  "lastUpdated": "2025-12-02T14:57:12.241213",
   "feeds": [
     {
       "title": "Beej's Guide to C Programming",
       "link": "https://beej.us/guide/bgc/",
       "pubDate": "2025-12-02T06:19:28",
-      "description": "Article URL: https://beej.us/guide/bgc/ Comments URL: https://news.ycombinator.com/item?id=46118195 Points: 4 # Comments: 2",
+      "description": "Article URL: https://beej.us/guide/bgc/ Comments URL: https://news.ycombinator.com/item?id=46118195 Points: 6 # Comments: 4",
       "source": "Hacker News"
     },
     {
       "title": "Frequently Asked Unicycling Questions",
       "link": "https://vale.rocks/posts/unicycle-faq",
       "pubDate": "2025-12-02T05:27:18",
-      "description": "Article URL: https://vale.rocks/posts/unicycle-faq Comments URL: https://news.ycombinator.com/item?id=46117900 Points: 10 # Comments: 3",
+      "description": "Article URL: https://vale.rocks/posts/unicycle-faq Comments URL: https://news.ycombinator.com/item?id=46117900 Points: 11 # Comments: 5",
       "source": "Hacker News"
     },
     {
       "title": "Beej's Guide to Learning Computer Science",
       "link": "https://beej.us/guide/bglcs/html/split/",
       "pubDate": "2025-12-02T03:47:11",
-      "description": "Article URL: https://beej.us/guide/bglcs/html/split/ Comments URL: https://news.ycombinator.com/item?id=46117280 Points: 128 # Comments: 22",
+      "description": "Article URL: https://beej.us/guide/bglcs/html/split/ Comments URL: https://news.ycombinator.com/item?id=46117280 Points: 140 # Comments: 22",
       "source": "Hacker News"
     },
     {
       "title": "Decreasing Certificate Lifetimes to 45 Days",
       "link": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
       "pubDate": "2025-12-02T03:24:44",
-      "description": "Article URL: https://letsencrypt.org/2025/12/02/from-90-to-45.html Comments URL: https://news.ycombinator.com/item?id=46117126 Points: 33 # Comments: 3",
+      "description": "Article URL: https://letsencrypt.org/2025/12/02/from-90-to-45.html Comments URL: https://news.ycombinator.com/item?id=46117126 Points: 43 # Comments: 5",
       "source": "Hacker News"
     },
     {
       "title": "What will enter the public domain in 2026?",
       "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
       "pubDate": "2025-12-02T03:23:10",
-      "description": "Article URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/ Comments URL: https://news.ycombinator.com/item?id=46117112 Points: 141 # Comments: 32",
+      "description": "Article URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/ Comments URL: https://news.ycombinator.com/item?id=46117112 Points: 147 # Comments: 35",
       "source": "Hacker News"
     },
     {
       "title": "Reverse math shows why hard problems are hard",
       "link": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
       "pubDate": "2025-12-02T02:35:47",
-      "description": "Article URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ Comments URL: https://news.ycombinator.com/item?id=46116724 Points: 53 # Comments: 6",
+      "description": "Article URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ Comments URL: https://news.ycombinator.com/item?id=46116724 Points: 56 # Comments: 7",
       "source": "Hacker News"
     },
     {
       "title": "Notes on Bhutan",
       "link": "https://apropos.substack.com/p/notes-on-bhutan",
       "pubDate": "2025-12-02T01:30:15",
-      "description": "Article URL: https://apropos.substack.com/p/notes-on-bhutan Comments URL: https://news.ycombinator.com/item?id=46116179 Points: 9 # Comments: 0",
+      "description": "Article URL: https://apropos.substack.com/p/notes-on-bhutan Comments URL: https://news.ycombinator.com/item?id=46116179 Points: 15 # Comments: 0",
       "source": "Hacker News"
     },
     {
       "title": "Arcee Trinity Mini: US-Trained Moe Model",
       "link": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
       "pubDate": "2025-12-02T00:31:01",
-      "description": "Article URL: https://www.arcee.ai/blog/the-trinity-manifesto?src=hn Comments URL: https://news.ycombinator.com/item?id=46115682 Points: 48 # Comments: 11",
+      "description": "Article URL: https://www.arcee.ai/blog/the-trinity-manifesto?src=hn Comments URL: https://news.ycombinator.com/item?id=46115682 Points: 49 # Comments: 12",
       "source": "Hacker News"
     },
     {
       "title": "AI agents find $4.6M in blockchain smart contract exploits",
       "link": "https://red.anthropic.com/2025/smart-contracts/",
       "pubDate": "2025-12-01T23:44:51",
-      "description": "Article URL: https://red.anthropic.com/2025/smart-contracts/ Comments URL: https://news.ycombinator.com/item?id=46115214 Points: 153 # Comments: 78",
+      "description": "Article URL: https://red.anthropic.com/2025/smart-contracts/ Comments URL: https://news.ycombinator.com/item?id=46115214 Points: 155 # Comments: 80",
       "source": "Hacker News"
     },
     {
       "title": "Last Week on My Mac: Losing confidence",
       "link": "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/",
       "pubDate": "2025-12-01T22:56:16",
-      "description": "Article URL: https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/ Comments URL: https://news.ycombinator.com/item?id=46114599 Points: 350 # Comments: 186",
+      "description": "Article URL: https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/ Comments URL: https://news.ycombinator.com/item?id=46114599 Points: 359 # Comments: 190",
       "source": "Hacker News"
     },
     {
