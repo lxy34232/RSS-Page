@@ -47,8 +47,8 @@ RSS_FEED_GROUPS = [
         "groupName": "咨询机构",
         "feeds": [
             {
-                "name": "Github 趋势",
-                "url": "https://rsshub.app/github/trending/daily/javascript"
+                "name": "KPMG Insights",
+                "url": "https://rsshub.app/kpmg/insights"
             }
         ]
     },
