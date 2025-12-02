@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T09:26:23.561660",
+  "lastUpdated": "2025-12-02T09:28:02.492202",
   "daysFilter": 7,
   "groups": [
     {
@@ -161,7 +161,50 @@
         {
           "name": "NASA APOD",
           "url": "rsshub://nasa/apod",
-          "entries": []
+          "entries": [
+            {
+              "title": "M77: Spiral Galaxy with an Active Center",
+              "link": "https://apod.nasa.gov/apod/ap251202.html",
+              "pubDate": "2025-12-02T05:00:00",
+              "description": "M77: Spiral Galaxy with an Active Center Image Credit: Hubble, NASA, ESA, L. C. Ho, D. Thilker Explanation: What's happening in the center of nearby spiral galaxy M77? The face-on galaxy lies a mere 47 million light-years away toward the constellation of the Sea Monster (Cetus). At that estimated..."
+            },
+            {
+              "title": "3I ATLAS: Tails of an Interstellar Comet",
+              "link": "https://apod.nasa.gov/apod/ap251201.html",
+              "pubDate": "2025-12-01T05:00:00",
+              "description": "3I ATLAS: Tails of an Interstellar Comet Image Credit & Copyright: Victor Sabet & Julien De Winter Explanation: How typical is our Solar System? Studying 3I/ATLAS, a comet just passing through, is providing clues. Confirmed previous interstellar visitors include an asteroid, a comet, a meteor, an..."
+            },
+            {
+              "title": "The Surface of Titan from Huygens",
+              "link": "https://apod.nasa.gov/apod/ap251130.html",
+              "pubDate": "2025-11-30T05:00:00",
+              "description": "The Surface of Titan from Huygens Image Credit: ESA, NASA, JPL, U. Arizona, Huygens Lander Explanation: If you could stand on Titan -- what would you see? The featured color view from Titan gazes across an unfamiliar and distant landscape on Saturn's largest moon. The scene was recorded by ESA's ..."
+            },
+            {
+              "title": "Moon Games",
+              "link": "https://apod.nasa.gov/apod/ap251129.html",
+              "pubDate": "2025-11-29T05:00:00",
+              "description": "Moon Games Image Credit & Copyright: Giorgia Hofer Explanation: This is not a screen from a video game. Nestled below the treeline, the small mountain church does look like it might be hiding from Moon though. In the well-composed telephoto snapshot, taken on November 23, the church walls are par..."
+            },
+            {
+              "title": "NGC 6888: The Crescent Nebula",
+              "link": "https://apod.nasa.gov/apod/ap251128.html",
+              "pubDate": "2025-11-28T05:00:00",
+              "description": "NGC 6888: The Crescent Nebula Image Credit & Copyright: Greg Bass Explanation: NGC 6888, also known as the Crescent Nebula, is a about 25 light-years across, a cosmic bubble blown by winds from its central, massive star. This deep telescopic image includes narrowband image data, to isolate light ..."
+            },
+            {
+              "title": "Portrait of NGC 1055",
+              "link": "https://apod.nasa.gov/apod/ap251127.html",
+              "pubDate": "2025-11-27T05:00:00",
+              "description": "Portrait of NGC 1055 Image Credit & Copyright: John Hayes Explanation: Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,00..."
+            },
+            {
+              "title": "Globular Cluster M15 Deep Field",
+              "link": "https://apod.nasa.gov/apod/ap251126.html",
+              "pubDate": "2025-11-26T05:00:00",
+              "description": "Globular Cluster M15 Deep Field Image Credit & Copyright: Alvaro Ibanez Perez Explanation: Stars, like bees, swarm around the center of bright globular cluster M15. The central ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center...."
+            }
+          ]
         }
       ]
     }
