@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-02T09:10:31.951751",
-  "daysFilter": 14,
+  "lastUpdated": "2025-12-02T09:14:18.401115",
+  "daysFilter": 7,
   "groups": [
     {
       "groupName": "国家政策",
@@ -68,66 +68,6 @@
               "link": "https://www.cas.cn/syky/202512/t20251201_5090762.shtml",
               "pubDate": null,
               "description": "众多临床药物和活性分子均以糖结构为核心骨架，药物研发往往需要对糖环多个位点进行差异化修饰，构建具有三维结构多样性的分子库，从而筛选出更高活性的候选药物。现有糖烯双碳官能化技术既难以实现差异化碳基官能团的同步引入，也无法对最终产物的立体构型进行精准构筑。针对这一难题，中国科学院成都生物研究所提出了双重立体控制反应机制的解决方案：通过糖烯C3位取代基的“空间导向”作用，以及自由基Smiles重排过程中的顺式稠合双环过渡态，使反应高效生成1,2-顺式、2,3-反式构型的产物。以葡萄糖烯为模型底物时，目标产物2-C-支链芳苷的产率达84%，且仅生成α-构型，解决了传统反应“立体混乱”的难题。通过..."
-            },
-            {
-              "title": "多元金属陶瓷复合材料成功研发",
-              "link": "https://www.cas.cn/syky/202511/t20251127_5090429.shtml",
-              "pubDate": null,
-              "description": "日前，我国“深地川科1井”钻探深度突破万米，相当于向下钻透了整座珠穆朗玛峰。钻头首次触及5.4亿年前的“震旦系地层”。项目的井下动力钻具的关键部件使用了高性能金属陶瓷复合材料。这一材料由中国科学院宁波材料技术与工程研究所研究团队深钻金属陶瓷复合材料智能设计平台研制而成。“深地川科1井”超级钻探工程正在向着地球深部极限发起挑战。然而，万米深度绝非易事，科学家将其比作“在黑暗中解剖地球”。地表至7000米深度尚有数据参考，但7000米以下完全进入“地质盲区”——缺乏地质图，岩石硬度和结构也未知，钻探如同“蒙眼走刀尖”。更严峻的考验来自地下7000米的极端环境：200℃高温如同滚烫油锅；130..."
-            },
-            {
-              "title": "研究揭示海底滑坡的低纬驱动新机制",
-              "link": "https://www.cas.cn/syky/202512/t20251201_5090761.shtml",
-              "pubDate": null,
-              "description": "软弱层是沉积地层中强度明显偏低的“软肋”，被认为是导致巨型海底滑坡的关键地质结构。在高纬度大陆边缘，科学家已证实海平面升降可通过冰川扩张—消融控制软弱层的发育。然而，对于没有冰川直接作用的低纬度海域，海平面波动如何影响陆坡稳定性，一直缺乏系统研究。这成为制约低纬海底地质灾害评估的瓶颈性难题。近日，中国科学院南海海洋研究所联合德国、意大利等团队，在大型海底滑坡形成机理方面取得进展。研究团队整合了南海北部逾1600km2高分辨率三维地震、多波束测深及钻测井资料，将白云滑坡群滑动面锁定在3.8Ma至3.4Ma上新世晚期海平面下降期形成的岩性界面上。该界面由高渗透浊积砂岩与低渗透泥质沉积交互组成..."
-            },
-            {
-              "title": "光纤波导生化光谱检测研究取得进展",
-              "link": "https://www.cas.cn/syky/202511/t20251127_5090297.shtml",
-              "pubDate": null,
-              "description": "果糖是葡萄糖的同分异构体，其血液浓度与二型糖尿病、脂肪肝、妊娠糖尿病等多种代谢性疾病密切相关。由于果糖在血液中痕量浓度远低于葡萄糖，且检测易受葡萄糖干扰，传统检测方法面临处理复杂、耗时长等难题。近日，中国科学院西安光学精密机械研究所光纤波导生化光谱检测研究取得进展。研究团队将光纤传感与生物分子识别“级联”耦合，构建出基于微球谐振腔的光纤生物传感器，该传感器通过光纤表面共价固定果糖的特异性适配体己酮糖激酶KHK，获得对果糖的特异性捕获能力。测试结果表明，该器件对果糖标准品的动态灵敏度达5.98nm/(μg/mL)，检测限低至12.6ng/mL，且清洗与基底信号恢复效率极高，可反复使用数十次..."
-            },
-            {
-              "title": "深海沉积物病毒多样性和辅助代谢功能研究获进展",
-              "link": "https://www.cas.cn/syky/202511/t20251125_5089761.shtml",
-              "pubDate": null,
-              "description": "在海洋环境中，病毒是仅次于原核生物的第二大生物量成分。它们的生态意义不仅限于宿主裂解，还包括水平基因转移和通过辅助代谢基因调节宿主代谢。这些辅助代谢基因可以编码关键的代谢酶，在感染期间有效地重塑细胞过程，并可能影响生物地球化学循环。近日，中国科学院海洋研究所研究团队揭示了深海不同冷泉和海山沉积物中病毒和宿主的多样性，阐明了病毒辅助宿主代谢复杂有机质的潜力，强调了病毒在深海碳循环和微生物群落结构中的重要性，为深入理解深海生态系统的能量流动和物质循环提供了新视角。研究团队采集了深海中正在衰减的冷泉、远离正在衰减冷泉的地点、新生冷泉和海山四个采集点的沉积物后，综合利用宏基因组学、DNA和RNA..."
-            },
-            {
-              "title": "研究揭示DNA甲基化通过NaNAC72调控烟草生物碱的生物合成",
-              "link": "https://www.cas.cn/syky/202511/t20251125_5089763.shtml",
-              "pubDate": null,
-              "description": "DNA甲基化是一种保守的表观修饰，它可以调控很多基因的表达。尼古丁是烟草属植物中含量最丰富的生物碱，在抵御植食性昆虫方面发挥着关键作用。此前研究表明，二倍体野生烟草中多数根特异性表达的尼古丁相关基因共享“DNA甲基化谷”特征。目前尚缺乏DNA甲基化调控尼古丁的系统研究。中国科学院昆明植物研究所探究了烟草属植物中DNA甲基转移酶的作用，发现沉默不同DNA甲基转移酶基因对尼古丁合成相关基因表达影响不同，其中NaDRM2-like2沉默后关键酶基因NaPMTs及调控基因NaERF1-like表达显著降低。通过CRISPR/Cas9构建的NaDRM2-like2突变体，表现出尼古丁合成相关基因（..."
-            },
-            {
-              "title": "西太平洋俯冲带岩浆活动与物质循环研究取得进展",
-              "link": "https://www.cas.cn/syky/202511/t20251128_5090514.shtml",
-              "pubDate": null,
-              "description": "传统上，岛弧岩浆高Ba/Th比值，被视为其地幔源区受到俯冲蚀变洋壳（AOC）流体影响的标志。近期研究指出，这一特征也可能源于沉积物熔体的加入。此外，AOC在不相容元素和放射性同位素组成方面较俯冲沉积物更为亏损，进一步增加了在俯冲沉积物主导的岛弧体系中识别其流体贡献的难度。钾（K）是强不相容元素，沉积物和AOC的K含量较地幔高出多达两个数量级。另一方面，K元素具有强流体活动性，AOC在俯冲脱水过程中会优先释放重K同位素进入流体。因此，沉积物与AOC流体截然不同的K同位素特征，为区分二者在俯冲带岩浆作用中的贡献提供了有效示踪框架。中国科学院海洋研究所研究团队分析了西太平洋三个不同俯冲带火山岩..."
-            },
-            {
-              "title": "科学家利用超导量子处理器首次在量子体系中实现并探测高阶非平衡拓扑相",
-              "link": "https://www.cas.cn/syky/202511/t20251128_5090493.shtml",
-              "pubDate": null,
-              "description": "近日，中国科学技术大学联合山西大学等，基于可编程超导量子处理器“祖冲之二号”，首次在量子体系中实现并探测了高阶非平衡拓扑相。这标志着量子模拟在探索复杂拓扑物态研究领域取得突破，为利用超导量子处理器在量子模拟问题上实现量子优势奠定了基础。拓扑相是近年来凝聚态物理与量子模拟领域的重要研究方向。与传统拓扑相不同，高阶拓扑相在更低维度的边界上出现了局域态，突破了传统的体—边对应关系。尽管经典超材料已实现高阶拓扑相实验，但在量子体系中实现高阶拓扑相是国际前沿的科学挑战。实现高阶拓扑相，为揭示拓扑物态的量子本质提供了窗口，并为基于非阿贝尔编织统计的拓扑量子计算提供了潜在的实现途径。拓扑物态研究正在从..."
-            },
-            {
-              "title": "研究揭示全长T-box核糖开关调控翻译起始的构象动态机制",
-              "link": "https://www.cas.cn/syky/202511/t20251128_5090517.shtml",
-              "pubDate": null,
-              "description": "T-box核糖开关是重要的基因调控元件，广泛分布于结核杆菌、皮疽诺卡菌等革兰氏阳性菌中。其核心功能是通过识别tRNA 3΄末端的氨酰化状态，感知细菌营养水平，进而精准调控相关基因表达，对维持细菌生长平衡具有重要作用。由于该元件在细菌中普遍存在，但在哺乳动物中尚未发现，因而针对T-box核糖开关的药物设计已成为新型抗生素研发的重要方向。目前，T-box的功能实现高度依赖其三维结构与构象动态特征，已有研究解析了多种T-box-tRNA复合物的静态三维结构，但学界对T-box如何精准鉴别不同氨酰化状态的tRNA，并启动后续转录和翻译调控的构象动态机制尚不明晰。 近日，中国科学院生物物理研究所等..."
-            },
-            {
-              "title": "研究揭秘银河系双星团",
-              "link": "https://www.cas.cn/syky/202511/t20251126_5090016.shtml",
-              "pubDate": null,
-              "description": "恒星通常以成团方式形成，同样，星团也存在成团形成机制。双星团是两个在空间位置和运动学上密切相关的疏散星团，其形成过程记录了恒星在巨分子云中形成的过程，是了解恒星如何诞生、星团如何演化的重要示踪体。近日，中国科学院新疆天文台联合上海天文台研究团队，完成了银河系双星团的大规模系统性研究。研究人员利用Gaia卫星的高精度天体测量数据，采用统一、严格的判别标准，系统性地构建了银河系内的双星团候选样本，共确认400对候选系统，其中有268对为首次发现。研究团队基于近4000个高质量星团，结合Gaia DR3提供的高精度天体测量与运动学信息，创新性地从统计学角度建立起空间和速度邻近性的量化标准，并通..."
-            },
-            {
-              "title": "科学家发现塑性铁磁半导体",
-              "link": "https://www.cas.cn/syky/202510/t20251031_5086838.shtml",
-              "pubDate": null,
-              "description": "无机半导体具有丰富可调的功能特性，是构筑电子、能源与信息器件的核心材料。然而，这类材料在室温下通常表现为脆性强，易发生断裂，进而导致灾难性失效。近年来，一些无机半导体材料被陆续发现具有类似金属的良好塑性，颠覆了其本征脆性的传统认知，为发展柔性与可变形电子器件等新兴技术提供了材料支撑。但具有塑性的无机半导体材料种类较少，且其功能特性主要局限于电学、热学和传感，限制了其应用范围。传统的铁磁金属具有良好的延展性/塑性和金属导电特性，而无机铁磁半导体兼具优异的铁磁性和半导体特性，是发展自旋电子学器件的理想材料。但目前，无机铁磁半导体普遍表现为本征脆性，制约了其可加工性，以及其在柔性器件中的应用潜..."
             }
           ]
         }
@@ -210,12 +150,6 @@
               "link": "https://www.forrester.com/blogs/insider-incidents-can-happen-to-anyone/",
               "pubDate": "2025-11-25T13:04:16",
               "description": "Managing insider risk requires steadfast focus, documenting policies, and following defined processes. Follow these four steps laid out in Forrester’s “Best Practices: Insider Risk Management” report to reduce insider risk."
-            },
-            {
-              "title": "AI Vendor Threat Research And Cybersecurity’s Cynicism Problem",
-              "link": "https://www.forrester.com/blogs/ai-vendor-threat-research-and-cybersecuritys-cynicism-problem/",
-              "pubDate": "2025-11-24T21:40:12",
-              "description": "For years, the security community decried the lack of transparency in public breach disclosure and communication. But when AI vendors break with old norms and publish how attackers exploit their platforms, that same community’s reaction is split. Some are treating this intelligence as a learning ..."
             }
           ]
         }
@@ -227,68 +161,7 @@
         {
           "name": "NASA APOD",
           "url": "rsshub://nasa/apod",
-          "entries": [
-            {
-              "title": "M77: Spiral Galaxy with an Active Center",
-              "link": "https://apod.nasa.gov/apod/ap251202.html",
-              "pubDate": "2025-12-02T05:00:00",
-              "description": "M77: Spiral Galaxy with an Active Center Image Credit: Hubble, NASA, ESA, L. C. Ho, D. Thilker Explanation: What's happening in the center of nearby spiral galaxy M77? The face-on galaxy lies a mere 47 million light-years away toward the constellation of the Sea Monster (Cetus). At that estimated..."
-            },
-            {
-              "title": "3I ATLAS: Tails of an Interstellar Comet",
-              "link": "https://apod.nasa.gov/apod/ap251201.html",
-              "pubDate": "2025-12-01T05:00:00",
-              "description": "3I ATLAS: Tails of an Interstellar Comet Image Credit & Copyright: Victor Sabet & Julien De Winter Explanation: How typical is our Solar System? Studying 3I/ATLAS, a comet just passing through, is providing clues. Confirmed previous interstellar visitors include an asteroid, a comet, a meteor, an..."
-            },
-            {
-              "title": "The Surface of Titan from Huygens",
-              "link": "https://apod.nasa.gov/apod/ap251130.html",
-              "pubDate": "2025-11-30T05:00:00",
-              "description": "The Surface of Titan from Huygens Image Credit: ESA, NASA, JPL, U. Arizona, Huygens Lander Explanation: If you could stand on Titan -- what would you see? The featured color view from Titan gazes across an unfamiliar and distant landscape on Saturn's largest moon. The scene was recorded by ESA's ..."
-            },
-            {
-              "title": "Moon Games",
-              "link": "https://apod.nasa.gov/apod/ap251129.html",
-              "pubDate": "2025-11-29T05:00:00",
-              "description": "Moon Games Image Credit & Copyright: Giorgia Hofer Explanation: This is not a screen from a video game. Nestled below the treeline, the small mountain church does look like it might be hiding from Moon though. In the well-composed telephoto snapshot, taken on November 23, the church walls are par..."
-            },
-            {
-              "title": "NGC 6888: The Crescent Nebula",
-              "link": "https://apod.nasa.gov/apod/ap251128.html",
-              "pubDate": "2025-11-28T05:00:00",
-              "description": "NGC 6888: The Crescent Nebula Image Credit & Copyright: Greg Bass Explanation: NGC 6888, also known as the Crescent Nebula, is a about 25 light-years across, a cosmic bubble blown by winds from its central, massive star. This deep telescopic image includes narrowband image data, to isolate light ..."
-            },
-            {
-              "title": "Portrait of NGC 1055",
-              "link": "https://apod.nasa.gov/apod/ap251127.html",
-              "pubDate": "2025-11-27T05:00:00",
-              "description": "Portrait of NGC 1055 Image Credit & Copyright: John Hayes Explanation: Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,00..."
-            },
-            {
-              "title": "Globular Cluster M15 Deep Field",
-              "link": "https://apod.nasa.gov/apod/ap251126.html",
-              "pubDate": "2025-11-26T05:00:00",
-              "description": "Globular Cluster M15 Deep Field Image Credit & Copyright: Alvaro Ibanez Perez Explanation: Stars, like bees, swarm around the center of bright globular cluster M15. The central ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center...."
-            },
-            {
-              "title": "Comet Lemmon and the Milky Way",
-              "link": "https://apod.nasa.gov/apod/ap251125.html",
-              "pubDate": "2025-11-25T05:00:00",
-              "description": "Comet Lemmon and the Milky Way Image Credit & Copyright: Lin Zixuan (Tsinghua U.) Explanation: What did Comet Lemmon look like when it was at its best? One example is pictured here, featuring three celestial spectacles all at different distances. The closest spectacle is the snowcapped Meili Moun..."
-            },
-            {
-              "title": "Apep: Unusual Dust Shells from Webb",
-              "link": "https://apod.nasa.gov/apod/ap251124.html",
-              "pubDate": "2025-11-24T05:00:00",
-              "description": "Apep: Unusual Dust Shells from Webb Image Credit: NASA, ESA, CSA, STScI, JWST; Science: Y. Han (Caltech), R. White (Macquarie U.); Image Processing: A. Pagan (STScI) Explanation: What created this unusual space sculpture? Stars. This unusual system of swirls and shells, known as Apep, was observe..."
-            },
-            {
-              "title": "The Observable Universe",
-              "link": "https://apod.nasa.gov/apod/ap251123.html",
-              "pubDate": "2025-11-23T05:00:00",
-              "description": "The Observable Universe Illustration Credit & Licence: Wikipedia, Pablo Carlos Budassi Explanation: How far can you see? Everything you can see, and everything you could possibly see, right now, assuming your eyes could detect all types of radiations around you -- is the observable universe. In l..."
-            }
-          ]
+          "entries": []
         }
       ]
     }
