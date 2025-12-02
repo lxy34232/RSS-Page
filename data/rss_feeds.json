@@ -1,80 +1,80 @@
 {
-  "lastUpdated": "2025-12-02T07:35:21.424986",
+  "lastUpdated": "2025-12-02T07:51:08.929309",
   "feeds": [
+    {
+      "title": "Rootless Pings in Rust",
+      "link": "https://bou.ke/blog/rust-ping/",
+      "pubDate": "2025-12-02T07:01:03",
+      "description": "Article URL: https://bou.ke/blog/rust-ping/ Comments URL: https://news.ycombinator.com/item?id=46118432 Points: 7 # Comments: 0",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Replicate is joining Cloudflare",
+      "link": "https://blog.cloudflare.com/why-replicate-joining-cloudflare/",
+      "pubDate": "2025-12-02T05:40:39",
+      "description": "Article URL: https://blog.cloudflare.com/why-replicate-joining-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=46117993 Points: 8 # Comments: 2",
+      "source": "Hacker News"
+    },
     {
       "title": "Frequently Asked Unicycling Questions",
       "link": "https://vale.rocks/posts/unicycle-faq",
       "pubDate": "2025-12-02T05:27:18",
-      "description": "Article URL: https://vale.rocks/posts/unicycle-faq Comments URL: https://news.ycombinator.com/item?id=46117900 Points: 18 # Comments: 5",
+      "description": "Article URL: https://vale.rocks/posts/unicycle-faq Comments URL: https://news.ycombinator.com/item?id=46117900 Points: 24 # Comments: 7",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple Releases Open Weights Video Model",
+      "link": "https://starflow-v.github.io",
+      "pubDate": "2025-12-02T05:10:01",
+      "description": "Article URL: https://starflow-v.github.io Comments URL: https://news.ycombinator.com/item?id=46117802 Points: 26 # Comments: 1",
       "source": "Hacker News"
     },
     {
       "title": "Decreasing Certificate Lifetimes to 45 Days",
       "link": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
       "pubDate": "2025-12-02T03:24:44",
-      "description": "Article URL: https://letsencrypt.org/2025/12/02/from-90-to-45.html Comments URL: https://news.ycombinator.com/item?id=46117126 Points: 65 # Comments: 25",
+      "description": "Article URL: https://letsencrypt.org/2025/12/02/from-90-to-45.html Comments URL: https://news.ycombinator.com/item?id=46117126 Points: 78 # Comments: 49",
       "source": "Hacker News"
     },
     {
       "title": "What will enter the public domain in 2026?",
       "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
       "pubDate": "2025-12-02T03:23:10",
-      "description": "Article URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/ Comments URL: https://news.ycombinator.com/item?id=46117112 Points: 169 # Comments: 46",
+      "description": "Article URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/ Comments URL: https://news.ycombinator.com/item?id=46117112 Points: 182 # Comments: 50",
       "source": "Hacker News"
     },
     {
       "title": "Reverse math shows why hard problems are hard",
       "link": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
       "pubDate": "2025-12-02T02:35:47",
-      "description": "Article URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ Comments URL: https://news.ycombinator.com/item?id=46116724 Points: 66 # Comments: 9",
+      "description": "Article URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ Comments URL: https://news.ycombinator.com/item?id=46116724 Points: 72 # Comments: 11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "After Windows Update, Password icon invisible, click where it used to be",
+      "link": "https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93",
+      "pubDate": "2025-12-02T02:12:14",
+      "description": "Article URL: https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93 Comments URL: https://news.ycombinator.com/item?id=46116567 Points: 13 # Comments: 0",
       "source": "Hacker News"
     },
     {
       "title": "Notes on Bhutan",
       "link": "https://apropos.substack.com/p/notes-on-bhutan",
       "pubDate": "2025-12-02T01:30:15",
-      "description": "Article URL: https://apropos.substack.com/p/notes-on-bhutan Comments URL: https://news.ycombinator.com/item?id=46116179 Points: 22 # Comments: 2",
+      "description": "Article URL: https://apropos.substack.com/p/notes-on-bhutan Comments URL: https://news.ycombinator.com/item?id=46116179 Points: 28 # Comments: 6",
       "source": "Hacker News"
     },
     {
       "title": "Arcee Trinity Mini: US-Trained Moe Model",
       "link": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
       "pubDate": "2025-12-02T00:31:01",
-      "description": "Article URL: https://www.arcee.ai/blog/the-trinity-manifesto?src=hn Comments URL: https://news.ycombinator.com/item?id=46115682 Points: 51 # Comments: 12",
-      "source": "Hacker News"
-    },
-    {
-      "title": "AI agents find $4.6M in blockchain smart contract exploits",
-      "link": "https://red.anthropic.com/2025/smart-contracts/",
-      "pubDate": "2025-12-01T23:44:51",
-      "description": "Article URL: https://red.anthropic.com/2025/smart-contracts/ Comments URL: https://news.ycombinator.com/item?id=46115214 Points: 161 # Comments: 81",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Last Week on My Mac: Losing confidence",
-      "link": "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/",
-      "pubDate": "2025-12-01T22:56:16",
-      "description": "Article URL: https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/ Comments URL: https://news.ycombinator.com/item?id=46114599 Points: 370 # Comments: 199",
-      "source": "Hacker News"
-    },
-    {
-      "title": "John Giannandrea to retire from Apple",
-      "link": "https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/",
-      "pubDate": "2025-12-01T22:20:33",
-      "description": "Additional reporting: https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring... Comments URL: https://news.ycombinator.com/item?id=46114122 Points: 88 # Comments: 298",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Instagram chief orders staff back to the office five days a week in 2026",
-      "link": "https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12",
-      "pubDate": "2025-12-01T20:55:56",
-      "description": "Article URL: https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12 Comments URL: https://news.ycombinator.com/item?id=46113092 Points: 212 # Comments: 239",
+      "description": "Article URL: https://www.arcee.ai/blog/the-trinity-manifesto?src=hn Comments URL: https://news.ycombinator.com/item?id=46115682 Points: 53 # Comments: 12",
       "source": "Hacker News"
     },
     {
       "title": "Putin and Trump's envoy set for key Ukraine talks in Moscow",
       "link": "https://www.bbc.com/news/articles/ce8ng3yjenpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-02T05:19:31",
+      "pubDate": "2025-12-02T07:38:56",
       "description": "Steve Witkoff will hold talks at the Kremlin, after the White House said it was \"optimistic\" about a breakthrough.",
       "source": "BBC News"
     },
