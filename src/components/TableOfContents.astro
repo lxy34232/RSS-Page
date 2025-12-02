@@ -1,0 +1,183 @@
+---
+export interface FeedEntry {
+  title: string;
+  link: string;
+  pubDate?: string;
+  description?: string;
+}
+
+export interface Source {
+  name: string;
+  url: string;
+  entries: FeedEntry[];
+}
+
+export interface Group {
+  groupName: string;
+  sources: Source[];
+}
+
+export interface Props {
+  groups: Group[];
+}
+
+const { groups } = Astro.props;
+
+// Helper function to create URL-friendly IDs
+function createId(text: string): string {
+  return encodeURIComponent(text.replace(/\s+/g, '-'));
+}
+---
+
+<nav class="table-of-contents">
+  <h2 class="toc-title">📋 内容导航</h2>
+  <ul class="toc-list">
+    {groups.map((group) => (
+      <li class="toc-group">
+        <a href={`#group-${createId(group.groupName)}`} class="toc-group-link">
+          {group.groupName}
+        </a>
+        <ul class="toc-sources">
+          {group.sources.map((source) => (
+            <li class="toc-source">
+              <a href={`#source-${createId(source.name)}`} class="toc-source-link">
+                {source.name}
+                <span class="toc-count">{source.entries.length}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<style>
+  .table-of-contents {
+    background: var(--card-background);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    position: sticky;
+    top: 1rem;
+    max-height: calc(100vh - 2rem);
+    overflow-y: auto;
+  }
+
+  .toc-title {
+    font-size: 1.25rem;
+    color: var(--text-color);
+    margin: 0 0 1rem 0;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--primary-color);
+  }
+
+  .toc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .toc-group {
+    margin-bottom: 0.75rem;
+  }
+
+  .toc-group-link {
+    display: block;
+    font-weight: 600;
+    color: var(--text-color);
+    padding: 0.5rem 0.75rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  .toc-group-link:hover {
+    background: var(--background-color);
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+
+  .toc-sources {
+    list-style: none;
+    padding: 0;
+    margin: 0.25rem 0 0 1rem;
+    border-left: 2px solid var(--border-color);
+  }
+
+  .toc-source {
+    margin: 0;
+  }
+
+  .toc-source-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    padding: 0.35rem 0.75rem;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  .toc-source-link:hover {
+    background: var(--background-color);
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+
+  .toc-count {
+    font-size: 0.75rem;
+    background: var(--background-color);
+    color: var(--text-muted);
+    padding: 0.125rem 0.5rem;
+    border-radius: 10px;
+    margin-left: 0.5rem;
+  }
+
+  .toc-source-link:hover .toc-count {
+    background: var(--primary-color);
+    color: white;
+  }
+
+  /* Custom scrollbar for the TOC */
+  .table-of-contents::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  .table-of-contents::-webkit-scrollbar-track {
+    background: var(--background-color);
+    border-radius: 4px;
+  }
+
+  .table-of-contents::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 4px;
+  }
+
+  .table-of-contents::-webkit-scrollbar-thumb:hover {
+    background: var(--text-muted);
+  }
+</style>
+
+<script>
+  // Smooth scroll behavior for anchor links
+  document.querySelectorAll('.table-of-contents a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+      e.preventDefault();
+      const href = this.getAttribute('href');
+      if (href) {
+        // Decode the href to match the actual element ID
+        const decodedHref = decodeURIComponent(href);
+        const target = document.getElementById(decodedHref.substring(1));
+        if (target) {
+          target.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        }
+      }
+    });
+  });
+</script>

@@ -20,9 +20,14 @@ export interface Props {
 }
 
 const { groupName, sources } = Astro.props;
+
+// Helper function to create URL-friendly IDs
+function createId(text: string): string {
+  return encodeURIComponent(text.replace(/\s+/g, '-'));
+}
 ---
 
-<section class="group-section">
+<section class="group-section" id={`group-${createId(groupName)}`}>
   <h2 class="group-title">{groupName}</h2>
   <div class="sources-container">
     {sources.map((source) => (
