@@ -20,9 +20,14 @@ const baseUrl = import.meta.env.BASE_URL;
 
 // Create URL-friendly slug for the feed detail page
 const feedUrl = `${baseUrl}feed/${encodeURIComponent(name)}`;
+
+// Helper function to create URL-friendly IDs
+function createId(text: string): string {
+  return encodeURIComponent(text.replace(/\s+/g, '-'));
+}
 ---
 
-<div class="source-section">
+<div class="source-section" id={`source-${createId(name)}`}>
   <div class="source-header">
     <a href={feedUrl} class="source-title-link">
       <h3 class="source-title">{name}</h3>

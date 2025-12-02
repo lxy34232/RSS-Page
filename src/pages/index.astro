@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import GroupSection from '../components/GroupSection.astro';
+import TableOfContents from '../components/TableOfContents.astro';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -53,7 +54,11 @@ const totalEntries = feedData.groups.reduce((total, group) =>
   </div>
   
   <div class="main-layout">
-    <div class="left-column">
+    <div class="left-sidebar">
+      <TableOfContents groups={feedData.groups} />
+    </div>
+    
+    <div class="center-column">
       <div class="feeds-container">
         {feedData.groups.length > 0 ? (
           feedData.groups.map((group) => (
@@ -118,17 +123,32 @@ const totalEntries = feedData.groups.reduce((total, group) =>
 
   .main-layout {
     display: grid;
-    grid-template-columns: 1fr 320px;
+    grid-template-columns: 240px 1fr 280px;
     gap: 2rem;
+  }
+
+  @media (max-width: 1200px) {
+    .main-layout {
+      grid-template-columns: 200px 1fr 240px;
+      gap: 1.5rem;
+    }
   }
 
   @media (max-width: 900px) {
     .main-layout {
       grid-template-columns: 1fr;
     }
+    
+    .left-sidebar {
+      display: none;
+    }
   }
 
-  .left-column {
+  .left-sidebar {
+    min-width: 0;
+  }
+
+  .center-column {
     min-width: 0;
   }
 
