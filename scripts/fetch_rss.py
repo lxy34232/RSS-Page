@@ -47,8 +47,8 @@ RSS_FEED_GROUPS = [
         "groupName": "咨询机构",
         "feeds": [
             {
-                "name": "微博热搜",
-                "url": "rsshub://weibo/search/hot"
+                "name": "Github 趋势",
+                "url": "https://rsshub.app/github/trending/daily/javascript"
             }
         ]
     },
