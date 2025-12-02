@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T08:17:28.682124",
+  "lastUpdated": "2025-12-02T08:34:18.599469",
   "daysFilter": 14,
   "groups": [
     {
@@ -10,16 +10,124 @@
           "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml",
           "entries": [
             {
-              "title": "科学家发现新型量子材料",
-              "link": "https://www.cas.cn/example1",
-              "pubDate": "2025-12-01T10:00:00",
-              "description": "中国科学院物理研究所团队在量子材料领域取得重大突破..."
+              "title": "研究阐明隐球菌不同有性生殖模式的选择机制",
+              "link": "https://www.cas.cn/syky/202512/t20251202_5090984.shtml",
+              "pubDate": null,
+              "description": "隐球菌科真菌是引起真菌脑膜炎的主要病原体类群。该病原体类群的有性生殖模式，包括双性生殖（bisex）和α同性生殖（α unisex），在增强感染能力、促进毒力进化、催生耐药变异等方面发挥关键作用。其中，α同性生殖是隐球菌病原体特有生殖策略，其通过促进遗传物质和核型多样化，推动了高毒菌株形成。然而，学界对隐球菌在有性生殖过程中如何在双性生殖和α同性生殖间的选择机制尚不明晰。近日，中国科学院微生物研究所研究团队等，揭示了真菌脑膜炎主要病原体类群在不同有性生殖模式间进行选择的分子机制。研究团队通过大规模T-DNA插入突变筛选，发现了一系列同性生殖能力增强，且双性生殖能力明显减弱的突变体，这暗示..."
             },
             {
-              "title": "人工智能助力科研创新",
-              "link": "https://www.cas.cn/example2",
-              "pubDate": "2025-11-30T14:30:00",
-              "description": "最新研究表明人工智能技术正在加速科学发现的进程..."
+              "title": "邻苯二甲酸氢钾钝化埋底界面实现高效稳定钙钛矿太阳能电池",
+              "link": "https://www.cas.cn/syky/202512/t20251202_5090982.shtml",
+              "pubDate": null,
+              "description": "氧化锡（SnO2）是钙钛矿太阳能电池中具有潜力的电子传输层材料，但其溶液法制备的薄膜通常存在易导致非辐射复合的固有缺陷，限制器件性能并阻碍商业化应用。引入添加剂是降低电子传输层材料缺陷、提升载流子传输性能的有效策略。因此，深入理解其在埋底界面处的具体作用机制，对材料理性设计具有关键作用。近日，中国科学院上海高等研究院研究团队等，将邻苯二甲酸氢钾（KHP）作为多功能添加剂引入SnO2电子传输层，以同步改变电子传输层材料性质和SnO2/钙钛矿埋底界面。研究发现，KHP中的羧基与氧化锡配位，有效抑制了缺陷态形成，优化了能级排列，并提高了电导率和载流子传输能力。同时，KHP在电子传输层中均匀分布..."
+            },
+            {
+              "title": "研究发现新“暗物质蛋白”作为胚胎发育命运的细胞质“开关”",
+              "link": "https://www.cas.cn/syky/202512/t20251202_5090981.shtml",
+              "pubDate": null,
+              "description": "翻译与代谢的相互调控是细胞可塑性的基础。胚胎早期发育可分为着床前和着床后两个阶段，对应体外培养时两种稳定且可互相转变的多能性干细胞状态：原始态（Naïve）与始发态（Primed）。早期发育与多能干细胞命运在表观遗传、转录、代谢等层次已有研究，而在翻译阶段，此前主要聚焦于已知蛋白的翻译，基因组中是否存在未被挖掘的“暗物质蛋白”调控代谢与早期发育尚不明确。基因组中大量“非编码区”曾被视作 “暗物质”。近日，中国科学院广州生物医药与健康研究院科研团队，揭示了PLUM新蛋白掌控着干细胞命运的“开关”， 是迄今为止少数能实现“决定性诱导”的细胞因子之一。团队利用核糖体测序技术发现，在Primed..."
+            },
+            {
+              "title": "研究揭示厄尔尼诺—南方涛动影响白令海海冰新路径",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090770.shtml",
+              "pubDate": null,
+              "description": "白令海冬季海冰作为区域气候系统的重要调节器，其年际变化主要受厄尔尼诺—南方涛动（ENSO）调控。传统观点认为，ENSO通过影响阿留申低压的强度与位置，改变白令海区域的风场和热通量，最终影响海冰范围，且这一关系被认为相对稳定。近日，中国科学院南海海洋研究所科研团队，通过综合分析观测资料和数值模拟试验，发现该“遥控”机制在20世纪90年代中期发生明显转折，其中北太平洋经向模态（NPMM）的关键桥梁作用明显增强。研究显示，在20世纪90年代中期之前，东太平洋型ENSO主导了与白令海海冰之间的正相关关系。随着中太平洋型ENSO事件频率增加，两者关系逆转为负相关，这一转变的核心机制在于，中太平洋型..."
+            },
+            {
+              "title": "研究实现纠缠增强纳米尺度单自旋量子传感",
+              "link": "https://www.cas.cn/syky/202511/t20251128_5090494.shtml",
+              "pubDate": null,
+              "description": "微观世界中，电子具有“自旋”的基本属性，这些“自旋”如同一个个微小磁针。材料的较多宏观特性，如磁铁的磁性或超导体的零电阻，皆源于这些微观磁针的排列方式与相互作用。日前，中国科学技术大学与浙江大学合作，在纳米尺度量子精密测量领域取得进展，首次实现了噪声环境下纠缠增强的纳米尺度单自旋探测。探测单个自旋，测量物质世界最基础的磁性单元，能够为剖析物性提供新视角，并为发展单分子磁探测技术和推进量子科技奠定基础。但是，物质存在大量自旋，对单个自旋的探测犹如在喧闹的体育场中试图清晰捕捉某个人的低语，这对探测技术提出了严峻挑战。金刚石氮—空位色心量子传感器，凭借纳米级分辨能力和高灵敏磁探测能力，被视为实..."
+            },
+            {
+              "title": "研究揭示视觉意识如何调节注意“聚光灯”的节律采样",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090767.shtml",
+              "pubDate": null,
+              "description": "为避免陷入“信息过载”困境，大脑演化出了一套高效的信息选择系统——注意。这一过程常被比喻为舞台上的“聚光灯”，即被注意到的信息，就像被光束照亮的演员，清晰突显；而舞台的其他部分则隐入暗处。借助这盏“聚光灯”，大脑能够筛选出重要的信息并及时作出反应。已有研究发现，当注意被分配到多个位置时，人类和猕猴的行为表现会出现每秒4次至8次的周期性波动。这表明，注意更像是一盏按特定节奏在采样的动态“聚光灯”，这一机制被称为注意的节律采样。目前，学界对意识是否会影响注意“聚光灯”的“闪烁”方式， 环境中信息的节律采样是否依赖对信息的意识或可在无意识条件下独立运行等问题尚不明晰。近日，中国科学院心理研究所..."
+            },
+            {
+              "title": "量子超临界磁卡效应研究获进展",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090769.shtml",
+              "pubDate": null,
+              "description": "在多体物理研究中，量子涨落驱动的连续相变及其量子临界点（QCP）是备受关注的主题。尽管QCP是零温下的奇异点，但其影响却可支配系统在有限温度范围内的行为。近期，中国科学院理论物理所研究团队利用自主发展的热态张量网络方法研究量子Ising模型发现，当横场与纵场共同作用时，QCP上方会展开一个“量子超临界区”，并伴随强烈发散的超临界磁卡效应。该研究提供了量子相变普适增强制冷机制，为发展无氦-3极低温固态制冷开辟了多场调控新路径。量子临界点作为零温下的奇异点，其影响可延伸至有限温区域，形成由温度与横场定义的量子临界区，并主导该区域内系统的行为。在此基础之上，研究引入横场与纵场进行共同调控发现，..."
+            },
+            {
+              "title": "科研人员构建出实现肿瘤成像与靶标蛋白降解的生物正交诊疗一体化平台",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090765.shtml",
+              "pubDate": null,
+              "description": "近日，中国科学院上海药物研究所研究团队，基于生物正交技术构建了新型多功能诊疗一体化平台，可在实现肿瘤细胞成像的同时，通过级联激活机制驱动靶标蛋白降解。该平台为可控化肿瘤诊疗策略提供了新的技术路径，对精准肿瘤诊疗具有积极意义。靶向蛋白降解技术是当前药物研发中的前沿策略，可通过分子胶降解剂和蛋白水解靶向嵌合体（PROTAC），实现对“不可成药”靶点的精准调控。然而，作为常用的E3连接酶，CRBN的广泛表达通常会引发健康组织中的非特异性蛋白降解，这也是其临床应用的主要限制因素。为突破这一瓶颈，研究团队提出了适用于CRBN招募型降解剂的通用前药化设计思路，构建了可控释放、具备多重功能的生物正交前..."
+            },
+            {
+              "title": "新型“双亲和”材料实现血液中脂多糖有效清除",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090763.shtml",
+              "pubDate": null,
+              "description": "脓毒症是由感染引起的全身炎症反应疾病，脂多糖（又称内毒素）作为脓毒症的核心致病因子，在疾病早期及时清除，对于阻断病情恶化、挽救患者生命有重要作用。然而，脂多糖结构多样、血液中含量极低且血液成分复杂，实现其高效、高特异性清除一直是临床面临的挑战。近日，中国科学院大连化学物理研究所与大连医科大学附属第一医院合作，在脓毒症治疗领域取得进展。团队合作研发出基于多肽与分子印迹的“双亲和”材料，可高效捕获并清除血液中致命脂多糖。团队利用脂多糖的保守结构核心——Kdo2-Lipid A作为靶标，通过噬菌体展示技术，筛选出新型高亲和肽，该肽对多种细菌来源的脂多糖均表现出较强的结合能力。进一步，团队利用脂..."
+            },
+            {
+              "title": "研究开发出一种糖环双位点选择性C-烷芳基化反应",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090762.shtml",
+              "pubDate": null,
+              "description": "众多临床药物和活性分子均以糖结构为核心骨架，药物研发往往需要对糖环多个位点进行差异化修饰，构建具有三维结构多样性的分子库，从而筛选出更高活性的候选药物。现有糖烯双碳官能化技术既难以实现差异化碳基官能团的同步引入，也无法对最终产物的立体构型进行精准构筑。针对这一难题，中国科学院成都生物研究所提出了双重立体控制反应机制的解决方案：通过糖烯C3位取代基的“空间导向”作用，以及自由基Smiles重排过程中的顺式稠合双环过渡态，使反应高效生成1,2-顺式、2,3-反式构型的产物。以葡萄糖烯为模型底物时，目标产物2-C-支链芳苷的产率达84%，且仅生成α-构型，解决了传统反应“立体混乱”的难题。通过..."
+            },
+            {
+              "title": "多元金属陶瓷复合材料成功研发",
+              "link": "https://www.cas.cn/syky/202511/t20251127_5090429.shtml",
+              "pubDate": null,
+              "description": "日前，我国“深地川科1井”钻探深度突破万米，相当于向下钻透了整座珠穆朗玛峰。钻头首次触及5.4亿年前的“震旦系地层”。项目的井下动力钻具的关键部件使用了高性能金属陶瓷复合材料。这一材料由中国科学院宁波材料技术与工程研究所研究团队深钻金属陶瓷复合材料智能设计平台研制而成。“深地川科1井”超级钻探工程正在向着地球深部极限发起挑战。然而，万米深度绝非易事，科学家将其比作“在黑暗中解剖地球”。地表至7000米深度尚有数据参考，但7000米以下完全进入“地质盲区”——缺乏地质图，岩石硬度和结构也未知，钻探如同“蒙眼走刀尖”。更严峻的考验来自地下7000米的极端环境：200℃高温如同滚烫油锅；130..."
+            },
+            {
+              "title": "研究揭示海底滑坡的低纬驱动新机制",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090761.shtml",
+              "pubDate": null,
+              "description": "软弱层是沉积地层中强度明显偏低的“软肋”，被认为是导致巨型海底滑坡的关键地质结构。在高纬度大陆边缘，科学家已证实海平面升降可通过冰川扩张—消融控制软弱层的发育。然而，对于没有冰川直接作用的低纬度海域，海平面波动如何影响陆坡稳定性，一直缺乏系统研究。这成为制约低纬海底地质灾害评估的瓶颈性难题。近日，中国科学院南海海洋研究所联合德国、意大利等团队，在大型海底滑坡形成机理方面取得进展。研究团队整合了南海北部逾1600km2高分辨率三维地震、多波束测深及钻测井资料，将白云滑坡群滑动面锁定在3.8Ma至3.4Ma上新世晚期海平面下降期形成的岩性界面上。该界面由高渗透浊积砂岩与低渗透泥质沉积交互组成..."
+            },
+            {
+              "title": "光纤波导生化光谱检测研究取得进展",
+              "link": "https://www.cas.cn/syky/202511/t20251127_5090297.shtml",
+              "pubDate": null,
+              "description": "果糖是葡萄糖的同分异构体，其血液浓度与二型糖尿病、脂肪肝、妊娠糖尿病等多种代谢性疾病密切相关。由于果糖在血液中痕量浓度远低于葡萄糖，且检测易受葡萄糖干扰，传统检测方法面临处理复杂、耗时长等难题。近日，中国科学院西安光学精密机械研究所光纤波导生化光谱检测研究取得进展。研究团队将光纤传感与生物分子识别“级联”耦合，构建出基于微球谐振腔的光纤生物传感器，该传感器通过光纤表面共价固定果糖的特异性适配体己酮糖激酶KHK，获得对果糖的特异性捕获能力。测试结果表明，该器件对果糖标准品的动态灵敏度达5.98nm/(μg/mL)，检测限低至12.6ng/mL，且清洗与基底信号恢复效率极高，可反复使用数十次..."
+            },
+            {
+              "title": "深海沉积物病毒多样性和辅助代谢功能研究获进展",
+              "link": "https://www.cas.cn/syky/202511/t20251125_5089761.shtml",
+              "pubDate": null,
+              "description": "在海洋环境中，病毒是仅次于原核生物的第二大生物量成分。它们的生态意义不仅限于宿主裂解，还包括水平基因转移和通过辅助代谢基因调节宿主代谢。这些辅助代谢基因可以编码关键的代谢酶，在感染期间有效地重塑细胞过程，并可能影响生物地球化学循环。近日，中国科学院海洋研究所研究团队揭示了深海不同冷泉和海山沉积物中病毒和宿主的多样性，阐明了病毒辅助宿主代谢复杂有机质的潜力，强调了病毒在深海碳循环和微生物群落结构中的重要性，为深入理解深海生态系统的能量流动和物质循环提供了新视角。研究团队采集了深海中正在衰减的冷泉、远离正在衰减冷泉的地点、新生冷泉和海山四个采集点的沉积物后，综合利用宏基因组学、DNA和RNA..."
+            },
+            {
+              "title": "研究揭示DNA甲基化通过NaNAC72调控烟草生物碱的生物合成",
+              "link": "https://www.cas.cn/syky/202511/t20251125_5089763.shtml",
+              "pubDate": null,
+              "description": "DNA甲基化是一种保守的表观修饰，它可以调控很多基因的表达。尼古丁是烟草属植物中含量最丰富的生物碱，在抵御植食性昆虫方面发挥着关键作用。此前研究表明，二倍体野生烟草中多数根特异性表达的尼古丁相关基因共享“DNA甲基化谷”特征。目前尚缺乏DNA甲基化调控尼古丁的系统研究。中国科学院昆明植物研究所探究了烟草属植物中DNA甲基转移酶的作用，发现沉默不同DNA甲基转移酶基因对尼古丁合成相关基因表达影响不同，其中NaDRM2-like2沉默后关键酶基因NaPMTs及调控基因NaERF1-like表达显著降低。通过CRISPR/Cas9构建的NaDRM2-like2突变体，表现出尼古丁合成相关基因（..."
+            },
+            {
+              "title": "西太平洋俯冲带岩浆活动与物质循环研究取得进展",
+              "link": "https://www.cas.cn/syky/202511/t20251128_5090514.shtml",
+              "pubDate": null,
+              "description": "传统上，岛弧岩浆高Ba/Th比值，被视为其地幔源区受到俯冲蚀变洋壳（AOC）流体影响的标志。近期研究指出，这一特征也可能源于沉积物熔体的加入。此外，AOC在不相容元素和放射性同位素组成方面较俯冲沉积物更为亏损，进一步增加了在俯冲沉积物主导的岛弧体系中识别其流体贡献的难度。钾（K）是强不相容元素，沉积物和AOC的K含量较地幔高出多达两个数量级。另一方面，K元素具有强流体活动性，AOC在俯冲脱水过程中会优先释放重K同位素进入流体。因此，沉积物与AOC流体截然不同的K同位素特征，为区分二者在俯冲带岩浆作用中的贡献提供了有效示踪框架。中国科学院海洋研究所研究团队分析了西太平洋三个不同俯冲带火山岩..."
+            },
+            {
+              "title": "科学家利用超导量子处理器首次在量子体系中实现并探测高阶非平衡拓扑相",
+              "link": "https://www.cas.cn/syky/202511/t20251128_5090493.shtml",
+              "pubDate": null,
+              "description": "近日，中国科学技术大学联合山西大学等，基于可编程超导量子处理器“祖冲之二号”，首次在量子体系中实现并探测了高阶非平衡拓扑相。这标志着量子模拟在探索复杂拓扑物态研究领域取得突破，为利用超导量子处理器在量子模拟问题上实现量子优势奠定了基础。拓扑相是近年来凝聚态物理与量子模拟领域的重要研究方向。与传统拓扑相不同，高阶拓扑相在更低维度的边界上出现了局域态，突破了传统的体—边对应关系。尽管经典超材料已实现高阶拓扑相实验，但在量子体系中实现高阶拓扑相是国际前沿的科学挑战。实现高阶拓扑相，为揭示拓扑物态的量子本质提供了窗口，并为基于非阿贝尔编织统计的拓扑量子计算提供了潜在的实现途径。拓扑物态研究正在从..."
+            },
+            {
+              "title": "研究揭示全长T-box核糖开关调控翻译起始的构象动态机制",
+              "link": "https://www.cas.cn/syky/202511/t20251128_5090517.shtml",
+              "pubDate": null,
+              "description": "T-box核糖开关是重要的基因调控元件，广泛分布于结核杆菌、皮疽诺卡菌等革兰氏阳性菌中。其核心功能是通过识别tRNA 3΄末端的氨酰化状态，感知细菌营养水平，进而精准调控相关基因表达，对维持细菌生长平衡具有重要作用。由于该元件在细菌中普遍存在，但在哺乳动物中尚未发现，因而针对T-box核糖开关的药物设计已成为新型抗生素研发的重要方向。目前，T-box的功能实现高度依赖其三维结构与构象动态特征，已有研究解析了多种T-box-tRNA复合物的静态三维结构，但学界对T-box如何精准鉴别不同氨酰化状态的tRNA，并启动后续转录和翻译调控的构象动态机制尚不明晰。 近日，中国科学院生物物理研究所等..."
+            },
+            {
+              "title": "研究揭秘银河系双星团",
+              "link": "https://www.cas.cn/syky/202511/t20251126_5090016.shtml",
+              "pubDate": null,
+              "description": "恒星通常以成团方式形成，同样，星团也存在成团形成机制。双星团是两个在空间位置和运动学上密切相关的疏散星团，其形成过程记录了恒星在巨分子云中形成的过程，是了解恒星如何诞生、星团如何演化的重要示踪体。近日，中国科学院新疆天文台联合上海天文台研究团队，完成了银河系双星团的大规模系统性研究。研究人员利用Gaia卫星的高精度天体测量数据，采用统一、严格的判别标准，系统性地构建了银河系内的双星团候选样本，共确认400对候选系统，其中有268对为首次发现。研究团队基于近4000个高质量星团，结合Gaia DR3提供的高精度天体测量与运动学信息，创新性地从统计学角度建立起空间和速度邻近性的量化标准，并通..."
+            },
+            {
+              "title": "科学家发现塑性铁磁半导体",
+              "link": "https://www.cas.cn/syky/202510/t20251031_5086838.shtml",
+              "pubDate": null,
+              "description": "无机半导体具有丰富可调的功能特性，是构筑电子、能源与信息器件的核心材料。然而，这类材料在室温下通常表现为脆性强，易发生断裂，进而导致灾难性失效。近年来，一些无机半导体材料被陆续发现具有类似金属的良好塑性，颠覆了其本征脆性的传统认知，为发展柔性与可变形电子器件等新兴技术提供了材料支撑。但具有塑性的无机半导体材料种类较少，且其功能特性主要局限于电学、热学和传感，限制了其应用范围。传统的铁磁金属具有良好的延展性/塑性和金属导电特性，而无机铁磁半导体兼具优异的铁磁性和半导体特性，是发展自旋电子学器件的理想材料。但目前，无机铁磁半导体普遍表现为本征脆性，制约了其可加工性，以及其在柔性器件中的应用潜..."
             }
           ]
         }
@@ -31,14 +139,7 @@
         {
           "name": "KPMG Insights",
           "url": "rsshub://kpmg/insights",
-          "entries": [
-            {
-              "title": "2024年全球经济展望",
-              "link": "https://kpmg.com/insights/example1",
-              "pubDate": "2025-12-01T08:00:00",
-              "description": "毕马威发布最新全球经济分析报告，深入探讨市场趋势..."
-            }
-          ]
+          "entries": []
         }
       ]
     },
@@ -50,10 +151,64 @@
           "url": "https://www.forrester.com/blogs/feed/",
           "entries": [
             {
-              "title": "The Future of Customer Experience",
-              "link": "https://www.forrester.com/blogs/example1",
-              "pubDate": "2025-11-29T16:00:00",
-              "description": "Exploring the latest trends in customer experience technology..."
+              "title": "Make Internal Communications A Strategic Lever For Employee (And Brand) Experience",
+              "link": "https://www.forrester.com/blogs/make-internal-communications-a-strategic-lever-for-employee-and-brand-experience/",
+              "pubDate": "2025-12-01T22:48:30",
+              "description": "Internal communications is more than pushing information to employees. It is a strategic function that includes messaging and channels for communications, engagement, and feedback as a critical driver of employee experience."
+            },
+            {
+              "title": "Forrester Analyst Takes For Digital Content In 2026",
+              "link": "https://www.forrester.com/blogs/forrester-analyst-takes-for-digital-content-in-2026/",
+              "pubDate": "2025-12-01T21:23:31",
+              "description": "A Year Of Practicality Will Increase Adoption And Reduce AI Content Waste It has been three years since generative AI began creating content. The results (so far): high investment with limited adoption and questionable business results. According to Forrester’s State Of AI Survey, 2025, three-qua..."
+            },
+            {
+              "title": "Wielding The Double-Edged Sword Of Software Engineering Insights",
+              "link": "https://www.forrester.com/blogs/wielding-the-double-edged-sword-of-software-engineering-insights/",
+              "pubDate": "2025-12-01T15:51:25",
+              "description": "People in software development tend to have mixed feelings about metrics. On one hand, many developers have computer science or engineering backgrounds and are comfortable with numbers. They use metrics to find opportunities for optimization. Just as you can’t make a compiler faster unless you kn..."
+            },
+            {
+              "title": "It’s Time To Rethink Service Desk Success",
+              "link": "https://www.forrester.com/blogs/its-time-to-rethink-service-desk-success/",
+              "pubDate": "2025-12-01T13:50:10",
+              "description": "Traditional service desk KPIs no longer reflect success in an AI-driven world. Learn how IT leaders can rethink performance measurement to align with automation, experience, and business impact."
+            },
+            {
+              "title": "Updating Our Security Champions Research To Expand And Strengthen Security",
+              "link": "https://www.forrester.com/blogs/updating-our-security-champions-research-to-expand-and-strengthen-security/",
+              "pubDate": "2025-12-01T04:13:42",
+              "description": "A strong security culture is the foundation of an effective security program. That’s why we’re revisiting essential research that explores how to build a security champions network, examining how security champion networks can help scale influence, embed security into everyday decisions, and fost..."
+            },
+            {
+              "title": "India’s DPDP Act: A CIO’s Roadmap To Compliance And Competitive Advantage",
+              "link": "https://www.forrester.com/blogs/indias-dpdp-act-a-cios-roadmap-to-compliance-and-competitive-advantage/",
+              "pubDate": "2025-11-27T10:13:45",
+              "description": "India's Digital Personal Data Protection Act is now fully operational, and it applies to all organizations that process the digital personal data of individuals in India. Read five recommendations for CIOs to respond."
+            },
+            {
+              "title": "Paying To Observe It All: Palo Alto Networks’ Acquisition Of Chronosphere",
+              "link": "https://www.forrester.com/blogs/paying-to-observe-it-all-palo-alto-networks-acquisition-of-chronosphere/",
+              "pubDate": "2025-11-26T17:59:56",
+              "description": "The move marks a departure from PANW's security pure-play roots. What's behind the acquisition, and what does it means for PANW and Chronosphere customers going forward?"
+            },
+            {
+              "title": "A Big Bang Reshapes Agencies Into Algorithms Of Record",
+              "link": "https://www.forrester.com/blogs/a-big-bang-reshapes-agencies-into-algorithms-of-record/",
+              "pubDate": "2025-11-26T13:08:00",
+              "description": "Fierce competition, shrinking margins, and technological change has contracted the agency landscape all while agencies' remits vastly expand. All the while, a new concept is taking shape."
+            },
+            {
+              "title": "Insider Incidents Can Happen To Anyone",
+              "link": "https://www.forrester.com/blogs/insider-incidents-can-happen-to-anyone/",
+              "pubDate": "2025-11-25T13:04:16",
+              "description": "Managing insider risk requires steadfast focus, documenting policies, and following defined processes. Follow these four steps laid out in Forrester’s “Best Practices: Insider Risk Management” report to reduce insider risk."
+            },
+            {
+              "title": "AI Vendor Threat Research And Cybersecurity’s Cynicism Problem",
+              "link": "https://www.forrester.com/blogs/ai-vendor-threat-research-and-cybersecuritys-cynicism-problem/",
+              "pubDate": "2025-11-24T21:40:12",
+              "description": "For years, the security community decried the lack of transparency in public breach disclosure and communication. But when AI vendors break with old norms and publish how attackers exploit their platforms, that same community’s reaction is split. Some are treating this intelligence as a learning ..."
             }
           ]
         }
@@ -65,20 +220,7 @@
         {
           "name": "NASA APOD",
           "url": "rsshub://nasa/apod",
-          "entries": [
-            {
-              "title": "Galaxy NGC 1300",
-              "link": "https://apod.nasa.gov/apod/example1",
-              "pubDate": "2025-12-02T05:00:00",
-              "description": "A stunning barred spiral galaxy about 69 million light-years away..."
-            },
-            {
-              "title": "Comet Leonard's Tail",
-              "link": "https://apod.nasa.gov/apod/example2",
-              "pubDate": "2025-12-01T05:00:00",
-              "description": "Remarkable image captures the intricate tail structure of Comet Leonard..."
-            }
-          ]
+          "entries": []
         }
       ]
     }
