@@ -1,0 +1,89 @@
+---
+import Layout from '../layouts/Layout.astro';
+import FeedItem from '../components/FeedItem.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+interface FeedEntry {
+  title: string;
+  link: string;
+  pubDate?: string;
+  description?: string;
+  source?: string;
+}
+
+interface FeedData {
+  lastUpdated: string;
+  feeds: FeedEntry[];
+}
+
+// Read the RSS data from the JSON file
+let feedData: FeedData = {
+  lastUpdated: new Date().toISOString(),
+  feeds: []
+};
+
+const dataPath = path.join(process.cwd(), 'data', 'rss_feeds.json');
+if (fs.existsSync(dataPath)) {
+  const rawData = fs.readFileSync(dataPath, 'utf-8');
+  feedData = JSON.parse(rawData);
+}
+
+// Sort feeds by publication date (newest first)
+const sortedFeeds = feedData.feeds.sort((a, b) => {
+  const dateA = a.pubDate ? new Date(a.pubDate).getTime() : 0;
+  const dateB = b.pubDate ? new Date(b.pubDate).getTime() : 0;
+  return dateB - dateA;
+});
+---
+
+<Layout title="RSS 新闻聚合">
+  <div class="feeds-container">
+    {sortedFeeds.length > 0 ? (
+      sortedFeeds.map((feed) => (
+        <FeedItem
+          title={feed.title}
+          link={feed.link}
+          pubDate={feed.pubDate}
+          description={feed.description}
+          source={feed.source}
+        />
+      ))
+    ) : (
+      <div class="no-feeds">
+        <h2>暂无内容</h2>
+        <p>RSS 源数据正在抓取中，请稍后刷新页面。</p>
+      </div>
+    )}
+  </div>
+  <div class="update-info">
+    <p>数据最后更新时间: {new Date(feedData.lastUpdated).toLocaleString('zh-CN')}</p>
+  </div>
+</Layout>
+
+<style>
+  .feeds-container {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .no-feeds {
+    text-align: center;
+    padding: 3rem;
+    background: var(--card-background);
+    border-radius: 8px;
+  }
+
+  .no-feeds h2 {
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+  }
+
+  .update-info {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 1rem;
+    color: var(--text-muted);
+    font-size: 0.875rem;
+  }
+</style>
