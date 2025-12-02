@@ -4,10 +4,9 @@ export interface Props {
   link: string;
   pubDate?: string;
   description?: string;
-  source?: string;
 }
 
-const { title, link, pubDate, description, source } = Astro.props;
+const { title, link, pubDate, description } = Astro.props;
 
 const formattedDate = pubDate ? new Date(pubDate).toLocaleDateString('zh-CN', {
   year: 'numeric',
@@ -20,66 +19,57 @@ const formattedDate = pubDate ? new Date(pubDate).toLocaleDateString('zh-CN', {
 
 <article class="feed-item">
   <div class="feed-header">
-    {source && <span class="source">{source}</span>}
     {formattedDate && <time datetime={pubDate}>{formattedDate}</time>}
   </div>
-  <h3>
+  <h4>
     <a href={link} target="_blank" rel="noopener noreferrer">{title}</a>
-  </h3>
+  </h4>
   {description && <p class="description" set:html={description} />}
 </article>
 
 <style>
   .feed-item {
-    background: var(--card-background);
-    border-radius: 8px;
-    padding: 1.5rem;
-    margin-bottom: 1rem;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.2s, transform 0.2s;
+    background: var(--background-color);
+    border-radius: 6px;
+    padding: 1rem;
+    border-left: 3px solid var(--primary-color);
+    transition: background-color 0.2s;
   }
 
   .feed-item:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    transform: translateY(-2px);
+    background: var(--border-color);
   }
 
   .feed-header {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
-    margin-bottom: 0.5rem;
-    font-size: 0.875rem;
+    margin-bottom: 0.25rem;
+    font-size: 0.8rem;
     color: var(--text-muted);
   }
 
-  .source {
-    background: var(--primary-color);
-    color: white;
-    padding: 0.25rem 0.5rem;
-    border-radius: 4px;
-    font-size: 0.75rem;
+  h4 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1rem;
+    line-height: 1.4;
     font-weight: 500;
   }
 
-  h3 {
-    margin-bottom: 0.5rem;
-    line-height: 1.4;
-  }
-
-  h3 a {
+  h4 a {
     color: var(--text-color);
   }
 
-  h3 a:hover {
+  h4 a:hover {
     color: var(--primary-color);
   }
 
   .description {
     color: var(--text-muted);
-    font-size: 0.9rem;
+    font-size: 0.85rem;
+    margin: 0;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }

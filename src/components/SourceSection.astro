@@ -1,0 +1,88 @@
+---
+import FeedItem from './FeedItem.astro';
+
+export interface FeedEntry {
+  title: string;
+  link: string;
+  pubDate?: string;
+  description?: string;
+}
+
+export interface Props {
+  name: string;
+  entries: FeedEntry[];
+}
+
+const { name, entries } = Astro.props;
+---
+
+<div class="source-section">
+  <div class="source-header">
+    <h3 class="source-title">{name}</h3>
+    <span class="entry-count">{entries.length} 条内容</span>
+  </div>
+  <div class="entries-container">
+    {entries.length > 0 ? (
+      entries.map((entry) => (
+        <FeedItem
+          title={entry.title}
+          link={entry.link}
+          pubDate={entry.pubDate}
+          description={entry.description}
+        />
+      ))
+    ) : (
+      <div class="no-entries">
+        <p>该来源暂无最近内容</p>
+      </div>
+    )}
+  </div>
+</div>
+
+<style>
+  .source-section {
+    background: var(--card-background);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .source-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .source-title {
+    font-size: 1.1rem;
+    color: var(--primary-color);
+    margin: 0;
+  }
+
+  .entry-count {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    background: var(--background-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+  }
+
+  .entries-container {
+    display: grid;
+    gap: 0.75rem;
+  }
+
+  .no-entries {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-muted);
+  }
+
+  .no-entries p {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+</style>
