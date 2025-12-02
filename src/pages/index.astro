@@ -52,21 +52,49 @@ const totalEntries = feedData.groups.reduce((total, group) =>
     <p>📅 显示最近 {feedData.daysFilter} 天的内容 | 共 {totalEntries} 条</p>
   </div>
   
-  <div class="feeds-container">
-    {feedData.groups.length > 0 ? (
-      feedData.groups.map((group) => (
-        <GroupSection
-          groupName={group.groupName}
-          sources={group.sources}
-        />
-      ))
-    ) : (
-      <div class="no-feeds">
-        <h2>暂无内容</h2>
-        <p>RSS 源数据正在抓取中，请稍后刷新页面。</p>
+  <div class="main-layout">
+    <div class="left-column">
+      <div class="feeds-container">
+        {feedData.groups.length > 0 ? (
+          feedData.groups.map((group) => (
+            <GroupSection
+              groupName={group.groupName}
+              sources={group.sources}
+            />
+          ))
+        ) : (
+          <div class="no-feeds">
+            <h2>暂无内容</h2>
+            <p>RSS 源数据正在抓取中，请稍后刷新页面。</p>
+          </div>
+        )}
       </div>
-    )}
+    </div>
+    
+    <div class="right-column">
+      <div class="editor-picks">
+        <h2 class="section-title">✨ 编辑推荐</h2>
+        <div class="picks-list">
+          <div class="pick-item">
+            <span class="pick-badge">精选</span>
+            <h4>欢迎使用 RSS 新闻聚合</h4>
+            <p>这里将展示编辑精选的优质内容，敬请期待更多精彩推荐。</p>
+          </div>
+          <div class="pick-item">
+            <span class="pick-badge">热门</span>
+            <h4>订阅您感兴趣的内容</h4>
+            <p>点击左侧订阅源可查看该来源的所有文章。</p>
+          </div>
+          <div class="pick-item">
+            <span class="pick-badge">推荐</span>
+            <h4>每日更新</h4>
+            <p>系统会自动抓取最新内容，保持信息同步。</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
+  
   <div class="update-info">
     <p>数据最后更新时间: {new Date(feedData.lastUpdated).toLocaleString('zh-CN')}</p>
   </div>
@@ -88,9 +116,82 @@ const totalEntries = feedData.groups.reduce((total, group) =>
     font-size: 0.9rem;
   }
 
+  .main-layout {
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 2rem;
+  }
+
+  @media (max-width: 900px) {
+    .main-layout {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .left-column {
+    min-width: 0;
+  }
+
   .feeds-container {
     display: grid;
     gap: 2rem;
+  }
+
+  .right-column {
+    min-width: 0;
+  }
+
+  .editor-picks {
+    background: var(--card-background);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    position: sticky;
+    top: 1rem;
+  }
+
+  .section-title {
+    font-size: 1.25rem;
+    color: var(--text-color);
+    margin: 0 0 1rem 0;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--primary-color);
+  }
+
+  .picks-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .pick-item {
+    padding: 1rem;
+    background: var(--background-color);
+    border-radius: 8px;
+    border-left: 3px solid var(--primary-color);
+  }
+
+  .pick-badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    padding: 0.125rem 0.5rem;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+  }
+
+  .pick-item h4 {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.95rem;
+    color: var(--text-color);
+  }
+
+  .pick-item p {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    line-height: 1.5;
   }
 
   .no-feeds {

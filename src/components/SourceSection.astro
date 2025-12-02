@@ -14,11 +14,17 @@ export interface Props {
 }
 
 const { name, entries } = Astro.props;
+
+// Create URL-friendly slug for the feed detail page
+const feedUrl = `/RSS-Page/feed/${encodeURIComponent(name)}`;
 ---
 
 <div class="source-section">
   <div class="source-header">
-    <h3 class="source-title">{name}</h3>
+    <a href={feedUrl} class="source-title-link">
+      <h3 class="source-title">{name}</h3>
+      <span class="view-all">查看全部 →</span>
+    </a>
     <span class="entry-count">{entries.length} 条内容</span>
   </div>
   <div class="entries-container">
@@ -56,10 +62,34 @@ const { name, entries } = Astro.props;
     border-bottom: 1px solid var(--border-color);
   }
 
+  .source-title-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+
+  .source-title-link:hover {
+    opacity: 0.8;
+    text-decoration: none;
+  }
+
+  .source-title-link:hover .view-all {
+    opacity: 1;
+  }
+
   .source-title {
     font-size: 1.1rem;
     color: var(--primary-color);
     margin: 0;
+  }
+
+  .view-all {
+    font-size: 0.8rem;
+    color: var(--primary-color);
+    opacity: 0.6;
+    transition: opacity 0.2s;
   }
 
   .entry-count {
