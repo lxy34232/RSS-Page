@@ -34,7 +34,7 @@ const sectionId = `source-${createId(name)}`;
     </div>
     <span class="entry-count">{entries.length} 条内容</span>
   </div>
-  <div class="entries-container">
+  <div class="entries-container" id={`${sectionId}-entries`}>
     {entries.length > 0 ? (
       entries.map((entry, index) => (
         <div class={`entry-wrapper ${index >= INITIAL_DISPLAY_COUNT ? 'hidden-entry' : ''}`}>
@@ -54,10 +54,15 @@ const sectionId = `source-${createId(name)}`;
   </div>
   {hasMoreEntries && (
     <div class="expand-section">
-      <button class="expand-btn" data-section={sectionId}>
+      <button 
+        class="expand-btn" 
+        data-section={sectionId}
+        aria-expanded="false"
+        aria-controls={`${sectionId}-entries`}
+      >
         <span class="expand-text">查看更多 ({entries.length - INITIAL_DISPLAY_COUNT} 条)</span>
         <span class="collapse-text">收起内容</span>
-        <svg class="expand-icon" viewBox="0 0 24 24" width="16" height="16">
+        <svg class="expand-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
           <path fill="currentColor" d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
         </svg>
       </button>
@@ -179,16 +184,20 @@ const sectionId = `source-${createId(name)}`;
 </style>
 
 <script>
-  document.querySelectorAll('.expand-btn').forEach(btn => {
-    btn.addEventListener('click', function() {
-      const sectionId = this.getAttribute('data-section');
-      if (sectionId) {
-        const section = document.getElementById(sectionId);
-        if (section) {
-          const isExpanded = section.getAttribute('data-expanded') === 'true';
-          section.setAttribute('data-expanded', isExpanded ? 'false' : 'true');
-        }
+  // Use event delegation for better performance
+  document.addEventListener('click', function(e) {
+    const btn = (e.target as Element).closest('.expand-btn');
+    if (!btn) return;
+    
+    const sectionId = btn.getAttribute('data-section');
+    if (sectionId) {
+      const section = document.getElementById(sectionId);
+      if (section) {
+        const isExpanded = section.getAttribute('data-expanded') === 'true';
+        const newState = !isExpanded;
+        section.setAttribute('data-expanded', newState ? 'true' : 'false');
+        btn.setAttribute('aria-expanded', newState ? 'true' : 'false');
       }
-    });
+    }
   });
 </script>
