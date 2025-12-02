@@ -24,10 +24,10 @@ except ImportError:
     import feedparser
 
 # Default time filter in days
-DEFAULT_DAYS_FILTER = 14
+DEFAULT_DAYS_FILTER = 7
 
 # Maximum number of entries to fetch per feed
-MAX_ENTRIES_PER_FEED = 20
+MAX_ENTRIES_PER_FEED = 10
 
 # RSSHub base URL (can be overridden via environment variable)
 RSSHUB_BASE_URL = os.environ.get("RSSHUB_BASE_URL", "https://rsshub.rssforever.com")
