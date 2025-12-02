@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T09:02:11.498047",
+  "lastUpdated": "2025-12-02T09:10:31.951751",
   "daysFilter": 14,
   "groups": [
     {
@@ -138,8 +138,15 @@
       "sources": [
         {
           "name": "KPMG Insights",
-          "url": "https://rsshub.app/kpmg/insights",
-          "entries": []
+          "url": "rsshub://kpmg/insights",
+          "entries": [
+            {
+              "title": "Latest developments in cyber security: Managing cyber risks and the outlook for DORA",
+              "link": "https://kpmg.com/xx/en/home/insights/2024/05/lessons-learnt-from-the-2024-ecb-cyber-stress-test-and-the-outlook-for-dora.html",
+              "pubDate": "2026-05-03T09:18:00",
+              "description": ""
+            }
+          ]
         }
       ]
     },
