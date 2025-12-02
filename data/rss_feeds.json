@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2024-12-02T00:00:00.000Z",
+  "feeds": [
+    {
+      "title": "示例文章 - 欢迎使用 RSS 新闻聚合",
+      "link": "https://github.com/lxy34232/RSS-Page",
+      "pubDate": "2024-12-02T00:00:00.000Z",
+      "description": "这是一个示例文章。当 GitHub Actions 运行时，此页面将自动更新为真实的 RSS 内容。",
+      "source": "示例"
+    }
+  ]
+}

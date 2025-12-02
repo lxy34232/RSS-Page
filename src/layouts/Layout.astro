@@ -1,0 +1,98 @@
+---
+export interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/RSS-Page/favicon.svg" />
+    <meta name="description" content="RSS 新闻聚合页面 - 汇集多个RSS源的最新内容" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header>
+      <h1>📰 RSS 新闻聚合</h1>
+      <p>自动抓取的最新内容</p>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <p>由 Astro + GitHub Actions 自动构建</p>
+      <p>上次更新: <span id="update-time"></span></p>
+    </footer>
+    <script>
+      document.getElementById('update-time')!.textContent = new Date().toLocaleString('zh-CN');
+    </script>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --primary-color: #2563eb;
+    --secondary-color: #1e40af;
+    --background-color: #f8fafc;
+    --card-background: #ffffff;
+    --text-color: #1e293b;
+    --text-muted: #64748b;
+    --border-color: #e2e8f0;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+  }
+
+  header {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  header p {
+    opacity: 0.9;
+  }
+
+  main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+
+  footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-muted);
+    border-top: 1px solid var(--border-color);
+    margin-top: 2rem;
+  }
+
+  a {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
