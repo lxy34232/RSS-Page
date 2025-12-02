@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T08:34:18.599469",
+  "lastUpdated": "2025-12-02T08:45:53.588572",
   "daysFilter": 14,
   "groups": [
     {
@@ -137,8 +137,8 @@
       "groupName": "咨询机构",
       "sources": [
         {
-          "name": "KPMG Insights",
-          "url": "rsshub://kpmg/insights",
+          "name": "微博热搜",
+          "url": "rsshub://weibo/search/hot",
           "entries": []
         }
       ]
