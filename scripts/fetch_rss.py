@@ -47,8 +47,8 @@ RSS_FEED_GROUPS = [
         "groupName": "咨询机构",
         "feeds": [
             {
-                "name": "KPMG Insights",
-                "url": "rsshub://kpmg/insights"
+                "name": "微博热搜",
+                "url": "rsshub://weibo/search/hot"
             }
         ]
     },
