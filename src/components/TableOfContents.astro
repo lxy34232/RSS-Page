@@ -168,9 +168,8 @@ function createId(text: string): string {
       e.preventDefault();
       const href = this.getAttribute('href');
       if (href) {
-        // Decode the href to match the actual element ID
-        const decodedHref = decodeURIComponent(href);
-        const target = document.getElementById(decodedHref.substring(1));
+        // Use href directly (without decoding) as element IDs are URL-encoded
+        const target = document.getElementById(href.substring(1));
         if (target) {
           target.scrollIntoView({
             behavior: 'smooth',

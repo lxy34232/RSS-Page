@@ -15,35 +15,36 @@ export interface Props {
 
 const { name, entries } = Astro.props;
 
-// Get base URL for links
-const baseUrl = import.meta.env.BASE_URL;
-
-// Create URL-friendly slug for the feed detail page
-const feedUrl = `${baseUrl}feed/${encodeURIComponent(name)}`;
+// Number of items to show initially
+const INITIAL_DISPLAY_COUNT = 5;
+const hasMoreEntries = entries.length > INITIAL_DISPLAY_COUNT;
 
 // Helper function to create URL-friendly IDs
 function createId(text: string): string {
   return encodeURIComponent(text.replace(/\s+/g, '-'));
 }
+
+const sectionId = `source-${createId(name)}`;
 ---
 
-<div class="source-section" id={`source-${createId(name)}`}>
+<div class="source-section" id={sectionId} data-expanded="false">
   <div class="source-header">
-    <a href={feedUrl} class="source-title-link">
+    <div class="source-title-container">
       <h3 class="source-title">{name}</h3>
-      <span class="view-all">查看全部 →</span>
-    </a>
+    </div>
     <span class="entry-count">{entries.length} 条内容</span>
   </div>
   <div class="entries-container">
     {entries.length > 0 ? (
-      entries.map((entry) => (
-        <FeedItem
-          title={entry.title}
-          link={entry.link}
-          pubDate={entry.pubDate}
-          description={entry.description}
-        />
+      entries.map((entry, index) => (
+        <div class={`entry-wrapper ${index >= INITIAL_DISPLAY_COUNT ? 'hidden-entry' : ''}`}>
+          <FeedItem
+            title={entry.title}
+            link={entry.link}
+            pubDate={entry.pubDate}
+            description={entry.description}
+          />
+        </div>
       ))
     ) : (
       <div class="no-entries">
@@ -51,6 +52,17 @@ function createId(text: string): string {
       </div>
     )}
   </div>
+  {hasMoreEntries && (
+    <div class="expand-section">
+      <button class="expand-btn" data-section={sectionId}>
+        <span class="expand-text">查看更多 ({entries.length - INITIAL_DISPLAY_COUNT} 条)</span>
+        <span class="collapse-text">收起内容</span>
+        <svg class="expand-icon" viewBox="0 0 24 24" width="16" height="16">
+          <path fill="currentColor" d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
+        </svg>
+      </button>
+    </div>
+  )}
 </div>
 
 <style>
@@ -70,34 +82,16 @@ function createId(text: string): string {
     border-bottom: 1px solid var(--border-color);
   }
 
-  .source-title-link {
+  .source-title-container {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    text-decoration: none;
-    transition: opacity 0.2s;
-  }
-
-  .source-title-link:hover {
-    opacity: 0.8;
-    text-decoration: none;
-  }
-
-  .source-title-link:hover .view-all {
-    opacity: 1;
   }
 
   .source-title {
     font-size: 1.1rem;
     color: var(--primary-color);
     margin: 0;
-  }
-
-  .view-all {
-    font-size: 0.8rem;
-    color: var(--primary-color);
-    opacity: 0.6;
-    transition: opacity 0.2s;
   }
 
   .entry-count {
@@ -113,6 +107,18 @@ function createId(text: string): string {
     gap: 0.75rem;
   }
 
+  .entry-wrapper {
+    transition: opacity 0.3s ease, max-height 0.3s ease;
+  }
+
+  .entry-wrapper:global(.hidden-entry) {
+    display: none;
+  }
+
+  .source-section[data-expanded="true"] .entry-wrapper:global(.hidden-entry) {
+    display: block;
+  }
+
   .no-entries {
     text-align: center;
     padding: 2rem;
@@ -123,4 +129,66 @@ function createId(text: string): string {
     margin: 0;
     font-size: 0.9rem;
   }
+
+  .expand-section {
+    margin-top: 1rem;
+    text-align: center;
+    padding-top: 0.75rem;
+    border-top: 1px dashed var(--border-color);
+  }
+
+  .expand-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: var(--background-color);
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+    color: var(--primary-color);
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .expand-btn:hover {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+  }
+
+  .expand-icon {
+    transition: transform 0.3s ease;
+  }
+
+  .collapse-text {
+    display: none;
+  }
+
+  .source-section[data-expanded="true"] .expand-text {
+    display: none;
+  }
+
+  .source-section[data-expanded="true"] .collapse-text {
+    display: inline;
+  }
+
+  .source-section[data-expanded="true"] .expand-icon {
+    transform: rotate(180deg);
+  }
 </style>
+
+<script>
+  document.querySelectorAll('.expand-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+      const sectionId = this.getAttribute('data-section');
+      if (sectionId) {
+        const section = document.getElementById(sectionId);
+        if (section) {
+          const isExpanded = section.getAttribute('data-expanded') === 'true';
+          section.setAttribute('data-expanded', isExpanded ? 'false' : 'true');
+        }
+      }
+    });
+  });
+</script>
