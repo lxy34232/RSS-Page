@@ -123,14 +123,21 @@ const totalEntries = feedData.groups.reduce((total, group) =>
 
   .main-layout {
     display: grid;
-    grid-template-columns: 240px 1fr 280px;
-    gap: 2rem;
+    grid-template-columns: 260px 1fr 300px;
+    gap: 1.5rem;
+  }
+
+  @media (max-width: 1400px) {
+    .main-layout {
+      grid-template-columns: 240px 1fr 280px;
+      gap: 1.25rem;
+    }
   }
 
   @media (max-width: 1200px) {
     .main-layout {
       grid-template-columns: 200px 1fr 240px;
-      gap: 1.5rem;
+      gap: 1rem;
     }
   }
 
