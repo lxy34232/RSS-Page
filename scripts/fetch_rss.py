@@ -24,7 +24,7 @@ except ImportError:
     import feedparser
 
 # Default time filter in days
-DEFAULT_DAYS_FILTER = 7
+DEFAULT_DAYS_FILTER = 180
 
 # Maximum number of entries to fetch per feed
 MAX_ENTRIES_PER_FEED = 30
