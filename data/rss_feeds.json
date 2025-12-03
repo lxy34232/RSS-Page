@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-02T14:02:25.096524",
-  "daysFilter": 7,
+  "lastUpdated": "2025-12-03T00:38:25.740760",
+  "daysFilter": 30,
   "groups": [
     {
       "groupName": "国家政策",
@@ -9,6 +9,12 @@
           "name": "中国科学院科研进展",
           "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml",
           "entries": [
+            {
+              "title": "科研人员利用可见光催化破解蛋白质标记选择性瓶颈",
+              "link": "https://www.cas.cn/syky/202512/t20251202_5090978.shtml",
+              "pubDate": null,
+              "description": "近日，中国科学院上海有机化学研究所研究团队等，在生物正交标记技术领域取得进展。研究团队发展出可见光驱动的酮基自由基偶联新策略，在活细胞层面实现了蛋白质的原子级精度标记与交联。该方法通过可见光催化，高效生成稳定的二芳基酮自由基，有效规避了传统紫外激发技术因高能光照导致的选择性差、副反应多、背景干扰强等固有缺陷，提升了标记特异性与生物相容性。研究团队系统解析了传统紫外激发交联技术的核心瓶颈，即其产生的高活性且难以调控的反应中间体三线态双自由基，易引发环加成和氢原子攫取等副反应，导致非特异性交联和生物分子损伤。同时，团队构建了新型可见光催化体系。该体系可在中性水溶液中高效生成稳定的二芳基酮自由..."
+            },
             {
               "title": "研究阐明隐球菌不同有性生殖模式的选择机制",
               "link": "https://www.cas.cn/syky/202512/t20251202_5090984.shtml",
@@ -62,12 +68,6 @@
               "link": "https://www.cas.cn/syky/202512/t20251201_5090763.shtml",
               "pubDate": null,
               "description": "脓毒症是由感染引起的全身炎症反应疾病，脂多糖（又称内毒素）作为脓毒症的核心致病因子，在疾病早期及时清除，对于阻断病情恶化、挽救患者生命有重要作用。然而，脂多糖结构多样、血液中含量极低且血液成分复杂，实现其高效、高特异性清除一直是临床面临的挑战。近日，中国科学院大连化学物理研究所与大连医科大学附属第一医院合作，在脓毒症治疗领域取得进展。团队合作研发出基于多肽与分子印迹的“双亲和”材料，可高效捕获并清除血液中致命脂多糖。团队利用脂多糖的保守结构核心——Kdo2-Lipid A作为靶标，通过噬菌体展示技术，筛选出新型高亲和肽，该肽对多种细菌来源的脂多糖均表现出较强的结合能力。进一步，团队利用脂..."
-            },
-            {
-              "title": "研究开发出一种糖环双位点选择性C-烷芳基化反应",
-              "link": "https://www.cas.cn/syky/202512/t20251201_5090762.shtml",
-              "pubDate": null,
-              "description": "众多临床药物和活性分子均以糖结构为核心骨架，药物研发往往需要对糖环多个位点进行差异化修饰，构建具有三维结构多样性的分子库，从而筛选出更高活性的候选药物。现有糖烯双碳官能化技术既难以实现差异化碳基官能团的同步引入，也无法对最终产物的立体构型进行精准构筑。针对这一难题，中国科学院成都生物研究所提出了双重立体控制反应机制的解决方案：通过糖烯C3位取代基的“空间导向”作用，以及自由基Smiles重排过程中的顺式稠合双环过渡态，使反应高效生成1,2-顺式、2,3-反式构型的产物。以葡萄糖烯为模型底物时，目标产物2-C-支链芳苷的产率达84%，且仅生成α-构型，解决了传统反应“立体混乱”的难题。通过..."
             }
           ]
         }
@@ -98,6 +98,24 @@
           "url": "https://www.forrester.com/blogs/feed/",
           "entries": [
             {
+              "title": "The Real Deal: A Black Friday-Inspired RFP Template For Vetting AI SaaS Vendors",
+              "link": "https://www.forrester.com/blogs/the-real-deal-a-black-friday-inspired-rfp-template-for-vetting-ai-saas-vendors/",
+              "pubDate": "2025-12-02T17:31:25",
+              "description": "For those of us of a certain generation, “Black Friday” invokes memories of the Cabbage Patch Kid riots of 1983. But the term Black Friday didn’t start as a feel‑good story about retailers finally getting “into the black.” It was coined in the 1950s by Philadelphia police officers to describe the..."
+            },
+            {
+              "title": "Tidings Of Comfort And Trust: Holiday-Season Security That Bolsters Your Brand",
+              "link": "https://www.forrester.com/blogs/tidings-of-comfort-and-trust-holiday-season-security-that-bolsters-your-brand/",
+              "pubDate": "2025-12-02T16:14:31",
+              "description": "Make safe, reliable digital experiences as part of the value you deliver — and help keep customers coming back yearround."
+            },
+            {
+              "title": "GRC Platforms Enter Their Grad School Era",
+              "link": "https://www.forrester.com/blogs/grc-platforms-enter-their-grad-school-era/",
+              "pubDate": "2025-12-02T15:55:37",
+              "description": "Governance, risk, and compliance (GRC) platforms are officially old enough to be in grad school. In our 2023 market evaluation, GRC technology turned 20 years old but was still figuring out what it wanted to be when it grew up. It couldn’t decide between functions like spreadsheet replacement, sy..."
+            },
+            {
               "title": "Make Internal Communications A Strategic Lever For Employee (And Brand) Experience",
               "link": "https://www.forrester.com/blogs/make-internal-communications-a-strategic-lever-for-employee-and-brand-experience/",
               "pubDate": "2025-12-01T22:48:30",
@@ -107,7 +125,7 @@
               "title": "Forrester Analyst Takes For Digital Content In 2026",
               "link": "https://www.forrester.com/blogs/forrester-analyst-takes-for-digital-content-in-2026/",
               "pubDate": "2025-12-01T21:23:31",
-              "description": "A Year Of Practicality Will Increase Adoption And Reduce AI Content Waste It has been three years since generative AI began creating content. The results (so far): high investment with limited adoption and questionable business results. According to Forrester’s State Of AI Survey, 2025, three-qua..."
+              "description": "Digital content will continue to be shaped by enterprises both investing in and looking to gain practical business value from genAI solutions. Here’s how we foresee digital content evolving."
             },
             {
               "title": "Wielding The Double-Edged Sword Of Software Engineering Insights",
@@ -138,12 +156,6 @@
               "link": "https://www.forrester.com/blogs/paying-to-observe-it-all-palo-alto-networks-acquisition-of-chronosphere/",
               "pubDate": "2025-11-26T17:59:56",
               "description": "The move marks a departure from PANW's security pure-play roots. What's behind the acquisition, and what does it means for PANW and Chronosphere customers going forward?"
-            },
-            {
-              "title": "A Big Bang Reshapes Agencies Into Algorithms Of Record",
-              "link": "https://www.forrester.com/blogs/a-big-bang-reshapes-agencies-into-algorithms-of-record/",
-              "pubDate": "2025-11-26T13:08:00",
-              "description": "Fierce competition, shrinking margins, and technological change has contracted the agency landscape all while agencies' remits vastly expand. All the while, a new concept is taking shape."
             }
           ]
         }
@@ -197,6 +209,24 @@
               "link": "https://apod.nasa.gov/apod/ap251126.html",
               "pubDate": "2025-11-26T05:00:00",
               "description": "Globular Cluster M15 Deep Field Image Credit & Copyright: Alvaro Ibanez Perez Explanation: Stars, like bees, swarm around the center of bright globular cluster M15. The central ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center...."
+            },
+            {
+              "title": "Comet Lemmon and the Milky Way",
+              "link": "https://apod.nasa.gov/apod/ap251125.html",
+              "pubDate": "2025-11-25T05:00:00",
+              "description": "Comet Lemmon and the Milky Way Image Credit & Copyright: Lin Zixuan (Tsinghua U.) Explanation: What did Comet Lemmon look like when it was at its best? One example is pictured here, featuring three celestial spectacles all at different distances. The closest spectacle is the snowcapped Meili Moun..."
+            },
+            {
+              "title": "Apep: Unusual Dust Shells from Webb",
+              "link": "https://apod.nasa.gov/apod/ap251124.html",
+              "pubDate": "2025-11-24T05:00:00",
+              "description": "Apep: Unusual Dust Shells from Webb Image Credit: NASA, ESA, CSA, STScI, JWST; Science: Y. Han (Caltech), R. White (Macquarie U.); Image Processing: A. Pagan (STScI) Explanation: What created this unusual space sculpture? Stars. This unusual system of swirls and shells, known as Apep, was observe..."
+            },
+            {
+              "title": "The Observable Universe",
+              "link": "https://apod.nasa.gov/apod/ap251123.html",
+              "pubDate": "2025-11-23T05:00:00",
+              "description": "The Observable Universe Illustration Credit & Licence: Wikipedia, Pablo Carlos Budassi Explanation: How far can you see? Everything you can see, and everything you could possibly see, right now, assuming your eyes could detect all types of radiations around you -- is the observable universe. In l..."
             }
           ]
         }
