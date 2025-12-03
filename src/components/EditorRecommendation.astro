@@ -1,0 +1,118 @@
+---
+import type { Recommendation } from '../types';
+
+export interface Props {
+  recommendations?: Recommendation[];
+}
+
+const { recommendations = [] } = Astro.props;
+---
+
+<div class="editor-recommendation">
+  <h4 class="recommendation-title">✨ 编辑推荐</h4>
+  <div class="recommendation-list">
+    {recommendations.length > 0 ? (
+      recommendations.map((rec) => (
+        <div class="recommendation-item">
+          <a href={rec.url} target="_blank" rel="noopener noreferrer" class="rec-link">
+            <h5 class="rec-title">{rec.title}</h5>
+            {rec.description && (
+              <p class="rec-description">{rec.description}</p>
+            )}
+            <span class="rec-arrow">→</span>
+          </a>
+        </div>
+      ))
+    ) : (
+      <div class="no-recommendations">
+        <p>暂无推荐内容</p>
+      </div>
+    )}
+  </div>
+</div>
+
+<style>
+  .editor-recommendation {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-top: 1rem;
+  }
+
+  .recommendation-title {
+    font-size: 0.95rem;
+    color: #2c3e50;
+    margin: 0 0 0.75rem 0;
+    font-weight: 600;
+    border-bottom: 2px solid #667eea;
+    padding-bottom: 0.5rem;
+  }
+
+  .recommendation-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .recommendation-item {
+    background: white;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+  }
+
+  .recommendation-item:hover {
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+    transform: translateY(-2px);
+  }
+
+  .rec-link {
+    display: block;
+    padding: 0.75rem;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+  }
+
+  .rec-title {
+    font-size: 0.85rem;
+    color: #2c3e50;
+    margin: 0 0 0.25rem 0;
+    font-weight: 500;
+    line-height: 1.4;
+  }
+
+  .rec-description {
+    font-size: 0.75rem;
+    color: #6c757d;
+    margin: 0;
+    line-height: 1.4;
+  }
+
+  .rec-arrow {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    color: #667eea;
+    font-size: 1rem;
+    opacity: 0;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+
+  .recommendation-item:hover .rec-arrow {
+    opacity: 1;
+    transform: translateX(4px);
+  }
+
+  .no-recommendations {
+    text-align: center;
+    padding: 1.5rem;
+    color: #6c757d;
+  }
+
+  .no-recommendations p {
+    margin: 0;
+    font-size: 0.85rem;
+  }
+</style>

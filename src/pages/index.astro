@@ -4,30 +4,7 @@ import GroupSection from '../components/GroupSection.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import fs from 'node:fs';
 import path from 'node:path';
-
-interface FeedEntry {
-  title: string;
-  link: string;
-  pubDate?: string;
-  description?: string;
-}
-
-interface Source {
-  name: string;
-  url: string;
-  entries: FeedEntry[];
-}
-
-interface Group {
-  groupName: string;
-  sources: Source[];
-}
-
-interface FeedData {
-  lastUpdated: string;
-  daysFilter: number;
-  groups: Group[];
-}
+import type { FeedData, RecommendationsData } from '../types';
 
 // Read the RSS data from the JSON file
 let feedData: FeedData = {
@@ -40,6 +17,17 @@ const dataPath = path.join(process.cwd(), 'data', 'rss_feeds.json');
 if (fs.existsSync(dataPath)) {
   const rawData = fs.readFileSync(dataPath, 'utf-8');
   feedData = JSON.parse(rawData);
+}
+
+// Read editor recommendations
+let recommendationsData: RecommendationsData = {
+  recommendations: {}
+};
+
+const recommendationsPath = path.join(process.cwd(), 'data', 'editor_recommendations.json');
+if (fs.existsSync(recommendationsPath)) {
+  const rawData = fs.readFileSync(recommendationsPath, 'utf-8');
+  recommendationsData = JSON.parse(rawData);
 }
 
 // Calculate total entry count
@@ -65,6 +53,7 @@ const totalEntries = feedData.groups.reduce((total, group) =>
             <GroupSection
               groupName={group.groupName}
               sources={group.sources}
+              recommendations={recommendationsData.recommendations}
             />
           ))
         ) : (
@@ -73,29 +62,6 @@ const totalEntries = feedData.groups.reduce((total, group) =>
             <p>RSS 源数据正在抓取中，请稍后刷新页面。</p>
           </div>
         )}
-      </div>
-    </div>
-    
-    <div class="right-column">
-      <div class="editor-picks">
-        <h2 class="section-title">✨ 编辑推荐</h2>
-        <div class="picks-list">
-          <div class="pick-item">
-            <span class="pick-badge">精选</span>
-            <h4>欢迎使用 RSS 新闻聚合</h4>
-            <p>这里将展示编辑精选的优质内容，敬请期待更多精彩推荐。</p>
-          </div>
-          <div class="pick-item">
-            <span class="pick-badge">热门</span>
-            <h4>订阅您感兴趣的内容</h4>
-            <p>点击左侧订阅源可查看该来源的所有文章。</p>
-          </div>
-          <div class="pick-item">
-            <span class="pick-badge">推荐</span>
-            <h4>每日更新</h4>
-            <p>系统会自动抓取最新内容，保持信息同步。</p>
-          </div>
-        </div>
       </div>
     </div>
   </div>
@@ -123,21 +89,14 @@ const totalEntries = feedData.groups.reduce((total, group) =>
 
   .main-layout {
     display: grid;
-    grid-template-columns: 260px 1fr 300px;
+    grid-template-columns: 260px 1fr;
     gap: 1.5rem;
-  }
-
-  @media (max-width: 1400px) {
-    .main-layout {
-      grid-template-columns: 240px 1fr 280px;
-      gap: 1.25rem;
-    }
   }
 
   @media (max-width: 1200px) {
     .main-layout {
-      grid-template-columns: 200px 1fr 240px;
-      gap: 1rem;
+      grid-template-columns: 240px 1fr;
+      gap: 1.25rem;
     }
   }
 
@@ -162,63 +121,6 @@ const totalEntries = feedData.groups.reduce((total, group) =>
   .feeds-container {
     display: grid;
     gap: 2rem;
-  }
-
-  .right-column {
-    min-width: 0;
-  }
-
-  .editor-picks {
-    background: var(--card-background);
-    border-radius: 12px;
-    padding: 1.5rem;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-    position: sticky;
-    top: 1rem;
-  }
-
-  .section-title {
-    font-size: 1.25rem;
-    color: var(--text-color);
-    margin: 0 0 1rem 0;
-    padding-bottom: 0.75rem;
-    border-bottom: 2px solid var(--primary-color);
-  }
-
-  .picks-list {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-  }
-
-  .pick-item {
-    padding: 1rem;
-    background: var(--background-color);
-    border-radius: 8px;
-    border-left: 3px solid var(--primary-color);
-  }
-
-  .pick-badge {
-    display: inline-block;
-    font-size: 0.75rem;
-    padding: 0.125rem 0.5rem;
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-    color: white;
-    border-radius: 4px;
-    margin-bottom: 0.5rem;
-  }
-
-  .pick-item h4 {
-    margin: 0 0 0.5rem 0;
-    font-size: 0.95rem;
-    color: var(--text-color);
-  }
-
-  .pick-item p {
-    margin: 0;
-    font-size: 0.85rem;
-    color: var(--text-muted);
-    line-height: 1.5;
   }
 
   .no-feeds {
