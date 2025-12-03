@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-03T09:26:22.402519",
+  "lastUpdated": "2025-12-03T09:29:41.975099",
   "daysFilter": 7,
   "groups": [
     {
@@ -139,7 +139,38 @@
         {
           "name": "发改委发展改革板块",
           "url": "rsshub://gov/ndrc/fggz",
-          "entries": []
+          "entries": [
+            {
+              "title": "关于印发第二轮国家生态产品价值实现机制试点名单的通知(发改办环资〔2025〕998号)",
+              "link": "https://www.ndrc.gov.cn/fggz/hjyzy/stwmjs/202512/t20251202_1402147.html",
+              "pubDate": "2025-12-02T10:11:26",
+              "description": ""
+            },
+            {
+              "title": "2025年10月份全国天然气运行快报",
+              "link": "https://www.ndrc.gov.cn/fggz/jjyxtj/202512/t20251202_1402096.html",
+              "pubDate": "2025-12-02T06:41:38",
+              "description": "据快报数据，2025年10月，全国天然气表观消费量347.7亿立方米，同比下降1.3%。 1—10月，全国天然气表观消费量3525.3亿立方米，同比下降0.3%。"
+            },
+            {
+              "title": "全国“以竹代塑”工作推进现场会在福建南平召开",
+              "link": "https://www.ndrc.gov.cn/fggz/hjyzy/zyzhlyhxhjj/202512/t20251202_1402094.html",
+              "pubDate": "2025-12-02T01:39:52",
+              "description": "为深入贯彻习近平总书记关于发展“以竹代塑”的重要讲话和重要指示批示精神，认真落实党中央、国务院决策部署，推动《加快“以竹代塑”发展三年行动计划》目标落实落地，11月28日，国家发展改革委环资司在福建省南平市召开全国“以竹代塑”工作推进现场会。 会议系统梳理总结了“以竹代塑”工作的进展成效，分析当前面临的形势和挑战，对下一步完善政策标准、强化创新驱动、壮大产业发展、丰富应用场景、深化国际合作等作出具体部署。浙江省、江西省、福建省南平市、贵州省赤水市交流了本地区“以竹代塑”工作情况和经验做法。中国循环经济协会、国际竹藤中心有关专家作专题报告。与会同志实地调研了福建省南平市“以竹代塑”有关项目..."
+            },
+            {
+              "title": "本周“发展改革热点，我知道”（11月24至11月28日）",
+              "link": "https://www.ndrc.gov.cn/fggz/202512/t20251201_1402075.html",
+              "pubDate": "2025-12-01T02:37:10",
+              "description": "署名文章 | 郑栅洁人民日报撰文：坚持扩大内需这个战略基点 11月28日，国家发展改革委主任郑栅洁在《人民日报》发表题为《坚持扩大内需这个战略基点》的署名文章。文章表示，习近平总书记强调，坚定实施扩大内需战略，构建完整的内需体系，关系我国长远发展和长治久安。党的二十届四中全会通过的《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》明确指出，坚持扩大内需这个战略基点，促进消费和投资、供给和需求良性互动，增强国内大循环内生动力和可靠性。“十五五”时期，我们要持续扩大内需，进一步做强国内大循环，为加快构建新发展格局、推动高质量发展提供强有力的保障。 国家发展改革委发布《信用修复管理办..."
+            },
+            {
+              "title": "国家发展改革委举办第43期“求是论坛”暨全委学习贯彻党的二十届四中全会精神系列辅导报告第三讲",
+              "link": "https://www.ndrc.gov.cn/fggz/202511/t20251127_1402003.html",
+              "pubDate": "2025-11-27T07:43:51",
+              "description": "11月25日，按照委党组统一部署，国家发展改革委举办第43期“求是论坛”暨全委学习贯彻党的二十届四中全会精神系列辅导报告第三讲，政研室和高技术司负责同志作专题辅导，机关党委负责同志主持会议。 会议围绕“‘十五五’规划《建议》中的重点亮点”和“贯彻落实党的二十届四中全会精神、因地制宜发展新质生产力”，深入阐释了“十五五”时期的重要地位、发展环境、指导方针、主要目标、重要原则和任务举措，全面解读了发展新质生产力的科学内涵、根本目的、方法要求和实践路径。 会议要求，一要在学思践悟、融会贯通上持续用力。突出全面系统学、深入思考学、联系实际学，引导党员干部反复研读全会公报、《建议》原文和权威解读，..."
+            }
+          ]
         }
       ]
     },
@@ -178,7 +209,74 @@
         {
           "name": "埃森哲洞察",
           "url": "https://rss.diffbot.com/rss?url=https://www.accenture.cn/cn-zh/insights-index",
-          "entries": []
+          "entries": [
+            {
+              "title": "AI无处不在。本报告围绕四大新趋势，探讨AI自主将为当今信任稀缺的社会带来哪些变化与机遇。",
+              "link": "https://www.accenture.cn/cn-zh/insights/technology/technology-trends-2025",
+              "pubDate": null,
+              "description": "AI无处不在。本报告围绕四大新趋势，探讨AI自主将为当今信任稀缺的社会带来哪些变化与机遇。"
+            },
+            {
+              "title": "企业逐渐意识到，传统商业增效策略的回报正日益递减。为了创造价值，供应链不仅需要追求成本效益，还要在速度、敏捷与可持续方面实现突破。人工智能驱动的自主化会是实现这一目标的关键吗？",
+              "link": "https://www.accenture.cn/cn-zh/insights/supply-chain/making-autonomous-supply-chains-real",
+              "pubDate": null,
+              "description": "企业逐渐意识到，传统商业增效策略的回报正日益递减。为了创造价值，供应链不仅需要追求成本效益，还要在速度、敏捷与可持续方面实现突破。人工智能驱动的自主化会是实现这一目标的关键吗？"
+            },
+            {
+              "title": "随着人们重新平衡他们与技术、彼此以及周围世界的关系，商业和品牌面临的挑战和机遇也随之出现。",
+              "link": "https://www.accenture.cn/cn-zh/insights/song/accenture-life-trends",
+              "pubDate": null,
+              "description": "随着人们重新平衡他们与技术、彼此以及周围世界的关系，商业和品牌面临的挑战和机遇也随之出现。"
+            },
+            {
+              "title": "迈入生成式人工智能新时代",
+              "link": "https://www.accenture.cn/cn-zh/insights/local/zhanwang-202302-generative-ai",
+              "pubDate": null,
+              "description": "提要：ChatGPT背后的技术将重塑商业形态和运营。中国企业需要重新构想工作方式，持续投入业务运营和人员培训，实现人工智能技术跨越式变革。"
+            },
+            {
+              "title": "这家电信领军企业如何以数据、AI 及全新运营方式推动数字化转型。",
+              "link": "https://www.accenture.cn/cn-zh/case-studies/communications-media/vodafone-pioneers-commercialized-shared-services-operations",
+              "pubDate": null,
+              "description": "这家电信领军企业如何以数据、AI 及全新运营方式推动数字化转型。"
+            },
+            {
+              "title": "中国消费者正用选择和行动重塑消费版图。于企业而言，唯有洞察消费者的真实需求，并在价值、情感和体验多维度上给予充分回应，方能在不断变化的市场中赢得持久信任与增长。",
+              "link": "https://www.accenture.cn/cn-zh/insights/consulting/chinese-consumer-insights-2025",
+              "pubDate": null,
+              "description": "中国消费者正用选择和行动重塑消费版图。于企业而言，唯有洞察消费者的真实需求，并在价值、情感和体验多维度上给予充分回应，方能在不断变化的市场中赢得持久信任与增长。"
+            },
+            {
+              "title": "网络风险加剧，对企业的安全防护能力提出严峻挑战。如何提前构建防御体系？在今年的《网络安全韧性》报告中，了解如何在拥抱 AI 转型的同时建立韧性。",
+              "link": "https://www.accenture.cn/cn-zh/insights/security/state-cybersecurity-2025",
+              "pubDate": null,
+              "description": "网络风险加剧，对企业的安全防护能力提出严峻挑战。如何提前构建防御体系？在今年的《网络安全韧性》报告中，了解如何在拥抱 AI 转型的同时建立韧性。"
+            },
+            {
+              "title": "数字化转型伙伴说",
+              "link": "https://www.accenture.cn/cn-zh/insights/local/zhanwang-202302-voices-from-client",
+              "pubDate": null,
+              "description": "2023年世界人工智能大会期间，埃森哲携手第一财经，邀请到学术专家和诸多领军企业的高管共聚一堂，围绕“生成式AI：重塑企业”的主题，从战略、技术、人才与责任等方面，探索全面重塑时代下的企业发展关键动能。"
+            },
+            {
+              "title": "Énergir 通过 SAP Ariba 激发采购强劲动能",
+              "link": "https://www.accenture.cn/cn-zh/case-studies/supply-chain/energir-supercharges-procurement-sap-ariba",
+              "pubDate": null,
+              "description": "这家加拿大公用事业企业如何重塑其采购与寻源管理，在推进可持续发展目标的同时实现提升效率与节约成本的双重飞跃。"
+            },
+            {
+              "title": "阿拉伯联合酋长国正朝着互联互通、数字优先的经济形态进行大胆转型，重塑其金融服务生态系统，并致力于将自身打造为全球领先的金融科技中心。",
+              "link": "https://www.accenture.cn/cn-zh/case-studies/data-ai/revolutionizing-uae-payment-systems",
+              "pubDate": null,
+              "description": ""
+            },
+            {
+              "title": "埃森哲与沃顿商学院联合启动研究计划，探索如何将人类优势与人工智能和机器人技术相结合，深入分析这一转型对个人、经济、组织和社会的影响。",
+              "link": "https://www.accenture.cn/cn-zh/insights/strategy/humans-ai-robots",
+              "pubDate": null,
+              "description": ""
+            }
+          ]
         },
         {
           "name": "Gartner",
@@ -332,14 +430,7 @@
         {
           "name": "北京大学国家发展研究院",
           "url": "rsshub://pku/nsd/gd",
-          "entries": [
-            {
-              "title": "张俊妮：人口形势及相关政策建议",
-              "link": "https://mp.weixin.qq.com/s/VhHkJYiVI6oRmzw1snFXzQ",
-              "pubDate": "2025-11-26T16:00:00",
-              "description": "中国人口或骤降至4亿！大家都不生孩子，移民就是一个提振人口的重要选项。日本已开始引入印度移民，我们未来该怎么办？83年之后我国的人口会回到4亿韩国总和生育率从1.3降到1.0用了17年而我们只用了3年人口即命运我们应该以此为鉴在形势还没有这么严重的时候就把人口问题上升到更高的战略高度欢迎点击观看新经济学家智库xTAIXUEx张俊妮（点击下方观看视频）▼我是北京大学国家发展研究院副教授张俊妮，我在贝叶斯人口统计学领域已经有12年的研究经验，今天我想给大家分享的主题是《人口形势及相关政策建议》。我国人口在100年后会回到4亿左右，回到100年前所说的四万万同胞，这是我4年之前所做的预测，当时..."
-            }
-          ]
+          "entries": []
         },
         {
           "name": "阿里研究院",
