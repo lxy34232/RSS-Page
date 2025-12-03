@@ -1,5 +1,6 @@
 ---
 import FeedItem from './FeedItem.astro';
+import EditorRecommendation from './EditorRecommendation.astro';
 
 export interface FeedEntry {
   title: string;
@@ -8,12 +9,19 @@ export interface FeedEntry {
   description?: string;
 }
 
+export interface Recommendation {
+  title: string;
+  url: string;
+  description?: string;
+}
+
 export interface Props {
   name: string;
   entries: FeedEntry[];
+  recommendations?: Recommendation[];
 }
 
-const { name, entries } = Astro.props;
+const { name, entries, recommendations = [] } = Astro.props;
 
 // Number of items to show initially
 const INITIAL_DISPLAY_COUNT = 5;
@@ -34,40 +42,47 @@ const sectionId = `source-${createId(name)}`;
     </div>
     <span class="entry-count">{entries.length} 条内容</span>
   </div>
-  <div class="entries-container" id={`${sectionId}-entries`}>
-    {entries.length > 0 ? (
-      entries.map((entry, index) => (
-        <div class={`entry-wrapper ${index >= INITIAL_DISPLAY_COUNT ? 'hidden-entry' : ''}`}>
-          <FeedItem
-            title={entry.title}
-            link={entry.link}
-            pubDate={entry.pubDate}
-            description={entry.description}
-          />
-        </div>
-      ))
-    ) : (
-      <div class="no-entries">
-        <p>该来源暂无最近内容</p>
+  <div class="source-content-layout">
+    <div class="entries-column">
+      <div class="entries-container" id={`${sectionId}-entries`}>
+        {entries.length > 0 ? (
+          entries.map((entry, index) => (
+            <div class={`entry-wrapper ${index >= INITIAL_DISPLAY_COUNT ? 'hidden-entry' : ''}`}>
+              <FeedItem
+                title={entry.title}
+                link={entry.link}
+                pubDate={entry.pubDate}
+                description={entry.description}
+              />
+            </div>
+          ))
+        ) : (
+          <div class="no-entries">
+            <p>该来源暂无最近内容</p>
+          </div>
+        )}
       </div>
-    )}
-  </div>
-  {hasMoreEntries && (
-    <div class="expand-section">
-      <button 
-        class="expand-btn" 
-        data-section={sectionId}
-        aria-expanded="false"
-        aria-controls={`${sectionId}-entries`}
-      >
-        <span class="expand-text">查看更多 ({entries.length - INITIAL_DISPLAY_COUNT} 条)</span>
-        <span class="collapse-text">收起内容</span>
-        <svg class="expand-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
-          <path fill="currentColor" d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
-        </svg>
-      </button>
+      {hasMoreEntries && (
+        <div class="expand-section">
+          <button 
+            class="expand-btn" 
+            data-section={sectionId}
+            aria-expanded="false"
+            aria-controls={`${sectionId}-entries`}
+          >
+            <span class="expand-text">查看更多 ({entries.length - INITIAL_DISPLAY_COUNT} 条)</span>
+            <span class="collapse-text">收起内容</span>
+            <svg class="expand-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+              <path fill="currentColor" d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
+            </svg>
+          </button>
+        </div>
+      )}
     </div>
-  )}
+    <div class="recommendation-column">
+      <EditorRecommendation recommendations={recommendations} />
+    </div>
+  </div>
 </div>
 
 <style>
@@ -105,6 +120,39 @@ const sectionId = `source-${createId(name)}`;
     background: var(--background-color);
     padding: 0.25rem 0.75rem;
     border-radius: 20px;
+  }
+
+  .source-content-layout {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 1.5rem;
+  }
+
+  @media (max-width: 1200px) {
+    .source-content-layout {
+      grid-template-columns: 1fr 260px;
+      gap: 1rem;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .source-content-layout {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .entries-column {
+    min-width: 0;
+  }
+
+  .recommendation-column {
+    min-width: 0;
+  }
+
+  @media (max-width: 900px) {
+    .recommendation-column {
+      order: -1;
+    }
   }
 
   .entries-container {

@@ -14,12 +14,19 @@ export interface Source {
   entries: FeedEntry[];
 }
 
+export interface Recommendation {
+  title: string;
+  url: string;
+  description?: string;
+}
+
 export interface Props {
   groupName: string;
   sources: Source[];
+  recommendations: Record<string, Recommendation[]>;
 }
 
-const { groupName, sources } = Astro.props;
+const { groupName, sources, recommendations } = Astro.props;
 
 // Helper function to create URL-friendly IDs
 function createId(text: string): string {
@@ -34,6 +41,7 @@ function createId(text: string): string {
       <SourceSection
         name={source.name}
         entries={source.entries}
+        recommendations={recommendations[source.name] || []}
       />
     ))}
   </div>
