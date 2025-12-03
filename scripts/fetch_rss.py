@@ -27,7 +27,7 @@ except ImportError:
 DEFAULT_DAYS_FILTER = 7
 
 # Maximum number of entries to fetch per feed
-MAX_ENTRIES_PER_FEED = 10
+MAX_ENTRIES_PER_FEED = 30
 
 # RSSHub base URL (can be overridden via environment variable)
 RSSHUB_BASE_URL = os.environ.get("RSSHUB_BASE_URL", "https://rsshub.rssforever.com")
@@ -40,6 +40,14 @@ RSS_FEED_GROUPS = [
             {
                 "name": "中国科学院科研进展",
                 "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml"
+            },
+            {
+                "name": "工信部政策文件",
+                "url": "https://www.miit.gov.cn/api-gateway/jpaas-plugins-web-server/front/rss/getinfo?webId=8d828e408d90447786ddbe128d495e9e&columnIds=925fa8f4afd44e53818794ed96d9876e%2C30f92eeafcfd4685984dfb793a2c5fff"
+            },
+            {
+                "name": "发改委发展改革板块",
+                "url": "rsshub://gov/ndrc/fggz"
             }
         ]
     },
@@ -47,8 +55,20 @@ RSS_FEED_GROUPS = [
         "groupName": "咨询机构",
         "feeds": [
             {
-                "name": "KPMG Insights",
-                "url": "rsshub://kpmg/insights"
+                "name": "麦肯锡全球研究院",
+                "url": "rsshub://mckinsey/cn/19"
+            },
+            {
+                "name": "毕马威洞察",
+                "url": "http://139.162.74.205/kpmg/insights"
+            },
+            {
+                "name": "埃森哲洞察",
+                "url": "https://rss.diffbot.com/rss?url=https://www.accenture.cn/cn-zh/insights-index"
+            },
+            {
+                "name": "Gartner",
+                "url": "https://rss.diffbot.com/atom?url=https://www.gartner.com/en/newsroom/archive"
             }
         ]
     },
@@ -56,17 +76,16 @@ RSS_FEED_GROUPS = [
         "groupName": "研究院所",
         "feeds": [
             {
-                "name": "Forrester Blogs",
-                "url": "https://www.forrester.com/blogs/feed/"
-            }
-        ]
-    },
-    {
-        "groupName": "行业信息",
-        "feeds": [
+                "name": "中国科学院科研进展",
+                "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml"
+            },
             {
-                "name": "NASA APOD",
-                "url": "rsshub://nasa/apod"
+                "name": "北京大学国家发展研究院",
+                "url": "rsshub://pku/nsd/gd"
+            },
+            {
+                "name": "阿里研究院",
+                "url": "https://wechat2rss.bestblogs.dev/feed/e2f1190c120f7f3d74b630bfcfe9e58296bd535c.xml"
             }
         ]
     }
