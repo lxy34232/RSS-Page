@@ -4,40 +4,7 @@ import GroupSection from '../components/GroupSection.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import fs from 'node:fs';
 import path from 'node:path';
-
-interface FeedEntry {
-  title: string;
-  link: string;
-  pubDate?: string;
-  description?: string;
-}
-
-interface Source {
-  name: string;
-  url: string;
-  entries: FeedEntry[];
-}
-
-interface Group {
-  groupName: string;
-  sources: Source[];
-}
-
-interface FeedData {
-  lastUpdated: string;
-  daysFilter: number;
-  groups: Group[];
-}
-
-interface Recommendation {
-  title: string;
-  url: string;
-  description?: string;
-}
-
-interface RecommendationsData {
-  recommendations: Record<string, Recommendation[]>;
-}
+import type { FeedData, RecommendationsData } from '../types';
 
 // Read the RSS data from the JSON file
 let feedData: FeedData = {

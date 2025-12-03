@@ -1,24 +1,6 @@
 ---
 import SourceSection from './SourceSection.astro';
-
-export interface FeedEntry {
-  title: string;
-  link: string;
-  pubDate?: string;
-  description?: string;
-}
-
-export interface Source {
-  name: string;
-  url: string;
-  entries: FeedEntry[];
-}
-
-export interface Recommendation {
-  title: string;
-  url: string;
-  description?: string;
-}
+import type { Source, Recommendation } from '../types';
 
 export interface Props {
   groupName: string;

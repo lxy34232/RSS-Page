@@ -1,19 +1,7 @@
 ---
 import FeedItem from './FeedItem.astro';
 import EditorRecommendation from './EditorRecommendation.astro';
-
-export interface FeedEntry {
-  title: string;
-  link: string;
-  pubDate?: string;
-  description?: string;
-}
-
-export interface Recommendation {
-  title: string;
-  url: string;
-  description?: string;
-}
+import type { FeedEntry, Recommendation } from '../types';
 
 export interface Props {
   name: string;
