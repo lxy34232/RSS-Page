@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-03T12:42:53.188567",
+  "lastUpdated": "2025-12-03T13:20:47.808062",
   "daysFilter": 180,
   "groups": [
     {
@@ -133,8 +133,153 @@
         },
         {
           "name": "工信部政策文件",
-          "url": "https://www.miit.gov.cn/api-gateway/jpaas-plugins-web-server/front/rss/getinfo?webId=8d828e408d90447786ddbe128d495e9e&columnIds=925fa8f4afd44e53818794ed96d9876e%2C30f92eeafcfd4685984dfb793a2c5fff",
-          "entries": []
+          "url": "rsshub://gov/miit/zcjd",
+          "entries": [
+            {
+              "title": "一图读懂《关于增强消费品供需适配性进一步促进消费的实施方案》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_27c8fd41964644d8b1700cc0888a5872.html",
+              "pubDate": "2025-11-26T06:32:00",
+              "description": ""
+            },
+            {
+              "title": "一图读懂《关于2026—2027年度乘用车企业平均燃料消耗量与新能源汽车积分管理有关事项的 通知》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_d31e1c89a308422bbc198c55a31f7af7.html",
+              "pubDate": "2025-11-10T10:44:00",
+              "description": ""
+            },
+            {
+              "title": "《民用爆炸物品销售许可实施办法（修订）》解读",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_826359fe8f6c446a8812f143f103042d.html",
+              "pubDate": "2025-11-06T02:53:00",
+              "description": "2025年10月21日，工业和信息化部公布《民用爆炸物品销售许可实施办法（修订）》（工业和信息化部令第72号，以下简称《办法》）。为了更好地理解和执行《办法》，工业和信息化部产业政策与法规司负责同志对《办法》进行了解读。问：修订《办法》的背景是什么？答：现行《办法》自2006年实施以来，在规范民用爆炸物品销售许可程序、维护民用爆炸物品行业安全有序发展等方面发挥了重要作用。随着民用爆炸物品管理体制、行业发展和企业经营模式的变化，民用爆炸物品销售许可管理出现了一些新的情况和问题，有必要修订《办法》，进一步加强和优化民用爆炸物品销售管理，规范行业发展秩序，保障人民群众生命和财产安全。问：《办法..."
+            },
+            {
+              "title": "一图读懂《工业和信息化部办公厅 金融监管总局办公厅关于组织开展第二批次网络安全保险服务试点工作的通知》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_a56f4ae5c25642d794c35e1f0db23aa8.html",
+              "pubDate": "2025-11-04T12:37:00",
+              "description": ""
+            },
+            {
+              "title": "一图读懂《节水装备高质量发展实施方案（2025—2030年》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_8eb39c92b0e44785b04cf500cdc99e0d.html",
+              "pubDate": "2025-11-03T02:02:00",
+              "description": ""
+            },
+            {
+              "title": "工业和信息化部节能与综合利用司负责同志解读《节水装备高质量发展实施方案（2025—2030年》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_eb90088683e648bd8962397cf34a0f59.html",
+              "pubDate": "2025-11-03T01:58:00",
+              "description": "为贯彻落实《中华人民共和国水法》《节约用水条例》，落实党中央、国务院关于实行水资源刚性约束制度的部署要求，加快以节水装备高质量发展推动水资源节约集约利用，促进经济社会发展全面绿色转型，工业和信息化部、水利部近日联合发布实施《节水装备高质量发展实施方案（2025—2030年）》（工信部联节函〔2025〕234号，以下简称《实施方案》）。工业和信息化部节能与综合利用司负责同志就《实施方案》出台的背景和意义、主要内容等回答了记者的提问。问：请介绍一下《实施方案》出台的背景和意义?答：党中央、国务院高度重视节水工作。2014年，习近平总书记在中央财经领导小组第五次全体会议上提出“节水优先、空间均..."
+            },
+            {
+              "title": "为基本实现社会主义现代化夯实基础、全面发力——从“十五五”规划建议看奋力开创中国式现代化建设新局面",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_8060d58408f14a3d95fa8190aaf69637.html",
+              "pubDate": "2025-10-29T01:18:00",
+              "description": "新华社北京10月28日电 题：为基本实现社会主义现代化夯实基础、全面发力——从“十五五”规划建议看奋力开创中国式现代化建设新局面新华社记者10月28日，《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》全文发布。党的二十届四中全会上，习近平总书记就《建议》起草的有关情况向全会作说明时指出，“十五五”时期是夯实基础、全面发力的关键时期，制定和实施好“十五五”规划，就能为2035年基本实现社会主义现代化奠定更加坚实的基础。全会通过的“十五五”规划建议，准确把握“十五五”时期在基本实现社会主义现代化进程中的重要地位，对“十五五”时期我国经济社会发展作出系统谋划和战略部署，为乘势而上、..."
+            },
+            {
+              "title": "一图读懂2025年度智能制造系统解决方案“揭榜挂帅”项目申报和已揭榜项目验收工作通知",
+              "link": "http://www.miit.gov.cn/jgsj/zbys/gzdt/art/2025/art_d3908f61033c46ffa2177ef9d9b53844.html",
+              "pubDate": "2025-10-21T12:39:00",
+              "description": ""
+            },
+            {
+              "title": "一图读懂《工业和信息化部办公厅关于开展城域“毫秒用算”专项行动的通知》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_22966e51096f485086cc0fb0e20493b9.html",
+              "pubDate": "2025-10-16T08:30:00",
+              "description": ""
+            },
+            {
+              "title": "一图读懂《深入推动服务型制造创新发展实施方案（2025—2028年）》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_1af5236640d449b490f3247eb8c91cea.html",
+              "pubDate": "2025-10-11T08:33:00",
+              "description": ""
+            },
+            {
+              "title": "《深入推动服务型制造创新发展实施方案（2025—2028年）》解读",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_25ce3f508c0f4733bd10588f06647e26.html",
+              "pubDate": "2025-10-11T08:26:00",
+              "description": "近日，工业和信息化部、人力资源社会保障部、商务部、市场监管总局、国家统计局、国家知识产权局、中国工程院等七部门联合印发《深入推动服务型制造创新发展实施方案（2025—2028年）》（以下简称《实施方案》）。为更好理解和落实《实施方案》，现就有关内容解读如下。一、《实施方案》出台的背景是什么？服务型制造是推动先进制造业与现代服务业深度融合、促进信息化和工业化深度融合、加快建设现代化产业体系的重要举措，对增强制造业价值创造能力、提升制造业发展质量效益具有重要作用。党中央、国务院高度重视发展服务型制造。习近平总书记强调：“要推动先进制造业和现代服务业深度融合”。党的二十大报告强调“推动现代服务..."
+            },
+            {
+              "title": "一图读懂《工业和信息化部办公厅关于组织开展2025年重大环保技术装备创新任务揭榜挂帅工作的通知》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_bb21bfbbd2e54ca8a446837f831b3fb3.html",
+              "pubDate": "2025-10-11T01:25:00",
+              "description": ""
+            },
+            {
+              "title": "一图读懂《工业和信息化部办公厅关于开展2025年度绿色工厂推荐工作的通知》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_24eb2abaad2544c5bd9364a547c444d2.html",
+              "pubDate": "2025-10-09T08:07:00",
+              "description": ""
+            },
+            {
+              "title": "《云计算综合标准化体系建设指南（2025版）》一图读懂",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_d097383bd90f42b99ef2d75ce1e77343.html",
+              "pubDate": "2025-10-09T02:55:00",
+              "description": ""
+            },
+            {
+              "title": "一图读懂《机械行业稳增长工作方案（2025—2026年）》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_5de91d7e5ac84428a650d75461f2bcba.html",
+              "pubDate": "2025-09-29T06:50:00",
+              "description": ""
+            },
+            {
+              "title": "《机械行业稳增长工作方案（2025—2026年）》解读",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_43a8ebf0a2814d67be81e9c39b5d20c7.html",
+              "pubDate": "2025-09-29T03:33:00",
+              "description": "近日，工业和信息化部、农业农村部、商务部、中国人民银行、海关总署、市场监管总局六部门联合印发《机械行业稳增长工作方案（2025—2026年）》（工信部联通装〔2025〕205号，以下简称《工作方案》）。为更好理解和落实《工作方案》，现就有关内容解读如下：一、出台背景中央经济工作会议强调，要坚持稳中求进工作总基调，以进促稳，保持经济稳定增长。机械行业是为国民经济、国防军工和民生事业提供技术装备的基础性、战略性和引领性行业，是工业经济“压舱石”，是发展新质生产力、建设现代化产业体系的重要载体。当前，机械行业面临着外部冲击影响加大、国内需求不足、非理性竞争加剧等问题，行业稳定运行面临着挑战。亟..."
+            },
+            {
+              "title": "一图读懂《有色金属行业稳增长工作方案（2025—2026年）》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_7630a73b94374d12a148b86a0a473973.html",
+              "pubDate": "2025-09-28T06:51:00",
+              "description": ""
+            },
+            {
+              "title": "《有色金属行业稳增长工作方案（2025—2026年）》解读",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_cf7700ba13814fdbb4e633d6d7cf21c2.html",
+              "pubDate": "2025-09-28T06:45:00",
+              "description": "近日，工业和信息化部、自然资源部、商务部等8部门联合印发《有色金属行业稳增长工作方案（2025—2026年）》（以下简称《工作方案》）。为做好《工作方案》贯彻实施，现将有关内容解读如下：一、《工作方案》的出台背景是什么？有色金属行业是重要的基础性产业，资源种类众多、产业关联度高、战略价值突出。近年来，我国有色金属行业快速发展，已成为全球最大的有色金属生产国和消费国。2024年规上有色金属工业增加值同比增长8.9%，较工业平均增速高出3.1个百分点，十种常用有色金属产量7919万吨，同比增长4.3%，有色金属行业营业收入和利润同比分别增长15.8%、16.5%，有力支撑了航空航天、新能源、..."
+            },
+            {
+              "title": "一图读懂《石化化工行业稳增长工作方案（2025－2026年）》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_dfe8437ffd1f4a7d9aa240c15de709a7.html",
+              "pubDate": "2025-09-25T11:46:00",
+              "description": ""
+            },
+            {
+              "title": "《石化化工行业稳增长工作方案（2025－2026 年）》解读",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_40d37c66e0f2403382b2bd5011a8cc95.html",
+              "pubDate": "2025-09-25T11:45:00",
+              "description": "近日，工业和信息化部、生态环境部、应急管理部、中国人民银行、市场监管总局、金融监管总局、供销合作总社等7部门联合发布《石化化工行业稳增长工作方案（2025－2026年）》（以下简称《工作方案》）。为做好《工作方案》贯彻实施，现就有关内容解读如下。一、《工作方案》出台背景是什么石化化工行业是国民经济的重要基础产业、支柱产业，经济总量大、产业关联度高，事关工业稳定增长、经济平稳运行。经过多年发展，我国已成为全球最大的石化化工产品生产国和消费国，2024年石化化工行业增加值占工业的14.9%，增加值增速6.6%，较工业平均水平高0.8个百分点，炼油、乙烯、合成树脂等20多类基础化学品产品产能居..."
+            },
+            {
+              "title": "一图读懂《建材行业稳增长工作方案（2025—2026年）》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_2f6b9ee0400d4645bb7d54d8d2f3b975.html",
+              "pubDate": "2025-09-24T07:02:00",
+              "description": ""
+            },
+            {
+              "title": "一图读懂《钢铁行业稳增长工作方案（2025—2026年）》",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_073333e131e84a78bd8eafa0aeea0f59.html",
+              "pubDate": "2025-09-22T03:40:00",
+              "description": ""
+            },
+            {
+              "title": "《钢铁行业稳增长工作方案（2025—2026年）》解读",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_019016ca7f5a4d3bb082e6dd61416e48.html",
+              "pubDate": "2025-09-22T02:34:00",
+              "description": "近日，工业和信息化部、自然资源部、生态环境部、商务部、市场监管总局等5部门联合印发《钢铁行业稳增长工作方案（2025—2026年）》（以下简称《方案》）。现就有关内容解读如下。一、《方案》出台的背景是什么？钢铁产业是国民经济的重要基础产业、支柱产业，对稳定工业增长，支撑经济平稳运行至关重要。近年来，钢铁行业持续下行，稳增长压力较大。一是钢材消费达峰，需求持续下降。房地产用钢需求短期难以回升，传统建筑用材需求减少，基础设施建设对需求贡献潜力降低，汽车、造船等制造业需求虽有所增长，但难以弥补传统建材减量。贸易摩擦多发频发，钢材直接出口不确定性增加。供给能力仍然处于高位，企业竞争进一步加剧。二..."
+            },
+            {
+              "title": "《轻工业稳增长工作方案（2025—2026年）》一图读懂",
+              "link": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_2c65910ea4814ccea969b0b1ae3a8b6d.html",
+              "pubDate": "2025-09-18T08:43:00",
+              "description": ""
+            }
+          ]
         },
         {
           "name": "发改委发展改革板块",
@@ -298,8 +443,8 @@
       "groupName": "咨询机构",
       "sources": [
         {
-          "name": "麦肯锡全球研究院",
-          "url": "rsshub://mckinsey/cn/19",
+          "name": "麦肯锡洞察",
+          "url": "rsshub://mckinsey/cn",
           "entries": []
         },
         {
@@ -431,7 +576,74 @@
         {
           "name": "埃森哲洞察",
           "url": "https://rss.diffbot.com/rss?url=https://www.accenture.cn/cn-zh/insights-index",
-          "entries": []
+          "entries": [
+            {
+              "title": "AI无处不在。本报告围绕四大新趋势，探讨AI自主将为当今信任稀缺的社会带来哪些变化与机遇。",
+              "link": "https://www.accenture.cn/cn-zh/insights/technology/technology-trends-2025",
+              "pubDate": null,
+              "description": "AI无处不在。本报告围绕四大新趋势，探讨AI自主将为当今信任稀缺的社会带来哪些变化与机遇。"
+            },
+            {
+              "title": "企业逐渐意识到，传统商业增效策略的回报正日益递减。为了创造价值，供应链不仅需要追求成本效益，还要在速度、敏捷与可持续方面实现突破。人工智能驱动的自主化会是实现这一目标的关键吗？",
+              "link": "https://www.accenture.cn/cn-zh/insights/supply-chain/making-autonomous-supply-chains-real",
+              "pubDate": null,
+              "description": "企业逐渐意识到，传统商业增效策略的回报正日益递减。为了创造价值，供应链不仅需要追求成本效益，还要在速度、敏捷与可持续方面实现突破。人工智能驱动的自主化会是实现这一目标的关键吗？"
+            },
+            {
+              "title": "随着人们重新平衡他们与技术、彼此以及周围世界的关系，商业和品牌面临的挑战和机遇也随之出现。",
+              "link": "https://www.accenture.cn/cn-zh/insights/song/accenture-life-trends",
+              "pubDate": null,
+              "description": "随着人们重新平衡他们与技术、彼此以及周围世界的关系，商业和品牌面临的挑战和机遇也随之出现。"
+            },
+            {
+              "title": "迈入生成式人工智能新时代",
+              "link": "https://www.accenture.cn/cn-zh/insights/local/zhanwang-202302-generative-ai",
+              "pubDate": null,
+              "description": "提要：ChatGPT背后的技术将重塑商业形态和运营。中国企业需要重新构想工作方式，持续投入业务运营和人员培训，实现人工智能技术跨越式变革。"
+            },
+            {
+              "title": "这家电信领军企业如何以数据、AI 及全新运营方式推动数字化转型。",
+              "link": "https://www.accenture.cn/cn-zh/case-studies/communications-media/vodafone-pioneers-commercialized-shared-services-operations",
+              "pubDate": null,
+              "description": "这家电信领军企业如何以数据、AI 及全新运营方式推动数字化转型。"
+            },
+            {
+              "title": "中国消费者正用选择和行动重塑消费版图。于企业而言，唯有洞察消费者的真实需求，并在价值、情感和体验多维度上给予充分回应，方能在不断变化的市场中赢得持久信任与增长。",
+              "link": "https://www.accenture.cn/cn-zh/insights/consulting/chinese-consumer-insights-2025",
+              "pubDate": null,
+              "description": "中国消费者正用选择和行动重塑消费版图。于企业而言，唯有洞察消费者的真实需求，并在价值、情感和体验多维度上给予充分回应，方能在不断变化的市场中赢得持久信任与增长。"
+            },
+            {
+              "title": "网络风险加剧，对企业的安全防护能力提出严峻挑战。如何提前构建防御体系？在今年的《网络安全韧性》报告中，了解如何在拥抱 AI 转型的同时建立韧性。",
+              "link": "https://www.accenture.cn/cn-zh/insights/security/state-cybersecurity-2025",
+              "pubDate": null,
+              "description": "网络风险加剧，对企业的安全防护能力提出严峻挑战。如何提前构建防御体系？在今年的《网络安全韧性》报告中，了解如何在拥抱 AI 转型的同时建立韧性。"
+            },
+            {
+              "title": "数字化转型伙伴说",
+              "link": "https://www.accenture.cn/cn-zh/insights/local/zhanwang-202302-voices-from-client",
+              "pubDate": null,
+              "description": "2023年世界人工智能大会期间，埃森哲携手第一财经，邀请到学术专家和诸多领军企业的高管共聚一堂，围绕“生成式AI：重塑企业”的主题，从战略、技术、人才与责任等方面，探索全面重塑时代下的企业发展关键动能。"
+            },
+            {
+              "title": "Énergir 通过 SAP Ariba 激发采购强劲动能",
+              "link": "https://www.accenture.cn/cn-zh/case-studies/supply-chain/energir-supercharges-procurement-sap-ariba",
+              "pubDate": null,
+              "description": "这家加拿大公用事业企业如何重塑其采购与寻源管理，在推进可持续发展目标的同时实现提升效率与节约成本的双重飞跃。"
+            },
+            {
+              "title": "阿拉伯联合酋长国正朝着互联互通、数字优先的经济形态进行大胆转型，重塑其金融服务生态系统，并致力于将自身打造为全球领先的金融科技中心。",
+              "link": "https://www.accenture.cn/cn-zh/case-studies/data-ai/revolutionizing-uae-payment-systems",
+              "pubDate": null,
+              "description": ""
+            },
+            {
+              "title": "埃森哲与沃顿商学院联合启动研究计划，探索如何将人类优势与人工智能和机器人技术相结合，深入分析这一转型对个人、经济、组织和社会的影响。",
+              "link": "https://www.accenture.cn/cn-zh/insights/strategy/humans-ai-robots",
+              "pubDate": null,
+              "description": ""
+            }
+          ]
         },
         {
           "name": "Gartner",
@@ -643,128 +855,68 @@
           ]
         },
         {
-          "name": "北京大学国家发展研究院",
-          "url": "rsshub://pku/nsd/gd",
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/feed/",
           "entries": [
             {
-              "title": "张俊妮：人口形势及相关政策建议",
-              "link": "https://mp.weixin.qq.com/s/VhHkJYiVI6oRmzw1snFXzQ",
-              "pubDate": "2025-11-26T16:00:00",
-              "description": "中国人口或骤降至4亿！大家都不生孩子，移民就是一个提振人口的重要选项。日本已开始引入印度移民，我们未来该怎么办？83年之后我国的人口会回到4亿韩国总和生育率从1.3降到1.0用了17年而我们只用了3年人口即命运我们应该以此为鉴在形势还没有这么严重的时候就把人口问题上升到更高的战略高度欢迎点击观看新经济学家智库xTAIXUEx张俊妮（点击下方观看视频）▼我是北京大学国家发展研究院副教授张俊妮，我在贝叶斯人口统计学领域已经有12年的研究经验，今天我想给大家分享的主题是《人口形势及相关政策建议》。我国人口在100年后会回到4亿左右，回到100年前所说的四万万同胞，这是我4年之前所做的预测，当时..."
+              "title": "Accelerating VMware migrations with a factory model approach",
+              "link": "https://www.technologyreview.com/2025/12/03/1128488/accelerating-vmware-migrations-with-a-factory-model-approach/",
+              "pubDate": "2025-12-03T12:52:40",
+              "description": "In 1913, Henry Ford cut the time it took to build a Model T from 12 hours to just over 90 minutes. He accomplished this feat through a revolutionary breakthrough in process design: Instead of skilled craftsmen building a car from scratch by hand, Ford created an assembly line where standardized t..."
             },
             {
-              "title": "邓子梁：美国制造业回流与中国产业链外迁",
-              "link": "https://mp.weixin.qq.com/s/5hIXQzy4fDQJBLsxh8o-Yg",
-              "pubDate": "2025-11-13T16:00:00",
-              "description": "题记：本文根据北京大学国家发展研究院邓子梁教授2025年10月27日在第37期人大美研学术报告会上的讲座内容整理。美国制造业回流与中国产业链外迁美国制造业回流问题具有深刻的现实背景。从历史演进看，美国制造业就业人数占非农就业人口的比例在1944年达到39%的峰值，此后持续下降至8%。与此同时，美国制造业增加值占GDP的比重也呈长期下滑趋势。目前，中国制造业增加值已占全球的32%，超过美国、日本、德国和韩国的总和，而美国占比已降至约16%。全球贸易格局相较21世纪初发生根本性转变，中国在全球贸易中的重要性已显著超越美国，而且这一趋势具有较强的不可逆性。另一方面，美国在制造业创新实力方面仍保..."
+              "title": "The Download: AI’s impact on the economy, and DeepSeek strikes again",
+              "link": "https://www.technologyreview.com/2025/12/02/1128647/the-download-ais-impact-on-the-economy-and-deepseek-strikes-again/",
+              "pubDate": "2025-12-02T13:10:00",
+              "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The State of AI: Welcome to the economic singularity —David Rotman and Richard Waters Any far-reaching new technology is always uneven in its adoption, but few..."
             },
             {
-              "title": "杜晓梦，王进杰，何晓贝：中国企业“一带一路”出海的成功经验、挑战与政策期待",
-              "link": "https://mp.weixin.qq.com/s/FqutyZceecyiBgeJb32Jag",
-              "pubDate": "2025-11-10T16:00:00",
-              "description": "题记：本文为北大国发院研究员杜晓梦，王进杰，何晓贝合作的文章《中国企业“一带一路”出海的成功经验、挑战与政策期待》，收录于《共享与发展：中国与全球南方》一书。自2013年“一带一路”倡议提出以来，中国企业的全球化进程显著加快，尤其在对外投资领域，企业数量和投资金额持续增长。越来越多的中国企业走出国门，参与全球市场的竞争，尤其是在“一带一路”沿线国家，积极投入基础设施建设、产业发展及经济合作，极大地促进了当地的经济增长和社会发展。然而，随着中国企业在全球化进程中的不断深入，面临的挑战也日益复杂。企业在拓展海外市场时，除了要面对不同国家市场环境的差异，还必须克服文化冲突、法律风险、人才问题等..."
+              "title": "The State of AI: Welcome to the economic singularity",
+              "link": "https://www.technologyreview.com/2025/12/01/1127872/the-state-of-ai-welcome-to-the-economic-singularity/",
+              "pubDate": "2025-12-01T16:30:00",
+              "description": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday for the next two weeks, writers from both publications will debate one aspect of the generative AI revolution reshaping global power. This week, Richard Waters, FT columnist an..."
             },
             {
-              "title": "周其仁：全球变局之下企业如何寻路",
-              "link": "https://mp.weixin.qq.com/s/Wy-1991drJUpQzvqA0Hc5g",
-              "pubDate": "2025-11-06T16:00:00",
-              "description": "题记：2025年10月14日，以新书《寻路集》出版为机缘，北大国发院联合中信出版集团举办承泽论坛第43期，邀请北大博雅资深教授、国发院经济学教授、《寻路集》作者周其仁作主旨演讲。本文根据演讲内容整理，未经本人确认。这本《寻路集》是一个文集，收录了自2017年起我这八年时间里的一些文章。我八年时间没有出书，因为这期间发生了大量超经验的、意料之外的事件，对社会方方面面都产生了深远影响。如何认识这个变化的时代，如何理解变化过程中的种种现象，对我而言是很大的挑战。我通常是先观察现象，在观察中思考，尤其要与市场主体交流，了解他们如何看待这个世界，如何应对这个世界的变化。这是我做研究的基本方法。这个..."
+              "title": "The Download: spotting crimes in prisoners’ phone calls, and nominate an Innovator Under 35",
+              "link": "https://www.technologyreview.com/2025/12/01/1128615/the-download-spotting-crimes-in-prisoners-phone-calls-and-nominate-an-innovator-under-35/",
+              "pubDate": "2025-12-01T13:10:00",
+              "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI model trained on prison phone calls now looks for planned crimes in those calls A US telecom company trained an AI model on years of inmates’ phone and v..."
             },
             {
-              "title": "尹艳林：中国经济的新挑战与必要的深层次改革",
-              "link": "https://mp.weixin.qq.com/s/idI1xaUF6GGzA-cyYCm20w",
-              "pubDate": "2025-11-06T16:00:00",
-              "description": "题记：本文根据十四届全国政协经济委员会副主任、中央财经委员会办公室原副主任尹艳林2025年8月14日在由北大国发院与中信出版集团联合主办的第41期承泽论坛暨《深层次改革：中国经济的难题与突破》新书悦读会上的发言整理。改革开放是实现中华民族伟大复兴的关键举措。习近平总书记早在2012年就明确指出，我国过去30多年的快速发展依靠的是改革开放，未来也必须坚定不移依靠改革开放。党的十八大以来，党中央高举改革开放旗帜，以巨大政治勇气和智慧，锚定完善和发展中国特色社会主义制度、推进国家治理体系和治理能力现代化的总目标，砥砺前行，攻坚克难，解决了许多长期想解决而未能解决的难题，办成了许多过去想办而未办..."
+              "title": "Nominations are now open for our global 2026 Innovators Under 35 competition",
+              "link": "https://www.technologyreview.com/2025/12/01/1128610/nominations-open-global-2026-innovators-under-35-competition/",
+              "pubDate": "2025-12-01T11:02:41",
+              "description": "We have some exciting news: Nominations are now open for MIT Technology Review’s 2026 Innovators Under 35 competition. This annual list recognizes 35 of the world’s best young scientists and inventors, and our newsroom has produced it for more than two decades. It’s free to nominate yourself or s..."
             },
             {
-              "title": "刘国恩：医疗通胀、鲍莫尔成本病与人工智能",
-              "link": "https://mp.weixin.qq.com/s/OOfwl2LTWHIAtjRV2hbLLQ",
-              "pubDate": "2025-11-06T16:00:00",
-              "description": "题记：2025年8月16日，由北京大学国家发展研究院、北京大学全球健康发展研究院主办，北大国发院传播中心承办的北大国发院“承泽商学”第37期在承泽园举行。本文根据北大博雅特聘教授、国发院经济学教授、全球健康发展研究院院长、中国卫生经济研究中心主任刘国恩的主题演讲整理。医疗健康与人工智能的交汇将会引发哪些重大变化？这是我们都很关注的主题。我们先从医疗通胀说起。医疗通胀是世界性难题医疗通胀是全球各国都会面临的一个重大问题和挑战。这也是著名经济学家鲍莫尔先生在很多年前提出的，劳动密集型服务产业共同面对的成本病。这样的成本病在人工智能时代是否能够得到缓解甚至解决？各国统计数据呈现出一个共通的、长..."
+              "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
+              "link": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
+              "pubDate": "2025-12-01T10:30:00",
+              "description": "A US telecom company trained an AI model on years of inmates’ phone and video calls and is now piloting that model to scan their calls, texts, and emails in the hope of predicting and preventing crimes. Securus Technologies president Kevin Elder told MIT Technology Review that the company began b..."
             },
             {
-              "title": "王进杰：AI时代企业出海与跨文化领导力",
-              "link": "https://mp.weixin.qq.com/s/lQISypQttybwM2gbRtqQtw",
-              "pubDate": "2025-11-06T16:00:00",
-              "description": "题记：2025年8月14日，承泽商学第36期暨《领导力就是影响力》新书悦读会举办，主题为“人机共生时代，HR战略如何智能重塑”。本文根据北大国发院助理研究员、南南学院助理研究员、北大非洲研究中心副秘书长、跨文化领导力论坛秘书长、《领导力就是影响力》译者王进杰的演讲内容整理。在AI及算法创新的共同作用下，跨文化情境中的文化认知偏差被进一步放大，这不仅加剧了组织在全球化过程中的沟通与理解难题，也对领导力的适应性与有效性提出了更高要求。今天，我将以《领导力就是影响力》一书为引，结合AI时代的大背景，探讨在技术深度嵌入与文化多元交汇的出海情境下，如何提升中国出海企业的影响力，并在不确定性中塑造新..."
+              "title": "The Download: the mysteries surrounding weight-loss drugs, and the economic effects of AI",
+              "link": "https://www.technologyreview.com/2025/11/28/1128516/the-download-the-mysteries-surrounding-weight-loss-drugs-and-the-economic-effects-of-ai/",
+              "pubDate": "2025-11-28T13:10:00",
+              "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we still don’t know about weight-loss drugs Weight-loss drugs have been back in the news this week. First, we heard that Eli Lilly, the company behind Mou..."
             },
             {
-              "title": "张丹丹+李强：AI如何重塑就业市场？高暴露职业错配趋缓",
-              "link": "https://mp.weixin.qq.com/s/my_G7332ZzS3ryLyIhAqbg",
-              "pubDate": "2025-10-28T16:00:00",
-              "description": "题记：本文作者张丹丹为北大国发院副院长、经济学教授；李强为智联招聘副总裁。原文首发于财新网。北京大学国家发展研究院人工智能与经济学实验室与智联招聘的一项基于招聘岗位和求职者信息大数据的最新研究发现，人工智能（AI）技术，特别是以大语言模型为代表的生成式AI，正在对中国劳动力市场的结构性矛盾产生深刻的影响。一方面，中国整体劳动力市场的结构性矛盾仍凸显，具体表现在教育错配和专业错配问题存在加剧趋势；但另一方面，高AI暴露度职业的教育错配现象却出人意料地趋于缓解。劳动力市场错配：一个日益凸显的结构性难题劳动力市场错配，通常指劳动者的学历、专业技能与所从事岗位要求之间的不匹配。这主要包括两种形态..."
+              "title": "What we still don’t know about weight-loss drugs",
+              "link": "https://www.technologyreview.com/2025/11/28/1128511/what-we-still-dont-know-about-weight-loss-drugs/",
+              "pubDate": "2025-11-28T10:00:00",
+              "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Weight-loss drugs have been back in the news this week. First, we heard that Eli Lilly, the company behind the drugs M..."
             },
             {
-              "title": "林毅夫：深学全会精神 勇担时代使命——党的二十届四中全会精神学习体会",
-              "link": "https://nsd.pku.edu.cn/sylm/gd/542566.htm",
-              "pubDate": "2025-10-27T16:00:00",
-              "description": "林毅夫：深学全会精神 勇担时代使命——党的二十届四中全会精神学习体会 发布日期：2025-10-28 10:48 来源： 党的二十届四中全会审议通过的“十五五”规划建议，为中国式现代化指明了前进方向。作为一名长期从事经济学理论研究的无党派人士，我深受鼓舞、倍感振奋。无党派人士作为中国特色社会主义参政力量，始终与党同心同德、同向同行，这次全会精神更让我们明晰了在新时代新征程中的责任与担当。 “十五五”规划对奋力开创中国式现代化新局面具有里程碑式的重大意义。全会明确“十五五”时期是基本实现社会主义现代化夯实基础、全面发力的关键时期，这一定位精准把握了历史发展脉络。全会提出的“高质量发展取得显..."
+              "title": "The Download: the fossil fuel elephant in the room, and better tests for endometriosis",
+              "link": "https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/",
+              "pubDate": "2025-11-27T13:10:00",
+              "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This year’s UN climate talks avoided fossil fuels, again Over the past few weeks in Belem, Brazil, attendees of this year’s UN climate talks dealt with oppress..."
             },
             {
-              "title": "林毅夫​：推动有效市场和有为政府更好结合，构筑“十五五”时期发展新优势",
-              "link": "https://mp.weixin.qq.com/s/r2Q4UtHwAE2RuqAQI4Z6KA",
-              "pubDate": "2025-10-23T16:00:00",
-              "description": "党的二十届四中全会系统谋划了“十五五”时期经济社会发展的战略方向，其中将“坚持有效市场和有为政府相结合”作为“六个坚持”之一，体现了对社会主义市场经济规律认识的深化。我认为，这既是对改革开放宝贵经验的总结，更是应对未来挑战、开辟发展新局的关键所在。有效市场是资源配置效率的基石。“十五五”时期，我国要构建高水平社会主义市场经济体制，必须进一步破除壁垒、畅通循环，建设统一开放、竞争有序的市场体系，让市场在资源配置中发挥决定性作用，为高质量发展注入不竭动力。有为政府是市场有效运行的保障。政府需通过宏观调控、制度供给与战略引导，弥补市场失灵，维护社会公平正义。特别是在推动科技自立自强、促进共同富..."
-            },
-            {
-              "title": "卢锋：推动“供强需弱”转向“供需同强”",
-              "link": "https://nsd.pku.edu.cn/sylm/gd/542526.htm",
-              "pubDate": "2025-10-19T16:00:00",
-              "description": "卢锋：推动“供强需弱”转向“供需同强” 发布日期：2025-10-20 11:22 来源： 需求侧的五个主要矛盾 尽管近年来经历多重冲击，我国经济在重要产业技术转型升级方面仍取得突破性进展，整体生产力水平与供给侧能力实现阶段性跃升，基础设施和传统工业原有优势得到巩固加强，在一系列先进技术与新兴产业领域也取得新的突破，国际竞争力与贸易结构显著提升。生产力质量与供给侧实力在许多方面已超过经济总量和人均水平所对应的发展阶段。这一新变化是观察我国未来经济走势与政策选择的重要背景。当前总供求关系中，需求不足是主要矛盾，也是近年来供求关系的典型事实。供给增强的同时，需求相对不足，尤其是最终消费偏弱，..."
-            },
-            {
-              "title": "黄益平、杜浩锋、徐诗语、伍晓鹰、余昌华：结构性视角下的“稳增长”政策框架",
-              "link": "https://mp.weixin.qq.com/s/tKSFvgMLm4iLpHoiJqrUdw",
-              "pubDate": "2025-10-15T16:00:00",
-              "description": "题记：本文为论文缩减版，论文发表于《国际经济评论》2025年第5期，注释从略。2024年12月召开的中央经济工作会议明确提出2025年要实施更加积极有为的宏观政策，“稳增长”再度成为经济工作的首要任务。在2025年上半年国内生产总值（GDP）同比增长5.3%的基础上，如何进一步巩固经济回升向好的基础、推动实现更高质量发展，成为政策关注的焦点。想要回答上述问题，首先需要判断经济增长压力的来源。当前的一个主流看法是“有效需求不足”。这一观点与凯恩斯宏观经济理论是一致的，其基本思想是“总需求决定总供给”。因此，通过采取积极的货币与财政政策刺激总需求，稳定经济增长，已经成为共识。全球主要经济体在..."
-            },
-            {
-              "title": "周其仁：大变局的本底逻辑与未来机会",
-              "link": "https://mp.weixin.qq.com/s/ReCo5nyAowp7RguSwN6V0g",
-              "pubDate": "2025-10-08T16:00:00",
-              "description": "题记：本文为北大国发院周其仁教授在2025财新夏季峰会上的演讲，文字经作者修订，收入2025年新作《寻路集：在全球网络中寻找合适节点》并公开发表。不管有无准备，我们都必须面对大变局。何谓大变局，是不是可以说，大变局就是全球竞争格局发生重大变化。其中，比较根本的是美国的变化，因为美国的变化对全球有重要影响，对中国的发展有特别重要的影响。中国走上和平发展、改革开放之路，离不开在冷战终结前后中美关系从对抗转趋缓和，中国抓住了当时全球变局带来的历史机遇。1978年10月，中美两国还没有建交，时任北京大学校长周培源受命带队中国科协代表团与美国国家科学基金会达成关于派遣留学生的11项口头谅解。197..."
-            },
-            {
-              "title": "卢锋：居民消费为何持续偏弱？我国消费偏弱现象成因系统探讨",
-              "link": "https://mp.weixin.qq.com/s/1gLf8KLQpTv8xwV0lxqLNA",
-              "pubDate": "2025-09-30T16:00:00",
-              "description": "聚焦我国居民消费偏弱的系统成因[1]卢锋；2025年9月20日[2]一段时期以来，我国经济增长呈现最终消费相对偏弱特点：世纪之交经济增速下滑伴随消费更大跌幅，第一次引发各方对消费偏弱的广泛关注；新世纪初年高速增长阶段，消费增长仍显著低于总需求，不过当时投资与外需强劲增长，加上消费增速本身较高，消费偏弱对经济增长尚未构成现实关键约束；过去十多年经济增速趋势性回调，近年进一步出现“供强需弱”态势，居民消费偏弱成为制约经济增长的全局性因素之一。我国经济增长为何长期存在消费偏弱特点？尤其是近年居民消费不足负面影响明显增加的原因何在？化解矛盾前提是理解其根源，因而需系统考察居民消费偏弱的形成机制与..."
-            },
-            {
-              "title": "李力行：必要的财税改革与地方政府转型：必要的财税改革与地方政府转型",
-              "link": "https://mp.weixin.qq.com/s/zdtKMPPhbAnxGRDDGUBKYg",
-              "pubDate": "2025-09-29T16:00:00",
-              "description": "题记：2025年8月23日，由北京大学国家发展研究院主办，北大国发院传播中心、EMBA中心承办的北大国发院【承泽商学】第40期暨EMBA论坛第105期在承泽园举行。本文根据北大博雅青年学者、国发院经济学教授，中国公共财政研究中心主任、教育部长江青年学者李力行的主题演讲整理。中国财税体制的特点和主要挑战当前我国财政状况比较困难，去年地方政府面临严峻的财政压力，今年最新发布的关于社保的司法解释体现出财税领域的困境，这也是我们要讨论财税体制的重要原因之一。综合分析来看，我国的财税体制目前呈现出如下三个主要特点：1、财政收入总量失速。2024年，全国一般公共财政预算收入为22万亿元，相较于202..."
-            },
-            {
-              "title": "黄卓、周鼎：全面推动人工智能产业发展和赋能应用",
-              "link": "https://nsd.pku.edu.cn/sylm/gd/542428.htm",
-              "pubDate": "2025-09-29T16:00:00",
-              "description": "黄卓、周鼎：全面推动人工智能产业发展和赋能应用 发布日期：2025-09-30 11:03 来源： 习近平总书记在主持第二十届中共中央政治局第二十次集体学习时强调，要正视差距、加倍努力，全面推进人工智能科技创新、产业发展和赋能应用，完善人工智能监管体制机制，牢牢掌握人工智能发展和治理主动权。 当前，人工智能（AI）作为最具颠覆性的技术力量，正加速重构全球竞争格局。随着AI技术迭代不断深化，全面推进AI产业发展和赋能应用已成为提升国家核心竞争力和未来发展主导权的重要抓手。 把握重大战略机遇 全面推进AI产业发展和赋能应用，是占领科技创新先机、赢得全球竞争优势的战略支点。AI作为新一代通用目..."
-            },
-            {
-              "title": "卢锋：聚焦我国居民消费偏弱的系统成因",
-              "link": "https://nsd.pku.edu.cn/sylm/gd/542410.htm",
-              "pubDate": "2025-09-25T16:00:00",
-              "description": "卢锋：聚焦我国居民消费偏弱的系统成因 发布日期：2025-09-26 11:27 来源： 一段时期以来，我国经济增长呈现最终消费相对偏弱特点：世纪之交经济增速下滑伴随消费更大跌幅，第一次引发各方对消费偏弱的广泛关注；新世纪初年高速增长阶段，消费增长仍显著低于总需求，不过当时投资与外需强劲增长，加上消费增速本身较高，消费偏弱对经济增长尚未构成现实关键约束；过去十多年经济增速趋势性回调，近年进一步出现“供强需弱”态势，居民消费偏弱成为制约经济增长的全局性因素之一。我国经济增长为何长期存在消费偏弱特点？尤其是近年居民消费不足负面影响明显增加的原因何在？化解矛盾前提是理解其根源，因而需系统考察居..."
-            },
-            {
-              "title": "林毅夫：中国经济的内在逻辑与新挑战",
-              "link": "https://mp.weixin.qq.com/s/Yh0pZrZBRxNPM_ea3MrTsA",
-              "pubDate": "2025-09-24T16:00:00",
-              "description": "题记：2025年4月28日晚，在北京大学新结构经济学研究院院长、国发院名誉院长、南南学院名誉院长林毅夫教授的著作《解读中国经济：百年变局加速演进下的民族复兴之路》更新再版之际，北大国发院、新结构经济学研究院及北大出版社联合主办北大国发院承泽论坛第39期暨北大博雅讲坛第656期活动，林毅夫教授应邀做主题演讲。本文根据演讲内容整理。《解读中国经济》一书源自我1995年起在北大讲授的课程《中国经济专题》。本书最初于2008年出版，因当时我要去世界银行担任高级副行长兼首席经济学家，不能再给同学们上课，所以就将1995年至2008年的讲义整理成书，书名即课程名《中国经济专题》。2012年，我从世界..."
-            },
-            {
-              "title": "张维迎：为什么专家的预测经常错得离谱？",
-              "link": "https://mp.weixin.qq.com/s/x50eNVvJEDA2y4AbVRBfYQ",
-              "pubDate": "2025-09-14T16:00:00",
-              "description": "题记：2025年8月29日，北大国发院2025级EMBA开学典礼在承泽园校区举行。本文根据北大博雅特聘教授、国发院教授、市场与网络经济研究中心主任张维迎的主题分享整理。生活在不确定的世界里，人们渴望了解未来，许多专家也热衷于预测未来。但不知大家是否注意到，专家的绝大部分预测都不靠谱，甚至错得离谱。专家预测失败的例子比比皆是下面举一些典型的例子：网上曾流传的一个广为人知的例子：一家知名投资银行拥有很强的研究团队，他们在2023年初做出了十大预测，但到年底回顾时发现，所有十项预测无一项正确。人口本来是相对容易预测的领域，因为人口统计学很成熟，人口统计数据也充分，但专家的预测也错得离谱。201..."
-            },
-            {
-              "title": "黄益平：全球南方发展面临哪些新挑战？中国能做什么？",
-              "link": "https://mp.weixin.qq.com/s/QLWYpbcChZAgqaRk9wnq8w",
-              "pubDate": "2025-09-09T16:00:00",
-              "description": "题记：2025年5月21日，北大国发院承泽商学第26期暨“全球南方崛起新秩序下的合作机遇（2025）”研讨会在北大承泽园举行。活动由北大国发院、南南合作与发展学院联合中国银河证券新发展研究院主办。本文根据北大博雅特聘教授、国发院院长、南南学院院长黄益平的主题演讲整理。全球南方国家正面临哪些新挑战？“全球南方”一般指包括非洲、拉丁美洲和加勒比地区、太平洋岛屿以及亚洲的发展中国家，覆盖面积很广，尽管其收入水平普遍不高，但却是确为全球经济举足轻重的一部分。当前，许多全球南方国家正面临收入增长和经济发展的挑战，其中不少国家陷入“中等收入陷阱”，还有许多国家长期处于贫困状态。自第一次工业革命以来，..."
+              "title": "This year’s UN climate talks avoided fossil fuels, again",
+              "link": "https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/",
+              "pubDate": "2025-11-27T11:00:00",
+              "description": "If we didn’t have pictures and videos, I almost wouldn’t believe the imagery that came out of this year’s UN climate talks. Over the past few weeks in Belem, Brazil, attendees dealt with oppressive heat and flooding, and at one point a literal fire broke out, delaying negotiations. The symbolism ..."
             }
           ]
         },
