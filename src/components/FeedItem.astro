@@ -77,4 +77,30 @@ const formattedDate = pubDate ? new Date(pubDate).toLocaleDateString('zh-CN', {
   .description :global(img) {
     display: none;
   }
+
+  /* Print styles for better PDF output */
+  @media print {
+    .feed-item {
+      page-break-inside: avoid;
+      break-inside: avoid;
+      margin-bottom: 1rem;
+      border-left: 2px solid #2563eb;
+    }
+
+    .feed-item:hover {
+      background: var(--background-color);
+    }
+
+    h4 a {
+      color: #2563eb;
+      text-decoration: underline;
+      font-weight: 600;
+    }
+
+    .description {
+      display: block;
+      -webkit-line-clamp: unset;
+      overflow: visible;
+    }
+  }
 </style>

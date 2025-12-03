@@ -90,4 +90,68 @@ const { title } = Astro.props;
   a:hover {
     text-decoration: underline;
   }
+
+  /* Print styles to ensure hyperlinks work in PDF */
+  @media print {
+    body {
+      background-color: white;
+    }
+
+    /* Ensure links are visible and clickable in PDF */
+    a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+
+    /* Show link URLs after the text for reference */
+    a[href^="http"]::after {
+      content: " (" attr(href) ")";
+      font-size: 0.8em;
+      color: #64748b;
+      word-break: break-all;
+    }
+
+    /* Don't show URLs for internal anchor links */
+    a[href^="#"]::after {
+      content: "";
+    }
+
+    /* Hide unnecessary elements in print */
+    .left-sidebar,
+    .right-column {
+      display: none;
+    }
+
+    /* Adjust layout for print */
+    .main-layout {
+      display: block;
+    }
+
+    .center-column {
+      width: 100%;
+    }
+
+    /* Ensure proper page breaks */
+    .group-section {
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
+
+    .source-section {
+      page-break-inside: avoid;
+      break-inside: avoid;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Hide interactive elements */
+    .expand-btn,
+    .expand-section {
+      display: none !important;
+    }
+
+    /* Show all entries in print (override hidden state) */
+    .hidden-entry {
+      display: block !important;
+    }
+  }
 </style>
