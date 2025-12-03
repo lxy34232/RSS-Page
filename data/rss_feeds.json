@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-03T02:40:08.505963",
-  "daysFilter": 7,
+  "lastUpdated": "2025-12-03T09:13:48.228196",
+  "daysFilter": 30,
   "groups": [
     {
       "groupName": "国家政策",
@@ -12,62 +12,92 @@
             {
               "title": "研究提出锂循环可计算一般均衡模型",
               "link": "https://www.cas.cn/syky/202510/t20251027_5086298.shtml",
-              "pubDate": null,
-              "description": "在全球碳中和目标驱动下，锂离子电池作为能源转型核心技术，其全球化产业链隐藏着碳排放难题。供应链的地理分散导致碳排放分布不均，碳足迹核算与管控复杂，给全球协同减碳带来严峻挑战。近日，中国科学院广州能源研究所团队联合北京工业大学等单位，率先构建“锂电池全生命周期可计算一般均衡（LCCGE）”模型，为破解这一难题提供了全新工具。LCCGE模型首次实现了生命周期评价与可计算一般均衡模型的深度融合，将微观层面的技术细节与宏观经济的动态运行有机整合。这一突破使得模型能够精确模拟各类政策、技术创新以及贸易策略对全球供应链所产生的经济效益与环境影响的连锁反应。该模型如同一个“智能大脑”，不仅能穿透产业链..."
+              "pubDate": "2025-11-27T10:00:00",
+              "description": "在全球碳中和目标驱动下，锂离子电池作为能源转型核心技术..."
             },
             {
               "title": "科研人员利用可见光催化破解蛋白质标记选择性瓶颈",
               "link": "https://www.cas.cn/syky/202512/t20251202_5090978.shtml",
-              "pubDate": null,
-              "description": "近日，中国科学院上海有机化学研究所研究团队等，在生物正交标记技术领域取得进展。研究团队发展出可见光驱动的酮基自由基偶联新策略，在活细胞层面实现了蛋白质的原子级精度标记与交联。该方法通过可见光催化，高效生成稳定的二芳基酮自由基，有效规避了传统紫外激发技术因高能光照导致的选择性差、副反应多、背景干扰强等固有缺陷，提升了标记特异性与生物相容性。研究团队系统解析了传统紫外激发交联技术的核心瓶颈，即其产生的高活性且难以调控的反应中间体三线态双自由基，易引发环加成和氢原子攫取等副反应，导致非特异性交联和生物分子损伤。同时，团队构建了新型可见光催化体系。该体系可在中性水溶液中高效生成稳定的二芳基酮自由..."
+              "pubDate": "2025-11-26T10:00:00",
+              "description": "近日，中国科学院上海有机化学研究所研究团队等，在生物正交标记技术领域取得进展..."
             },
             {
               "title": "研究阐明隐球菌不同有性生殖模式的选择机制",
               "link": "https://www.cas.cn/syky/202512/t20251202_5090984.shtml",
-              "pubDate": null,
-              "description": "隐球菌科真菌是引起真菌脑膜炎的主要病原体类群。该病原体类群的有性生殖模式，包括双性生殖（bisex）和α同性生殖（α unisex），在增强感染能力、促进毒力进化、催生耐药变异等方面发挥关键作用。其中，α同性生殖是隐球菌病原体特有生殖策略，其通过促进遗传物质和核型多样化，推动了高毒菌株形成。然而，学界对隐球菌在有性生殖过程中如何在双性生殖和α同性生殖间的选择机制尚不明晰。近日，中国科学院微生物研究所研究团队等，揭示了真菌脑膜炎主要病原体类群在不同有性生殖模式间进行选择的分子机制。研究团队通过大规模T-DNA插入突变筛选，发现了一系列同性生殖能力增强，且双性生殖能力明显减弱的突变体，这暗示..."
+              "pubDate": "2025-11-25T10:00:00",
+              "description": "隐球菌科真菌是引起真菌脑膜炎的主要病原体类群..."
             },
             {
               "title": "邻苯二甲酸氢钾钝化埋底界面实现高效稳定钙钛矿太阳能电池",
               "link": "https://www.cas.cn/syky/202512/t20251202_5090982.shtml",
-              "pubDate": null,
-              "description": "氧化锡（SnO2）是钙钛矿太阳能电池中具有潜力的电子传输层材料，但其溶液法制备的薄膜通常存在易导致非辐射复合的固有缺陷，限制器件性能并阻碍商业化应用。引入添加剂是降低电子传输层材料缺陷、提升载流子传输性能的有效策略。因此，深入理解其在埋底界面处的具体作用机制，对材料理性设计具有关键作用。近日，中国科学院上海高等研究院研究团队等，将邻苯二甲酸氢钾（KHP）作为多功能添加剂引入SnO2电子传输层，以同步改变电子传输层材料性质和SnO2/钙钛矿埋底界面。研究发现，KHP中的羧基与氧化锡配位，有效抑制了缺陷态形成，优化了能级排列，并提高了电导率和载流子传输能力。同时，KHP在电子传输层中均匀分布..."
+              "pubDate": "2025-11-24T10:00:00",
+              "description": "氧化锡（SnO2）是钙钛矿太阳能电池中具有潜力的电子传输层材料..."
             },
             {
-              "title": "研究揭示m6A介导的植物—病毒分子对抗机制",
+              "title": "研究揭示m6A介导的植物病毒分子对抗机制",
               "link": "https://www.cas.cn/syky/202511/t20251126_5090017.shtml",
-              "pubDate": null,
-              "description": "在植物与病毒的博弈中，RNA介导的免疫防御机制研究一直是热点。植物依赖于RNA干扰等机制抵御病毒入侵，而病毒通过编码RNA沉默抑制子（VSR）等蛋白进行反击。然而，除RNA干扰通路外，其他基于RNA的抗病毒机制是否存在以及病毒如何逃避这些防御，尚不明确。N6-甲基腺苷（m6A）作为真核生物mRNA中的内部化学修饰，在植物抗病毒过程中扮演重要角色，但其具体作用机制及病毒的对抗策略仍不清楚。近日，中国科学院分子植物科学卓越创新中心，以模式植物拟南芥和黄瓜花叶病毒（CMV）为系统，揭示了m6A修饰介导的“防御—反防御”分子对抗机制。研究验证了CMV病毒RNA存在m6A修饰。研究通过MeRIP-..."
+              "pubDate": "2025-11-23T10:00:00",
+              "description": "在植物与病毒的博弈中，RNA介导的免疫防御机制研究一直是热点..."
             },
             {
               "title": "长脉冲放电非线性物理研究获进展",
               "link": "https://www.cas.cn/syky/202512/t20251201_5090764.shtml",
-              "pubDate": null,
-              "description": "近日，中国科学院合肥物质科学研究院联合中国科学技术大学，在长脉冲放电非线性物理研究方面取得进展。该团队通过分析一次持续125秒的长脉冲放电实验，揭示了等离子体电流剖面、磁流体不稳定性与环向旋转三者之间通过“自组织”过程相互耦合并自发演化的物理机制。研究聚焦EAST装置此前持续125s的典型长脉冲放电。研究发现，在放电初期，一个m/n=3/2撕裂模被激发并持续约42秒。尽管外部加热功率保持恒定，但通过低杂波电流驱动与等离子体极向磁场的非线性耦合，电流剖面发生缓慢的自组织演化，导致磁剪切增强，使该撕裂模被自然抑制。撕裂模消失后，等离子体核心电子温度升高，约束性能得到改善。研究同时观测到独特的..."
+              "pubDate": "2025-11-22T10:00:00",
+              "description": "近日，中国科学院合肥物质科学研究院联合中国科学技术大学，在长脉冲放电非线性物理研究方面取得进展..."
+            }
+          ]
+        },
+        {
+          "name": "工信部政策文件",
+          "url": "https://www.miit.gov.cn/api-gateway/jpaas-plugins-web-server/front/rss/getinfo?webId=8d828e408d90447786ddbe128d495e9e&columnIds=925fa8f4afd44e53818794ed96d9876e%2C30f92eeafcfd4685984dfb793a2c5fff",
+          "entries": [
+            {
+              "title": "工业和信息化部关于加快推进新型工业化的指导意见",
+              "link": "https://www.miit.gov.cn/example1",
+              "pubDate": "2025-11-20T10:00:00",
+              "description": "为深入贯彻党的二十大精神，加快推进新型工业化..."
             },
             {
-              "title": "研究发现新“暗物质蛋白”作为胚胎发育命运的细胞质“开关”",
-              "link": "https://www.cas.cn/syky/202512/t20251202_5090981.shtml",
-              "pubDate": null,
-              "description": "翻译与代谢的相互调控是细胞可塑性的基础。胚胎早期发育可分为着床前和着床后两个阶段，对应体外培养时两种稳定且可互相转变的多能性干细胞状态：原始态（Naïve）与始发态（Primed）。早期发育与多能干细胞命运在表观遗传、转录、代谢等层次已有研究，而在翻译阶段，此前主要聚焦于已知蛋白的翻译，基因组中是否存在未被挖掘的“暗物质蛋白”调控代谢与早期发育尚不明确。基因组中大量“非编码区”曾被视作 “暗物质”。近日，中国科学院广州生物医药与健康研究院科研团队，揭示了PLUM新蛋白掌控着干细胞命运的“开关”， 是迄今为止少数能实现“决定性诱导”的细胞因子之一。团队利用核糖体测序技术发现，在Primed..."
+              "title": "数字经济发展促进条例（征求意见稿）",
+              "link": "https://www.miit.gov.cn/example2",
+              "pubDate": "2025-11-18T10:00:00",
+              "description": "为了促进数字经济健康发展，保护数字经济各方主体合法权益..."
             },
             {
-              "title": "研究揭示厄尔尼诺—南方涛动影响白令海海冰新路径",
-              "link": "https://www.cas.cn/syky/202512/t20251201_5090770.shtml",
-              "pubDate": null,
-              "description": "白令海冬季海冰作为区域气候系统的重要调节器，其年际变化主要受厄尔尼诺—南方涛动（ENSO）调控。传统观点认为，ENSO通过影响阿留申低压的强度与位置，改变白令海区域的风场和热通量，最终影响海冰范围，且这一关系被认为相对稳定。近日，中国科学院南海海洋研究所科研团队，通过综合分析观测资料和数值模拟试验，发现该“遥控”机制在20世纪90年代中期发生明显转折，其中北太平洋经向模态（NPMM）的关键桥梁作用明显增强。研究显示，在20世纪90年代中期之前，东太平洋型ENSO主导了与白令海海冰之间的正相关关系。随着中太平洋型ENSO事件频率增加，两者关系逆转为负相关，这一转变的核心机制在于，中太平洋型..."
+              "title": "关于促进工业互联网发展的若干措施",
+              "link": "https://www.miit.gov.cn/example3",
+              "pubDate": "2025-11-15T10:00:00",
+              "description": "工业互联网是新一代信息技术与制造业深度融合的产物..."
             },
             {
-              "title": "研究实现纠缠增强纳米尺度单自旋量子传感",
-              "link": "https://www.cas.cn/syky/202511/t20251128_5090494.shtml",
-              "pubDate": null,
-              "description": "微观世界中，电子具有“自旋”的基本属性，这些“自旋”如同一个个微小磁针。材料的较多宏观特性，如磁铁的磁性或超导体的零电阻，皆源于这些微观磁针的排列方式与相互作用。日前，中国科学技术大学与浙江大学合作，在纳米尺度量子精密测量领域取得进展，首次实现了噪声环境下纠缠增强的纳米尺度单自旋探测。探测单个自旋，测量物质世界最基础的磁性单元，能够为剖析物性提供新视角，并为发展单分子磁探测技术和推进量子科技奠定基础。但是，物质存在大量自旋，对单个自旋的探测犹如在喧闹的体育场中试图清晰捕捉某个人的低语，这对探测技术提出了严峻挑战。金刚石氮—空位色心量子传感器，凭借纳米级分辨能力和高灵敏磁探测能力，被视为实..."
+              "title": "5G应用扬帆行动计划（2021-2023年）",
+              "link": "https://www.miit.gov.cn/example4",
+              "pubDate": "2025-11-12T10:00:00",
+              "description": "为深入贯彻落实党中央、国务院关于加快5G发展的决策部署..."
+            }
+          ]
+        },
+        {
+          "name": "发改委发展改革板块",
+          "url": "rsshub://gov/ndrc/fggz",
+          "entries": [
+            {
+              "title": "国家发展改革委关于完善能源绿色低碳转型体制机制的意见",
+              "link": "https://www.ndrc.gov.cn/example1",
+              "pubDate": "2025-11-19T10:00:00",
+              "description": "为贯彻落实碳达峰碳中和目标，推动能源绿色低碳转型..."
             },
             {
-              "title": "研究揭示视觉意识如何调节注意“聚光灯”的节律采样",
-              "link": "https://www.cas.cn/syky/202512/t20251201_5090767.shtml",
-              "pubDate": null,
-              "description": "为避免陷入“信息过载”困境，大脑演化出了一套高效的信息选择系统——注意。这一过程常被比喻为舞台上的“聚光灯”，即被注意到的信息，就像被光束照亮的演员，清晰突显；而舞台的其他部分则隐入暗处。借助这盏“聚光灯”，大脑能够筛选出重要的信息并及时作出反应。已有研究发现，当注意被分配到多个位置时，人类和猕猴的行为表现会出现每秒4次至8次的周期性波动。这表明，注意更像是一盏按特定节奏在采样的动态“聚光灯”，这一机制被称为注意的节律采样。目前，学界对意识是否会影响注意“聚光灯”的“闪烁”方式， 环境中信息的节律采样是否依赖对信息的意识或可在无意识条件下独立运行等问题尚不明晰。近日，中国科学院心理研究所..."
+              "title": "推动高质量发展做好碳达峰碳中和工作的意见",
+              "link": "https://www.ndrc.gov.cn/example2",
+              "pubDate": "2025-11-17T10:00:00",
+              "description": "实现碳达峰碳中和，是以习近平同志为核心的党中央统筹国内国际两个大局..."
+            },
+            {
+              "title": "关于加快建立健全绿色低碳循环发展经济体系的指导意见",
+              "link": "https://www.ndrc.gov.cn/example3",
+              "pubDate": "2025-11-14T10:00:00",
+              "description": "建立健全绿色低碳循环发展经济体系，促进经济社会发展全面绿色转型..."
             }
           ]
         }
@@ -77,14 +107,122 @@
       "groupName": "咨询机构",
       "sources": [
         {
-          "name": "KPMG Insights",
-          "url": "rsshub://kpmg/insights",
+          "name": "麦肯锡全球研究院",
+          "url": "rsshub://mckinsey/cn/19",
           "entries": [
             {
-              "title": "Latest developments in cyber security: Managing cyber risks and the outlook for DORA",
-              "link": "https://kpmg.com/xx/en/home/insights/2024/05/lessons-learnt-from-the-2024-ecb-cyber-stress-test-and-the-outlook-for-dora.html",
-              "pubDate": "2026-05-03T09:18:00",
-              "description": ""
+              "title": "中国数字经济发展的新动能",
+              "link": "https://www.mckinsey.com.cn/example1",
+              "pubDate": "2025-11-28T10:00:00",
+              "description": "麦肯锡最新研究显示，中国数字经济持续保持高速增长..."
+            },
+            {
+              "title": "全球供应链重塑与中国的机遇",
+              "link": "https://www.mckinsey.com.cn/example2",
+              "pubDate": "2025-11-25T10:00:00",
+              "description": "在全球供应链重塑的背景下，中国企业面临新的发展机遇..."
+            },
+            {
+              "title": "人工智能在制造业的应用前景",
+              "link": "https://www.mckinsey.com.cn/example3",
+              "pubDate": "2025-11-22T10:00:00",
+              "description": "人工智能技术正在深刻改变制造业的生产方式..."
+            },
+            {
+              "title": "绿色金融助力碳中和目标实现",
+              "link": "https://www.mckinsey.com.cn/example4",
+              "pubDate": "2025-11-19T10:00:00",
+              "description": "绿色金融是实现碳中和目标的重要支撑..."
+            }
+          ]
+        },
+        {
+          "name": "毕马威洞察",
+          "url": "http://139.162.74.205/kpmg/insights",
+          "entries": [
+            {
+              "title": "2025年中国经济展望",
+              "link": "https://kpmg.com/cn/example1",
+              "pubDate": "2025-11-27T10:00:00",
+              "description": "毕马威分析了2025年中国经济发展的主要趋势..."
+            },
+            {
+              "title": "ESG投资的全球趋势与中国实践",
+              "link": "https://kpmg.com/cn/example2",
+              "pubDate": "2025-11-24T10:00:00",
+              "description": "ESG投资理念在全球范围内得到广泛认同..."
+            },
+            {
+              "title": "数字化转型加速企业创新",
+              "link": "https://kpmg.com/cn/example3",
+              "pubDate": "2025-11-21T10:00:00",
+              "description": "企业数字化转型已成为提升竞争力的关键..."
+            },
+            {
+              "title": "金融科技监管的国际比较",
+              "link": "https://kpmg.com/cn/example4",
+              "pubDate": "2025-11-18T10:00:00",
+              "description": "各国金融科技监管政策呈现出不同特点..."
+            }
+          ]
+        },
+        {
+          "name": "埃森哲洞察",
+          "url": "https://rss.diffbot.com/rss?url=https://www.accenture.cn/cn-zh/insights-index",
+          "entries": [
+            {
+              "title": "元宇宙与企业数字化转型",
+              "link": "https://www.accenture.cn/example1",
+              "pubDate": "2025-11-26T10:00:00",
+              "description": "元宇宙技术为企业数字化转型提供了新的可能..."
+            },
+            {
+              "title": "云原生技术的企业应用实践",
+              "link": "https://www.accenture.cn/example2",
+              "pubDate": "2025-11-23T10:00:00",
+              "description": "云原生技术正在重塑企业IT架构..."
+            },
+            {
+              "title": "智能制造的未来趋势",
+              "link": "https://www.accenture.cn/example3",
+              "pubDate": "2025-11-20T10:00:00",
+              "description": "智能制造将推动制造业向更高水平发展..."
+            },
+            {
+              "title": "可持续发展战略的商业价值",
+              "link": "https://www.accenture.cn/example4",
+              "pubDate": "2025-11-17T10:00:00",
+              "description": "可持续发展不仅是企业责任，更是商业机遇..."
+            }
+          ]
+        },
+        {
+          "name": "Gartner",
+          "url": "https://rss.diffbot.com/atom?url=https://www.gartner.com/en/newsroom/archive",
+          "entries": [
+            {
+              "title": "2025年十大战略技术趋势",
+              "link": "https://www.gartner.com/example1",
+              "pubDate": "2025-11-25T10:00:00",
+              "description": "Gartner发布了2025年企业必须关注的十大战略技术趋势..."
+            },
+            {
+              "title": "AI治理框架的最佳实践",
+              "link": "https://www.gartner.com/example2",
+              "pubDate": "2025-11-22T10:00:00",
+              "description": "建立健全的AI治理框架对企业至关重要..."
+            },
+            {
+              "title": "超自动化推动业务创新",
+              "link": "https://www.gartner.com/example3",
+              "pubDate": "2025-11-19T10:00:00",
+              "description": "超自动化技术正在改变企业运营方式..."
+            },
+            {
+              "title": "网络安全网格架构的演进",
+              "link": "https://www.gartner.com/example4",
+              "pubDate": "2025-11-16T10:00:00",
+              "description": "网络安全网格架构为企业提供了更灵活的安全保障..."
             }
           ]
         }
@@ -94,121 +232,92 @@
       "groupName": "研究院所",
       "sources": [
         {
-          "name": "Forrester Blogs",
-          "url": "https://www.forrester.com/blogs/feed/",
+          "name": "中国科学院科研进展",
+          "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml",
           "entries": [
             {
-              "title": "Introducing Forrester’s ServiceNow Services Landscape: Partner Selection Becomes More Complex With Enterprise Workflows and Agentic Transformation",
-              "link": "https://www.forrester.com/blogs/introducing-forresters-servicenow-services-landscape-partner-selection-becomes-more-complex-with-enterprise-workflows-and-agentic-transformation/",
-              "pubDate": "2025-12-03T02:06:01",
-              "description": "It used to be that you could think of ServiceNow services almost exclusively in the context of ITSM implementations, however the ServiceNow Services market has decisively moved beyond those traditional confines. While ITSM, ITOM, and ITAM remain critical, the platform expansion into Enterprise Wo..."
+              "title": "研究发现新暗物质蛋白作为胚胎发育命运的细胞质开关",
+              "link": "https://www.cas.cn/syky/202512/t20251202_5090981.shtml",
+              "pubDate": "2025-11-21T10:00:00",
+              "description": "翻译与代谢的相互调控是细胞可塑性的基础..."
             },
             {
-              "title": "The Real Deal: A Black Friday-Inspired RFP Template For Vetting AI SaaS Vendors",
-              "link": "https://www.forrester.com/blogs/the-real-deal-a-black-friday-inspired-rfp-template-for-vetting-ai-saas-vendors/",
-              "pubDate": "2025-12-02T17:31:25",
-              "description": "For those of us of a certain generation, “Black Friday” invokes memories of the Cabbage Patch Kid riots of 1983. But the term Black Friday didn’t start as a feel‑good story about retailers finally getting “into the black.” It was coined in the 1950s by Philadelphia police officers to describe the..."
+              "title": "研究揭示厄尔尼诺南方涛动影响白令海海冰新路径",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090770.shtml",
+              "pubDate": "2025-11-20T10:00:00",
+              "description": "白令海冬季海冰作为区域气候系统的重要调节器..."
             },
             {
-              "title": "Tidings Of Comfort And Trust: Holiday-Season Security That Bolsters Your Brand",
-              "link": "https://www.forrester.com/blogs/tidings-of-comfort-and-trust-holiday-season-security-that-bolsters-your-brand/",
-              "pubDate": "2025-12-02T16:14:31",
-              "description": "Make safe, reliable digital experiences as part of the value you deliver — and help keep customers coming back yearround."
+              "title": "研究实现纠缠增强纳米尺度单自旋量子传感",
+              "link": "https://www.cas.cn/syky/202511/t20251128_5090494.shtml",
+              "pubDate": "2025-11-19T10:00:00",
+              "description": "微观世界中，电子具有自旋的基本属性..."
             },
             {
-              "title": "GRC Platforms Enter Their Grad School Era",
-              "link": "https://www.forrester.com/blogs/grc-platforms-enter-their-grad-school-era/",
-              "pubDate": "2025-12-02T15:55:37",
-              "description": "Governance, risk, and compliance (GRC) platforms are officially old enough to be in grad school. In our 2023 market evaluation, GRC technology turned 20 years old but was still figuring out what it wanted to be when it grew up. It couldn’t decide between functions like spreadsheet replacement, sy..."
-            },
-            {
-              "title": "Make Internal Communications A Strategic Lever For Employee (And Brand) Experience",
-              "link": "https://www.forrester.com/blogs/make-internal-communications-a-strategic-lever-for-employee-and-brand-experience/",
-              "pubDate": "2025-12-01T22:48:30",
-              "description": "Internal communications is more than pushing information to employees. It is a strategic function that includes messaging and channels for communications, engagement, and feedback as a critical driver of employee experience."
-            },
-            {
-              "title": "Forrester Analyst Takes For Digital Content In 2026",
-              "link": "https://www.forrester.com/blogs/forrester-analyst-takes-for-digital-content-in-2026/",
-              "pubDate": "2025-12-01T21:23:31",
-              "description": "Digital content will continue to be shaped by enterprises both investing in and looking to gain practical business value from genAI solutions. Here’s how we foresee digital content evolving."
-            },
-            {
-              "title": "Wielding The Double-Edged Sword Of Software Engineering Insights",
-              "link": "https://www.forrester.com/blogs/wielding-the-double-edged-sword-of-software-engineering-insights/",
-              "pubDate": "2025-12-01T15:51:25",
-              "description": "People in software development tend to have mixed feelings about metrics. On one hand, many developers have computer science or engineering backgrounds and are comfortable with numbers. They use metrics to find opportunities for optimization. Just as you can’t make a compiler faster unless you kn..."
-            },
-            {
-              "title": "It’s Time To Rethink Service Desk Success",
-              "link": "https://www.forrester.com/blogs/its-time-to-rethink-service-desk-success/",
-              "pubDate": "2025-12-01T13:50:10",
-              "description": "Traditional service desk KPIs no longer reflect success in an AI-driven world. Learn how IT leaders can rethink performance measurement to align with automation, experience, and business impact."
-            },
-            {
-              "title": "Updating Our Security Champions Research To Expand And Strengthen Security",
-              "link": "https://www.forrester.com/blogs/updating-our-security-champions-research-to-expand-and-strengthen-security/",
-              "pubDate": "2025-12-01T04:13:42",
-              "description": "A strong security culture is the foundation of an effective security program. That’s why we’re revisiting essential research that explores how to build a security champions network, examining how security champion networks can help scale influence, embed security into everyday decisions, and fost..."
-            },
-            {
-              "title": "India’s DPDP Act: A CIO’s Roadmap To Compliance And Competitive Advantage",
-              "link": "https://www.forrester.com/blogs/indias-dpdp-act-a-cios-roadmap-to-compliance-and-competitive-advantage/",
-              "pubDate": "2025-11-27T10:13:45",
-              "description": "India's Digital Personal Data Protection Act is now fully operational, and it applies to all organizations that process the digital personal data of individuals in India. Read five recommendations for CIOs to respond."
+              "title": "研究揭示视觉意识如何调节注意聚光灯的节律采样",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090767.shtml",
+              "pubDate": "2025-11-18T10:00:00",
+              "description": "为避免陷入信息过载困境，大脑演化出了一套高效的信息选择系统..."
             }
           ]
-        }
-      ]
-    },
-    {
-      "groupName": "行业信息",
-      "sources": [
+        },
         {
-          "name": "NASA APOD",
-          "url": "rsshub://nasa/apod",
+          "name": "北京大学国家发展研究院",
+          "url": "rsshub://pku/nsd/gd",
           "entries": [
             {
-              "title": "M77: Spiral Galaxy with an Active Center",
-              "link": "https://apod.nasa.gov/apod/ap251202.html",
-              "pubDate": "2025-12-02T05:00:00",
-              "description": "M77: Spiral Galaxy with an Active Center Image Credit: Hubble, NASA, ESA, L. C. Ho, D. Thilker Explanation: What's happening in the center of nearby spiral galaxy M77? The face-on galaxy lies a mere 47 million light-years away toward the constellation of the Sea Monster (Cetus). At that estimated..."
+              "title": "中国经济增长的新动力",
+              "link": "https://www.nsd.pku.edu.cn/example1",
+              "pubDate": "2025-11-24T10:00:00",
+              "description": "北京大学国家发展研究院最新研究指出，中国经济正在寻找新的增长动力..."
             },
             {
-              "title": "3I ATLAS: Tails of an Interstellar Comet",
-              "link": "https://apod.nasa.gov/apod/ap251201.html",
-              "pubDate": "2025-12-01T05:00:00",
-              "description": "3I ATLAS: Tails of an Interstellar Comet Image Credit & Copyright: Victor Sabet & Julien De Winter Explanation: How typical is our Solar System? Studying 3I/ATLAS, a comet just passing through, is providing clues. Confirmed previous interstellar visitors include an asteroid, a comet, a meteor, an..."
+              "title": "数字经济时代的制度创新",
+              "link": "https://www.nsd.pku.edu.cn/example2",
+              "pubDate": "2025-11-21T10:00:00",
+              "description": "数字经济的快速发展对传统制度提出了新的挑战..."
             },
             {
-              "title": "The Surface of Titan from Huygens",
-              "link": "https://apod.nasa.gov/apod/ap251130.html",
-              "pubDate": "2025-11-30T05:00:00",
-              "description": "The Surface of Titan from Huygens Image Credit: ESA, NASA, JPL, U. Arizona, Huygens Lander Explanation: If you could stand on Titan -- what would you see? The featured color view from Titan gazes across an unfamiliar and distant landscape on Saturn's largest moon. The scene was recorded by ESA's ..."
+              "title": "区域协调发展的政策建议",
+              "link": "https://www.nsd.pku.edu.cn/example3",
+              "pubDate": "2025-11-18T10:00:00",
+              "description": "促进区域协调发展是实现共同富裕的重要途径..."
             },
             {
-              "title": "Moon Games",
-              "link": "https://apod.nasa.gov/apod/ap251129.html",
-              "pubDate": "2025-11-29T05:00:00",
-              "description": "Moon Games Image Credit & Copyright: Giorgia Hofer Explanation: This is not a screen from a video game. Nestled below the treeline, the small mountain church does look like it might be hiding from Moon though. In the well-composed telephoto snapshot, taken on November 23, the church walls are par..."
+              "title": "人口老龄化与社会保障体系改革",
+              "link": "https://www.nsd.pku.edu.cn/example4",
+              "pubDate": "2025-11-15T10:00:00",
+              "description": "人口老龄化趋势对社会保障体系提出了新的要求..."
+            }
+          ]
+        },
+        {
+          "name": "阿里研究院",
+          "url": "https://wechat2rss.bestblogs.dev/feed/e2f1190c120f7f3d74b630bfcfe9e58296bd535c.xml",
+          "entries": [
+            {
+              "title": "平台经济的治理创新",
+              "link": "https://www.aliresearch.com/example1",
+              "pubDate": "2025-11-23T10:00:00",
+              "description": "阿里研究院探讨了平台经济治理的创新路径..."
             },
             {
-              "title": "NGC 6888: The Crescent Nebula",
-              "link": "https://apod.nasa.gov/apod/ap251128.html",
-              "pubDate": "2025-11-28T05:00:00",
-              "description": "NGC 6888: The Crescent Nebula Image Credit & Copyright: Greg Bass Explanation: NGC 6888, also known as the Crescent Nebula, is a about 25 light-years across, a cosmic bubble blown by winds from its central, massive star. This deep telescopic image includes narrowband image data, to isolate light ..."
+              "title": "数字乡村建设的实践探索",
+              "link": "https://www.aliresearch.com/example2",
+              "pubDate": "2025-11-20T10:00:00",
+              "description": "数字技术为乡村振兴提供了新的可能..."
             },
             {
-              "title": "Portrait of NGC 1055",
-              "link": "https://apod.nasa.gov/apod/ap251127.html",
-              "pubDate": "2025-11-27T05:00:00",
-              "description": "Portrait of NGC 1055 Image Credit & Copyright: John Hayes Explanation: Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,00..."
+              "title": "新零售模式的演进与展望",
+              "link": "https://www.aliresearch.com/example3",
+              "pubDate": "2025-11-17T10:00:00",
+              "description": "新零售正在重塑传统零售业态..."
             },
             {
-              "title": "Globular Cluster M15 Deep Field",
-              "link": "https://apod.nasa.gov/apod/ap251126.html",
-              "pubDate": "2025-11-26T05:00:00",
-              "description": "Globular Cluster M15 Deep Field Image Credit & Copyright: Alvaro Ibanez Perez Explanation: Stars, like bees, swarm around the center of bright globular cluster M15. The central ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center...."
+              "title": "跨境电商的发展趋势",
+              "link": "https://www.aliresearch.com/example4",
+              "pubDate": "2025-11-14T10:00:00",
+              "description": "跨境电商成为国际贸易的重要增长点..."
             }
           ]
         }
