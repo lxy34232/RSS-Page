@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-03T09:29:41.975099",
-  "daysFilter": 7,
+  "lastUpdated": "2025-12-03T12:37:41.385176",
+  "daysFilter": 180,
   "groups": [
     {
       "groupName": "国家政策",
@@ -139,38 +139,7 @@
         {
           "name": "发改委发展改革板块",
           "url": "rsshub://gov/ndrc/fggz",
-          "entries": [
-            {
-              "title": "关于印发第二轮国家生态产品价值实现机制试点名单的通知(发改办环资〔2025〕998号)",
-              "link": "https://www.ndrc.gov.cn/fggz/hjyzy/stwmjs/202512/t20251202_1402147.html",
-              "pubDate": "2025-12-02T10:11:26",
-              "description": ""
-            },
-            {
-              "title": "2025年10月份全国天然气运行快报",
-              "link": "https://www.ndrc.gov.cn/fggz/jjyxtj/202512/t20251202_1402096.html",
-              "pubDate": "2025-12-02T06:41:38",
-              "description": "据快报数据，2025年10月，全国天然气表观消费量347.7亿立方米，同比下降1.3%。 1—10月，全国天然气表观消费量3525.3亿立方米，同比下降0.3%。"
-            },
-            {
-              "title": "全国“以竹代塑”工作推进现场会在福建南平召开",
-              "link": "https://www.ndrc.gov.cn/fggz/hjyzy/zyzhlyhxhjj/202512/t20251202_1402094.html",
-              "pubDate": "2025-12-02T01:39:52",
-              "description": "为深入贯彻习近平总书记关于发展“以竹代塑”的重要讲话和重要指示批示精神，认真落实党中央、国务院决策部署，推动《加快“以竹代塑”发展三年行动计划》目标落实落地，11月28日，国家发展改革委环资司在福建省南平市召开全国“以竹代塑”工作推进现场会。 会议系统梳理总结了“以竹代塑”工作的进展成效，分析当前面临的形势和挑战，对下一步完善政策标准、强化创新驱动、壮大产业发展、丰富应用场景、深化国际合作等作出具体部署。浙江省、江西省、福建省南平市、贵州省赤水市交流了本地区“以竹代塑”工作情况和经验做法。中国循环经济协会、国际竹藤中心有关专家作专题报告。与会同志实地调研了福建省南平市“以竹代塑”有关项目..."
-            },
-            {
-              "title": "本周“发展改革热点，我知道”（11月24至11月28日）",
-              "link": "https://www.ndrc.gov.cn/fggz/202512/t20251201_1402075.html",
-              "pubDate": "2025-12-01T02:37:10",
-              "description": "署名文章 | 郑栅洁人民日报撰文：坚持扩大内需这个战略基点 11月28日，国家发展改革委主任郑栅洁在《人民日报》发表题为《坚持扩大内需这个战略基点》的署名文章。文章表示，习近平总书记强调，坚定实施扩大内需战略，构建完整的内需体系，关系我国长远发展和长治久安。党的二十届四中全会通过的《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》明确指出，坚持扩大内需这个战略基点，促进消费和投资、供给和需求良性互动，增强国内大循环内生动力和可靠性。“十五五”时期，我们要持续扩大内需，进一步做强国内大循环，为加快构建新发展格局、推动高质量发展提供强有力的保障。 国家发展改革委发布《信用修复管理办..."
-            },
-            {
-              "title": "国家发展改革委举办第43期“求是论坛”暨全委学习贯彻党的二十届四中全会精神系列辅导报告第三讲",
-              "link": "https://www.ndrc.gov.cn/fggz/202511/t20251127_1402003.html",
-              "pubDate": "2025-11-27T07:43:51",
-              "description": "11月25日，按照委党组统一部署，国家发展改革委举办第43期“求是论坛”暨全委学习贯彻党的二十届四中全会精神系列辅导报告第三讲，政研室和高技术司负责同志作专题辅导，机关党委负责同志主持会议。 会议围绕“‘十五五’规划《建议》中的重点亮点”和“贯彻落实党的二十届四中全会精神、因地制宜发展新质生产力”，深入阐释了“十五五”时期的重要地位、发展环境、指导方针、主要目标、重要原则和任务举措，全面解读了发展新质生产力的科学内涵、根本目的、方法要求和实践路径。 会议要求，一要在学思践悟、融会贯通上持续用力。突出全面系统学、深入思考学、联系实际学，引导党员干部反复研读全会公报、《建议》原文和权威解读，..."
-            }
-          ]
+          "entries": []
         }
       ]
     },
@@ -203,98 +172,120 @@
               "link": "https://kpmg.com/cn/zh/home/insights/2025/11/china-tax-alert-12.html",
               "pubDate": "2025-11-28T01:45:00",
               "description": "摘要 根据《中国预约定价安排年度报告（2024）》（以下简称“APA 年度报告” ）， 2024年中国税务机关共签署APA 39 例，其中单边APA 12例，双边APA 27例。2005年至2024年，中国税务机关累计签署APA 335例，其中单边APA 165例，双边APA 170例。中国累计签署的双边APA数量首次超过单边APA。这反映出中国税务机关不断加强国际税收合作，稳步推进预约定价安排，积极为纳税人创造良好的税收营商环境。 背景 2025年11月25日，中国国家税务总局（以下简称“国税总局”）以中英文形式对外发布APA年度报告。这是国税总局第十六次发布APA年度报告。该报告系统..."
+            },
+            {
+              "title": "2025中国黄酒产业中期报告",
+              "link": "https://kpmg.com/cn/zh/home/insights/2025/11/mid-term-report-on-china-s-yellow-wine-industry-2025.html",
+              "pubDate": "2025-11-21T07:00:00",
+              "description": "2025年是黄酒产业创新融合发展的关键时期。面对政策调整、消费升级、产业重塑等多方压力。黄酒企业既要循策而为，锚定政策方针核心导向，科学谋划行业发展新方向；更要顺势而动，内部优化产品结构寻求差异化发展，打破壁垒限制，将传统与现代完美融合，解锁黄酒新领域。 点击下载 PDF 订阅中心 订阅中心 订阅与您自身最相关的专题 订阅与您自身最相关的专题 联系我们 寻找办事处地点 kpmg.findOfficeLocations 发电邮给我们 kpmg.emailUs 关注毕马威 kpmg.socialMedia"
+            },
+            {
+              "title": "未来独角兽 | 毕马威中国长三角高端装备新质领袖榜单报告",
+              "link": "https://kpmg.com/cn/zh/home/insights/2025/11/future-unicorn-yangtze-river-delta-high-end-equipment-and-new-quality-leader-list-report.html",
+              "pubDate": "2025-11-21T02:00:00",
+              "description": "当前，全球新一轮科技革命和产业变革持续深化。高端装备作为筑牢发展新质生产力的国家战略支撑力量，是引领未来工业发展的重要引擎。长三角地区作为中国经济活力最强、开放水平领先、创新实力突出的区域之一，依托长三角G60科创走廊的协同发展机制，在高端装备领域已塑造显著的先发优势。机器人、低空经济与智能交通装备等细分产业集群不断涌现，技术持续突破，产业化应用加速，国际竞争力彰显。 然而，如何精准识别并孵化具有全球竞争力的领军企业，仍是推动产业跃升的关键课题。为此，毕马威携手长三角G60科创走廊共同发布《未来独角兽|毕马威中国长三角高端装备新质领袖榜单》（以下简称《榜单》），此次《榜单》遴选出38家涵..."
+            },
+            {
+              "title": "聚焦中国减排新目标：毕马威COP30解读降低碳排放绝对量指标下的挑战与机遇",
+              "link": "https://kpmg.com/cn/zh/home/media/press-releases/2025/11/kpmg-interprets-cop30-challenges-and-opportunities-under-absolute-carbon-emission-reduction-targets.html",
+              "pubDate": "2025-11-21T00:40:00",
+              "description": "11月10日至21日在巴西贝伦市举行的《联合国气候变化框架公约》第三十次缔约方大会（COP30）被国际社会寄予厚望，它不仅是检验各国在减排与气候适应领域的集体进展的平台，更是验证全球能否将1.5℃温控目标从科学共识转化为切实行动的关键契机。今年是《巴黎协定》达成10周年，也是提交新一轮国家自主贡献的重要节点，全球气候治理进入关键阶段。 继深度参与COP29后，专业服务机构毕马威此次以“创新驱动转型之路”为主题，继续投身COP30的全球议程。毕马威中国环境、社会和治理（ESG）主管合伙人沈莹代表毕马威中国及亚太地区加入毕马威全球代表团出席COP30。毕马威在此次巴西COP30大会上，解读《..."
+            },
+            {
+              "title": "毕马威发布高端装备新质领袖榜单 勾勒区域智造新图景",
+              "link": "https://kpmg.com/cn/zh/home/media/press-releases/2025/11/kpmg-releases-list-of-new-quality-leaders-in-high-end-equipment.html",
+              "pubDate": "2025-11-21T00:40:00",
+              "description": "国家“十五五”规划建议将科技创新引领产业升级、发展新质生产力提级加速，明确了推动经济高质量发展的方向。高端装备制造业作为支撑实体经济的关键领域，是技术创新的重要载体和体现国家工业水平的重要标志。 为精准发掘并赋能该区域内具备技术创新能力和高成长潜力的企业，11月21日，由毕马威联合长三角G60科创走廊创新研究中心主办的“长三角高端装备新质领袖榜单发布仪式”成功举办。 长三角地区依托产业与创新优势，正建立起具有国际竞争力的高端装备制造产业集群，本次榜单旨在发掘并表彰长三角地区在高端装备制造领域具有突出创新能力和市场表现的企业，共同推动新质生产力发展与制造业高质量转型。活动现场汇聚政府领导、..."
+            },
+            {
+              "title": "资产融资和租赁税务观察 - 2025年第四季度",
+              "link": "https://kpmg.com/cn/zh/home/insights/2025/11/asset-financing-and-leasing-tax-insights-q4-2025.html",
+              "pubDate": "2025-11-19T01:59:44",
+              "description": "观内地——新增值税法 2024年12月25日，十四届全国人大常委会第十三次会议表决通过了《中华人民共和国增值税法》（以下简称“新增值税法”），自2026年1月1日起施行，《中华人民共和国增值税暂行条例》同时废止。增值税从国务院暂行条例上升为法律。 纵观新增值税法及实施条例征求意见稿（截止本文章发布日），在境内“消费”、非应税交易、长期资产、年度清算等新概念的提出，需要各大租赁公司在还有不到2个月的“窗口期”梳理新的合规要点和要求，及时调整管理方案和管理系统。 除此之外，聚焦到租赁行业的“专属”政策，近期出台的财政部 海关总署 税务总局 公告2025年第10号全面取消了融资租赁增值税负超3..."
+            },
+            {
+              "title": "资产融资和租赁税务观察",
+              "link": "https://kpmg.com/cn/zh/home/insights/2025/11/asset-financing-and-leasing-tax-insights.html",
+              "pubDate": "2025-11-19T01:59:44",
+              "description": "2025年第四季度刊 税务 毕马威中国的税务专业人员对复杂的监管环境有着深入的了解，并拥有丰富的行业知识和经验。 联系我们 寻找办事处地点 kpmg.findOfficeLocations 发电邮给我们 kpmg.emailUs 关注毕马威 kpmg.socialMedia 订阅中心 订阅中心 订阅与您自身最相关的专题 订阅与您自身最相关的专题"
+            },
+            {
+              "title": "中国工业品电商高质量发展白皮书（2025）",
+              "link": "https://kpmg.com/cn/zh/home/insights/2025/11/china-s-industrial-e-commerce-high-quality-development-white-paper-2025.html",
+              "pubDate": "2025-11-18T03:00:00",
+              "description": "在全球供应链稳健重构、企业对降本增效的需求日益凸显与制造亟需转型升级的多重机遇下，工业品电商在“十四五”规划中被赋予了重要的战略定位，成为数字经济与实体经济融合的枢纽。作为工业品电商的重要分支，MRO工业品电商能重塑传统供应链，赋能产业数智化迭代升级，还将上下游企业串联起来，以全链条服务助力企业实现价值升级。 伴随扶持政策强化与技术不断发展，中国工业品市场规模持续扩大，其数智化采购的渗透率也加速提升。然而该领域仍面临诸多挑战，首要痛点在于产品非标品特性带来的标准化与整合难题，“一站式采购”仍处于理想化阶段。其次，中小微企业供需匹配效率低，供应链信息壁垒尚未完全打通，制约了资源优化配置。此..."
+            },
+            {
+              "title": "第九期：全球金融监管动态月刊（10月1日-10月31日）",
+              "link": "https://kpmg.com/cn/zh/home/insights/2025/11/global-fs-regulation-monthly-update-09.html",
+              "pubDate": "2025-11-18T01:45:00",
+              "description": "10月重点监管活动如下： ✦ 中国人民银行 发布《金融机构客户受益所有人识别管理办法（征求意见稿）》，向社会公开征求意见。文件明确金融机构需基于风险原则识别并核实非自然人客户的受益所有人，规定识别标准包括直接或间接持有25%以上股权、收益权或实际控制权。 ✦ 国家金融监管总局 发布《资产管理信托管理办法（征求意见稿）》。《办法》明确资产管理信托产品定位为私募资产管理产品，仅面向合格投资者非公开发行，实行“卖者尽责、买者自负”。 ✦ 香港证监会 建议修订《单位信托及互惠基金守则》，内容包括： 允许采用替代方法来管控零售基金的衍生工具投资； 更新基金流动性风险管理的规定； 加强货币市场基金的..."
+            },
+            {
+              "title": "毕马威首次发布美妆产业报告：科技创新掀起“颜值经济”新篇章",
+              "link": "https://kpmg.com/cn/zh/home/media/press-releases/2025/11/2025-china-beauty-market-industry-report.html",
+              "pubDate": "2025-11-17T00:40:00",
+              "description": "在情绪价值成为新刚需、个性化解决方案备受追捧的当下，\"颜值经济\"正成为中国消费市场重要增长领域之一。随着消费者从盲目跟风转向成分研究，从国际大牌转向高性价比国货，今天中国消费者的美妆购物车，早已不再是简单的产品罗列，而是其生活方式、价值认同与个性表达的缩影。 近日，毕马威首次发布《\"颜\"值经济新篇章：2025年中国美妆市场行业报告》（以下简称《报告》），深度洞察中国美妆产业正在经历的深刻变革，从市场需求演变、品牌竞争格局、技术创新、消费者洞察到资本动向，全面解析在理性消费与情感需求并存的时代，美妆行业如何实现从“量的扩张”迈向“质的跃升”。 毕马威中国客户及业务发展主管合伙人江立勤表示：..."
+            },
+            {
+              "title": "中国经济观察：2025年四季度",
+              "link": "https://kpmg.com/cn/zh/home/insights/2025/11/china-economic-monitor-q4-2025.html",
+              "pubDate": "2025-11-14T09:00:00",
+              "description": "毕马威今日发布2025年四季度《中国经济观察》报告。报告指出，三季度政策重心转向“反内卷”，中国实际GDP同比增长4.8%，较二季度回落0.4个百分点。四季度经济运行存在两方面支撑因素。一是中美经贸紧张局势缓和，对外贸表现以及企业经营预期都有积极作用；二是宏观政策对内需关注度回升。在财政与货币政策协同发力下，四季度以投资为代表的内需表现有望迎来修复，全年5%左右的经济增速目标有望顺利实现。 点击下载 PDF 中国经济观察 中国经济观察 中国经济走势和发展季刊 中国经济走势和发展季刊 订阅中心 订阅中心 订阅与您自身最相关的专题 订阅与您自身最相关的专题 联系我们 寻找办事处地点 kpmg..."
+            },
+            {
+              "title": "“颜”值经济新篇章：2025年中国美妆市场行业报告",
+              "link": "https://kpmg.com/cn/zh/home/insights/2025/11/2025-china-beauty-market-industry-report.html",
+              "pubDate": "2025-11-14T02:00:00",
+              "description": "颜值经济是一种以人们对美的追求为主要驱动力的经济形态，它以个人形象提升为核心，涵盖了从传统美容、美妆、医美到时尚穿搭、健康管理、心理护理等多领域的经济活动。 2025年11月，毕马威发布《“颜”值经济新篇章：2025年中国美妆市场行业报告》。本报告基于详实的数据支撑与系统化研究方法，从市场需求演变、品牌竞争格局、技术创新、消费者洞察与资本动向等多维度，对中国美妆行业的发展现状与未来趋势进行了深入分析与专业解读。我们期望通过本报告，为品牌方、原料供应商、渠道商及投资机构等产业参与者提供具有战略指导意义的洞察与可执行的决策参考。 点击下载 PDF 订阅中心 订阅中心 订阅与您自身最相关的专题..."
+            },
+            {
+              "title": "毕马威发布2025年四季度《中国经济观察》 政策聚焦稳需求，助力经济增速目标达成",
+              "link": "https://kpmg.com/cn/zh/home/media/press-releases/2025/11/china-economic-monitor-q4-2025.html",
+              "pubDate": "2025-11-14T00:40:00",
+              "description": "毕马威今日发布2025年四季度《中国经济观察》报告（以下简称“报告”）。报告指出，2025年前三季度，中国经济实际GDP同比增长5.2%，高于去年同期0.4个百分点，完成全年5%左右增长目标的进度良好。但分季度观察，三季度政策重心转向“反内卷”，实际GDP增速达4.8%， 较二季度回落0.4个百分点，季调环比降至历史较低水平。一方面，“反内卷”政策推行过程中，多数企业投资动能受限，控制供给的同时也带来投资端需求的收缩，三季度制造业投资增速自2020年三季度以来，首次落入负增长区间。另一方面，前期“两新”政策力度在三季度回落，而房地产需求持续低迷，使得消费、房地产销售也有不同程度放缓。 毕..."
+            },
+            {
+              "title": "欧洲议会明确针对“综合方案”的立场",
+              "link": "https://kpmg.com/cn/zh/home/insights/2025/02/esrs-eu-omnibus.html",
+              "pubDate": "2025-11-13T11:56:00",
+              "description": "2025年11月13日 财务报告前沿动态 | 欧洲可持续报告准则热点探析（英文版） | 点击此处查看英文原文"
+            },
+            {
+              "title": "未来企业家评选",
+              "link": "https://kpmg.com/cn/zh/home/campaigns/future-sector-50/future-entrepreneur.html",
+              "pubDate": "2025-11-13T01:45:00",
+              "description": "在当前的经济环境下，企业的发展不仅关系到企业自身的可持续发展，也影响着社会经济的进步。那些带领企业在现有成功的商业模式上持续迭代，通过不断探索突破与创新的企业家们，为未来的商业世界树立了新标杆。"
+            },
+            {
+              "title": "文创科技50",
+              "link": "https://kpmg.com/cn/zh/home/campaigns/future-sector-50/culture-tech-50.html",
+              "pubDate": "2025-11-13T01:45:00",
+              "description": "随着互联网、大数据、虚拟现实等新技术的加速应用，文化、旅游、体育领域不断涌现模式创新和场景创新，文化引领赋能作用日益凸显，成为经济高质量发展的重要引擎。毕马威作为知名专业服务机构之一，始终密切关注科技对文创产业的引领作用与深远影响。毕马威中国启动首届卓越“文创科技”企业50评选活动，旨在发掘、激励和表彰在文化、旅游、体育领域有潜力的科技企业，提升行业内企业的竞争力和创新意识，促进文旅体领域的发展和合作，为该领域内科技赋能企业成长提供支持。"
+            },
+            {
+              "title": "医疗健康50",
+              "link": "https://kpmg.com/cn/zh/home/campaigns/future-sector-50/healthcare-50.html",
+              "pubDate": "2025-11-13T01:45:00",
+              "description": "自2021年起，毕马威启动了中国医疗健康50系列公益项目，先后推出了“社会办康复医疗企业50”和“社会办口腔医疗企业50”，\"健康科技企业50“，汇集了全国上百家卓越的社会办医疗机构，为企业搭建了沟通和交流的平台，提升中国健康科技企业在国内外的影响力，引导中国健康科技企业高质量发展。"
+            },
+            {
+              "title": "消费50",
+              "link": "https://kpmg.com/cn/zh/home/campaigns/future-sector-50/consumer-50.html",
+              "pubDate": "2025-11-13T01:45:00",
+              "description": "毕马威中国消费50榜单系列自2021年启动以来已成功举办四届，为消费品零售企业带来海量市场机遇，并持续助力行业创新变革。本次活动作为系列活动的传承与升级，聚焦在国内外锐意创新的消费品牌，在\"双循环\"新发展格局下，为企业持续打造\"品牌力\"提供行业洞见，帮助企业带来品牌赋能、资本对接、生态搭建、企业管理等多项权益。"
             }
           ]
         },
         {
           "name": "埃森哲洞察",
           "url": "https://rss.diffbot.com/rss?url=https://www.accenture.cn/cn-zh/insights-index",
-          "entries": [
-            {
-              "title": "AI无处不在。本报告围绕四大新趋势，探讨AI自主将为当今信任稀缺的社会带来哪些变化与机遇。",
-              "link": "https://www.accenture.cn/cn-zh/insights/technology/technology-trends-2025",
-              "pubDate": null,
-              "description": "AI无处不在。本报告围绕四大新趋势，探讨AI自主将为当今信任稀缺的社会带来哪些变化与机遇。"
-            },
-            {
-              "title": "企业逐渐意识到，传统商业增效策略的回报正日益递减。为了创造价值，供应链不仅需要追求成本效益，还要在速度、敏捷与可持续方面实现突破。人工智能驱动的自主化会是实现这一目标的关键吗？",
-              "link": "https://www.accenture.cn/cn-zh/insights/supply-chain/making-autonomous-supply-chains-real",
-              "pubDate": null,
-              "description": "企业逐渐意识到，传统商业增效策略的回报正日益递减。为了创造价值，供应链不仅需要追求成本效益，还要在速度、敏捷与可持续方面实现突破。人工智能驱动的自主化会是实现这一目标的关键吗？"
-            },
-            {
-              "title": "随着人们重新平衡他们与技术、彼此以及周围世界的关系，商业和品牌面临的挑战和机遇也随之出现。",
-              "link": "https://www.accenture.cn/cn-zh/insights/song/accenture-life-trends",
-              "pubDate": null,
-              "description": "随着人们重新平衡他们与技术、彼此以及周围世界的关系，商业和品牌面临的挑战和机遇也随之出现。"
-            },
-            {
-              "title": "迈入生成式人工智能新时代",
-              "link": "https://www.accenture.cn/cn-zh/insights/local/zhanwang-202302-generative-ai",
-              "pubDate": null,
-              "description": "提要：ChatGPT背后的技术将重塑商业形态和运营。中国企业需要重新构想工作方式，持续投入业务运营和人员培训，实现人工智能技术跨越式变革。"
-            },
-            {
-              "title": "这家电信领军企业如何以数据、AI 及全新运营方式推动数字化转型。",
-              "link": "https://www.accenture.cn/cn-zh/case-studies/communications-media/vodafone-pioneers-commercialized-shared-services-operations",
-              "pubDate": null,
-              "description": "这家电信领军企业如何以数据、AI 及全新运营方式推动数字化转型。"
-            },
-            {
-              "title": "中国消费者正用选择和行动重塑消费版图。于企业而言，唯有洞察消费者的真实需求，并在价值、情感和体验多维度上给予充分回应，方能在不断变化的市场中赢得持久信任与增长。",
-              "link": "https://www.accenture.cn/cn-zh/insights/consulting/chinese-consumer-insights-2025",
-              "pubDate": null,
-              "description": "中国消费者正用选择和行动重塑消费版图。于企业而言，唯有洞察消费者的真实需求，并在价值、情感和体验多维度上给予充分回应，方能在不断变化的市场中赢得持久信任与增长。"
-            },
-            {
-              "title": "网络风险加剧，对企业的安全防护能力提出严峻挑战。如何提前构建防御体系？在今年的《网络安全韧性》报告中，了解如何在拥抱 AI 转型的同时建立韧性。",
-              "link": "https://www.accenture.cn/cn-zh/insights/security/state-cybersecurity-2025",
-              "pubDate": null,
-              "description": "网络风险加剧，对企业的安全防护能力提出严峻挑战。如何提前构建防御体系？在今年的《网络安全韧性》报告中，了解如何在拥抱 AI 转型的同时建立韧性。"
-            },
-            {
-              "title": "数字化转型伙伴说",
-              "link": "https://www.accenture.cn/cn-zh/insights/local/zhanwang-202302-voices-from-client",
-              "pubDate": null,
-              "description": "2023年世界人工智能大会期间，埃森哲携手第一财经，邀请到学术专家和诸多领军企业的高管共聚一堂，围绕“生成式AI：重塑企业”的主题，从战略、技术、人才与责任等方面，探索全面重塑时代下的企业发展关键动能。"
-            },
-            {
-              "title": "Énergir 通过 SAP Ariba 激发采购强劲动能",
-              "link": "https://www.accenture.cn/cn-zh/case-studies/supply-chain/energir-supercharges-procurement-sap-ariba",
-              "pubDate": null,
-              "description": "这家加拿大公用事业企业如何重塑其采购与寻源管理，在推进可持续发展目标的同时实现提升效率与节约成本的双重飞跃。"
-            },
-            {
-              "title": "阿拉伯联合酋长国正朝着互联互通、数字优先的经济形态进行大胆转型，重塑其金融服务生态系统，并致力于将自身打造为全球领先的金融科技中心。",
-              "link": "https://www.accenture.cn/cn-zh/case-studies/data-ai/revolutionizing-uae-payment-systems",
-              "pubDate": null,
-              "description": ""
-            },
-            {
-              "title": "埃森哲与沃顿商学院联合启动研究计划，探索如何将人类优势与人工智能和机器人技术相结合，深入分析这一转型对个人、经济、组织和社会的影响。",
-              "link": "https://www.accenture.cn/cn-zh/insights/strategy/humans-ai-robots",
-              "pubDate": null,
-              "description": ""
-            }
-          ]
+          "entries": []
         },
         {
           "name": "Gartner",
           "url": "https://rss.diffbot.com/atom?url=https://www.gartner.com/en/newsroom/archive",
-          "entries": [
-            {
-              "title": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-02-gartner-survey-finds-only-20-percent-of-customer-service-leaders-report-ai-driven-headcount-reduction",
-              "pubDate": "2025-12-02T00:00:00",
-              "description": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction"
-            },
-            {
-              "title": "HR Leaders Must Build Future-Ready HR Teams For the AI Age",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-01-hr-leaders-must-build-future-ready-hr-teams-for-the-ai-age",
-              "pubDate": "2025-12-01T00:00:00",
-              "description": "HR Leaders Must Build Future-Ready HR Teams For the AI Age"
-            }
-          ]
+          "entries": []
         }
       ]
     },
@@ -447,6 +438,114 @@
               "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627225&idx=1&sn=370961e8fc80b75db43ebc9b95f5eed3",
               "pubDate": "2025-11-27T08:02:00",
               "description": "生成式AI正推动软件开发经历“范式级跃迁”：传统以人工编写、调试、迭代为核心的开发流程，正加速向“自然语言驱动、AI自主生成、人机协同优化”的新模式演进。"
+            },
+            {
+              "title": "千问APP公测上线！用最强模型打造最佳个人AI助手",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627194&idx=1&sn=92058436fa1de1fc13d01af2b13a66cf",
+              "pubDate": "2025-11-17T03:04:00",
+              "description": "千问APP公测上线！用最强模型打造最佳个人AI助手"
+            },
+            {
+              "title": "安筱鹏 | AI原生企业：智能经济崛起的风向标",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627185&idx=1&sn=309c9cd6a1a47f733d914856af5bfd6d",
+              "pubDate": "2025-11-11T09:57:00",
+              "description": "在经历了云原生、互联网原生企业崛起之后，我们正迎来AI原生（AI Native）企业大爆发的新时代，其影响将超过计算机革命、互联网革命。如何理解智能原生（AI Native）, 如何培育智能原生产业的崛起，事关中国AI产业发展走向。"
+            },
+            {
+              "title": "通义千问获世界互联网大会领先科技奖",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627184&idx=1&sn=f1deeba7bf7f7a4c30a4367ef598bb5e",
+              "pubDate": "2025-11-06T13:47:00",
+              "description": "刚刚，2025年世界互联网大会“领先科技奖”在乌镇揭晓，通义千问大模型因卓越的性能和在开源领域的世界领先地位荣获该奖项。"
+            },
+            {
+              "title": "产业之声 | 阿里巴巴《“银发+AI”报告》：老年人是AI时代深度参与者 适老化智能产品销量大增",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627164&idx=1&sn=d7e44077acb2002aeb5d79f94424fa64",
+              "pubDate": "2025-10-29T03:04:00",
+              "description": "报告分析了我国老年群体应用AI的现状与趋势，基于调研和数据提出：老年群体是AI时代充满潜能的深度参与者，将在居家养老、健康医疗、护理看管、情感陪伴、职业延续等场景全面收获AI红利。"
+            },
+            {
+              "title": "江小涓 ｜ 分布式AI治理：技术制度博弈与社会政府协同",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627127&idx=1&sn=6aacd782233a8849b1cd11c8701421a8",
+              "pubDate": "2025-10-22T05:13:00",
+              "description": "近十年来，人工智能治理问题是各国和全球科技治理的重点热点，然而相关治理共识虽然在各国和各种全球性高级别会议上反复发布，落地却缓慢而且收效有限。本文提出AI分布式治理的概念，即以技术手段为互信保障，形成遵守共同规则的去中心化AI合规共同体。"
+            },
+            {
+              "title": "产业之声 | OpenAI垂直整合AGI战略——最新系列事件解读及战略变革研判",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627124&idx=1&sn=6e38f7ca7cbb1faebf6e29089e12f2f8",
+              "pubDate": "2025-10-16T07:17:00",
+              "description": "OpenAI刷新了全球独角兽纪录，资本市场已将其视为全球最具确定性的AI投资标的，其行动也逐步为AI的产业化落地描绘出蓝图。我们基于其“垂直整合AGI战略”进行剖析，以期为决策部门提供系统性的分析参考。"
+            },
+            {
+              "title": "治理之智 | 阿里巴巴人工智能开源治理合作研究成果在国际顶尖学术期刊《科学》（Science）上发表",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627080&idx=1&sn=99715df81e92a9f9c186c9a5ab9bda42",
+              "pubDate": "2025-10-11T10:23:00",
+              "description": "国际顶尖学术期刊《科学》在线发表了阿里研究院人工智能治理中心主任傅宏宇合作参与的研究论文，题为《中国人工智能监管创新 推动迈向开放未来》，为全球人工智能治理贡献了中国智慧和中国方案。"
+            },
+            {
+              "title": "《奔腾的中国——高德扫街榜2025国庆中秋长假出行消费报告》",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627063&idx=1&sn=f053334a736e3fb62d611531626521b4",
+              "pubDate": "2025-10-09T06:54:00",
+              "description": "8天长假期间，高德为线下餐饮门店带去超过1亿的客流。10月3日，上线23天的“高德扫街榜”用户数突破4亿。"
+            },
+            {
+              "title": "云栖重磅合集 | 吴泳铭：超级人工智能之路",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627055&idx=1&sn=aa183d8530f5a19d11ad59caf8dc5d6c",
+              "pubDate": "2025-09-24T06:47:00",
+              "description": "全栈AI技术体系重磅升级"
+            },
+            {
+              "title": "你们催更的模型，在云栖大会悉数发布",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627055&idx=2&sn=2f08f422e1afa61b4c25a6f0ec646f1e",
+              "pubDate": "2025-09-24T06:47:00",
+              "description": "云栖大会发布了多款新模型，回应了用户对模型更新的期待。"
+            },
+            {
+              "title": "产业之声|《餐饮商家线上化经营》报告发布：现状洞察与未来趋势思考",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627040&idx=1&sn=4dc3dd5c13fc8d07277843654e7199ee",
+              "pubDate": "2025-09-15T09:54:00",
+              "description": "9月13日，《餐饮商家线上化经营：现状洞察与未来趋势思考》在青岛第二十六届中国美食节期间发布。本报告旨在从整体系统的视角出发，剖析餐饮外卖线上化转型对商家的实际影响，并从前瞻性的视角，讨论未来商户发展转型的主要方向。"
+            },
+            {
+              "title": "高德发布信用产品“扫街榜”，全力支持线下消费",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627020&idx=1&sn=c5e76ca5f7585680709fe8cfabe0ad15",
+              "pubDate": "2025-09-10T08:15:00",
+              "description": "9月10日，是阿里巴巴成立26周年的日子。今天，我们推出全球首个基于用户行为产生的榜单“高德扫街榜”，全力支持线下餐饮及服务消费。"
+            },
+            {
+              "title": "产业之声 | AI+消费：融合共生，驱动增长",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627007&idx=1&sn=c311637f817e736b4011a532ffe5db51",
+              "pubDate": "2025-08-27T04:07:00",
+              "description": "近期，微软、Meta等验证了AI对中小企业提质增效的价值，取得业绩和股价的双重高涨。"
+            },
+            {
+              "title": "科技让爱有回声：高德地图 AI 自制导航语音功能开放",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652626995&idx=1&sn=c5c6bf888ad73bd6822d656a18b8c5b6",
+              "pubDate": "2025-08-14T09:16:00",
+              "description": "近期，一段名为《爱的回声》的短片引发共鸣，影片改编自一个真实故事：一位失去父亲的女儿，通过某地图平台新上线的“自制语音包”功能，利用AI技术成功复刻了父亲的声音。"
+            },
+            {
+              "title": "域外之见 | “加速扩散、全栈创新、监管轻触”：美国人工智能行动计划速览及启示",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652626979&idx=1&sn=b130214f9c7d692e85460104289f2be3",
+              "pubDate": "2025-08-01T12:12:00",
+              "description": "当地时间2025年7月23日，《美国人工智能行动计划》由白宫正式发布，系特朗普政府第二任期在科技领域的首个系统性文件。美国人工智能行动计划体现了美国科技产业界和政策制定者对AI技术发展规律的基本认知，也勾勒出了美国对AI国际竞争的核心策略。"
+            },
+            {
+              "title": "治理之智 | 钉钉联合多家单位发布《生成式人工智能服务数据安全合规指引》",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652626979&idx=2&sn=0433fb1da3245f7c7351d71c5e2c6c47",
+              "pubDate": "2025-08-01T12:12:00",
+              "description": "7月28日，在世界人工智能大会“大模型治理和有序发展生态”论坛上，由上海市网信办指导，上海人工智能安全治理实验室、钉钉（中国）信息技术有限公司、阿里研究院联合起草的《生成式人工智能服务数据安全合规指引》正式发布。"
+            },
+            {
+              "title": "安筱鹏：大模型应用走向“深水区”的四个风向标",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652626967&idx=1&sn=6f65dcf34cea548a7ce75ea909a47398",
+              "pubDate": "2025-07-30T12:26:00",
+              "description": "当前，人工智能浪潮已从通用能力展示转向产业纵深。一个核心问题浮现：如何衡量AI是否真正进入了高价值的“深水区”？"
+            },
+            {
+              "title": "治理之智 | 《开源人工智能：合作的价值与未来》报告发布",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652626909&idx=1&sn=0619e2ff243721b78ffd6aaa88e4eff3",
+              "pubDate": "2025-07-25T10:32:00",
+              "description": "“开源人工智能（Open-Source Artificial Intelligence）”正在成为人工智能技术演化的重要方向，是促进人工智能赋能人类社会发展的关键力量。"
             }
           ]
         }
