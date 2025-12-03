@@ -43,7 +43,7 @@ RSS_FEED_GROUPS = [
             },
             {
                 "name": "工信部政策文件",
-                "url": "https://www.miit.gov.cn/api-gateway/jpaas-plugins-web-server/front/rss/getinfo?webId=8d828e408d90447786ddbe128d495e9e&columnIds=925fa8f4afd44e53818794ed96d9876e%2C30f92eeafcfd4685984dfb793a2c5fff"
+                "url": "rsshub://gov/miit/zcjd"
             },
             {
                 "name": "发改委发展改革板块",
@@ -55,8 +55,8 @@ RSS_FEED_GROUPS = [
         "groupName": "咨询机构",
         "feeds": [
             {
-                "name": "麦肯锡全球研究院",
-                "url": "rsshub://mckinsey/cn/19"
+                "name": "麦肯锡洞察",
+                "url": "rsshub://mckinsey/cn"
             },
             {
                 "name": "毕马威洞察",
@@ -80,8 +80,8 @@ RSS_FEED_GROUPS = [
                 "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml"
             },
             {
-                "name": "北京大学国家发展研究院",
-                "url": "rsshub://pku/nsd/gd"
+                "name": "MIT Technology Review",
+                "url": "https://www.technologyreview.com/feed/"
             },
             {
                 "name": "阿里研究院",
