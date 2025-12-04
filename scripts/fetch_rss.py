@@ -201,12 +201,14 @@ def merge_with_cache(new_groups: list, cached_data: dict) -> list:
                 cached_entries = cache_map[source_key]
                 if cached_entries:
                     print(f"  Using cached data for {new_source['name']} ({len(cached_entries)} entries)")
-                    new_source['entries'] = cached_entries
+                    # Create a copy to avoid mutating cached data
+                    new_source['entries'] = cached_entries.copy()
             
             merged_sources.append(new_source)
         
-        new_group['sources'] = merged_sources
-        merged_groups.append(new_group)
+        # Create a new group dictionary instead of modifying in place
+        merged_group = {**new_group, 'sources': merged_sources}
+        merged_groups.append(merged_group)
     
     return merged_groups
 
