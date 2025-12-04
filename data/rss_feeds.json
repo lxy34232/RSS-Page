@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-04T02:15:24.214997",
+  "lastUpdated": "2025-12-04T03:52:38.120737",
   "daysFilter": 180,
   "groups": [
     {
@@ -317,7 +317,80 @@
         {
           "name": "Gartner",
           "url": "https://rss.diffbot.com/atom?url=https://www.gartner.com/en/newsroom/archive",
-          "entries": []
+          "entries": [
+            {
+              "title": "Gartner Survey Reveals 61% of U.S. Citizens Rate Secure Data Handling as Extremely Important for Government Digital Services",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-03-gartner-survey-reveals-61-percent-of-us-citizens-rate-secure-data-handling-as-extremely-important-for-government-digital-services",
+              "pubDate": "2025-12-03T00:00:00",
+              "description": "Gartner Survey Reveals 61% of U.S. Citizens Rate Secure Data Handling as Extremely Important for Government Digital Services"
+            },
+            {
+              "title": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-02-gartner-survey-finds-only-20-percent-of-customer-service-leaders-report-ai-driven-headcount-reduction",
+              "pubDate": "2025-12-02T00:00:00",
+              "description": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction"
+            },
+            {
+              "title": "HR Leaders Must Build Future-Ready HR Teams For the AI Age",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-01-hr-leaders-must-build-future-ready-hr-teams-for-the-ai-age",
+              "pubDate": "2025-12-01T00:00:00",
+              "description": "HR Leaders Must Build Future-Ready HR Teams For the AI Age"
+            },
+            {
+              "title": "Gartner Survey Reveals 52% of Government CIOs Outside of the U.S. Expect IT Budgets to Increase in 2026",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-26-gartner-survey-reveals-52-percent-of-government-cios-expect-it-budgets-to-increase-in-2026",
+              "pubDate": "2025-11-26T00:00:00",
+              "description": "Gartner Survey Reveals 52% of Government CIOs Outside of the U.S. Expect IT Budgets to Increase in 2026"
+            },
+            {
+              "title": "Gartner Marketing Survey Finds 56% of Consumers Are Already Spending Like It’s a Recession",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-25-gartner-marketing-survey-finds-56-percent-of-consumers-are-already-spending-like-its-a-recession",
+              "pubDate": "2025-11-25T00:00:00",
+              "description": "Gartner Marketing Survey Finds 56% of Consumers Are Already Spending Like It’s a Recession"
+            },
+            {
+              "title": "Gartner Survey Finds 90% of Non-Executive Directors Lack a Measure of Confidence in Cybersecurity Value",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-24-gartner-survey-finds-90-percent-of-non-executive-directors-lack-a-measure-of-confidence-in-cybersecurity-value",
+              "pubDate": "2025-11-24T00:00:00",
+              "description": "Gartner Survey Finds 90% of Non-Executive Directors Lack a Measure of Confidence in Cybersecurity Value"
+            },
+            {
+              "title": "Three Critical Trends for Sales Leaders to Address in the Age of AI",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-24-three-critical-trends-for-sales-leaders-to-address-in-the-age-of-ai",
+              "pubDate": "2025-11-24T00:00:00",
+              "description": "Three Critical Trends for Sales Leaders to Address in the Age of AI"
+            },
+            {
+              "title": "Gartner Predicts 50% of Enterprises Will Invest in Disinformation Security and TrustOps by 2027",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-20-gartner-predicts-50-percent-of-enterprises-will-invest-in-disinformation-security-and-trustops-by-2027",
+              "pubDate": "2025-11-20T00:00:00",
+              "description": "Gartner Predicts 50% of Enterprises Will Invest in Disinformation Security and TrustOps by 2027"
+            },
+            {
+              "title": "Gartner Announces Ranking of the Gartner Healthcare Supply Chain Top 25 for 2025",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-announces-ranking-of-the-gartner-healthcare-supply-chain-top-25-for-2025",
+              "pubDate": "2025-11-19T00:00:00",
+              "description": "Gartner Announces Ranking of the Gartner Healthcare Supply Chain Top 25 for 2025"
+            },
+            {
+              "title": "Gartner IT Symposium/Xpo 2025 Kochi: Day 3 Highlights",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-it-symposium-xpo-2025-kochi-day-3-highlights",
+              "pubDate": "2025-11-19T00:00:00",
+              "description": "Gartner IT Symposium/Xpo 2025 Kochi: Day 3 Highlights"
+            },
+            {
+              "title": "Gartner Identifies Critical GenAI Blind Spots That CIOs Must Urgently Address",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-identifies-critical-genai-blind-spots-that-cios-must-urgently-address0",
+              "pubDate": "2025-11-19T00:00:00",
+              "description": "Gartner Identifies Critical GenAI Blind Spots That CIOs Must Urgently Address"
+            },
+            {
+              "title": "Gartner Survey Shows Finance AI Adoption Remains Steady in 2025",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-survey-shows-finance-ai-adoption-remains-steady-in-2025",
+              "pubDate": "2025-11-18T00:00:00",
+              "description": "Gartner Survey Shows Finance AI Adoption Remains Steady in 2025"
+            }
+          ]
         }
       ]
     },
@@ -328,6 +401,24 @@
           "name": "中国科学院科研进展",
           "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml",
           "entries": [
+            {
+              "title": "可逆形状记忆二维共价有机框架材料研究取得进展",
+              "link": "https://www.cas.cn/syky/202512/t20251204_5091450.shtml",
+              "pubDate": null,
+              "description": "二维共价有机框架（2D COF）材料是一类独特的有机晶体材料，兼具弱层间相互作用与规整的一维纳米孔道结构。由于其层间堆叠相可逆，可实现孔径可调，在纳米电子学、纳米反应器、智能响应系统、气体分离与存储等领域具有应用潜力。然而，层间近AA堆叠是大多数2D COF在热力学上最稳定的结构，打破其热力学限制，从而实现可逆层间堆叠仍具挑战。近日，中国科学院化学研究所团队，针对高质量、大面积2D COF薄膜难以可控制备的难题，通过衬底诱导分子取向及建立扩散限制的2D COF生长模型，在实验与理论模拟协同下，实现了厚度可控、高晶体取向的晶圆级2D COF薄膜制备，展示了其在自适应视觉器件中的应用。团队提..."
+            },
+            {
+              "title": "研究揭示细菌逆转录酶介导新型免疫机制",
+              "link": "https://www.cas.cn/syky/202512/t20251204_5091446.shtml",
+              "pubDate": null,
+              "description": "近日，中国科学院武汉病毒研究所团队，揭示了新型细菌抗病毒防御系统DRT4的工作机制。研究发现，在遭遇噬菌体入侵时，带有DRT4防御系统的细菌通过“自杀式防御”策略，牺牲被感染个体以保全群体。这一防御系统的启动“钥匙”来自于病毒自身编码的一种核酸结合蛋白。研究团队综合运用生物化学、生物物理学及微生物学等多种研究手段，从分子层面解析了DRT4系统的防御机制。团队发现，该机制具有独特的“无模板”DNA合成能力，尽管DRT4被定义为原核生物逆转录酶家族，但其具有不依赖模板合成随机序列的单链DNA的酶活性。这一非典型聚合酶活性是其执行防御功能的核心基础。同时，DRT4上高度保守的酪氨酸残基（Tyr..."
+            },
+            {
+              "title": "研究提出树轮氧同位素在考古学的应用",
+              "link": "https://www.cas.cn/syky/202512/t20251201_5090771.shtml",
+              "pubDate": null,
+              "description": "作为我国现存规模最大、保存最完整的木结构宫殿建筑群，北京故宫拥有海量的木构件。故宫等古建筑的年代鉴定及建筑历史研究多依赖史料和形制研究，古建筑的建造年代、修缮历史等信息缺乏科学、精确的判定手段。 近期，中国科学院地质与地球物理研究所联合故宫博物院，对故宫大高玄殿九天应元雷坛殿屋顶替换下来的3处落叶松木构件样品，进行逐年树轮氧同位素测定，尝试通过树轮氧同位素确定木构件的年代及产地信息。大高玄殿3个样品浮动树轮氧同位素年表交叉定年结果显示，3条树轮氧同位素序列间可交叉对比，且可拼接成1个144年的复合浮动年表。为进一步确定各个浮动年表的年代，团队将结果分别与东北老白山红松、北京油松等中国北方..."
+            },
             {
               "title": "科学家破解水稻热感知“双重解码”机制",
               "link": "https://www.cas.cn/syky/202512/t20251203_5091165.shtml",
@@ -429,24 +520,6 @@
               "link": "https://www.cas.cn/syky/202512/t20251201_5090770.shtml",
               "pubDate": null,
               "description": "白令海冬季海冰作为区域气候系统的重要调节器，其年际变化主要受厄尔尼诺—南方涛动（ENSO）调控。传统观点认为，ENSO通过影响阿留申低压的强度与位置，改变白令海区域的风场和热通量，最终影响海冰范围，且这一关系被认为相对稳定。近日，中国科学院南海海洋研究所科研团队，通过综合分析观测资料和数值模拟试验，发现该“遥控”机制在20世纪90年代中期发生明显转折，其中北太平洋经向模态（NPMM）的关键桥梁作用明显增强。研究显示，在20世纪90年代中期之前，东太平洋型ENSO主导了与白令海海冰之间的正相关关系。随着中太平洋型ENSO事件频率增加，两者关系逆转为负相关，这一转变的核心机制在于，中太平洋型..."
-            },
-            {
-              "title": "研究实现纠缠增强纳米尺度单自旋量子传感",
-              "link": "https://www.cas.cn/syky/202511/t20251128_5090494.shtml",
-              "pubDate": null,
-              "description": "微观世界中，电子具有“自旋”的基本属性，这些“自旋”如同一个个微小磁针。材料的较多宏观特性，如磁铁的磁性或超导体的零电阻，皆源于这些微观磁针的排列方式与相互作用。日前，中国科学技术大学与浙江大学合作，在纳米尺度量子精密测量领域取得进展，首次实现了噪声环境下纠缠增强的纳米尺度单自旋探测。探测单个自旋，测量物质世界最基础的磁性单元，能够为剖析物性提供新视角，并为发展单分子磁探测技术和推进量子科技奠定基础。但是，物质存在大量自旋，对单个自旋的探测犹如在喧闹的体育场中试图清晰捕捉某个人的低语，这对探测技术提出了严峻挑战。金刚石氮—空位色心量子传感器，凭借纳米级分辨能力和高灵敏磁探测能力，被视为实..."
-            },
-            {
-              "title": "研究揭示视觉意识如何调节注意“聚光灯”的节律采样",
-              "link": "https://www.cas.cn/syky/202512/t20251201_5090767.shtml",
-              "pubDate": null,
-              "description": "为避免陷入“信息过载”困境，大脑演化出了一套高效的信息选择系统——注意。这一过程常被比喻为舞台上的“聚光灯”，即被注意到的信息，就像被光束照亮的演员，清晰突显；而舞台的其他部分则隐入暗处。借助这盏“聚光灯”，大脑能够筛选出重要的信息并及时作出反应。已有研究发现，当注意被分配到多个位置时，人类和猕猴的行为表现会出现每秒4次至8次的周期性波动。这表明，注意更像是一盏按特定节奏在采样的动态“聚光灯”，这一机制被称为注意的节律采样。目前，学界对意识是否会影响注意“聚光灯”的“闪烁”方式， 环境中信息的节律采样是否依赖对信息的意识或可在无意识条件下独立运行等问题尚不明晰。近日，中国科学院心理研究所..."
-            },
-            {
-              "title": "量子超临界磁卡效应研究获进展",
-              "link": "https://www.cas.cn/syky/202512/t20251201_5090769.shtml",
-              "pubDate": null,
-              "description": "在多体物理研究中，量子涨落驱动的连续相变及其量子临界点（QCP）是备受关注的主题。尽管QCP是零温下的奇异点，但其影响却可支配系统在有限温度范围内的行为。近期，中国科学院理论物理所研究团队利用自主发展的热态张量网络方法研究量子Ising模型发现，当横场与纵场共同作用时，QCP上方会展开一个“量子超临界区”，并伴随强烈发散的超临界磁卡效应。该研究提供了量子相变普适增强制冷机制，为发展无氦-3极低温固态制冷开辟了多场调控新路径。量子临界点作为零温下的奇异点，其影响可延伸至有限温区域，形成由温度与横场定义的量子临界区，并主导该区域内系统的行为。在此基础之上，研究引入横场与纵场进行共同调控发现，..."
             }
           ]
         },
