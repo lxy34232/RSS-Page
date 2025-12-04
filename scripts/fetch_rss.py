@@ -147,14 +147,31 @@ def resolve_url(url: str, domain: str = None) -> str:
     return url
 
 
+def is_feed_valid(feed) -> bool:
+    """Check if a feed was successfully parsed and has entries.
+    
+    Args:
+        feed: The feedparser feed object to check
+        
+    Returns:
+        bool: True if feed is valid (not malformed or has entries), False otherwise
+    """
+    return not feed.bozo or feed.entries
+
+
 def try_fetch_with_fallback(url: str, original_url: str) -> tuple:
     """Try to fetch a feed, using fallback domains if it's a rsshub:// URL that fails.
     
-    Returns: (feed, successful_url)
+    Args:
+        url: The resolved URL to fetch from
+        original_url: The original URL (may contain rsshub:// prefix) for fallback logic
+    
+    Returns:
+        tuple: (feed, successful_url) - The feed object and the URL that worked
     """
     # First try the given URL
     feed = feedparser.parse(url)
-    if not (feed.bozo and not feed.entries):
+    if is_feed_valid(feed):
         return feed, url
     
     # If the original URL uses rsshub://, try fallback domains
@@ -165,7 +182,7 @@ def try_fetch_with_fallback(url: str, original_url: str) -> tuple:
             print(f"    Trying: {fallback_domain}")
             try:
                 feed = feedparser.parse(fallback_url)
-                if not (feed.bozo and not feed.entries):
+                if is_feed_valid(feed):
                     print(f"    Success with: {fallback_domain}")
                     return feed, fallback_url
             except Exception as e:
@@ -187,7 +204,7 @@ def fetch_feed_entries(feed_config: dict, days_filter: int) -> list:
     try:
         feed, successful_url = try_fetch_with_fallback(url, feed_config['url'])
         
-        if feed.bozo and not feed.entries:
+        if not is_feed_valid(feed):
             print(f"  Warning: Failed to parse {feed_config['name']}")
             return entries
         
