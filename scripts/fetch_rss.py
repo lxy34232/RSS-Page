@@ -38,12 +38,8 @@ RSS_FEED_GROUPS = [
         "groupName": "国家政策",
         "feeds": [
             {
-                "name": "中国科学院科研进展",
-                "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml"
-            },
-            {
                 "name": "工信部政策文件",
-                "url": "rsshub://gov/miit/zcjd"
+                "url": "https://www.miit.gov.cn/api-gateway/jpaas-plugins-web-server/front/rss/getinfo?webId=8d828e408d90447786ddbe128d495e9e&columnIds=925fa8f4afd44e53818794ed96d9876e%2C30f92eeafcfd4685984dfb793a2c5fff"
             },
             {
                 "name": "发改委发展改革板块",
@@ -55,7 +51,7 @@ RSS_FEED_GROUPS = [
         "groupName": "咨询机构",
         "feeds": [
             {
-                "name": "麦肯锡洞察",
+                "name": "麦肯锡全球研究院",
                 "url": "rsshub://mckinsey/cn/25"
             },
             {
@@ -63,8 +59,8 @@ RSS_FEED_GROUPS = [
                 "url": "http://139.162.74.205/kpmg/insights"
             },
             {
-                "name": "埃森哲洞察",
-                "url": "https://rss.diffbot.com/rss?url=https://www.accenture.cn/cn-zh/insights-index"
+                "name": "The Batch",
+                "url": "https://rsshub.bestblogs.dev/deeplearning/the-batch"
             },
             {
                 "name": "Gartner",
@@ -80,12 +76,12 @@ RSS_FEED_GROUPS = [
                 "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml"
             },
             {
-                "name": "MIT Technology Review",
-                "url": "https://www.technologyreview.com/feed/"
-            },
-            {
                 "name": "阿里研究院",
                 "url": "https://wechat2rss.bestblogs.dev/feed/e2f1190c120f7f3d74b630bfcfe9e58296bd535c.xml"
+            },
+            {
+                "name": "MIT Technology Review",
+                "url": "https://www.technologyreview.com/feed/"
             }
         ]
     }
