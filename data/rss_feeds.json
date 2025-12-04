@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-04T03:52:38.120737",
+  "lastUpdated": "2025-12-04T07:42:02.776270",
   "daysFilter": 180,
   "groups": [
     {
@@ -317,80 +317,7 @@
         {
           "name": "Gartner",
           "url": "https://rss.diffbot.com/atom?url=https://www.gartner.com/en/newsroom/archive",
-          "entries": [
-            {
-              "title": "Gartner Survey Reveals 61% of U.S. Citizens Rate Secure Data Handling as Extremely Important for Government Digital Services",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-03-gartner-survey-reveals-61-percent-of-us-citizens-rate-secure-data-handling-as-extremely-important-for-government-digital-services",
-              "pubDate": "2025-12-03T00:00:00",
-              "description": "Gartner Survey Reveals 61% of U.S. Citizens Rate Secure Data Handling as Extremely Important for Government Digital Services"
-            },
-            {
-              "title": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-02-gartner-survey-finds-only-20-percent-of-customer-service-leaders-report-ai-driven-headcount-reduction",
-              "pubDate": "2025-12-02T00:00:00",
-              "description": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction"
-            },
-            {
-              "title": "HR Leaders Must Build Future-Ready HR Teams For the AI Age",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-01-hr-leaders-must-build-future-ready-hr-teams-for-the-ai-age",
-              "pubDate": "2025-12-01T00:00:00",
-              "description": "HR Leaders Must Build Future-Ready HR Teams For the AI Age"
-            },
-            {
-              "title": "Gartner Survey Reveals 52% of Government CIOs Outside of the U.S. Expect IT Budgets to Increase in 2026",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-26-gartner-survey-reveals-52-percent-of-government-cios-expect-it-budgets-to-increase-in-2026",
-              "pubDate": "2025-11-26T00:00:00",
-              "description": "Gartner Survey Reveals 52% of Government CIOs Outside of the U.S. Expect IT Budgets to Increase in 2026"
-            },
-            {
-              "title": "Gartner Marketing Survey Finds 56% of Consumers Are Already Spending Like It’s a Recession",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-25-gartner-marketing-survey-finds-56-percent-of-consumers-are-already-spending-like-its-a-recession",
-              "pubDate": "2025-11-25T00:00:00",
-              "description": "Gartner Marketing Survey Finds 56% of Consumers Are Already Spending Like It’s a Recession"
-            },
-            {
-              "title": "Gartner Survey Finds 90% of Non-Executive Directors Lack a Measure of Confidence in Cybersecurity Value",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-24-gartner-survey-finds-90-percent-of-non-executive-directors-lack-a-measure-of-confidence-in-cybersecurity-value",
-              "pubDate": "2025-11-24T00:00:00",
-              "description": "Gartner Survey Finds 90% of Non-Executive Directors Lack a Measure of Confidence in Cybersecurity Value"
-            },
-            {
-              "title": "Three Critical Trends for Sales Leaders to Address in the Age of AI",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-24-three-critical-trends-for-sales-leaders-to-address-in-the-age-of-ai",
-              "pubDate": "2025-11-24T00:00:00",
-              "description": "Three Critical Trends for Sales Leaders to Address in the Age of AI"
-            },
-            {
-              "title": "Gartner Predicts 50% of Enterprises Will Invest in Disinformation Security and TrustOps by 2027",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-20-gartner-predicts-50-percent-of-enterprises-will-invest-in-disinformation-security-and-trustops-by-2027",
-              "pubDate": "2025-11-20T00:00:00",
-              "description": "Gartner Predicts 50% of Enterprises Will Invest in Disinformation Security and TrustOps by 2027"
-            },
-            {
-              "title": "Gartner Announces Ranking of the Gartner Healthcare Supply Chain Top 25 for 2025",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-announces-ranking-of-the-gartner-healthcare-supply-chain-top-25-for-2025",
-              "pubDate": "2025-11-19T00:00:00",
-              "description": "Gartner Announces Ranking of the Gartner Healthcare Supply Chain Top 25 for 2025"
-            },
-            {
-              "title": "Gartner IT Symposium/Xpo 2025 Kochi: Day 3 Highlights",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-it-symposium-xpo-2025-kochi-day-3-highlights",
-              "pubDate": "2025-11-19T00:00:00",
-              "description": "Gartner IT Symposium/Xpo 2025 Kochi: Day 3 Highlights"
-            },
-            {
-              "title": "Gartner Identifies Critical GenAI Blind Spots That CIOs Must Urgently Address",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-identifies-critical-genai-blind-spots-that-cios-must-urgently-address0",
-              "pubDate": "2025-11-19T00:00:00",
-              "description": "Gartner Identifies Critical GenAI Blind Spots That CIOs Must Urgently Address"
-            },
-            {
-              "title": "Gartner Survey Shows Finance AI Adoption Remains Steady in 2025",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-survey-shows-finance-ai-adoption-remains-steady-in-2025",
-              "pubDate": "2025-11-18T00:00:00",
-              "description": "Gartner Survey Shows Finance AI Adoption Remains Steady in 2025"
-            }
-          ]
+          "entries": []
         }
       ]
     },
@@ -401,6 +328,18 @@
           "name": "中国科学院科研进展",
           "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml",
           "entries": [
+            {
+              "title": "科学家利用单原子实现反冲狭缝思想实验",
+              "link": "https://www.cas.cn/syky/202512/t20251204_5091476.shtml",
+              "pubDate": null,
+              "description": "近日，中国科学技术大学研究团队，利用光镊囚禁的量子基态单原子，首次忠实地实现了1927年爱因斯坦和玻尔争论中提出的“反冲狭缝”量子干涉思想实验，观测到原子动量可调谐的干涉对比度渐进变化过程，证明了海森堡极限下的互补性原理，展示了从量子到经典的连续转变过程。1927年，爱因斯坦设计了一个实验：在双缝干涉实验中，让单光子通过一个可移动的狭缝。单光子会给狭缝极微弱的反冲动量，若能测出这一反冲便可知光子的路径（粒子性），而只要狭缝位置足够精确，干涉条纹（波动性）仍可保留。这一思想实验直接指向“能否同时获得波与粒子的完整信息”，被视为量子力学最深刻的悖论之一。实现这一思想实验的关键在于，测量有效的..."
+            },
+            {
+              "title": "研究揭示意识障碍患者意识恢复的共性机制",
+              "link": "https://www.cas.cn/syky/202512/t20251204_5091449.shtml",
+              "pubDate": null,
+              "description": "近日，中国科学院自动化研究所、首都医科大学附属北京天坛医院、杭州师范大学、比利时列日大学合作，通过记录并分析不同年龄、不同病因、不同严重程度的意识障碍患者大脑活动模式与其意识恢复之间的关系，揭示了意识恢复的共性神经机制，为理解这一医学与科学难题提供了关键证据。意识障碍是指患者因严重脑损伤而陷入长期昏迷或意识严重受损的状态。研究分析接受深部脑刺激治疗的意识障碍患者的微电极记录数据，运用人工智能技术挖掘大脑“意识开关”——丘脑的神经活动模式。在34个电生理特征中，研究筛选出四个关键特征，特别是4至8赫兹的神经振荡的强度和稳定性，构建出与患者一年后意识恢复情况高度相关的统一神经度量。研究显示，..."
+            },
             {
               "title": "可逆形状记忆二维共价有机框架材料研究取得进展",
               "link": "https://www.cas.cn/syky/202512/t20251204_5091450.shtml",
@@ -418,6 +357,18 @@
               "link": "https://www.cas.cn/syky/202512/t20251201_5090771.shtml",
               "pubDate": null,
               "description": "作为我国现存规模最大、保存最完整的木结构宫殿建筑群，北京故宫拥有海量的木构件。故宫等古建筑的年代鉴定及建筑历史研究多依赖史料和形制研究，古建筑的建造年代、修缮历史等信息缺乏科学、精确的判定手段。 近期，中国科学院地质与地球物理研究所联合故宫博物院，对故宫大高玄殿九天应元雷坛殿屋顶替换下来的3处落叶松木构件样品，进行逐年树轮氧同位素测定，尝试通过树轮氧同位素确定木构件的年代及产地信息。大高玄殿3个样品浮动树轮氧同位素年表交叉定年结果显示，3条树轮氧同位素序列间可交叉对比，且可拼接成1个144年的复合浮动年表。为进一步确定各个浮动年表的年代，团队将结果分别与东北老白山红松、北京油松等中国北方..."
+            },
+            {
+              "title": "钾浮选剂光催化降解研究取得进展",
+              "link": "https://www.cas.cn/syky/202512/t20251203_5091162.shtml",
+              "pubDate": null,
+              "description": "十八胺（ODA）和十二烷基吗啉（DMP）是浮选法生产钾盐的常用浮选药剂，其在水中的溶解度低，结构稳定难以实现快速自然降解。对钾浮选药剂开展高效处理，特别是催化降解方面的研究已成为盐湖资源绿色高值开发利用过程中亟需关注的问题之一。中国科学院青海盐湖研究所根据钾盐浮选药剂性质特点，聚焦绿色高效处理的研究需要，结合高原地区自然光辐照强度大等优势，优化光催化材料缺陷工程改性策略，成功制备金属/非金属双缺陷铋酸盐光催化材料，考察其对可见光的吸收利用，并对双缺陷结构改性铋酸盐光催化剂的催化作用机制开展深入剖析。研究发现，在水热制备Bi2WO6过程中加入适当比例的还原剂和刻蚀剂，可以实现“一锅法”在B..."
+            },
+            {
+              "title": "研究开发靶向前列腺衰老的基因疗法",
+              "link": "https://www.cas.cn/syky/202511/t20251125_5089764.shtml",
+              "pubDate": null,
+              "description": "作为男性生殖系统的关键器官，前列腺衰老会引起前列腺液成分改变、影响精子活力，还会因组织增生导致尿道机械性梗阻及下尿路功能障碍。同时，生理性衰老伴随的功能退化，与良性前列腺增生及前列腺癌等高发疾病密切相关。目前，由于缺乏理想的动物模型与系统性研究策略，学界对其核心机制的认识有限，制约了有效干预手段的开发。近期，中国科学院动物研究所研究团队等，解析了灵长类前列腺衰老的关键细胞与分子调控网络，揭示了基底上皮细胞中GRHL2-CDK19分子轴失活，可通过激活p53-p21信号通路，驱动前列腺衰老。基于该发现，团队进一步开发了靶向GRHL2的基因治疗策略，在动物模型中缓解了前列腺衰老相关表型，完成..."
             },
             {
               "title": "科学家破解水稻热感知“双重解码”机制",
@@ -496,30 +447,6 @@
               "link": "https://www.cas.cn/syky/202512/t20251203_5091166.shtml",
               "pubDate": null,
               "description": "森林是地球上生物多样性最为丰富的生态系统之一，在维持陆地生态系统功能方面发挥着重要作用。为应对日益严峻的气候变化，以及人类活动对自然林多样性保护造成的压力，我国制定了《昆明—蒙特利尔全球生物多样性框架》。因此，从多维度视角系统评估森林的多样性格局、驱动机制及其未来潜力，对于支撑国家生物多样性保护战略意义重大。近日，中国科学院华南植物园联合多家国内外科研机构，在中国森林多样性格局研究方面取得进展。过去二十年来，国内关于森林多样性的研究主要集中在粗尺度（通常覆盖数十万公顷以上的面积）的伽马多样性，反映的是区域物种总数，难以揭示森林群落内部的真实物种共存状态。相比之下，基于细尺度（通常覆盖数百..."
-            },
-            {
-              "title": "研究开发新型融合蛋白靶向DNA捕获方法",
-              "link": "https://www.cas.cn/syky/202512/t20251202_5090983.shtml",
-              "pubDate": null,
-              "description": "高效、特异地捕获目标DNA片段是精准基因检测、基因组研究及疾病诊断中的关键技术环节。传统杂交探针捕获方法在特异性、灵活性和低丰度样本处理方面存在局限，尤其在实现对多靶标位点高通量富集时，捕获效率低、操作复杂且成本高，制约了靶向测序和分子诊断技术应用推广。中国科学院天津工业生物技术研究所研究团队开发了新型融合蛋白靶向DNA捕获方法UdgX-SSBE3，实现了通过酶促标记与共价捕获相结合的策略，对目标DNA片段进行高效富集。该方法核心原理为：利用胞苷脱氨酶在目标DNA上将胞嘧啶（C）转化为尿嘧啶（U）以打上“标签”，随后由UdgX识别并与其形成共价结合，实现对几乎任意目标位点精准捕获。团队以..."
-            },
-            {
-              "title": "研究发现新“暗物质蛋白”作为胚胎发育命运的细胞质“开关”",
-              "link": "https://www.cas.cn/syky/202512/t20251202_5090981.shtml",
-              "pubDate": null,
-              "description": "翻译与代谢的相互调控是细胞可塑性的基础。胚胎早期发育可分为着床前和着床后两个阶段，对应体外培养时两种稳定且可互相转变的多能性干细胞状态：原始态（Naïve）与始发态（Primed）。早期发育与多能干细胞命运在表观遗传、转录、代谢等层次已有研究，而在翻译阶段，此前主要聚焦于已知蛋白的翻译，基因组中是否存在未被挖掘的“暗物质蛋白”调控代谢与早期发育尚不明确。基因组中大量“非编码区”曾被视作 “暗物质”。近日，中国科学院广州生物医药与健康研究院科研团队，揭示了PLUM新蛋白掌控着干细胞命运的“开关”， 是迄今为止少数能实现“决定性诱导”的细胞因子之一。团队利用核糖体测序技术发现，在Primed..."
-            },
-            {
-              "title": "柔性单通道多模态传感器研究取得进展",
-              "link": "https://www.cas.cn/syky/202512/t20251202_5090973.shtml",
-              "pubDate": null,
-              "description": "传统应力/应变-温度传感器设计策略是将两种具有应力/应变和温度传感功能的材料集成构建成叠层结构的传感器件。此类器件通常以“一对一”模式运行，结构设计和数据采集复杂，且需要外部电源驱动，其长期稳定监测的可靠性不佳。传统传感器无法通过单一材料和简单结构来实现对多参数变量的实时监测，既实现材料的多功能化传感具有挑战。近期，中国科学院金属研究所研究团队研制出基于碲纳米线热电-压电耦合效应的柔性、单通道、应变/应变率-温度多模态传感器。团队通过材料调控和结构设计克服了传统热电材料中，热电和压电信号无法在同一方向获得的难题，在倾斜生长的特殊网状碲纳米线结构中，实现了压电信号和热电信号在面外方向的同时..."
-            },
-            {
-              "title": "研究揭示厄尔尼诺—南方涛动影响白令海海冰新路径",
-              "link": "https://www.cas.cn/syky/202512/t20251201_5090770.shtml",
-              "pubDate": null,
-              "description": "白令海冬季海冰作为区域气候系统的重要调节器，其年际变化主要受厄尔尼诺—南方涛动（ENSO）调控。传统观点认为，ENSO通过影响阿留申低压的强度与位置，改变白令海区域的风场和热通量，最终影响海冰范围，且这一关系被认为相对稳定。近日，中国科学院南海海洋研究所科研团队，通过综合分析观测资料和数值模拟试验，发现该“遥控”机制在20世纪90年代中期发生明显转折，其中北太平洋经向模态（NPMM）的关键桥梁作用明显增强。研究显示，在20世纪90年代中期之前，东太平洋型ENSO主导了与白令海海冰之间的正相关关系。随着中太平洋型ENSO事件频率增加，两者关系逆转为负相关，这一转变的核心机制在于，中太平洋型..."
             }
           ]
         },
