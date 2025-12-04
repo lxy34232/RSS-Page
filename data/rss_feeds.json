@@ -1,4 +1,5 @@
 {
+  "lastUpdated": "2025-12-04T13:48:13.941079",
   "daysFilter": 180,
   "groups": [
     {
@@ -316,7 +317,80 @@
         {
           "name": "Gartner",
           "url": "https://rss.diffbot.com/atom?url=https://www.gartner.com/en/newsroom/archive",
-          "entries": []
+          "entries": [
+            {
+              "title": "CMOs' Top Challenges & Priorities For 2026",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-04-cmos-top-challenges-and-priorities-for-2026",
+              "pubDate": "2025-12-04T00:00:00",
+              "description": "CMOs' Top Challenges & Priorities For 2026"
+            },
+            {
+              "title": "Gartner Forecasts 116 Million Electric Vehicles Will Be on the Road in 2026",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-04-gartner-forecasts-116-million-electric-vehicles-will-be-on-the-road-in-2026",
+              "pubDate": "2025-12-04T00:00:00",
+              "description": "Gartner Forecasts 116 Million Electric Vehicles Will Be on the Road in 2026"
+            },
+            {
+              "title": "Gartner Survey Reveals 61% of U.S. Citizens Rate Secure Data Handling as Extremely Important for Government Digital Services",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-03-gartner-survey-reveals-61-percent-of-us-citizens-rate-secure-data-handling-as-extremely-important-for-government-digital-services",
+              "pubDate": "2025-12-03T00:00:00",
+              "description": "Gartner Survey Reveals 61% of U.S. Citizens Rate Secure Data Handling as Extremely Important for Government Digital Services"
+            },
+            {
+              "title": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-02-gartner-survey-finds-only-20-percent-of-customer-service-leaders-report-ai-driven-headcount-reduction",
+              "pubDate": "2025-12-02T00:00:00",
+              "description": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction"
+            },
+            {
+              "title": "HR Leaders Must Build Future-Ready HR Teams For the AI Age",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-01-hr-leaders-must-build-future-ready-hr-teams-for-the-ai-age",
+              "pubDate": "2025-12-01T00:00:00",
+              "description": "HR Leaders Must Build Future-Ready HR Teams For the AI Age"
+            },
+            {
+              "title": "Gartner Survey Reveals 52% of Government CIOs Outside of the U.S. Expect IT Budgets to Increase in 2026",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-26-gartner-survey-reveals-52-percent-of-government-cios-expect-it-budgets-to-increase-in-2026",
+              "pubDate": "2025-11-26T00:00:00",
+              "description": "Gartner Survey Reveals 52% of Government CIOs Outside of the U.S. Expect IT Budgets to Increase in 2026"
+            },
+            {
+              "title": "Gartner Marketing Survey Finds 56% of Consumers Are Already Spending Like It’s a Recession",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-25-gartner-marketing-survey-finds-56-percent-of-consumers-are-already-spending-like-its-a-recession",
+              "pubDate": "2025-11-25T00:00:00",
+              "description": "Gartner Marketing Survey Finds 56% of Consumers Are Already Spending Like It’s a Recession"
+            },
+            {
+              "title": "Gartner Survey Finds 90% of Non-Executive Directors Lack a Measure of Confidence in Cybersecurity Value",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-24-gartner-survey-finds-90-percent-of-non-executive-directors-lack-a-measure-of-confidence-in-cybersecurity-value",
+              "pubDate": "2025-11-24T00:00:00",
+              "description": "Gartner Survey Finds 90% of Non-Executive Directors Lack a Measure of Confidence in Cybersecurity Value"
+            },
+            {
+              "title": "Three Critical Trends for Sales Leaders to Address in the Age of AI",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-24-three-critical-trends-for-sales-leaders-to-address-in-the-age-of-ai",
+              "pubDate": "2025-11-24T00:00:00",
+              "description": "Three Critical Trends for Sales Leaders to Address in the Age of AI"
+            },
+            {
+              "title": "Gartner Predicts 50% of Enterprises Will Invest in Disinformation Security and TrustOps by 2027",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-20-gartner-predicts-50-percent-of-enterprises-will-invest-in-disinformation-security-and-trustops-by-2027",
+              "pubDate": "2025-11-20T00:00:00",
+              "description": "Gartner Predicts 50% of Enterprises Will Invest in Disinformation Security and TrustOps by 2027"
+            },
+            {
+              "title": "Gartner Announces Ranking of the Gartner Healthcare Supply Chain Top 25 for 2025",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-announces-ranking-of-the-gartner-healthcare-supply-chain-top-25-for-2025",
+              "pubDate": "2025-11-19T00:00:00",
+              "description": "Gartner Announces Ranking of the Gartner Healthcare Supply Chain Top 25 for 2025"
+            },
+            {
+              "title": "Gartner IT Symposium/Xpo 2025 Kochi: Day 3 Highlights",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-it-symposium-xpo-2025-kochi-day-3-highlights",
+              "pubDate": "2025-11-19T00:00:00",
+              "description": "Gartner IT Symposium/Xpo 2025 Kochi: Day 3 Highlights"
+            }
+          ]
         }
       ]
     },
@@ -368,6 +442,12 @@
               "link": "https://www.cas.cn/syky/202512/t20251203_5091162.shtml",
               "pubDate": null,
               "description": "十八胺（ODA）和十二烷基吗啉（DMP）是浮选法生产钾盐的常用浮选药剂，其在水中的溶解度低，结构稳定难以实现快速自然降解。对钾浮选药剂开展高效处理，特别是催化降解方面的研究已成为盐湖资源绿色高值开发利用过程中亟需关注的问题之一。中国科学院青海盐湖研究所根据钾盐浮选药剂性质特点，聚焦绿色高效处理的研究需要，结合高原地区自然光辐照强度大等优势，优化光催化材料缺陷工程改性策略，成功制备金属/非金属双缺陷铋酸盐光催化材料，考察其对可见光的吸收利用，并对双缺陷结构改性铋酸盐光催化剂的催化作用机制开展深入剖析。研究发现，在水热制备Bi2WO6过程中加入适当比例的还原剂和刻蚀剂，可以实现“一锅法”在B..."
+            },
+            {
+              "title": "进动磁喷流引擎模型揭示罕见耀发伽马暴的动力源",
+              "link": "https://www.cas.cn/syky/202512/t20251204_5091445.shtml",
+              "pubDate": null,
+              "description": "近日，中国科学院上海天文台研究团队，提出了新的“进动磁喷流引擎”模型，该模型给出了2025年7月2日发现的伽马射线暴GRB 250702B在三个多小时里呈现出周期约47分钟的耀发的物理原因，并解释了其能谱极硬与表观能量的原因。GRB 250702B由费米卫星和Konus-Wind等高能探测器发现。该伽马射线暴整个爆发持续约3.2小时，可清晰地看到三次强烈的伽马射线“脉冲”，呈现出基础周期约为2825秒的整倍数脉冲间隔。在此约一天前，我国天关卫星在同一位置探测到一次能谱较软的X射线爆发，相当于这次大爆发的“预告”。这种“提前预热+小时级耀发”的组合，在以往伽马暴观测中较为罕见。因此，科研人..."
             },
             {
               "title": "科学家破解水稻热感知“双重解码”机制",
@@ -440,12 +520,6 @@
               "link": "https://www.cas.cn/syky/202512/t20251201_5090764.shtml",
               "pubDate": null,
               "description": "近日，中国科学院合肥物质科学研究院联合中国科学技术大学，在长脉冲放电非线性物理研究方面取得进展。该团队通过分析一次持续125秒的长脉冲放电实验，揭示了等离子体电流剖面、磁流体不稳定性与环向旋转三者之间通过“自组织”过程相互耦合并自发演化的物理机制。研究聚焦EAST装置此前持续125s的典型长脉冲放电。研究发现，在放电初期，一个m/n=3/2撕裂模被激发并持续约42秒。尽管外部加热功率保持恒定，但通过低杂波电流驱动与等离子体极向磁场的非线性耦合，电流剖面发生缓慢的自组织演化，导致磁剪切增强，使该撕裂模被自然抑制。撕裂模消失后，等离子体核心电子温度升高，约束性能得到改善。研究同时观测到独特的..."
-            },
-            {
-              "title": "中国森林多样性格局研究取得进展",
-              "link": "https://www.cas.cn/syky/202512/t20251203_5091166.shtml",
-              "pubDate": null,
-              "description": "森林是地球上生物多样性最为丰富的生态系统之一，在维持陆地生态系统功能方面发挥着重要作用。为应对日益严峻的气候变化，以及人类活动对自然林多样性保护造成的压力，我国制定了《昆明—蒙特利尔全球生物多样性框架》。因此，从多维度视角系统评估森林的多样性格局、驱动机制及其未来潜力，对于支撑国家生物多样性保护战略意义重大。近日，中国科学院华南植物园联合多家国内外科研机构，在中国森林多样性格局研究方面取得进展。过去二十年来，国内关于森林多样性的研究主要集中在粗尺度（通常覆盖数十万公顷以上的面积）的伽马多样性，反映的是区域物种总数，难以揭示森林群落内部的真实物种共存状态。相比之下，基于细尺度（通常覆盖数百..."
             }
           ]
         },
@@ -580,6 +654,24 @@
           "url": "https://www.technologyreview.com/feed/",
           "entries": [
             {
+              "title": "The Download: LLM confessions, and tapping into geothermal hot spots",
+              "link": "https://www.technologyreview.com/2025/12/04/1128772/the-download-llm-confessions-and-tapping-into-geothermal-hot-spots/",
+              "pubDate": "2025-12-04T13:10:00",
+              "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI has trained its LLM to confess to bad behavior What’s new: OpenAI is testing a new way to expose the complicated processes at work inside large language..."
+            },
+            {
+              "title": "How AI is uncovering hidden geothermal energy resources",
+              "link": "https://www.technologyreview.com/2025/12/04/1128763/ai-geothermal-zanskar/",
+              "pubDate": "2025-12-04T13:00:00",
+              "description": "Sometimes geothermal hot spots are obvious, marked by geysers and hot springs on the planet’s surface. But in other places, they’re obscured thousands of feet underground. Now AI could help uncover these hidden pockets of potential power. A startup company called Zanskar announced today that it’s..."
+            },
+            {
+              "title": "Why the grid relies on nuclear reactors in the winter",
+              "link": "https://www.technologyreview.com/2025/12/04/1128754/nuclear-power-reliability/",
+              "pubDate": "2025-12-04T11:00:00",
+              "description": "As many of us are ramping up with shopping, baking, and planning for the holiday season, nuclear power plants are also getting ready for one of their busiest seasons of the year. Here in the US, nuclear reactors follow predictable seasonal trends. Summer and winter tend to see the highest electri..."
+            },
+            {
               "title": "OpenAI has trained its LLM to confess to bad behavior",
               "link": "https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/",
               "pubDate": "2025-12-03T18:01:39",
@@ -620,24 +712,6 @@
               "link": "https://www.technologyreview.com/2025/12/01/1128610/nominations-open-global-2026-innovators-under-35-competition/",
               "pubDate": "2025-12-01T11:02:41",
               "description": "We have some exciting news: Nominations are now open for MIT Technology Review’s 2026 Innovators Under 35 competition. This annual list recognizes 35 of the world’s best young scientists and inventors, and our newsroom has produced it for more than two decades. It’s free to nominate yourself or s..."
-            },
-            {
-              "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
-              "link": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
-              "pubDate": "2025-12-01T10:30:00",
-              "description": "A US telecom company trained an AI model on years of inmates’ phone and video calls and is now piloting that model to scan their calls, texts, and emails in the hope of predicting and preventing crimes. Securus Technologies president Kevin Elder told MIT Technology Review that the company began b..."
-            },
-            {
-              "title": "The Download: the mysteries surrounding weight-loss drugs, and the economic effects of AI",
-              "link": "https://www.technologyreview.com/2025/11/28/1128516/the-download-the-mysteries-surrounding-weight-loss-drugs-and-the-economic-effects-of-ai/",
-              "pubDate": "2025-11-28T13:10:00",
-              "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we still don’t know about weight-loss drugs Weight-loss drugs have been back in the news this week. First, we heard that Eli Lilly, the company behind Mou..."
-            },
-            {
-              "title": "What we still don’t know about weight-loss drugs",
-              "link": "https://www.technologyreview.com/2025/11/28/1128511/what-we-still-dont-know-about-weight-loss-drugs/",
-              "pubDate": "2025-11-28T10:00:00",
-              "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Weight-loss drugs have been back in the news this week. First, we heard that Eli Lilly, the company behind the drugs M..."
             }
           ]
         }
