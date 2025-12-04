@@ -32,6 +32,29 @@ MAX_ENTRIES_PER_FEED = 30
 # RSSHub base URL (can be overridden via environment variable)
 RSSHUB_BASE_URL = os.environ.get("RSSHUB_BASE_URL", "https://rsshub.rssforever.com")
 
+# RSSHub fallback domains to try when rsshub.app fails
+RSSHUB_FALLBACK_DOMAINS = [
+    "rsshub.app",
+    "rsshub.rssforever.com",
+    "hub.slarker.me",
+    "rsshub.pseudoyu.com",
+    "rsshub.rss.tips",
+    "rsshub.ktachibana.party",
+    "rss.owo.nz",
+    "rss.wudifeixue.com",
+    "rss.littlebaby.life",
+    "rsshub.henry.wang",
+    "holoxx.f5.si",
+    "rsshub.umzzz.com",
+    "rsshub.isrss.com",
+    "rsshub.email-once.com",
+    "rss.datuan.dev",
+    "rsshub.asailor.org",
+    "rsshub2.asailor.org",
+    "rss.4040940.xyz",
+    "rsshub.cups.moe"
+]
+
 # RSS feed sources organized by groups
 RSS_FEED_GROUPS = [
     {
@@ -51,16 +74,16 @@ RSS_FEED_GROUPS = [
         "groupName": "咨询机构",
         "feeds": [
             {
-                "name": "麦肯锡全球研究院",
-                "url": "rsshub://mckinsey/cn/25"
+                "name": "麦肯锡洞见",
+                "url": "rsshub://mckinsey/cn"
             },
             {
                 "name": "毕马威洞察",
                 "url": "http://139.162.74.205/kpmg/insights"
             },
             {
-                "name": "The Batch",
-                "url": "https://rsshub.bestblogs.dev/deeplearning/the-batch"
+                "name": "MIT 科技评论",
+                "url": "rsshub://mittrchina/hot"
             },
             {
                 "name": "Gartner",
@@ -80,8 +103,12 @@ RSS_FEED_GROUPS = [
                 "url": "https://wechat2rss.bestblogs.dev/feed/e2f1190c120f7f3d74b630bfcfe9e58296bd535c.xml"
             },
             {
-                "name": "MIT Technology Review",
-                "url": "https://www.technologyreview.com/feed/"
+                "name": "北京大学国家发展研究院",
+                "url": "rsshub://pku/nsd/gd"
+            },
+            {
+                "name": "中国科技网",
+                "url": "rsshub://stdaily/digitalpaper"
             }
         ]
     }
@@ -103,12 +130,50 @@ def clean_html(html_content: str) -> str:
     return clean
 
 
-def resolve_url(url: str) -> str:
-    """Resolve rsshub:// URLs to actual HTTP URLs."""
+def resolve_url(url: str, domain: str = None) -> str:
+    """Resolve rsshub:// URLs to actual HTTP URLs.
+    
+    Args:
+        url: The URL to resolve (may start with rsshub://)
+        domain: Optional specific domain to use for rsshub:// URLs
+    """
     if url.startswith("rsshub://"):
         path = url[9:]  # Remove "rsshub://" prefix
-        return f"{RSSHUB_BASE_URL}/{path}"
+        if domain is None:
+            domain = RSSHUB_BASE_URL
+        elif not domain.startswith("http"):
+            domain = f"https://{domain}"
+        return f"{domain}/{path}"
     return url
+
+
+def try_fetch_with_fallback(url: str, original_url: str) -> tuple:
+    """Try to fetch a feed, using fallback domains if it's a rsshub:// URL that fails.
+    
+    Returns: (feed, successful_url)
+    """
+    # First try the given URL
+    feed = feedparser.parse(url)
+    if not (feed.bozo and not feed.entries):
+        return feed, url
+    
+    # If the original URL uses rsshub://, try fallback domains
+    if original_url.startswith("rsshub://"):
+        print(f"    Initial rsshub domain failed, trying fallback domains...")
+        for fallback_domain in RSSHUB_FALLBACK_DOMAINS:
+            fallback_url = resolve_url(original_url, fallback_domain)
+            print(f"    Trying: {fallback_domain}")
+            try:
+                feed = feedparser.parse(fallback_url)
+                if not (feed.bozo and not feed.entries):
+                    print(f"    Success with: {fallback_domain}")
+                    return feed, fallback_url
+            except Exception as e:
+                print(f"    Error with {fallback_domain}: {e}")
+                continue
+    
+    # Return the last feed result even if failed
+    return feed, url
 
 
 def fetch_feed_entries(feed_config: dict, days_filter: int) -> list:
@@ -120,7 +185,7 @@ def fetch_feed_entries(feed_config: dict, days_filter: int) -> list:
     cutoff_date = datetime.now() - timedelta(days=days_filter)
     
     try:
-        feed = feedparser.parse(url)
+        feed, successful_url = try_fetch_with_fallback(url, feed_config['url'])
         
         if feed.bozo and not feed.entries:
             print(f"  Warning: Failed to parse {feed_config['name']}")
