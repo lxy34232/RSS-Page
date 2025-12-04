@@ -163,69 +163,6 @@ def fetch_feed_entries(feed_config: dict, days_filter: int) -> list:
     return entries
 
 
-def load_cached_data(data_path: Path) -> dict:
-    """Load previously cached RSS feed data."""
-    if data_path.exists():
-        try:
-            with open(data_path, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except Exception as e:
-            print(f"Warning: Failed to load cached data: {e}")
-    return {"groups": []}
-
-
-def merge_with_cache(new_groups: list, cached_data: dict) -> list:
-    """
-    Merge new feed data with cached data.
-    If a source has no new entries, use cached entries.
-    """
-    # Create a lookup map for cached sources
-    cache_map = {}
-    for cached_group in cached_data.get('groups', []):
-        group_name = cached_group.get('groupName')
-        if not group_name:
-            continue
-        for cached_source in cached_group.get('sources', []):
-            source_name = cached_source.get('name')
-            if not source_name:
-                continue
-            source_key = f"{group_name}::{source_name}"
-            cache_map[source_key] = cached_source.get('entries', [])
-    
-    # Merge new data with cache
-    merged_groups = []
-    for new_group in new_groups:
-        group_name = new_group.get('groupName')
-        if not group_name:
-            continue
-        merged_sources = []
-        
-        for new_source in new_group.get('sources', []):
-            source_name = new_source.get('name')
-            if not source_name:
-                continue
-            source_key = f"{group_name}::{source_name}"
-            
-            # If new source has no entries, try to use cached entries
-            if len(new_source.get('entries', [])) == 0 and source_key in cache_map:
-                cached_entries = cache_map[source_key]
-                if cached_entries:
-                    print(f"  Using cached data for {source_name} ({len(cached_entries)} entries)")
-                    # Create a new source dictionary to avoid mutation
-                    merged_source = {**new_source, 'entries': cached_entries.copy()}
-                    merged_sources.append(merged_source)
-                else:
-                    merged_sources.append(new_source)
-            else:
-                merged_sources.append(new_source)
-        
-        # Create a new group dictionary instead of modifying in place
-        merged_group = {**new_group, 'sources': merged_sources}
-        merged_groups.append(merged_group)
-    
-    return merged_groups
-
-
 def fetch_grouped_feeds(days_filter: int = DEFAULT_DAYS_FILTER) -> list:
     """Fetch all RSS feeds organized by groups."""
     groups = []
@@ -264,42 +201,33 @@ def main():
     print(f"Current time: {datetime.now().isoformat()}")
     print(f"Time filter: {args.days} days")
     
+    # Fetch all feeds with grouping
+    groups = fetch_grouped_feeds(args.days)
+    
     # Create the data directory if it doesn't exist
     data_dir = Path(__file__).parent.parent / "data"
     data_dir.mkdir(exist_ok=True)
-    output_path = data_dir / "rss_feeds.json"
-    
-    # Load cached data before fetching
-    print("\nLoading cached data...")
-    cached_data = load_cached_data(output_path)
-    
-    # Fetch all feeds with grouping
-    print("\nFetching new RSS feed data...")
-    groups = fetch_grouped_feeds(args.days)
-    
-    # Merge with cached data
-    print("\nMerging with cached data...")
-    merged_groups = merge_with_cache(groups, cached_data)
     
     # Prepare the output data
     output_data = {
         "lastUpdated": datetime.now().isoformat(),
         "daysFilter": args.days,
-        "groups": merged_groups
+        "groups": groups
     }
     
     # Save to JSON file
+    output_path = data_dir / "rss_feeds.json"
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     
     # Count total entries
     total_entries = sum(
         len(source['entries'])
-        for group in merged_groups
+        for group in groups
         for source in group['sources']
     )
     
-    print(f"\nSaved {total_entries} entries across {len(merged_groups)} groups to {output_path}")
+    print(f"\nSaved {total_entries} entries across {len(groups)} groups to {output_path}")
     print("RSS feed fetch completed!")
 
 if __name__ == "__main__":
