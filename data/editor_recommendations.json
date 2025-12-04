@@ -1,10 +1,82 @@
 {
   "recommendations": {
+    "工信部政策文件": [
+      {
+        "title": "工信部政策解读",
+        "url": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_8060d58408f14a3d95fa8190aaf69637.html",
+        "description": "工信部最新政策解读文章"
+      },
+      {
+        "title": "工信部政策解读",
+        "url": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_1af5236640d449b490f3247eb8c91cea.html",
+        "description": "工信部最新政策解读文章"
+      }
+    ],
+    "发改委发展改革板块": [
+      {
+        "title": "发改委发展改革重要文件",
+        "url": "https://www.ndrc.gov.cn/fggz/202511/t20251124_1401854.html",
+        "description": "国家发改委发展改革板块最新政策"
+      }
+    ],
     "毕马威洞察": [
+      {
+        "title": "生成式AI赋能产业转型的实践与路径",
+        "url": "https://kpmg.com/cn/zh/home/insights/2025/07/the-practice-and-path-of-generative-ai-empowering-industrial-transformation.html",
+        "description": "毕马威洞察：生成式AI赋能产业转型的实践与路径"
+      },
       {
         "title": "2025中国智能制造科技企业50第二季",
         "url": "https://kpmg.com/cn/zh/home/campaigns/2025/12/smart-manufacturing-tech-50-second.html",
         "description": "毕马威发布2025中国智能制造科技企业50评选第二季，聚焦智能制造领域的创新企业"
+      },
+      {
+        "title": "低空经济的黄金时代",
+        "url": "https://kpmg.com/cn/zh/home/insights/2025/10/the-golden-age-of-low-altitude-economy.html",
+        "description": "毕马威洞察：低空经济的黄金时代"
+      }
+    ],
+    "Gartner": [
+      {
+        "title": "Gartner识别CIO必须紧急应对的关键GenAI盲点",
+        "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-identifies-critical-genai-blind-spots-that-cios-must-urgently-address0",
+        "description": "Gartner识别出CIO必须紧急应对的关键生成式AI盲点"
+      }
+    ],
+    "MIT Technology Review": [
+      {
+        "title": "AI对经济的影响与DeepSeek再次崛起",
+        "url": "https://www.technologyreview.com/2025/12/02/1128647/the-download-ais-impact-on-the-economy-and-deepseek-strikes-again/",
+        "description": "MIT Technology Review关于AI对经济影响的深度分析"
+      }
+    ],
+    "阿里研究院": [
+      {
+        "title": "阿里研究院报告",
+        "url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HOngMGmjUxt9v6nKc1qFuGCNkXRfgIHrIs37g26b&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NTg0NDE1Mw%3D%3D%26mid%3D2652626909%26idx%3D1%26sn%3D0619e2ff243721b78ffd6aaa88e4eff3",
+        "description": "阿里研究院最新研究报告"
+      },
+      {
+        "title": "阿里研究院报告",
+        "url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGLhMGmjf0nplEFskU-lIP3kxrx9MQWJ2cJZ7v1Q&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NTg0NDE1Mw%3D%3D%26mid%3D2652626844%26idx%3D1%26sn%3D9577e64b13af488ce60efc2fb379698c",
+        "description": "阿里研究院最新研究报告"
+      }
+    ],
+    "麦肯锡全球研究院": [
+      {
+        "title": "麦肯锡2025年技术趋势展望",
+        "url": "https://www.mckinsey.com.cn/%e9%ba%a6%e8%82%af%e9%94%a12025%e5%b9%b4%e6%8a%80%e6%9c%af%e8%b6%8b%e5%8a%bf%e5%b1%95%e6%9c%9b/",
+        "description": "麦肯锡发布2025年技术趋势展望报告"
+      },
+      {
+        "title": "AI热潮后的冷静思考，如何创造实际价值？",
+        "url": "https://www.mckinsey.com.cn/ai%e7%83%ad%e6%bd%ae%e5%90%8e%e7%9a%84%e5%86%b7%e9%9d%99%e6%80%9d%e8%80%83%ef%bc%8c%e5%a6%82%e4%bd%95%e5%88%9b%e9%80%a0%e5%ae%9e%e9%99%85%e4%bb%b7%e5%80%bc%ef%bc%9f/",
+        "description": "麦肯锡洞察：AI热潮后的冷静思考"
+      },
+      {
+        "title": "全球灯塔网络迎新：中企涌现更多海外灯塔",
+        "url": "https://www.mckinsey.com.cn/%e5%85%a8%e7%90%83%e7%81%af%e5%a1%94%e7%bd%91%e7%bb%9c%e8%bf%8e%e6%96%b0%ef%bc%9a%e4%b8%ad%e4%bc%81%e6%b6%8c%e7%8e%b0%e6%9b%b4%e5%a4%9a%e6%b5%b7%e5%a4%96%e7%81%af%e5%a1%94/",
+        "description": "麦肯锡关于全球灯塔网络的最新洞察"
       }
     ]
   }
