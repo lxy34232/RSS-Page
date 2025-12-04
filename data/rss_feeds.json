@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-03T14:16:53.385599",
+  "lastUpdated": "2025-12-04T01:44:30.857001",
   "daysFilter": 180,
   "groups": [
     {
@@ -444,7 +444,7 @@
       "sources": [
         {
           "name": "麦肯锡洞察",
-          "url": "rsshub://mckinsey/cn",
+          "url": "rsshub://mckinsey/cn/25",
           "entries": []
         },
         {
@@ -792,6 +792,12 @@
           "url": "https://www.technologyreview.com/feed/",
           "entries": [
             {
+              "title": "OpenAI has trained its LLM to confess to bad behavior",
+              "link": "https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/",
+              "pubDate": "2025-12-03T18:01:39",
+              "description": "OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the model explains how it carried out a task and (most of the time) owns up to any bad behavior. Fig..."
+            },
+            {
               "title": "The Download: AI and coding, and Waymo’s aggressive driverless cars",
               "link": "https://www.technologyreview.com/2025/12/03/1128724/the-download-ai-and-coding-and-waymos-aggressive-driverless-cars/",
               "pubDate": "2025-12-03T13:10:00",
@@ -844,12 +850,6 @@
               "link": "https://www.technologyreview.com/2025/11/28/1128511/what-we-still-dont-know-about-weight-loss-drugs/",
               "pubDate": "2025-11-28T10:00:00",
               "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Weight-loss drugs have been back in the news this week. First, we heard that Eli Lilly, the company behind the drugs M..."
-            },
-            {
-              "title": "The Download: the fossil fuel elephant in the room, and better tests for endometriosis",
-              "link": "https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/",
-              "pubDate": "2025-11-27T13:10:00",
-              "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This year’s UN climate talks avoided fossil fuels, again Over the past few weeks in Belem, Brazil, attendees of this year’s UN climate talks dealt with oppress..."
             }
           ]
         },
