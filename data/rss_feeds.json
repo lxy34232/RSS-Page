@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-04T01:44:30.857001",
+  "lastUpdated": "2025-12-04T01:52:24.077495",
   "daysFilter": 180,
   "groups": [
     {
@@ -581,80 +581,7 @@
         {
           "name": "Gartner",
           "url": "https://rss.diffbot.com/atom?url=https://www.gartner.com/en/newsroom/archive",
-          "entries": [
-            {
-              "title": "Gartner Survey Reveals 61% of U.S. Citizens Rate Secure Data Handling as Extremely Important for Government Digital Services",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-03-gartner-survey-reveals-61-percent-of-us-citizens-rate-secure-data-handling-as-extremely-important-for-government-digital-services",
-              "pubDate": "2025-12-03T00:00:00",
-              "description": "Gartner Survey Reveals 61% of U.S. Citizens Rate Secure Data Handling as Extremely Important for Government Digital Services"
-            },
-            {
-              "title": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-02-gartner-survey-finds-only-20-percent-of-customer-service-leaders-report-ai-driven-headcount-reduction",
-              "pubDate": "2025-12-02T00:00:00",
-              "description": "Gartner Survey Finds Only 20% of Customer Service Leaders Report AI-Driven Headcount Reduction"
-            },
-            {
-              "title": "HR Leaders Must Build Future-Ready HR Teams For the AI Age",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-12-01-hr-leaders-must-build-future-ready-hr-teams-for-the-ai-age",
-              "pubDate": "2025-12-01T00:00:00",
-              "description": "HR Leaders Must Build Future-Ready HR Teams For the AI Age"
-            },
-            {
-              "title": "Gartner Survey Reveals 52% of Government CIOs Outside of the U.S. Expect IT Budgets to Increase in 2026",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-26-gartner-survey-reveals-52-percent-of-government-cios-expect-it-budgets-to-increase-in-2026",
-              "pubDate": "2025-11-26T00:00:00",
-              "description": "Gartner Survey Reveals 52% of Government CIOs Outside of the U.S. Expect IT Budgets to Increase in 2026"
-            },
-            {
-              "title": "Gartner Marketing Survey Finds 56% of Consumers Are Already Spending Like It’s a Recession",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-25-gartner-marketing-survey-finds-56-percent-of-consumers-are-already-spending-like-its-a-recession",
-              "pubDate": "2025-11-25T00:00:00",
-              "description": "Gartner Marketing Survey Finds 56% of Consumers Are Already Spending Like It’s a Recession"
-            },
-            {
-              "title": "Gartner Survey Finds 90% of Non-Executive Directors Lack a Measure of Confidence in Cybersecurity Value",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-24-gartner-survey-finds-90-percent-of-non-executive-directors-lack-a-measure-of-confidence-in-cybersecurity-value",
-              "pubDate": "2025-11-24T00:00:00",
-              "description": "Gartner Survey Finds 90% of Non-Executive Directors Lack a Measure of Confidence in Cybersecurity Value"
-            },
-            {
-              "title": "Three Critical Trends for Sales Leaders to Address in the Age of AI",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-24-three-critical-trends-for-sales-leaders-to-address-in-the-age-of-ai",
-              "pubDate": "2025-11-24T00:00:00",
-              "description": "Three Critical Trends for Sales Leaders to Address in the Age of AI"
-            },
-            {
-              "title": "Gartner Predicts 50% of Enterprises Will Invest in Disinformation Security and TrustOps by 2027",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-20-gartner-predicts-50-percent-of-enterprises-will-invest-in-disinformation-security-and-trustops-by-2027",
-              "pubDate": "2025-11-20T00:00:00",
-              "description": "Gartner Predicts 50% of Enterprises Will Invest in Disinformation Security and TrustOps by 2027"
-            },
-            {
-              "title": "Gartner Announces Ranking of the Gartner Healthcare Supply Chain Top 25 for 2025",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-announces-ranking-of-the-gartner-healthcare-supply-chain-top-25-for-2025",
-              "pubDate": "2025-11-19T00:00:00",
-              "description": "Gartner Announces Ranking of the Gartner Healthcare Supply Chain Top 25 for 2025"
-            },
-            {
-              "title": "Gartner IT Symposium/Xpo 2025 Kochi: Day 3 Highlights",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-it-symposium-xpo-2025-kochi-day-3-highlights",
-              "pubDate": "2025-11-19T00:00:00",
-              "description": "Gartner IT Symposium/Xpo 2025 Kochi: Day 3 Highlights"
-            },
-            {
-              "title": "Gartner Identifies Critical GenAI Blind Spots That CIOs Must Urgently Address",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-identifies-critical-genai-blind-spots-that-cios-must-urgently-address0",
-              "pubDate": "2025-11-19T00:00:00",
-              "description": "Gartner Identifies Critical GenAI Blind Spots That CIOs Must Urgently Address"
-            },
-            {
-              "title": "Gartner Survey Shows Finance AI Adoption Remains Steady in 2025",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-survey-shows-finance-ai-adoption-remains-steady-in-2025",
-              "pubDate": "2025-11-18T00:00:00",
-              "description": "Gartner Survey Shows Finance AI Adoption Remains Steady in 2025"
-            }
-          ]
+          "entries": []
         }
       ]
     },
