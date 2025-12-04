@@ -9,6 +9,7 @@ for the Astro static site generator to consume.
 import json
 import os
 import sys
+import socket
 from datetime import datetime, timedelta
 from html import unescape
 import re
@@ -173,13 +174,12 @@ def fetch_feed_entries(feed_config: dict, days_filter: int) -> list:
         
         try:
             # Set timeout for feedparser
-            import socket
             socket.setdefaulttimeout(FEED_TIMEOUT)
             feed = feedparser.parse(url)
             
             # Check if we got valid data
             if feed.bozo and not feed.entries:
-                last_error = f"Failed to parse feed (bozo)"
+                last_error = "Failed to parse feed due to malformed data"
                 continue
             
             if not feed.entries:
