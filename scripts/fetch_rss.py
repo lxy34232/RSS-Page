@@ -65,8 +65,8 @@ RSS_FEED_GROUPS = [
         "groupName": "国家政策",
         "feeds": [
             {
-                "name": "工信部政策文件",
-                "url": "https://www.miit.gov.cn/api-gateway/jpaas-plugins-web-server/front/rss/getinfo?webId=8d828e408d90447786ddbe128d495e9e&columnIds=925fa8f4afd44e53818794ed96d9876e%2C30f92eeafcfd4685984dfb793a2c5fff"
+                "name": "工信部政策解读",
+                "url": "rsshub://gov/miit/zcjd"
             },
             {
                 "name": "发改委发展改革板块",
