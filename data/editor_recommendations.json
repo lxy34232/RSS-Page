@@ -1,20 +1,20 @@
 {
   "recommendations": {
-    "工信部政策文件": [
+    "工信部政策解读": [
       {
-        "title": "工信部政策解读",
+        "title": "为基本实现社会主义现代化夯实基础、全面发力——从“十五五”规划建议看奋力开创中国式现代化建设新局面",
         "url": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_8060d58408f14a3d95fa8190aaf69637.html",
         "description": "工信部最新政策解读文章"
       },
       {
-        "title": "工信部政策解读",
+        "title": "一图读懂《深入推动服务型制造创新发展实施方案（2025—2028年）》",
         "url": "https://www.miit.gov.cn/zwgk/zcjd/art/2025/art_1af5236640d449b490f3247eb8c91cea.html",
         "description": "工信部最新政策解读文章"
       }
     ],
     "发改委发展改革板块": [
       {
-        "title": "发改委发展改革重要文件",
+        "title": "本周“发展改革热点，我知道”（11月17至11月21日）",
         "url": "https://www.ndrc.gov.cn/fggz/202511/t20251124_1401854.html",
         "description": "国家发改委发展改革板块最新政策"
       }
@@ -52,12 +52,12 @@
     ],
     "阿里研究院": [
       {
-        "title": "阿里研究院报告",
+        "title": "治理之智 | 《开源人工智能：合作的价值与未来》",
         "url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HOngMGmjUxt9v6nKc1qFuGCNkXRfgIHrIs37g26b&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NTg0NDE1Mw%3D%3D%26mid%3D2652626909%26idx%3D1%26sn%3D0619e2ff243721b78ffd6aaa88e4eff3",
         "description": "阿里研究院最新研究报告"
       },
       {
-        "title": "阿里研究院报告",
+        "title": "产业之声 | 工业智能体：驱动制造业智能化升级的五种模式",
         "url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGLhMGmjf0nplEFskU-lIP3kxrx9MQWJ2cJZ7v1Q&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NTg0NDE1Mw%3D%3D%26mid%3D2652626844%26idx%3D1%26sn%3D9577e64b13af488ce60efc2fb379698c",
         "description": "阿里研究院最新研究报告"
       }
