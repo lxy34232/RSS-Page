@@ -20,9 +20,9 @@
 
 | 分组 | RSS 源 |
 |------|--------|
-| 国家政策 | 中国科学院科研进展、工信部政策文件、发改委发展改革板块 |
-| 咨询机构 | 麦肯锡洞察、毕马威洞察、埃森哲洞察、Gartner |
-| 研究院所 | 中国科学院科研进展、MIT Technology Review、阿里研究院 |
+| 国家政策 | 工信部政策文件、发改委发展改革板块 |
+| 咨询机构 | 麦肯锡洞见、毕马威洞察、MIT 科技评论、Gartner |
+| 研究院所 | 中国科学院科研进展、阿里研究院、北京大学国家发展研究院、中国科技网 |
 
 ## 技术栈
 
@@ -111,6 +111,30 @@ RSS_FEED_GROUPS = [
 **支持的 URL 格式**:
 -   标准 RSS URL: `https://example.com/feed.xml`
 -   RSSHub 路径: `rsshub://namespace/path` (会自动转换为配置的 RSSHub 服务地址)
+
+**RSSHub 故障转移机制**:
+
+当使用 `rsshub://` 格式的 URL 时，如果主域名无法访问，脚本会自动尝试以下备用域名，直到成功获取 RSS 数据：
+
+- rsshub.app
+- rsshub.rssforever.com
+- hub.slarker.me
+- rsshub.pseudoyu.com
+- rsshub.rss.tips
+- rsshub.ktachibana.party
+- rss.owo.nz
+- rss.wudifeixue.com
+- rss.littlebaby.life
+- rsshub.henry.wang
+- holoxx.f5.si
+- rsshub.umzzz.com
+- rsshub.isrss.com
+- rsshub.email-once.com
+- rss.datuan.dev
+- rsshub.asailor.org
+- rsshub2.asailor.org
+- rss.4040940.xyz
+- rsshub.cups.moe
 
 ### 2. 添加编辑推荐
 
