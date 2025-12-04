@@ -56,7 +56,7 @@ RSS_FEED_GROUPS = [
         "feeds": [
             {
                 "name": "麦肯锡洞察",
-                "url": "rsshub://mckinsey/cn"
+                "url": "rsshub://mckinsey/cn/25"
             },
             {
                 "name": "毕马威洞察",
