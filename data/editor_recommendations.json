@@ -19,6 +19,19 @@
         "description": "国家发改委发展改革板块最新政策"
       }
     ],
+    "麦肯锡洞见": [
+      {
+        "title": "麦肯锡2025年技术趋势展望",
+        "url": "https://www.mckinsey.com.cn/%e9%ba%a6%e8%82%af%e9%94%a12025%e5%b9%b4%e6%8a%80%e6%9c%af%e8%b6%8b%e5%8a%bf%e5%b1%95%e6%9c%9b/",
+        "description": "麦肯锡2025年技术趋势展望"
+      },
+      {
+        "title": "唯快不破：解码中国新能源车企研发提效五大策略",
+        "url": "https://www.mckinsey.com.cn/%e5%94%af%e5%bf%ab%e4%b8%8d%e7%a0%b4%ef%bc%9a%e8%a7%a3%e7%a0%81%e4%b8%ad%e5%9b%bd%e6%96%b0%e8%83%bd%e6%ba%90%e8%bd%a6%e4%bc%81%e7%a0%94%e5%8f%91%e6%8f%90%e6%95%88%e4%ba%94%e5%a4%a7%e7%ad%96%e7%95%a5/",
+        "description": "唯快不破：解码中国新能源车企研发提效五大策略"
+      }
+    ],
+
     "毕马威洞察": [
       {
         "title": "生成式AI赋能产业转型的实践与路径",
@@ -38,16 +51,21 @@
     ],
     "Gartner": [
       {
-        "title": "Gartner识别CIO必须紧急应对的关键GenAI盲点",
+        "title": "Gartner Identifies Critical GenAI Blind Spots That CIOs Must Urgently Address",
         "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-19-gartner-identifies-critical-genai-blind-spots-that-cios-must-urgently-address0",
-        "description": "Gartner识别出CIO必须紧急应对的关键生成式AI盲点"
+        "description": "Gartner Identifies Critical GenAI Blind Spots That CIOs Must Urgently Address"
       }
     ],
-    "MIT Technology Review": [
+    "中国科学院科研进展": [
       {
-        "title": "AI对经济的影响与DeepSeek再次崛起",
-        "url": "https://www.technologyreview.com/2025/12/02/1128647/the-download-ais-impact-on-the-economy-and-deepseek-strikes-again/",
-        "description": "MIT Technology Review关于AI对经济影响的深度分析"
+        "title": "多元金属陶瓷复合材料成功研发",
+        "url": "https://www.cas.cn/syky/202511/t20251127_5090429.shtml",
+        "description": "多元金属陶瓷复合材料成功研发"
+      },
+      {
+        "title": "大口径高场通用超导磁体技术实现突破",
+        "url": "https://www.cas.cn/syky/202511/t20251125_5089759.shtml",
+        "description": "大口径高场通用超导磁体技术实现突破"
       }
     ],
     "阿里研究院": [
@@ -60,6 +78,27 @@
         "title": "产业之声 | 工业智能体：驱动制造业智能化升级的五种模式",
         "url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGLhMGmjf0nplEFskU-lIP3kxrx9MQWJ2cJZ7v1Q&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NTg0NDE1Mw%3D%3D%26mid%3D2652626844%26idx%3D1%26sn%3D9577e64b13af488ce60efc2fb379698c",
         "description": "阿里研究院最新研究报告"
+      }
+    ],
+    "MIT 科技评论": [
+      {
+        "title": "ChatGPT发布三年以来，世界被改变了什么？",
+        "url": "https://www.mittrchina.com/news/detail/15571",
+        "description": "三年前的这一天，Sam Altman 在推特上发了一条相当低调的帖子，宣布了这款聊天机器人的上线。他当时写道：“语言界面将会很重要……这是一个早期的演示，还有很多局限性——这非常像是一个研究预览版。”"
+      }
+    ],
+    "中国科技网": [
+      {
+        "title": "2026年值得期待的十大技术应用",
+        "url": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=f8b86dac08804079935611831c3c9433&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2025-12-04",
+        "description": "2026年值得期待的十大技术应用"
+      }
+    ],
+    "北京大学国家发展研究院": [
+      {
+        "title": "周其仁：全球变局之下企业如何寻路",
+        "url": "https://mp.weixin.qq.com/s/Wy-1991drJUpQzvqA0Hc5g",
+        "description": "周其仁：全球变局之下企业如何寻路"
       }
     ],
     "麦肯锡全球研究院": [
