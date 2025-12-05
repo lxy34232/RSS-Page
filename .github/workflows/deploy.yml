@@ -5,9 +5,9 @@ on:
   push:
     branches: [main]
   
-  # Run on schedule (every 6 hours)
+  # Run on schedule (every 7 days)
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 0 * * 0'
   
   # Allow manual trigger
   workflow_dispatch:
