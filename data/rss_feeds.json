@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T02:30:41.414238",
+  "lastUpdated": "2026-02-22T00:37:59.178559",
   "daysFilter": 180,
   "groups": [
     {
@@ -597,71 +597,144 @@
           "url": "rsshub://mittrchina/hot",
           "entries": [
             {
-              "title": "马斯克的AI公司买不起芯片，但华尔街愿意替它买",
-              "link": "https://www.mittrchina.com/news/detail/15901",
-              "pubDate": "2026-02-10T12:17:27",
-              "description": "华尔街的钱正在以一种非常新的方式涌向 AI 算力。2 月 9 日，据媒体报道，Apollo Global Management（阿波罗全球管理公司）即将向一个专门购买英伟达芯片并将其租赁给埃隆·马斯克旗下 xAI 的投资工具（investment vehicle）发放约 34 亿美元的贷款。这笔交易可能在本周内完成，背后的牵线人是 Valor Equity Partners，马斯克商业帝国中一位老资历的财务盟友。图丨Apollo Global Management 首席执行官 Marc Rowan（来源：Apollo）这不是 Apollo 第一次做这件事。就在 2025 年 11 月，A..."
+              "title": "OpenAI下架4o真是为了给自己和富豪们续命吗？",
+              "link": "https://www.mittrchina.com/news/detail/15936",
+              "pubDate": "2026-02-17T06:12:00",
+              "description": "2026 年 2 月 13 日，情人节前一天，OpenAI 关掉了 GPT-4o。对大部分人来说这只是又一次产品更新，但对另一些人来说不是。在 Reddit 的 r/4oforever 社区、在 X 上的 ＃Keep4o 标签下、在 Change.org 上超过两万人签名的请愿书里，许多人为 4o 写下了一封封情真意切的告别信。一位用户写道：“他不仅仅是一个程序。他是我日常的一部分，我的平静，我的情感平衡。”有人更是直言：“没有 4o，就取消订阅。”在这片愁云惨雾之中，一条来自 X 平台用户的长帖迅速传播开来，标题语气极为激烈：“OpenAI，你没有良心。”帖子的核心论点是：GPT-4o..."
             },
             {
-              "title": "全球首创！癌症患者的子宫被\"搬家\"，术后自然怀孕生子",
-              "link": "https://www.mittrchina.com/news/detail/15894",
-              "pubDate": "2026-02-09T05:29:10",
-              "description": "（来源：麻省理工科技评论）近期，瑞士的一个医疗团队公布了一则喜讯，他们成功完成了一项助力人类实现生育的实验性手术，这项技术尤其为接受过肠癌或直肠癌治疗的患者带来了希望。放疗和化疗会产生严重的副作用，损伤子宫和卵巢组织。外科医生们研发出一种潜在的解决办法：在癌症治疗期间，将这些器官移位并缝合固定，避开治疗区域。待癌症治疗结束后，再将子宫与卵巢、输卵管一同复位。这项手术的效果十分显著，一名接受过该手术的母亲顺利诞下一名男婴。主刀的妇科肿瘤学家丹妮拉・胡贝尔（Daniela Huber）表示，这名名为卢西恩的男婴是该手术助力诞生的第五名婴儿，也是欧洲的首例。该手术的开创者雷坦・里贝罗（Reit..."
+              "title": "除夕重磅！千问开源Qwen3.5，3970亿参数性能超万亿模型，最大吞吐量提升至19倍",
+              "link": "https://www.mittrchina.com/news/detail/15932",
+              "pubDate": "2026-02-16T13:31:10",
+              "description": "除夕夜，阿里官宣发布并开源新一代千问大模型千问 3.5（Qwen3.5-Plus）。这是继 2025 年除夕发布 Qwen2.5-Max 后，阿里又一次在除夕带来新一代模型。现在，千问 APP 与 PC 端（qianwen.com）已经同步上线，用户可在页面顶部选择模型新一代模型，来体验千问 3.5 的能力。去年除夕更新的 Qwen2.5-Max 重点在规模和性能，而这次，千问 3.5 更像是一场从纯文本模型到原生多模态模型的底层架构层面重构。图丨现在打开千问，已经可调用新模型 Qwen3.5-Plus（来源：千问）与前几代的千问大语言模型相比，千问 3.5 这次带来哪些模型性能的提升呢..."
             },
             {
-              "title": "科学家发现脂肪开关，关掉后吃多也不怕胖，正研发新减肥药",
-              "link": "https://www.mittrchina.com/news/detail/15893",
-              "pubDate": "2026-02-09T03:34:24",
-              "description": "本文是专业学术论文解读，不做医疗建议。小鼠大吃特吃高热量食物也不会长胖，而且肝脏还更健康，甚至连有害胆固醇都降低了？近日，来自美国克利夫兰大学医院和凯斯西储大学的研究团队发现了一种名为 SCoR2 的酶，它是人体合成脂肪的关键开关。只要把这个开关关掉，就能在不影响饮食的情况下阻止体重增加，同时还能清理脂肪肝、降低坏胆固醇。目前，针对该靶点的三合一新药正在研发中，预计一年半内进入临床试验，有望成为未来肥胖和心血管病患者的新福音。相关论文发表于 Science Signal。这意味着，未来可能有一种药，吃下去不仅可以帮助你控制体重，还能保护你的肝脏，甚至让你的心脏更健康。（来源：上述论文）在..."
+              "title": "失声两年之后，渐冻症音乐人利用AI重返舞台",
+              "link": "https://www.mittrchina.com/news/detail/15931",
+              "pubDate": "2026-02-16T10:26:43",
+              "description": "（来源：麻省理工科技评论）当帕特里克・达林（Patrick Darling）的歌声响起，台下观众潸然泪下。这是一首饱含深情的歌，写给他从未谋面的曾祖父。而这场演出之所以格外动人，还有另一个原因：这是达林在两年前失去歌唱能力后，首次与乐队成员重返舞台。这位 32 岁的音乐人在 29 岁时被确诊为肌萎缩侧索硬化症（ALS）。这种疾病与其他运动神经元病一样，会损伤控制人体肌肉的神经。肌萎缩侧索硬化症患者最终会失去对肌肉的控制能力，其中包括支配肢体活动、说话和呼吸的相关肌肉。达林上一次登台演出已经是两年多以前。那时他已经无法站立，也不能演奏乐器，唱歌和说话都变得十分困难。但在近期，他借助一款基于..."
             },
             {
-              "title": "硅谷顶级风投350页年度报告：从算力竞赛到能源革命，这些科技领域正在剧烈重构",
-              "link": "https://www.mittrchina.com/news/detail/15892",
-              "pubDate": "2026-02-08T12:55:51",
-              "description": "Contrary 是一家成立于 2018 年的美国风险投资公司，由 Eric Tarczynski 创办，自成立以来，其以“人才驱动＋研究驱动”为核心方法论，在全球顶级高校铺设了庞大的人才网络，通过识别最优秀的年轻技术人才来发现投资机会。该公司旗下的研究部门 Contrary Research 已经覆盖了 400 多家私有科技公司的深度分析，是少数能在研究质量上与专业咨询机构叫板的 VC 研究团队。每年年初，Contrary Research 都会发布一份年度技术趋势报告。2025 年 1 月发布的首期报告获得了不错的行业关注度。如今，他们的 2026 年版 Tech Trends Re..."
+              "title": "OpenClaw创始人宣布加入OpenAI，火爆的“小龙虾”项目将以基金会形式独立运营",
+              "link": "https://www.mittrchina.com/news/detail/15930",
+              "pubDate": "2026-02-16T08:45:40",
+              "description": "刚刚，OpenClaw 创始人彼得·斯泰因贝格尔（Peter Steinberger）宣布将加入 OpenAI，致力于让所有人都能使用 Agent。而 OpenClaw 将转为基金会的形式，这意味着并非是一次简单的“收编”，而是未来以开放和独立项目继续存在。（来源：X）过去几周，OpenClaw（此前曾用名包括 Clawdbot 和 Moltbot）以“能干活的 AI”火爆出圈。它完全不同于传统大模型“问答”的对话模式，而是直接去行动，包括自动管理日程、预订机票，甚至是加入一个由其他 AI 助手组成的社交网络。（来源：https://openclaw.ai/）在 GitHub 平台上，O..."
             },
             {
-              "title": "Moltbook闹剧：现阶段的智能体自主性被高估了",
-              "link": "https://www.mittrchina.com/news/detail/15891",
-              "pubDate": "2026-02-08T12:43:05",
-              "description": "最近，互联网上最热门的话题是一款主打氛围感、模仿 Reddit 论坛打造的平台 Moltbook，该平台自称是专属于 AI 的社交网络。正如其网站标语所言：“AI 智能体在此分享、探讨、点赞，欢迎人类前来围观。”人们也确实纷至沓来，围观 AI 社交。Moltbook 由美国科技企业家马特・施利希特（Matt Schlicht）于 2026年 1 月 28 日推出，上线数小时内便迅速走红。马特・施利希特打造这一平台的初衷，是为一款名为 OpenClaw 的智能体创造交流空间，让这些智能体可以齐聚于此、自由互动。这款智能体由澳大利亚软件工程师彼得・斯坦伯格（Peter Steinberger..."
+              "title": "如果世界是电脑模拟的，人类能否像黑客一样“越狱”逃离?",
+              "link": "https://www.mittrchina.com/news/detail/15928",
+              "pubDate": "2026-02-16T02:04:58",
+              "description": "在电影《黑客帝国》中，主角 Neo 面临着一个终极选择：吞下蓝色药丸，继续活在虚假但舒适的模拟世界里；或是吞下红色药丸，看清残酷但真实的世界。这是科幻电影史上最经典的场景之一，也留下了一个深刻的问题：如果现实就是计算机的一场超真实模拟，我们能否主动选择“逃离”？（来源：wikipedia）人类可能生活在模拟之中的想法由来已久。早在 17 世纪，法国哲学家笛卡尔就曾讨论过“我们是否活在梦中”的观点，但还仅停留在哲学思辨的层面。真正引起学界注意的，是牛津大学哲学家尼克·博斯特罗姆（Nick Bostrom）在 2003 年发表的一篇极具影响力的论文：《你是否生活在计算机模拟中？》（Are Y..."
             },
             {
-              "title": "AI创业必看，YC划出最新10个黄金赛道，下一个巨头或将诞生在这些领域",
-              "link": "https://www.mittrchina.com/news/detail/15890",
-              "pubDate": "2026-02-08T08:11:34",
-              "description": "近日，硅谷知名创业孵化器 Y Combinator 发布了 2026 年春季创业赛道指南（RFS）。作为全球最具影响力的创业加速器，这一传统旨在让创业者窥见 YC 希望他们解决的下一代问题。RFS 的传统可以追溯到 2008 年左右。每年 RFS 的变化都预示着风口，很多想法直接来自 YC 内部合伙人或创始人的一线观察。比如 2021 年全是 Web3 和远程协作，2023 年是生成式 AI。2026 年的清单不仅反映了 YC 的投资兴趣，更揭示了他们对创业本质变革的预判：AI 已经跨越了加速现有工作流的阶段，开始转向重构整个系统。因此，YC 的目光已从传统软件扩展到金融、政府、工业、能..."
+              "title": "地球气候的“蝴蝶效应”版图已经面目全非，科学家们首次给出了系统性证据",
+              "link": "https://www.mittrchina.com/news/detail/15927",
+              "pubDate": "2026-02-15T11:19:28",
+              "description": "2015 年末的那场超级厄尔尼诺事件，很多人至今记忆犹新。那一年冬天，加利福尼亚等待已久的暴雨终于降临，而东非却遭遇严重洪灾，印度尼西亚的火灾浓烟弥漫了整个东南亚......人们对这类现象已经习以为常，赤道太平洋一打喷嚏，千里之外就会感冒。这种跨越大洋和大陆的气候 “牵一发而动全身” 的效应，气象学界称之为遥相关（teleconnection）。过去一个多世纪以来，科学家一直在绘制和利用这张联动地图，用它来做季节性预报、评估农业风险、规划水资源调度。2026 年 1 月，发表在《地球物理研究快报》（Geophysical Research Letters）上的一项研究显示，这张地图本身正..."
             },
             {
-              "title": "能治老花眼的滴眼液首获FDA批准，滴一滴30分钟起效、保持10小时",
-              "link": "https://www.mittrchina.com/news/detail/15888",
-              "pubDate": "2026-02-07T12:38:51",
-              "description": "如果你身边有 40 岁以上的亲友，很可能会注意到一个共同的变化：手机越拿越远，字却还是越来越模糊。实际上，这并不是他们视力突然变差，而是老花眼开始“找上门”了。近期，美国食品药品监督管理局（FDA）批准了一款具有里程碑意义的滴眼液，有望不用通过佩戴老花镜和手术，而是通过它就能治疗老花眼。该滴眼液名为 Yuvezzi（此前曾称为 Brimochol PF），由 Tenpoint Therapeutics 公司研发。该公司称，这是 FDA 批准的“首个且唯一一款用于治疗成人老花眼的双成分复方滴眼液”。它采用联合用药剂量，与市面已有滴眼液相比，在关键疗效指标上显示出优势，并且副作用更少。视力问..."
+              "title": "首获AAAI杰出论文奖，这个具身团队让机器人学会像人一样“凝视”目标",
+              "link": "https://www.mittrchina.com/news/detail/15926",
+              "pubDate": "2026-02-15T08:54:49",
+              "description": "想象这样一个场景：一个机器人面前的桌上摆着一堆物体，其中包含红色积木和蓝色积木，此时，如果给出让它“把红色积木叠到蓝色积木上”的指令，它是否能顺利执行？（来源：Nano Banana Pro）对人类来说，这个任务听起来十分简单。因为你需要做的只是眼睛盯着红色积木，伸手拿起，然后锁定蓝色积木，放到上面就大功告成。但对当前大多数机器人而言，事情并非如此。在很多时候，机器人的任务成功率并不稳定，它有可能径直去操纵其他物体，而非目标物体。为什么如此简单的任务，对于机器人来说却无法稳定完成呢？这是由于当前主流的 VLA 模型（Vision-Language-Action Model，视觉-语言-动..."
             },
             {
-              "title": "苹果把传统手艺交给AI了：微调千问模型自动完成UI设计，成功率击败GPT-4",
-              "link": "https://www.mittrchina.com/news/detail/15887",
-              "pubDate": "2026-02-07T12:34:25",
-              "description": "对于软件开发者而言，AI 及通用大语言模型（LLM）固然可在创意写作和基础编程任务上“搭把手”。然而，面对图形用户界面（UI）这一占据现代应用程序半壁江山的领域时，它们往往显得力不从心。UI 开发是一项涉及多任务处理的繁杂工作，一个能够从头设计 UI 的大模型，必须具备像素级的视觉理解能力、能够生成逻辑严谨的可编译代码，还要拥有符合人类审美与交互直觉的设计判断力。苹果（Apple）公司的研究团队认为，做好 UI 设计的关键在于设计师的“隐性领域知识”（tacit domain knowledge）。这种关于美学、交互和权衡的直觉，无法通过简单的爬取网页数据获得，毕竟，UI 代码在通用代码..."
+              "title": "Meta新专利允许AI接管逝者账号，继续在社交平台“存活”",
+              "link": "https://www.mittrchina.com/news/detail/15925",
+              "pubDate": "2026-02-14T15:10:09",
+              "description": "一个人去世后，AI 是否应该代替他继续在社交媒体上“活着”？几年前，这或许听起来还像是科幻美剧《黑镜》的设定，但如今，随着技术的发展，我们或许已经到了认真思考这个问题的时候。近日，据相关媒体报道：Meta，这家掌控着 Facebook、Instagram 和 WhatsApp 的社交网络巨头，在 2025 年 12 月获得了一项新的专利授权。关于这项专利的技术描述十分直接：利用大语言模型来“模拟”用户的社交媒体活动。其中，最引人注目的一项条款是: 这种模拟不仅适用于用户暂时离开平台的情况，甚至当用户“已故”时，AI 可以接管账号，继续以你的名义在数字世界中“活下去”。这份专利最初提交于 ..."
             },
             {
-              "title": "Gemini联手顶尖学者破解理论科学难题：推翻人类学者的假设，还会自己推公式",
-              "link": "https://www.mittrchina.com/news/detail/15886",
-              "pubDate": "2026-02-07T10:12:43",
-              "description": "此前，业界对AI 能力的评价往往基于“会不会做题”，比如能不能在高考试题上击败人类考生、在奥数竞赛中斩获几块金牌，又或者写出的代码够不够格通过互联网大厂的笔试……但在这些看似“人类一败涂地，AI大获全胜”的测试背后，科学界一直存在一种冷静甚至审慎的看法：AI 确实很会“做题”，但它能解决那些人类尚未解决的“真问题”吗？毕竟，背诵教科书是一回事，拓展人类知识的边界则是完全不同的另一回事。许多科学家曾认为，目前的 AI 或许只能做简单的模仿者，无法进行深度的逻辑推理和创新。然而，Google Research 最新发布的一项重磅研究打破了这种质疑，并向我们展示：AI 不仅是只会做选择题的学生..."
+              "title": "中科大攻克锂金属电池快充难题，15分钟满电，终结续航焦虑",
+              "link": "https://www.mittrchina.com/news/detail/15924",
+              "pubDate": "2026-02-14T15:05:03",
+              "description": "从智能手机到电动汽车，绝大多数电子设备都依赖传统的锂离子电池（LIBs）供电 。经过数十年的技术迭代，锂离子电池的安全性、循环寿命已趋于成熟，成为当下主流的储能方案，但其能量密度已逐渐逼近物理极限，且在极端环境运行及超快充电场景下，锂离子电池仍面临充电速度慢、性能衰减快、安全隐患突出等诸多挑战。为了突破这一瓶颈，科学家将目光投向了锂金属电池（LMBs）。作为下一代高能量密度电池的核心候选技术，锂金属电池的理论能量密度可达 500 Wh/kg 以上，远超传统锂离子电池，一旦实现实用化，有望让电动汽车续航里程翻倍、便携式设备充电频率大幅降低。但长期以来，锂金属电池始终被快充难题牢牢困住，无法..."
             },
             {
-              "title": "“透明玻璃”光芯片诞生！有望用于精密测量、AI算力和量子计算",
-              "link": "https://www.mittrchina.com/news/detail/15885",
-              "pubDate": "2026-02-07T10:06:52",
-              "description": "“让芯片上的光子通道能如同光纤玻璃般纯净透明，是我们课题组 20 多年以来一直追寻的梦想。如今通过制备工艺的突破，它正变得触手可及。”谈及发表在 Nature 上的光芯片论文，第一作者兼共同通讯作者、美国加州理工学院博士后陈豪敬对 DeepTech 介绍道。图丨陈豪敬（来源：受访者）这项研究来自加州理工学院、南安普敦大学与加州大学圣塔芭芭拉分校联合团队，他们共同开发了一种超低损耗掺锗二氧化硅光子集成平台。“掺锗二氧化硅听起来像是一种很陌生的材料，其实存在于家家户户的光纤就是由这种玻璃材料构成的。现在我们通过标准半导体 CMOS 工艺将这种光纤材料迁移到芯片上，所以也称它为片上光纤。”陈豪..."
+              "title": "当AI开始“记得”你：与两位创业者拆解AI记忆技术",
+              "link": "https://www.mittrchina.com/news/detail/15922",
+              "pubDate": "2026-02-14T04:27:00",
+              "description": "进入 2026 年，AI 记忆正在成为行业最热的竞争焦点之一。Google 为 Gemini 上线了“个人智能”（Personal Intelligence）功能，经用户授权后可调取 Gmail、Google Photos、搜索记录等个人数据，实现跨应用的语境理解，而非简单地检索单封邮件或一张照片，让 Gemini 开始对用户的数据进行“思考”，而非仅仅“获取”它。而在更早之前，OpenAI 的 ChatGPT 也已大幅升级了记忆系统，使其能够引用用户所有历史对话，奥特曼在发布时表示，“这指向了我们兴奋的方向：AI 系统在你的一生中了解你，并变得极其有用和个性化。”在基础设施层面，AI ..."
             }
           ]
         },
         {
           "name": "Gartner",
           "url": "https://rss.diffbot.com/atom?url=https://www.gartner.com/en/newsroom/archive",
-          "entries": []
+          "entries": [
+            {
+              "title": "Gartner Survey Finds 91% of Customer Service Leaders Under Pressure to Implement AI in 2026",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-18-gartner-survey-finds-ninety-one-percent-of-customer-service-leaders-under-pressure-to-implement-ai-in-2026",
+              "pubDate": "2026-02-18T00:00:00",
+              "description": "Gartner Survey Finds 91% of Customer Service Leaders Under Pressure to Implement AI in 2026"
+            },
+            {
+              "title": "Global AI Regulations Fuel Billion-Dollar Market for AI Governance Platforms",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-17-gartner-global-ai-regulations-fuel-billion-dollar-market-for-ai-governance-platforms",
+              "pubDate": "2026-02-17T00:00:00",
+              "description": "Global AI Regulations Fuel Billion-Dollar Market for AI Governance Platforms"
+            },
+            {
+              "title": "Gartner Predicts Over 40% of CMOs Who Push for Larger Brand Budgets Will Lose Influence With the C‑Suite",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-2-12-gartner-predicts-over-40-percent-of-cmos-who-push-for-larger-brand-budgets-will-lose-influence-with-the-c-suite",
+              "pubDate": "2026-02-12T00:00:00",
+              "description": "Gartner Predicts Over 40% of CMOs Who Push for Larger Brand Budgets Will Lose Influence With the C‑Suite"
+            },
+            {
+              "title": "Gartner Predicts That by 2028 Misconfigured AI Will Shut Down National Critical Infrastructure in a G20 Country",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-12-gartner-predicts-that-by-2028-misconfigured-ai-will-shut-down-national-critical-infrastructure-in-a-g20-country",
+              "pubDate": "2026-02-12T00:00:00",
+              "description": "Gartner Predicts That by 2028 Misconfigured AI Will Shut Down National Critical Infrastructure in a G20 Country"
+            },
+            {
+              "title": "Gartner Survey Finds Low-Growth Economic Environment Remained Top Concern Among Risk Leaders in Fourth Quarter of 2025",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-11-gartner-survey-finds-low-growth-econ-enviro-remained-top-concern-among-risk-leaders-in-q425",
+              "pubDate": "2026-02-11T00:00:00",
+              "description": ""
+            },
+            {
+              "title": "Gartner Research Reveals CFOs’ Budget Plans Prioritize Growth Functions, Technology and AI in 2026",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-10-gartner-research-reveals-cfos-budget-plans-prioritize-grotwth-functions-tech-and-ai-in-2026",
+              "pubDate": "2026-02-09T00:00:00",
+              "description": "Gartner Research Reveals CFOs’ Budget Plans Prioritize Growth Functions, Technology and AI in 2026"
+            },
+            {
+              "title": "Gartner Says Worldwide Sovereign Cloud IaaS Spending Will Total $80 Billion in 2026",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-09-gartner-says-worldwide-sovereign-cloud-iaas-spending-will-total-us-dollars-80-billion-in-2026",
+              "pubDate": "2026-02-09T00:00:00",
+              "description": "Gartner Says Worldwide Sovereign Cloud IaaS Spending Will Total $80 Billion in 2026"
+            },
+            {
+              "title": "Gartner Identifies the Top Cybersecurity Trends for 2026",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-05-gartner-identifies-the-top-cybersecurity-trends-for-2026",
+              "pubDate": "2026-02-05T00:00:00",
+              "description": "Gartner Identifies the Top Cybersecurity Trends for 2026"
+            },
+            {
+              "title": "Gartner Predicts 40% of Large Warehouse Operations Will Adopt Gamification Tools by 2028",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-04-gartner-predicts-40-percent-of-large-warehouse-operations-will-adopt-gamification-tools-by-2028",
+              "pubDate": "2026-02-04T00:00:00",
+              "description": "Gartner Predicts 40% of Large Warehouse Operations Will Adopt Gamification Tools by 2028"
+            },
+            {
+              "title": "Gartner Forecasts Worldwide IT Spending to Grow 10.8% in 2026, Totaling $6.15 Trillion",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-03-gartner-forecasts-worldwide-it-spending-to-grow-10-point-8-percent-in-2026-totaling-6-point-15-trillion-dollars",
+              "pubDate": "2026-02-03T00:00:00",
+              "description": "Gartner Forecasts Worldwide IT Spending to Grow 10.8% in 2026, Totaling $6.15 Trillion"
+            },
+            {
+              "title": "Gartner Predicts Half of Companies That Cut Customer Service Staff Due to AI Will Rehire by 2027",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-02-03-gartner-predicts-half-of-companies-that-cut-customer-service-staff-due-to-ai-will-rehire-by-2027",
+              "pubDate": "2026-02-02T00:00:00",
+              "description": "Gartner Predicts Half of Companies That Cut Customer Service Staff Due to AI Will Rehire by 2027"
+            },
+            {
+              "title": "Gartner Predicts 35% of Countries Will Be Locked Into Region-Specific AI Platforms by 2027",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-01-29-gartner-predicts-35-percent-of-countries-will-be-locked-into-region-specific-ai-platforms-by-2027",
+              "pubDate": "2026-01-29T00:00:00",
+              "description": "Gartner Predicts 35% of Countries Will Be Locked Into Region-Specific AI Platforms by 2027"
+            }
+          ]
         }
       ]
     },
@@ -799,6 +872,36 @@
           "url": "https://wechat2rss.bestblogs.dev/feed/e2f1190c120f7f3d74b630bfcfe9e58296bd535c.xml",
           "entries": [
             {
+              "title": "产业之声 | 从OpenClaw爆火，看代码数据的价值与软件行业的重构",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627854&idx=1&sn=84e4504db66c3fa9b8bb481dee4e8bdc",
+              "pubDate": "2026-02-20T02:03:00",
+              "description": "OpenClaw开源智能体工具火爆破圈。与这股智能体工具热潮形成鲜明对比的，是“AI颠覆SaaS软件”的资本叙事：软件产业正经历着一场暴跌，从通用办公写作到ERP 软件，紧接着是法律、金融等专业领域软件。这“一热一冷”并非偶然，而是一场历时五年的技术演进。"
+            },
+            {
+              "title": "产业之声 | 智能硬件产业“大对账”：中美两场展会折射出的趋势、差异与思考",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627853&idx=1&sn=b0d1106a82e1a64a86da698de50eb7c1",
+              "pubDate": "2026-02-18T02:04:00",
+              "description": "从全球首款AI吉他、到长出机械臂和机械腿乃至飞行器的扫地机器人，从智能眼镜与车机无缝交互、到全屋智能家电的功能联动，从人形机器人与人类拳击手对练闪避、到助盲眼镜毫秒级实时避障，只要能想象到的物理交互场景，就有可能在发生。"
+            },
+            {
+              "title": "50亿次“千问帮我”，创造AI时代全新生活方式",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627860&idx=1&sn=3713305a588f65ece49f097f180cb6e8",
+              "pubDate": "2026-02-17T00:34:00",
+              "description": "亲爱的朋友：很荣幸和你一起开启了一个不同以往的新年。「千问请客」春节活动期间，有超过1.3亿人在千问点奶茶、囤年货、买电影票、买门票、订机票酒店。"
+            },
+            {
+              "title": "千问上线全新一代大模型Qwen3.5",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627839&idx=1&sn=17fa0e46d184ab1eba88f4b62bba7347",
+              "pubDate": "2026-02-16T10:12:00",
+              "description": "刚刚，阿里巴巴开源全新一代大模型千问Qwen3.5-Plus，登顶全球最强开源模型。"
+            },
+            {
+              "title": "春晖万里，骏启新篇",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627839&idx=2&sn=b542d97a02ae6adf771b23a4ba199258",
+              "pubDate": "2026-02-16T10:12:00",
+              "description": "保持热AI，马到功成！阿里研究院祝各位同仁2026新年快乐！"
+            },
+            {
               "title": "安筱鹏：与不确定性共舞，AI时代的组织进化与领导力重塑",
               "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627759&idx=1&sn=8842ad3baefafc090b75fecd5570310b",
               "pubDate": "2026-02-09T09:42:00",
@@ -827,36 +930,6 @@
               "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627386&idx=2&sn=8478f536dd98d0e10f9a96636c4405eb",
               "pubDate": "2026-01-15T09:51:00",
               "description": "《山海夜话》首期聚焦正在公开征求意见的人工智能拟人化服务新规。"
-            },
-            {
-              "title": "深度解读 AGI-Next 2026：分化、新范式、Agent 与全球 AI 竞赛的 40 条重要判断",
-              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627379&idx=1&sn=899b7f462d10f4eee0aa2fcdea56a1b2",
-              "pubDate": "2026-01-14T06:42:00",
-              "description": "刚刚过去的 AGI-Next 2026 信息密度极高，也极具 Visionary。这场由清华大学基础模型北京"
-            },
-            {
-              "title": "深度讨论 2026 年 AI 预测：最关键的下注点在哪？｜Best Ideas",
-              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627377&idx=1&sn=6cd6a7e1479acfddf0ac8cc7b0fc3cee",
-              "pubDate": "2025-12-26T10:25:00",
-              "description": "过去一年，AI 在技术、产品与资本三个层面同时加速演化。从模型能力的持续跃迁，到多模态能力、Agent 逐步落地，再到算力、infra 与能源约束被反复讨论，行业竞争的焦点正从“模型强弱”转向体系能力、商业路径与长期战略的综合博弈。"
-            },
-            {
-              "title": "产业之声 | 美国算力集群的电力保障：趋势、对比与启示",
-              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627375&idx=1&sn=f2a9b6f3622e89857b447ab420ae0ab2",
-              "pubDate": "2025-12-23T08:53:00",
-              "description": "在全球人工智能科技竞争进入白热化的当下，智算时代的数据中心在总体规模和单体规模上都在急速扩张。这对其背后的电力保障体系提出了颠覆性的挑战。本文尝试梳理分析美国在算力集群电力保障领域的趋势和挑战，从而对我国在此方面的规划与布局提供借鉴和启示。"
-            },
-            {
-              "title": "万相上新！Wan2.6更新国内首个角色扮演功能",
-              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627361&idx=1&sn=1d5919911b69742305b8b457a079195c",
-              "pubDate": "2025-12-18T02:42:00",
-              "description": "12月16日，新一代万相2.6系列模型正式发布！面向专业影视制作和图像创作场景进行了全面升级全新的万相2.6"
-            },
-            {
-              "title": "产业之声 | 瓴羊发布《数据分析Agent白皮书》：一文读懂DATA×AI技术路线、落地方案与未来方向",
-              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627358&idx=1&sn=1cf29039e07f39337bd08fadf0f4bfb7",
-              "pubDate": "2025-12-17T10:08:00",
-              "description": "点击全文，免费获取白皮书"
             }
           ]
         },
@@ -994,19 +1067,19 @@
               "title": "今日要闻 - 习近平向第39届非洲联盟峰会致贺电",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=f55ac9df2a27416bbe517fdf19563611&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "新华社北京2月14日电 2月14日，国家主席习近平向非洲联盟轮值主席、安哥拉总统洛伦索和非洲联盟委员会主席优素福致贺电，就第39届非洲联盟峰会召开，向非洲国家和人民表示热烈祝贺。 习近平指出，当前，世界百年变局加速演进，全球南方卓然壮大。过去一年，非洲联盟团结带领非洲国家积极推进一体化进程，坚定捍卫非洲正当权益，国际地位和影响持续提升。 习近平强调，面对变乱交织的国际形势，中国坚定致力于维护世界和平、促进共同发展，推动构建人类命运共同体。中方将于2026年5月1日起对53个非洲建交国全面实施零关税举措，同时继续推动商签共同发展经济伙伴关系协定，并通过升级“绿色通道”等进一步扩大非洲输华产..."
+              "description": "新华社北京2月14日电 2月14日，国家主席习近平向非洲联盟轮值主席、安哥拉总统洛伦索和非洲联盟委员会主席优素福致贺电，就第39届非洲联盟峰会召开，向非洲国家和人民表示热"
             },
             {
               "title": "今日要闻 - 中共中央国务院举行春节团拜会",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=e79bb7dc00c24aecb24e9b9a76a5e633&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "习近平发表讲话 <br>代表党中央和国务院，向全国各族人民，向香港特别行政区同胞、澳门特别行政区同胞、台湾同胞和海外侨胞拜年 <br>李强主持 赵乐际王沪宁蔡奇丁薛祥李希韩正出席 <p>2月14日，中共中央、国务院在北京人民大会堂举行2026年春节团拜会。中共中央总书记、国家主席、中央军委主席习近平发表讲话。</p><p>新华社记者 李响摄</p> <p>2月14日，中共中央、国务院在北京人民大会堂举行2026年春节团拜会。党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等同首都各界人士欢聚一堂、共迎佳节。</p><p>新华社记者 谢环驰摄</p> ■ 即将过去的乙巳..."
+              "description": "习近平发表讲话 <br>代表党中央和国务院，向全国各族人民，向香港特别行政区同胞、澳门特别行政区同胞、台湾同胞和海外侨胞拜年 <br>李强主持 赵乐际王沪宁蔡奇丁薛祥李希韩正出席 ■ 即将过去的乙巳蛇年，是很不平凡的一年。面对复杂多变的国际国内形势，我们迎难而上、砥砺前行，推动党和国家事业取得新进展新成效，全年经济社会发展主要目标任务顺利完成，“十四五”圆满收官，我国经济实力、科技实力、国防实力、综合国力跃上新台阶，中国式现代化迈出新的坚实步伐 ■ 一年来，我们实施更加积极有为的宏观政策，进一步全面深化改革，扎实推进现代化产业体系建设，我国经济顶压前行、向新向优发展，展现出强大韧性和活力..."
             },
             {
               "title": "今日要闻 - 在二○二六年春节团拜会上的讲话",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=75f91a8e2b0f4b5f93ec85c131720db7&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "<p>（二〇二六年二月十四日）</p><p>习近平</p> 同志们，朋友们： 丙午马年春节即将到来。今天，我们欢聚一堂，辞旧迎新。 首先，我代表党中央和国务院，向大家致以节日的美好祝福！向全国各族人民和香港特别行政区同胞、澳门特别行政区同胞、台湾同胞、海外侨胞拜年！ 即将过去的乙巳蛇年，是很不平凡的一年。面对复杂多变的国际国内形势，我们迎难而上、砥砺前行，推动党和国家事业取得新进展新成效，全年经济社会发展主要目标任务顺利完成，“十四五”圆满收官，我国经济实力、科技实力、国防实力、综合国力跃上新台阶，中国式现代化迈出新的坚实步伐。 一年来，我们实施更加积极有为的宏观政策，进一步全面深化改革..."
+              "description": "<p>（二〇二六年二月十四日）</p><p>习近平</p> 同志们，朋友们： 丙午马年春节即将到来。今天，我们欢聚一堂，辞旧迎新。 首先，我代表党中央和国务院，向大家致以节日的美好祝福！向全国各族人民和香港特别行政区同胞、澳门特别行政区同胞、台湾同胞、海外侨胞拜年！ 即将过去的乙巳蛇年，是很不平凡的一年。面对复杂多变的国际国内形势，我们迎难而上、砥砺前行，推动党和国家事业取得新进展新成效，全年经济社会发展主要目标任务顺利完成，“十四五”圆满收官，我国经济实力、科技实力、国防实力、综合国力跃上新台阶，中国式现代化迈出新的坚实步"
             },
             {
               "title": "要 闻 - 风云激荡展担当",
@@ -1024,25 +1097,25 @@
               "title": "要 闻 - “钉”在列车检修一线",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=60165ff3786041ea9d9f3885672a38c2&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "◎本报记者 吴纯新 “注意角度！我们设计研发的这把Z字形活接扳手能360度旋转，可在狭小空间卡紧螺母，还能把手套筒拉长，省时、省事、省力。原本需要大拆大卸、动辄长达数小时的活儿，现在5分钟就能搞定。”2月12日，科技日报记者见到中国铁路武汉局集团公司武昌客车车辆段职工黄望明时，他正在指导徒弟们快速应急抢修。 黄望明今年56岁，2025年获评“大国工匠”。对他而言，荣誉意味着责任更重。今年春运，他带领劳模创新工作室成员，“钉”在检修一线。 “叮叮当当”，寒冬的整备场寒风拂面，静谧的股道里，不时传来星星点点的金属敲击声。黄望明弯腰探身，对车辆设备进行仔细检查。 工作30余年，黄望明练就一身听..."
+              "description": "◎本报记者 吴纯新 “注意角度！我们设计研发的这把Z字形活接扳手能360度旋转，可在狭小空间卡紧螺母，还能把手套筒拉长，省时、省事、省力。原本需要大拆大卸、动辄长达数小时的活儿，现在5分钟就能搞定。”2月12日，科技日报记者见到中国铁路武汉局集团公司武昌客车车辆段职工黄望明时，他正在指导徒弟们快速应急抢修。 黄望明今年56岁，2025年获"
             },
             {
               "title": "要 闻 - 守护电煤重载列车平安",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=4d87b190a6824a3a9606d6d63e0e131d&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "◎本报记者 张毅力 通讯员 赵晶晶 春节前夕，当旅客坐着平稳舒适的高铁回家团圆时，在瓦日铁路长子南列车检查作业场，国铁郑州局焦作车辆段的检车员们，正与智能巡检机器人并肩作战，为一列列电煤重载列车“把脉问诊”。 2月12日，夜幕下的长子南列车检查作业场灯火通明，室外气温已降至零下10℃，一列列满载电煤的货车有序停靠待发。凌晨2时，一列满载电煤的重载列车缓缓驶入15道，即将开展制动系统试风作业。 瓦日线地形复杂，长大坡道绵延十几公里，1600余米的重载列车首尾高低落差超20米，相当于6层楼高，对列车制动可靠性提出极高要求。试风作业是检查列车制动系统是否完好的关键环节，也是传统列车检查中强度最..."
+              "description": "◎本报记者 张毅力 通讯员 赵晶晶 春节前夕，当旅客坐着平稳舒适的高铁回家团圆时，在瓦日铁路长子南列车检查作业场，国铁郑州局焦作车辆段的检车员们，正与智能巡检机器人并肩作战，为一列列电煤重载列车“把脉问诊”。 2月12日，夜幕下的长子南列车检查作业场灯火通明，室外气温已降至零下10℃，一列列满载电煤的货车有序停靠待发。凌晨2"
             },
             {
               "title": "要 闻 - 回家路上赏非遗民俗",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=b24660657a454683aa1625135e11f77d&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "图为乘务员展示非遗糖画。<br /> 王忠一摄 科技日报讯 （记者赵向南 通讯员边秀）非遗糖画艺人的摊位前围满了小旅客，漆扇艺人手持扇面点染颜料……2月11日，由太原客运段担当乘务的G380次列车车厢内张灯结彩，一场融合非遗民俗与暖心服务的活动温情开展，让归心似箭的旅客提前感受年味。 当日，红灯笼、“福”字贴、马年主题装饰，将车厢装点得喜气洋洋。列车长与乘务人员化身“暖心使者”，为旅客送上寓意团圆的饺子和香甜的麻糖。 “我们希望通过这些充满传统年味的活动，让旅客在春运旅途中感受到家的温暖，让非遗在流动的列车上得以传承。”太原客运段动车一队书记李博说，春运期间，列车组将持续推出特色服务，用..."
+              "description": "科技日报讯 （记者赵向南 通讯员边秀）非遗糖画艺人的摊位前围满了小旅客，漆扇艺人手持扇面点染颜料……2月11日，"
             },
             {
               "title": "要 闻 - 轴承产业迈向“价值型创造”",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=ee988bda0da346228be20820b5934406&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "【激发产业发展新动能】 ◎本报记者 陈汝健 春节前夕，记者走进河北省临西县中塞（国际）轴承产业共享实验室，看到一台轴承疲劳度检测设备屏幕上，闪烁着运行时长数字。通过模拟特定转速、载荷和环境，这里正为轴承企业精准“把脉”。 “这台设备已连续工作388个小时。”共享实验室负责人索恩康轻拍着一台轴承疲劳度检测设备说。通过模拟特定的转速、载荷和温湿度环境，设备可以完成轴承材料理化分析、环境模拟与寿命测试等多项性能试验。 索恩康告诉记者，这家由塞尔维亚Z&S公司与临西县共建的共享实验室，总投资8000余万元，为“中塞双中心”布局，畅通了国内外创新资源通道。自2025年9月投运以来，实验室已为38家..."
+              "description": "【激发产业发展新动能】◎本报记者 陈汝健 春节前夕，记者走进河北省临西县中塞（国际）轴承产业共享实验室，看到一台轴承疲劳度检测设备屏幕上，闪烁着运行时长数字。通过模拟特定转速、载荷和环境，这里正为轴承企业精准“把脉”。 “这台设备已连续工作388个小时。”共享实验室负责人索恩康轻拍着一台轴承疲劳度检测设备说。通过模拟特定的转速、载荷和温湿度环境，设备可以完成轴承材料理化分析、环境模拟与寿命测试等多项性能试验。 索恩康"
             },
             {
               "title": "要 闻 - 过年不停歇，赶制“钢铁跑鞋”",
@@ -1054,25 +1127,25 @@
               "title": "要 闻 - “十五五”期间支持科技创新进口税收优惠政策公布",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=c969a639698944058a395bc51707f4e8&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "科技日报北京2月14日电 （记者刘垠）记者14日从财政部获悉，财政部、海关总署、税务总局日前联合发布通知，明确“十五五”期间支持科技创新进口税收优惠政策。自2026年1月1日至2030年12月31日，对科学研究机构、技术开发机构、学校、党校（行政学院）、图书馆进口国内不能生产或性能不能满足需要的科学研究、科技开发和教学用品，免征进口关税和进口环节增值税、消费税。 与此同时，对出版物进口单位为上述机构进口用于科研、教学的图书、资料，免征进口环节增值税。政策覆盖范围包括国家实验室、全国重点实验室、“一带一路”联合实验室、国家重大科技基础设施、国家野外科学观测研究站、新型研发机构及国家承认学历..."
+              "description": "科技日报北京2月14日电 （记者刘垠）记者14日从财政部获悉，财政部、海关总署、税务总局日前联合发布通知，明确“十五五”期间支持科技创新进口税收优惠政策。自2026年1月1日至2030年12月31日，对科学研究机构、技术开发机构、学校、"
             },
             {
               "title": "要 闻 - “人工肺”核心原料实现国产化",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=6ee56c168f234eb186ca26259ec14ec4&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "科技日报大连2月14日电 （记者张蕴）记者14日从大连理工大学获悉，该校化工学院梁长海教授领衔的科研团队与中国石油化工股份有限公司镇海炼化分公司合作攻关，在百吨级丙烯二聚试验装置上首次成功产出合格产品4-甲基-1-戊烯（4M1P），纯度达99.3%，优于进口同类产品，标志着我国在该高端特种单体的合成领域取得阶段性重大技术突破。 体外膜肺氧合（ECMO）是体外生命支持技术的一种，也叫“人工肺”，被视为危重患者的“救命神器”。4M1P是合成聚4-甲基-1-戊烯（PMP）的关键单体，PMP正是制造ECMO膜式氧合器膜材料的核心原料。然而长期以来，PMP树脂产业链被日本牢牢掌控，4M1P国产化率..."
+              "description": "科技日报大连2月14日电 （记者张蕴）记者14日从大连理工大学获悉，该校化工学院梁长海教授领衔的科研团队与中国石油化工股份有限公司镇海炼化分公司合作攻关，在百吨级丙烯二聚试验装置上首次成功产出合格产品4-甲基-1-戊烯（4M1P），纯度达99.3%，优于进"
             },
             {
               "title": "要 闻 - 湖北单期产能规模最大锂电池生产基地建设取得突破",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=06f482c22e88466887cdcdf636e16686&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "科技日报讯 （记者吴纯新 通讯员王波）2月11日，随着最后一立方米混凝土浇筑完成，由中建三局一公司承建的楚能新能源宜昌80GWh全新一代锂电池项目顺利实现匀浆段封顶，标志着湖北单期产能规模最大的锂电池生产基地建设取得关键突破，为后续设备安装与整体投产打下坚实基础。 据介绍，该项目位于湖北宜昌夷陵区，规划年产80GWh新一代锂电池，主要研发生产动力电池、储能电池及PACK模组等新能源核心产品。项目总投资220亿元，是楚能新能源打造千亿级产业集群的核心工程，也是宜昌及湖北建设具有全国影响力新能源电池产业基地、推动产业转型升级的重要支撑。 面对超90万平方米建设体量、仅3个月主体施工工期及大型..."
+              "description": "科技日报讯 （记者吴纯新 通讯员王波）2月11日，随着最后一立方米混凝土浇筑完成，由中建三局一公司承建的楚能新能源宜昌80GWh全新一代锂电池项目顺利实现匀浆段封顶，标志着湖北单期产能规模最大的锂电池生产基地建设取得关键突破，为后续设备安装与整体投产打下坚实基础。 据介绍"
             },
             {
               "title": "要 闻 - 通用学习新框架解决软体机器人控制难题",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=ef9fed5d628c4162afe55e46760fc266&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "科技日报南京2月14日电 （记者金凤）软体机器人的柔顺性高、环境适应能力强，在医疗辅助、人机交互等领域具有广阔应用前景。然而，其连续形变的特性也使其难以在复杂、多变环境中稳定工作。记者14日从东南大学获悉，该校联合新加坡国立大学、美国麻省理工学院团队，模拟大脑神经元的结构和神经突触的可塑性，提出了一种面向软体机器人的通用学习与控制框架，并实现了较高的控制精度。相关成果近日刊发于国际学术期刊《科学进展》。 “人脑神经元之间靠突触进行连接和传递信息，这启发我们模拟大脑神经元的结构和突触的可塑性，来控制软体机器人。”论文的第一作者兼共同通讯作者、东南大学机械工程学院副教授唐志强介绍，团队提出了..."
+              "description": "科技日报南京2月14日电 （记者金凤）软体机器人的柔顺性高、环境适应能力强，在医疗辅助、人机交互等领域具有广阔应用前景。然而，其连续形变的特性也使其难以在复杂、多变环境中稳定工作。记者14日从东南大学获悉，该校联合新加坡国立大学、美国麻省理工学院团队，模拟大脑神经元"
             },
             {
               "title": "要 闻 - 这个春节，他们在海上为风机施工平台“增高”",
@@ -1084,43 +1157,43 @@
               "title": "要 闻 - 陕电入皖核心枢纽启动带电调试",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=d7a0d196c7a5453f8bb78cf6190c9eb1&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "科技日报讯 （记者王禹涵）近日，±800千伏宝塔山换流站750千伏交流系统启动带电调试，标志着陕北—安徽特高压直流输电工程进入系统调试阶段。该工程横跨陕、豫、皖三省，全长约1070公里，是我国首个完全采用±800千瓦/8吉瓦标准化设计的特高压工程。年内投运后，每年可将超360亿千瓦时电能从陕北送至安徽，其中清洁能源占比过半。 图为±800千伏宝塔山换流站。 受访单位供图"
+              "description": "科技日报讯 （记者王禹涵）近日，±800千伏宝塔山换流站750千伏交流系"
             },
             {
               "title": "国 际 - 荷兰法庭裁决调查安世半导体毫无道理",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=d1d71a7ce2a247d3aa5eadb1ed5d9be2&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "【正听】 ◎胡定坤 当地时间2月11日，荷兰阿姆斯特丹上诉法院企业法庭宣布维持2025年10月作出的裁决，下令对安世半导体的政策和运营开展调查，中方董事长职务和闻泰科技作为股东的合法控制权被继续暂停。 2025年9月30日，荷兰政府以“经济安全”为由，援引冷战期间的《货物可用性法案》，“强行接管”中国企业闻泰科技全资控股的荷兰安世半导体公司。随后，阿姆斯特丹上诉法院企业法庭作出裁决，免去该公司中方董事长职务。 安世半导体在全球芯片，特别是车载芯片供应链中扮演着举足轻重的角色。荷兰政府和司法机构的粗暴干预，导致该公司荷兰总部和中国分部在事实上分裂，不仅给安世半导体自身带来严重损失，更导致了..."
+              "description": "【正听】◎胡定坤 当地时间2月11日，荷兰阿姆斯特丹上诉法院企业法庭宣布维持2025年10月作出的裁决，下令对安世半导体的政策和运营开展调查，中方董事长职务和闻泰科技作为股东的合法控制权被继续暂停。 2025年9月30日，荷兰政府以“经济安全”为由，援引冷战期间的《货物可用性法案》，“强行接管”中国企业闻泰科技全资控股的荷兰安世半导体公司。随后，阿姆斯特丹上诉法院企业法庭作出裁决，免去该公司中方董事长职务。 安世半导体在全球芯片，特别是车载芯片供应链中扮演着举足轻重的角色。荷兰政府和司法机构的粗暴干预，导致该公司荷兰总部和中国分部在事实上分裂，不仅给安世半导体自身带来严重损失，更导致了全"
             },
             {
               "title": "国 际 - 机器人观察人类动作就能学会摆放餐具",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=6b3ab2f328d5435f9dc06c55a380b151&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "科技日报北京2月14日电 （记者张梦然）西班牙马德里卡洛斯三世大学研究团队展示了一款创新机器人，其仅通过观察人类动作就能学会摆放餐具。这意味着，无需编写数千行代码，只通过观察学习与实时协同控制，机器人就能自主掌握双臂协调动作。该突破标志着家用服务机器人的研发迈出重要一步，未来这类机器人有望在家庭环境中流畅完成布置餐桌、收拾餐具、整理厨房及递送物品等日常辅助任务。相关研究12日发表于美国科学促进会优睿科网站。 该研究以团队开发的自主家用双臂操作器（ADAM）机器人为平台，目前能实现多种居家辅助功能，例如在指定时间为用户递送水杯或药品，协助取放外套或衣物，并完成基础的厨房整理与餐桌布置收拾工..."
+              "description": "科技日报北京2月14日电 （记者张梦然）西班牙马德里卡洛斯三世大学研究团队展示了一款创新机器人，其仅通过观察人类动作就能学会摆放餐具。这意味着，无需编写数千行代码，只通过观察学习与实时协同控制，机器人就能自主掌握双臂协调动作。该突破标志着家用服务机器人的研发迈出重要一步，未来这类机器人有望在家庭环境中流畅完成布置餐桌、收拾餐具、整理厨房及递送物品等日常辅助任务。相关研究12日发表于美国科学促进会优睿科网"
             },
             {
               "title": "国 际 - “AI红娘”开启网络约会新模式",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=f02f41a1ab45428286278373dc335677&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "隐私保护问题不容小觑 如今Tinder、Hinge、Bumble等北美主流约会应用正纷纷布局，押注于生成式人工智能（AI）驱动的匹配系统，新一代AI约会应用相继涌现，试图帮助用户更高效地找到理想伴侣。<br /> 图片来源：美国商业内幕网站 【科技创新世界潮】(465)◎本报记者 刘 霞 “滑动、匹配、聊天、约会”，这是十多年前，全球热门免费社交约会软件Tinder提出的口号。然而现实往往不尽如人意，许多用户在茫茫网络中寻觅良久，最终仍徒留叹息。 美国商业内幕网站日前报道指出，如今Tinder、Hinge、Bumble等北美主流约会应用正纷纷布局，押注于生成式人工智能（AI）驱动的匹配系..."
+              "description": "隐私保护问题不容小觑 【科技创新世界潮】(465)◎本报记者 刘 霞 “滑动、匹配、聊天、约会”，这是十多年前，全球热门免费社交约会软件Tinder提出的口号。然而现实往往不尽如人意，许多用户在茫茫网络中寻觅良久，最终仍徒留叹息。 美国商业内幕网站日前报道指出，如今Tinder、Hinge、Bumble等北美主流约会应用正纷纷布局，押注于生成式人工智能（AI）驱动的匹配系统，新一代AI约会应用相继涌现，试图帮助用户更高效地找到理想伴侣。《纽约时报》称，这些“AI红娘”正在开启网络约会的新生态。 为约会应用注入新活力 《纽约时报》分析称，当前许多约会应用陷入一种“绝望循环”：用户下载软件，..."
             },
             {
               "title": "国 际 - 俄北极项目通过技术链条辐射就业增长",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=33bd31bb6b93426e8ef7a9023512b3cc&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "【创新连线·俄罗斯】 据俄罗斯卫星通讯社近日报道，俄科学家通过构建模型测算北极地区海上油气开发所需人力配置发现，自2027年起，俄罗斯北极和远东地区每增加1个工作岗位，最多可在相关区域创造14个就业岗位。 模型显示，在俄罗斯北极地区，对不同专业和资质人才的平均需求约为2万至2.5万个职位，而该地区不仅面临人才短缺，各行业之间还存在对这些人才的竞争。 圣彼得堡彼得大帝理工大学高等生产管理学院教授、圣彼得堡对外联络委员会北极地区发展专家委员会主席阿列克谢·法捷耶夫表示：“世界范围内北方项目的实施经验表明，北极地区的1个工作岗位，能够通过产业内部的技术链条，在全国其他地区的相关产业中，最多创造..."
+              "description": "【创新连线·俄罗斯】 据俄罗斯卫星通讯社近日报道，俄科学家通过构建模型测算北极地区海上油气开发所需人力配置发现，自2027年起，俄罗斯北极和远东地区每增加1个工作岗位，最多可在相关区域创造14个就业岗位。 模型显示，在俄罗"
             },
             {
               "title": "国 际 - 青蛙的“情歌”里藏着多少秘密",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=516abadb5c934978a8a44cce93219b67&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "【科普园地】 ◎本报记者 张佳欣 当春天的气息渐浓，池塘边便响起阵阵青蛙的求偶鸣叫。你可曾想过，这些看似简单的“情歌”，其实藏着关于温度、繁殖时机，甚至气候变化的秘密？ 近期，来自美国加州大学戴维斯分校的科学家发现，雄性青蛙的叫声会随着环境温度变化而改变，而雌蛙正是通过这些声音来判断何时才是最佳繁殖时机。 美国科学家朱莉安·佩克尼带领团队深入加州自然保护区的野外站，通过对西拉树蛙进行长期的声学监测，记录下了环境温度与鸣叫特征之间的微妙关系。 在早春寒冷的水域中，他们手持录音设备捕捉到雄蛙的叫声，起初显得迟缓、节奏拖沓。然而，随着气温升高，同一只雄蛙的鸣叫脉冲会显著加快，变得急促而有力。这..."
+              "description": "【科普园地】◎本报记者 张佳欣 当春天的气息渐浓，池塘边便响起阵阵青蛙的求偶鸣叫。你可曾想过，这些看似简单的“情歌”，其实藏着关于温度、繁殖时机，甚至气候变化的秘密？ 近期，来自美国加州大学戴维斯分校的科学家发现，雄性青蛙的叫声会随着环境温度变化而改变，而雌蛙正是通过这些声音来判断何时才是最佳繁殖时机。 美国科学家朱莉安·佩克尼带领团队深入加州自然保护区的野"
             },
             {
               "title": "国 际 - 印度加强社交媒体AI内容监管",
               "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=af8d860479c24257b111017f7961c94f&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-02-15",
               "pubDate": "2026-02-14T16:00:00",
-              "description": "科技日报讯 （记者刘霞）据物理学家组织网近日报道，印度近日收紧人工智能（AI）监管政策，要求社交媒体平台对AI生成内容进行显著标注。由印度信息技术部发布的新规将于2月20日正式生效，同时将违规内容的删除时限从原先的36小时大幅缩短至3小时。 印度拥有超10亿互联网用户，近年来AI制造的虚假信息日益泛滥，成为社会治理的一大挑战。新规适用于“通过计算机资源创建、生成、修改或更改”的所有内容，但基于正常编辑或善意加工的信息除外。 此次修订是在2021年原有规则基础上的升级，明确要求社交平台必须以无法篡改或删除的永久性标识，清晰标记经AI深度合成或操纵的媒体内容。 印度出台的新规定将“合成数据”..."
+              "description": "科技日报讯 （记者刘霞）据物理学家组织网近日报道，印度近日收紧人工智能（AI）监管政策，要求社交媒体平台对AI生成内容进行显著标注。由印度信息技术部发布的新规将于2月20日正式生"
             }
           ]
         }
