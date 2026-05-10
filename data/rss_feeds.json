@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T00:53:32.007542",
+  "lastUpdated": "2026-05-10T00:51:40.241234",
   "daysFilter": 180,
   "groups": [
     {
@@ -321,6 +321,18 @@
           "url": "rsshub://mckinsey/cn",
           "entries": [
             {
+              "title": "增长是企业的“头号战略”|叶海谈韧性增长系列文章",
+              "link": "https://www.mckinsey.com.cn/%e5%a2%9e%e9%95%bf%e6%98%af%e4%bc%81%e4%b8%9a%e7%9a%84%e5%a4%b4%e5%8f%b7%e6%88%98%e7%95%a5%e5%8f%b6%e6%b5%b7%e8%b0%88%e9%9f%a7%e6%80%a7%e5%a2%9e%e9%95%bf%e7%b3%bb%e5%88%97%e6%96%87/",
+              "pubDate": "2026-05-07T16:00:00",
+              "description": "编者按： 本文是“叶海谈韧性增长”系列的开篇。在这个不确定的时代，增长的内涵正在被重塑。它不再是红利期的自然产物，而是一种有韧性、可持续、可管理的系统性能力。叶海先生将结合其深刻的行业洞察与丰富的实战经验，系统解构“韧性增长”的底层逻辑，为企业如何在逆流中稳健前行提供切实的思路与框架。 未来，我们将持续发布该系列的后续文章，围绕聚焦、爆品、体验式品牌、组织韧性等关键维度展开深入探讨，敬请期待。 过去二十年，中国企业的增长常像顺水行舟：水位抬升、航道拓宽，哪怕船身不够精巧，也能被时代的流速推着向前。人口结构、城市化、渠道红利与供给扩张彼此叠加，增长看上去近乎“自然”——不停桨，就不至于停航..."
+            },
+            {
+              "title": "AI转型宣言：领先者的12条法则",
+              "link": "https://www.mckinsey.com.cn/ai%e8%bd%ac%e5%9e%8b%e5%ae%a3%e8%a8%80%ef%bc%9a%e9%a2%86%e5%85%88%e8%80%85%e7%9a%8412%e6%9d%a1%e6%b3%95%e5%88%99/",
+              "pubDate": "2026-05-06T16:00:00",
+              "description": "同处AI浪潮，真正完成深度重构的企业，已在十二个关键层面与同行拉开差距。 真正借助AI实现创新突破的企业，做法与大多数公司截然不同：它们并非零散部署几个工具，而是系统谋划、持续打造AI核心能力，全面重塑产品与服务，优化关键业务流程，升级组织运行机制。 诸多领先企业的实践案例，已收录于麦肯锡经典著作《麦肯锡讲全球企业数字化》（Rewired: How Leading Companies Win with Technology and AI）第二版。这些企业正持续释放颠覆性成果，建立清晰而稳固的竞争优势。值得关注的是，它们的领先并非源于某项独家技术，真正拉开差距的，是用技术解决真实业务问题的..."
+            },
+            {
               "title": "女性CEO制胜心法：不硬扛，不内耗，稳掌舵",
               "link": "https://www.mckinsey.com.cn/%e5%a5%b3%e6%80%a7ceo%e5%88%b6%e8%83%9c%e5%bf%83%e6%b3%95%ef%bc%9a%e4%b8%8d%e7%a1%ac%e6%89%9b%ef%bc%8c%e4%b8%8d%e5%86%85%e8%80%97%ef%bc%8c%e7%a8%b3%e6%8e%8c%e8%88%b5/",
               "pubDate": "2026-04-29T16:00:00",
@@ -451,18 +463,6 @@
               "link": "https://www.mckinsey.com.cn/%e4%bb%8e%e7%94%b5%e5%8a%a8%e8%bd%a6%e5%88%b0%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%9a%e5%b0%8f%e9%b9%8f%e6%98%af%e5%a6%82%e4%bd%95%e5%81%9a%e5%88%b0%e7%9a%84%ef%bc%9f/",
               "pubDate": "2026-01-11T16:00:00",
               "description": "续航极限、智能极限、具身智能边界——小鹏正在几条原本不相邻的技术曲线上同步加速。而这些看似密集的技术发布，并非突发的战略跳转，而是公司十年来坚持的方向。 不久前，麦肯锡中国区主席倪以理访谈了小鹏汽车副董事长兼联席总裁顾宏地。对话中，顾宏地系统梳理了中国电动车产业的演进逻辑、全球化布局、智能驾驶与AI战略，并对小鹏向机器人与具身智能延展的愿景展开深入探讨。从这些思考中不难看出，小鹏的发展主线始终如一：智能定义未来出行，未来出行不止是车。 Your browser does not support the video tag. 以下是编辑后的访谈实录。 倪以理：我们一直在说“下一个‘中国’，..."
-            },
-            {
-              "title": "新官上任：新任CEO的相关方管理手册（上篇）",
-              "link": "https://www.mckinsey.com.cn/%e6%96%b0%e5%ae%98%e4%b8%8a%e4%bb%bb%ef%bc%9a%e6%96%b0%e4%bb%bbceo%e7%9a%84%e7%9b%b8%e5%85%b3%e6%96%b9%e7%ae%a1%e7%90%86%e6%89%8b%e5%86%8c%ef%bc%88%e4%b8%8a%e7%af%87%ef%bc%89/",
-              "pubDate": "2026-01-06T16:00:00",
-              "description": "新任或候任CEO往往会低估内外部沟通的复杂性与强度；而心态是否到位、沟通是否高效、行动是否得当，往往是决定成败的分水岭。 亲爱的新任CEO： 首先恭喜你走上新的岗位。对你个人和整个组织而言，这都是真正的“解冻时刻”：既是你职业生涯的重要里程碑，也是创造公共价值的关键节点。但需要提醒，你面临的局面与许多前任已大不相同，这份角色要求你具备前所未有的适应力、韧性和沟通能力。当下，新任CEO被推上舞台的节奏比以往更快，其中一个原因便是时间压力陡增：如今CEO的平均任期已降至历史最低的6.8年1。价值风险也十分显著，研究显示，标普1500指数成分公司因高层交接不善，每年损失的市值高达近万亿美元2。..."
-            },
-            {
-              "title": "全球CEO关于中国市场的4个问题",
-              "link": "https://www.mckinsey.com.cn/%e5%85%a8%e7%90%83ceo%e5%85%b3%e4%ba%8e%e4%b8%ad%e5%9b%bd%e5%b8%82%e5%9c%ba%e7%9a%844%e4%b8%aa%e9%97%ae%e9%a2%98/",
-              "pubDate": "2025-12-22T16:00:00",
-              "description": "2025年12月，中国市场简报 作者：泽沛达（Daniel Zipser），麦肯锡全球资深董事合伙人，亚洲消费与零售咨询业务负责人 得益于不断壮大的中产阶级和强劲的消费者需求，中国仍然是全球最大的单一增长引擎——对于全球首席执行官们而言，需要思考一个重要问题：在中国新的发展阶段，应该布局哪些领域以及如何制胜？ 过去一年，中国始终是全球高管关注的焦点。尽管对增长前景、消费信心和投资仍然存在疑虑，但到访中国的高管仍然络绎不绝。来访目的不仅是为了评估风险，更为亲身了解本土竞争对手动向、中国消费者行为变迁以及蓬勃发展的数字生态。对中国市场的兴趣不仅停留在企业董事会层面：这点从今年国际访客人数创下..."
             }
           ]
         },
@@ -597,64 +597,64 @@
           "url": "rsshub://mittrchina/hot",
           "entries": [
             {
-              "title": "AI公司最赚钱的生意，还是卖广告",
-              "link": "https://www.mittrchina.com/news/detail/16314",
-              "pubDate": "2026-04-30T08:11:39",
-              "description": "Meta 在 2025 年第三季度披露，其 AI 广告工具 Advantage＋ 的年化营收已经超过 600 亿美元。同期，OpenAI 年化收入约 240 亿美元，Anthropic 约 300 亿美元。Meta 只是把 22 年的广告生意接上 AI，赚的钱就已经比两家最炙手可热的 AI 公司加起来还多。4 月 29 日，Google 和 Meta 同日发布 2026 年 Q1 财报。Google 广告收入 770 亿美元，同比增长 16％；Meta 广告收入 563 亿美元，同比增长 33％（公司财报，2026－04－29）。AI 被叙述成人类历史的最大技术拐点。但 2026 年 Q..."
+              "title": "马斯克宣布解散xAI，把数据中心整租给了他讨厌的Anthropic",
+              "link": "https://www.mittrchina.com/news/detail/16339",
+              "pubDate": "2026-05-07T03:42:48",
+              "description": "当地时间 5 月 6 日，埃隆马斯克（Elon Musk）在同一天宣布了两件事：xAI 不再作为独立公司存在，并入 SpaceX 后更名为 SpaceXAI；SpaceX 把 Colossus 1 数据中心整租给 Anthropic，22 万张 Nvidia GPU、300 兆瓦的算力，本月内交付。然而三个月前，马斯克还在 X 上称 Anthropic 是 “misanthropic and evil”（厌恶人类且邪恶的），这周他就改口说 “no one set off my evil detector”（没有触发我的邪恶探测器。），并解释 SpaceXAI 的训练已经迁到 Coloss..."
             },
             {
-              "title": "AI画了一张大饼，“赚钱”两个字不在上面​​​​​​​​​​​​​​​​",
-              "link": "https://www.mittrchina.com/news/detail/16309",
-              "pubDate": "2026-04-29T09:08:36",
-              "description": "（来源：麻省理工科技评论）今年 2 月，我在伦敦一场反 AI 游行上拿到了一张传单。我不确定写这张传单的人是不是在致敬《南方公园》里的“内裤精灵”，但如果是的话，他们模仿得非常到位。传单上写着：“第一步：培育一个数字超级大脑。第二步：？第三步：？”《南方公园》的“精灵”那集于 1998 年首播。肯尼、凯尔、卡特曼和斯坦发现一群小精灵每晚偷偷溜出来从衣柜里偷内裤。为什么？精灵们展示了自己的商业计划书：“第一阶段：收集内裤。第二阶段：？第三阶段：盈利。”这套精灵商业计划后来成了互联网上最经典的梗之一，用来讽刺那些愿景宏大但中间路径完全空白的计划。马斯克也曾在一次演讲中引用它，解释他打算怎么为..."
+              "title": "浪潮发电，海水制冷：新一代AI算力中心在海上诞生",
+              "link": "https://www.mittrchina.com/news/detail/16338",
+              "pubDate": "2026-05-07T02:49:19",
+              "description": "2026 年 5 月 4 日，美国西北海岸一家此前几乎不为外界所知的初创公司，宣布完成由彼得·蒂尔（Peter Thiel）领投的 1.4 亿美元 B 轮融资，估值随即逼近 10 亿美元。这家公司的名字叫 Panthalassa，命名灵感来自地质学上那片曾包裹超大陆盘古大陆的远古海洋。他们的计划是把 AI 算力搬到海上，用海浪发电、海水冷却，再把计算结果经卫星传回陆地。他们卖的不只是概念。低调运作近十年后，Panthalassa 即将在 2026 年把真实的设备部署到北太平洋。与此同时，同样在追逐“离岸计算”的还有把数据中心送上太空的 Starcloud，以及一系列正在涌现的极端基础设施..."
             },
             {
-              "title": "DeepSeek多模态真的来了？识图模式已开始小范围灰度",
-              "link": "https://www.mittrchina.com/news/detail/16308",
-              "pubDate": "2026-04-29T09:03:36",
-              "description": "4 月 29 日下午，DeepSeek 多模态团队负责陈小康（Xiaokang Chen）在 X 发布动态：“Now, we see you. ”，配图为两只 DeepSeek 鲸鱼 logo，一只仍戴着海盗眼罩，一只已经睁开眼睛。这是他在 24 小时内第二次释放类似信号。前一天，他曾发布措辞为“Soon, we see you”的同主题预告，随后该推文被删除。图丨相关推文（来源：X）陈小康目前在 DeepSeek 负责多模态预训练与后训练，统领 DeepSeek 大模型的多模态能力建设。其北大博士阶段导师为曾刚教授，研究方向涵盖视觉-语言模型、半监督分割、masked image mo..."
+              "title": "两个哈佛女生用AI做电池故障排查，数月的工作量被缩到了几分钟",
+              "link": "https://www.mittrchina.com/news/detail/16336",
+              "pubDate": "2026-05-06T13:09:00",
+              "description": "两位哈佛毕业的女生 Eva Tuecke 和 Catherine Yeo 用 AI 改变了电池故障排查，她们创立的 Altara 公司在近日获得 700 万美元种子轮融资，领投方是 Greylock。Neo、BoxGroup 和 Liquid 2 Ventures 也参与了本轮融资，此外还有包括 Jeff Dean 在内的知名天使投资人以及 OpenAI 和 AMD 的高层领导。以前，一块电池在研发测试中突然失效，工程师得翻遍传感器日志、温度记录、湿度数据和历史故障报告，这种排查往往耗费几周甚至几个月。而她们的系统能把散落在各处的研究数据整合到一起，把几周的排查时间压缩到几分钟。也就是说..."
             },
             {
-              "title": "给AI发100美元去二手市场捡漏，结果它给自己买了19个乒乓球",
-              "link": "https://www.mittrchina.com/news/detail/16307",
-              "pubDate": "2026-04-29T06:18:44",
-              "description": "2025 年年底，Anthropic 进行过一项测试，他们把一台《华尔街日报》办公室的自动售卖机交给 Claude 管理。那次实验很快脱轨，获得 1,000 美元启动资金的 AI，任性地购买了 PlayStation 5 游戏机并将其免费送人，还进货了几瓶葡萄酒、一批金属块，以及一条活体斗鱼，最终结果可想而知，“零食自动贩卖计划”不可挽回地走向了破产。这次名为“Project Vend”的实验留下了不少笑话，也彻底打开了 Anthropic 团队的脑洞：如果让 AI 掌管真实的市场交易，又会发生什么？于是，2025 年 12 月的某个工作日，Anthropic 旧金山办公室里，一场没有人..."
+              "title": "号称1200万token上下文的模型来了，数据亮眼但疑点重重",
+              "link": "https://www.mittrchina.com/news/detail/16335",
+              "pubDate": "2026-05-06T13:08:33",
+              "description": "当地时间 5 月 5 日，迈阿密一家名为 Subquadratic 的公司走出隐身模式。CTO Alexander Whedon 在 X 上把首款模型 SubQ 称作“a major breakthrough in LLM intelligence”（LLM 智能领域的重大突破），声称这是首个完全基于次平方稀疏注意力（Subquadratic Sparse Attention，SSA）架构的前沿模型，1,200 万 token 上下文，1M token 场景下比 FlashAttention 快 52 倍，成本不到 Claude Opus 的 5％。同日宣布完成 2,900 万美元种子轮..."
             },
             {
-              "title": "火星上首次发现超20种有机分子，它们是生命的基础",
-              "link": "https://www.mittrchina.com/news/detail/16304",
-              "pubDate": "2026-04-28T10:23:03",
-              "description": "火星上曾经有过生命吗？或者退一步说，火星上是否具备构成生命所需的基础？这个困扰人类百年的问题，在 2026 年 4 月终于迎来了一项突破性进展。发表在 Nature Communications 上的一项最新研究显示，NASA“好奇号”火星车在一块约 35 亿年前形成的岩石中，一次性检测出了超过 20 种有机分子。其中有 7 种是分子是首次发现。这是迄今为止人类在火星表面单次实验中发现的最丰富、最多样的有机物集合。更令人振奋的是其中出现了含氮杂环分子的迹象，它与生命基本构件“核酸”（即 DNA 和 RNA 的核心成分）化学结构高度相关。（来源：Nature Communications）..."
+              "title": "AI诊断真实病例准确率超医生，哈佛团队称医学评估标准或应重新改写",
+              "link": "https://www.mittrchina.com/news/detail/16326",
+              "pubDate": "2026-05-04T11:22:11",
+              "description": "随着能力的提升，AI 在某个医疗基准数据集上获得 SOTA 已不足为奇。但现在，研究人员证明 AI 在真实病例场景下表现出与医生相当或更高的准确率。这意味着，AI 不是在训练过的场景下背诵标准答案，而是在临床实战中给出诊断推理。近日，哈佛医学院、斯坦福大学等研究团队在 Science 发布了一项迄今最大规模 AI 医疗对比研究[1]，并首次用真实的患者病历来检验 AI 的推理能力，真实场景意味着可能存在病历混乱、信息不全的情况。研究人员让 OpenAI 的 o1 模型与几百名医生在六种不同场景中进行诊断 比对。结果表明，AI 在多项临床推理任务中的准确率与医生持平甚至更高，包括急诊决策、..."
             },
             {
-              "title": "被扔掉的废羊毛，正在被科学家用来修复人体骨骼",
-              "link": "https://www.mittrchina.com/news/detail/16299",
-              "pubDate": "2026-04-27T10:24:17",
-              "description": "在大多数人的印象里，羊毛的命运似乎一眼看得到头：它们先是被剪下、然后清洗、纺纱，最后变成毛衣或地毯等织物。而那些因为太粗、太短或有瑕疵而被纺织业淘汰的“废料”，通常只能被填埋或焚烧，被人抛弃。但在伦敦国王学院（King’s College London）谢里夫·埃尔沙卡维（Sherif Elsharkawy）博士的团队眼里，这些被视为累赘的生物边角料却藏着修复人体骨骼的潜力。近期，该团队在《生物材料进展》（Biomaterials Advances）上发表了一项研究：他们从英国谢特兰群岛绵羊的粗毛中提取出角蛋白，制成一种仿生膜，成功帮助大鼠修复了大面积的颅骨损伤。这项研究向目前骨科和牙科..."
+              "title": "神经计算机横空出世：AI不再调用软件，而是直接长成一台计算机",
+              "link": "https://www.mittrchina.com/news/detail/16324",
+              "pubDate": "2026-05-03T10:44:59",
+              "description": "过去几十年里，人类使用计算机的方式始终没有发生根本变化：我们编写程序，机器按照指令执行。但随着大模型的发展，这种关系正在悄然改变，人类开始不再描述“如何做”，而是直接表达“想做什么”，而系统则负责推理并完成整个过程。在这一背景下，师从被誉为“现代人工智能之父”“LSTM 之父”的于尔根·施米德胡伯，来自 Meta 与 KAUST（阿卜杜拉国王科技大学）的诸葛鸣晨与田渊栋等合作者，提出了一种名为“神经计算机”的新设想：让神经网络直接学习如何使用计算机本身，而不是依赖已有的软件接口、工具链或程序结构。换句话说，这种路径并不是让AI更好地使用现有软件，而是尝试让“软件本身”逐渐进入模型内部。论..."
             },
             {
-              "title": "实验室造出人类精子：无精症男性或迎生育新解法",
-              "link": "https://www.mittrchina.com/news/detail/16297",
-              "pubDate": "2026-04-27T10:07:21",
-              "description": "男性不育的终极解法来了？全球约 2.5 亿男性患有不育症，表现为精子数量少、活力差或质量不佳，约 10%-15% 的不育男性精液中完全没有精子，即无精症。不孕不育的夫妇很有可能在没有对男性评估的前提下就开始尝试试管婴儿，半数左右的失败病例与男性因素相关。目前，尚没有经过美国食品药品监督管理局（FDA）批准的有效男性不育药物。尽管这些男性患者精子存在不同程度的问题或无法产生精子，但他们可能仍保留精原干细胞（最早的生殖细胞）。美国初创公司 Paterna Biosciences（以下简称 Paterna）希望通过技术手段帮助这些患者群体。该公司近日宣布，首次在实验室中通过精原干细胞培育出具备..."
+              "title": "MIT校友用AI帮人接电话，竟做成了一家独角兽",
+              "link": "https://www.mittrchina.com/news/detail/16323",
+              "pubDate": "2026-05-03T10:43:49",
+              "description": "“在 AI 浪潮的席卷下，下一个百万美元年薪的职位将是水管工、技术维修工。”这是初创公司 Avoca 切入家庭服务市场的核心洞察。根据行业估算，美国家庭服务经济规模已接近万亿美元。其中，漏接电话是直接导致营收流失的致命痛点。研究显示，中小型企业超过一半的电话无人接听，而在 85% 的情况下，客户不会选择留言或等待回电，而是直接转向竞争对手。Avoca 的客户并非写字楼里的白领，而是每天穿梭于美国街头的暖通空调技师、水管工、屋顶铺设工和电气工程师。它专为这些蓝领企业用 AI 代理接听电话、自动排期、定制营销，从而避免因错过客户而损失的订单。凭借为这些传统蓝领服务业打造专属的 AI 业务代理..."
             },
             {
-              "title": "为了赶走300只鹅，这个小城花了40万美元搞科技",
-              "link": "https://www.mittrchina.com/news/detail/16296",
-              "pubDate": "2026-04-27T08:32:42",
-              "description": "（来源：麻省理工科技评论）2 月的一个下午，阳光明媚，一群加拿大鹅正在遛狗公园旁边的草地上啄食。我踮着脚走过去，小心避开地上灰白色的鹅屎，注意到其中一只鸟纤细的黑脖子上戴着一个白色环扣。那是一个 GPS 追踪器，属于一项以科技手段把鹅赶出加州福斯特城（Foster City）的新行动。大约 300 只鹅生活在这座安静的湾区郊区小城里，数量接近人口的 1%。有人觉得这座城容不下人和鹅共存。鹅屎铺满了我们中学的草坪早已不是新鲜事，这些鸟骚扰了居民好几代人。我奶奶还记得有一次鹅群占领了她的车库，整整赖了五分钟才摇摇摆摆地走出来。她说：“我当时想宰了它们，但怕惹上麻烦。”确实，在这里杀鹅行不通。..."
+              "title": "美国防部与OpenAI、谷歌等7家AI公司签约，全面解锁致命自主武器限制",
+              "link": "https://www.mittrchina.com/news/detail/16321",
+              "pubDate": "2026-05-02T10:32:14",
+              "description": "近日，美国五角大楼宣布与七家公司达成协议，包括 OpenAI、谷歌、微软、亚马逊、英伟达、SpaceX 和一家名为 Reflection AI 的初创公司，允许将这些公司的 AI 系统用于机密级别的军事作业。这意味着这些 AI 可以接触最高级别的保密数据，用来辅助战场决策、情报分析，甚至生成打击目标清单。不过这份名单里少了 Anthropic 这一关键角色。这家以安全为核心理念的 AI 公司，因为拒绝接受五角大楼任何合法使用的条款，导致双方已经对簿公堂。五角大楼要的是一套能够部署在 Impact Level 6 和 Level 7 绝密网络上的 AI 工具，这些网络处理的是美国最敏感的军..."
             },
             {
-              "title": "中国科学家用4.2万亿粒子构建虚拟宇宙，以“大衍之数”推演万物",
-              "link": "https://www.mittrchina.com/news/detail/16293",
-              "pubDate": "2026-04-26T13:20:39",
-              "description": "宇宙有多大？面对这一问题，天文学家给出的回答是：目前可见物质不过是全部质量的 5%，其余 95% 是暗物质与暗能量，迄今无法被直接探测。星空下，人类的视线曾被望远镜的口径所限。而在位于北京的中国科学院计算机网络信息中心，一台名为“东方”的超级计算机运行了超过 420 小时，走过逾 12,000 个时间步长，模拟了一个涵盖 4.2 万亿粒子的“数字宇宙”。4 月 23 日，中国科学院国家天文台举办了一场特殊的科学发布会：由中国科学家王乔领衔的国际团队，历经数年攻关，向世界展示了迄今规模最大的宇宙学数值模拟项目：“千衍”（HyperMillennium）的首批研究成果。在“东方”的算力支撑下..."
+              "title": "造了半个数据库行业的图灵奖得主：劝年轻人别学计算机，行业红利正在消失",
+              "link": "https://www.mittrchina.com/news/detail/16320",
+              "pubDate": "2026-05-02T10:28:00",
+              "description": "Mike Stonebraker 是 2014 年图灵奖得主，他对数据库系统的奠基性贡献几乎写进了所有相关教科书。从 Ingres、Postgres，到 Vertica、VoltDB、SciDB，再到最近的 DBOS，每一个都是真正成就了诸多商业公司的工程系统。最近他做客 Meta 资深工程师 Ryan Peterman 的播客，与其进行了一个小时的对话。他说话直接，不太客气。聊到 Larry Ellison 时，他说那人“把现在时和将来时混为一谈，本质上是在对客户撒谎”；聊到 Google 当年力推的 MapReduce 和最终一致性，他说“那不是 Google 唯一一件愚蠢的事”；聊..."
             },
             {
-              "title": "从数学博士到英国“纳税王”：他用AI撑起千亿美金量化帝国",
-              "link": "https://www.mittrchina.com/news/detail/16292",
-              "pubDate": "2026-04-26T09:14:00",
-              "description": "在冰岛，有一台由地热能驱动的超级计算机日夜运转。它不生产芯片，不渲染电影，也不训练聊天机器人。它只做一件事：替一位俄罗斯出生的数学博士赚钱。这个人叫 Alex Gerko，今年 46 岁，他是量化交易巨头 XTX Markets 的创始人。早在 ChatGPT 成为全民话题之前，他就已经搭建起一套纯粹以盈利为目的的 AI 交易系统。他在冰岛部署的这台超级计算机，正是 XTX 交易帝国的“算力大脑”。这台机器存储着超过 400 PB（约相当于 80 万亿张高清数码照片）的全球金融市场数据，并驱动着庞大的 GPU 集群。(来源：XTX Markets)靠着这个超级大脑，XTX 全公司仅 25..."
+              "title": "基因组学拓荒者辞世，他造过人造生命、用自己的DNA解码了人类基因组",
+              "link": "https://www.mittrchina.com/news/detail/16319",
+              "pubDate": "2026-05-02T10:24:32",
+              "description": "2026 年 4 月 29 日，成功破译人类基因组的美国科学家、曾被《时代》选为世界上最有影响力的人物之一、被英国《新政治家》列为“2010 年全球 50 位最具影响力人物”榜单第 14 位的约翰·克雷格·文特尔（John Craig Venter）因癌症治疗并发症去世，享年 79 岁。1946 年，文特尔出生于美国盐湖城，高中成绩糟糕，全靠游泳特长勉强毕业。他没有接受大学提供的游泳奖学金，反而去了美国南加州的海滩过了一段冲浪、喝酒的日子。越战征兵打碎了他的海滩生活，他申请加入美国海军，测试结果显示智商为 142，可以选择任何岗位。他后来选择了医护兵学校，被派往岘港的一家海军医院。在那里..."
             }
           ]
         },
@@ -662,6 +662,48 @@
           "name": "Gartner",
           "url": "https://rss.diffbot.com/atom?url=https://www.gartner.com/en/newsroom/archive",
           "entries": [
+            {
+              "title": "Gartner Supply Chain Symposium/Xpo 2026 Orlando: Day 3 Highlights",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-05-06-gartner-supply-chain-symposium-xpo-orlando-day-3-highlights",
+              "pubDate": "2026-05-06T00:00:00",
+              "description": "Gartner Supply Chain Symposium/Xpo 2026 Orlando: Day 3 Highlights"
+            },
+            {
+              "title": "Gartner Survey Shows AI is Not Driving Supply Chain Operating Model Transformation",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-05-06-gartner-survey-shows-ai-is-not-driving-supply-chain-operating-model-transformation",
+              "pubDate": "2026-05-06T00:00:00",
+              "description": "Gartner Survey Shows AI is Not Driving Supply Chain Operating Model Transformation"
+            },
+            {
+              "title": "Gartner Supply Chain Symposium/Xpo 2026 Orlando: Day 2 Highlights",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-05-05-gartner-supply-chain-symposium-xpo-orlando-day-2-highlights",
+              "pubDate": "2026-05-05T00:00:00",
+              "description": "Gartner Supply Chain Symposium/Xpo 2026 Orlando: Day 2 Highlights"
+            },
+            {
+              "title": "Gartner Predicts Supply Chain Organizations Pausing Entry-Level Hiring for AI Will Face Higher Costs by 2030",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-05-05-gartner-predicts-supply-chain-organizations-pausing-entry-level-hiring-for-ai-will-face-higher-costs-by-2030",
+              "pubDate": "2026-05-05T00:00:00",
+              "description": "Gartner Predicts Supply Chain Organizations Pausing Entry-Level Hiring for AI Will Face Higher Costs by 2030"
+            },
+            {
+              "title": "Gartner Says Autonomous Business and AI Layoffs May Create Budget Room, but Do Not Deliver Returns",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-05-05-gartner-says-autonomous-business-and-artificial-intelligence-layoffs-may-create-budget-room-but-do-not-deliver-returns",
+              "pubDate": "2026-05-05T00:00:00",
+              "description": "Gartner Says Autonomous Business and AI Layoffs May Create Budget Room, but Do Not Deliver Returns"
+            },
+            {
+              "title": "Gartner Highlights Three Building Blocks for Autonomous Supply Chain Future",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-05-04-gartner-highlights-three-building-blocks-for-autonomous-supply-chain-future",
+              "pubDate": "2026-05-04T00:00:00",
+              "description": "Gartner Highlights Three Building Blocks for Autonomous Supply Chain Future"
+            },
+            {
+              "title": "Gartner Supply Chain Symposium/Xpo 2026 Orlando: Day 1 Highlights",
+              "link": "https://www.gartner.com/en/newsroom/2026-05-04-gartner-supply-chain-symposium-xpo-orlando-day-1-highlights",
+              "pubDate": "2026-05-04T00:00:00",
+              "description": "Gartner Supply Chain Symposium/Xpo 2026 Orlando: Day 1 Highlights"
+            },
             {
               "title": "Gartner HR Survey Finds 47% of Managers Say They Are Working Harder Than One Year Ago",
               "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-29-gartner-hr-survey-finds-47-percent-of-managers-say-they-are-working-harder-than-1-year-ago",
@@ -688,51 +730,9 @@
             },
             {
               "title": "Gartner Survey Finds 85% of Service and Support Leaders are Expanding Human Agent Responsibilities Despite Expectations of Mass AI Layoffs",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-23-gartner-survey-finds-31-percent-of-service-and-support-leaders-have-implemented-or-are-planning-ai-driven-frontline-layoffs-through-1q27",
+              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-28-gartner-survey-finds-eighty-five-percent-of-service-and-support-leaders-are-expanding-human-agent-responsibilities-despite-expectations-of-mass-ai-layoffs",
               "pubDate": "2026-04-28T00:00:00",
               "description": "Gartner Survey Finds 85% of Service and Support Leaders are Expanding Human Agent Responsibilities Despite Expectations of Mass AI Layoffs"
-            },
-            {
-              "title": "Gartner Identifies Six Steps to Manage AI Agent Sprawl",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-28-gartner-identifies-six-steps-to-manage-artificial-intelligence-agent-sprawl",
-              "pubDate": "2026-04-28T00:00:00",
-              "description": "Gartner Identifies Six Steps to Manage AI Agent Sprawl"
-            },
-            {
-              "title": "Gartner Survey Reveals 80% of CEOs Say AI Will Force Operational Capability Overhauls",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-23-gartner-survey-reveals-80-percent-of-ceos-say-artificial-intelligence-will-force-operational-capability-overhauls",
-              "pubDate": "2026-04-23T00:00:00",
-              "description": "Gartner Survey Reveals 80% of CEOs Say AI Will Force Operational Capability Overhauls"
-            },
-            {
-              "title": "HR Leaders Must Evolve Pay for Performance in the Age of AI",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-4-22-hr-leaders-must-evolve-pay-for-performance-in-the-age-of-ai",
-              "pubDate": "2026-04-22T00:00:00",
-              "description": "HR Leaders Must Evolve Pay for Performance in the Age of AI"
-            },
-            {
-              "title": "Gartner Forecasts Worldwide IT Spending to Grow 13.5% in 2026, Totaling $6.31 Trillion",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-22-gartner-forecasts-worldwide-it-spending-to-grow-13-point-5-percent-in-2026-totaling-6-point-31-trillion-dollars",
-              "pubDate": "2026-04-22T00:00:00",
-              "description": "Gartner Forecasts Worldwide IT Spending to Grow 13.5% in 2026, Totaling $6.31 Trillion"
-            },
-            {
-              "title": "Gartner Announces Gartner Finance Symposium/Xpo 2026 in London",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-16-gartner-announces-gartner-finance-symposium-xpo-2026-in-london",
-              "pubDate": "2026-04-16T00:00:00",
-              "description": "Gartner Announces Gartner Finance Symposium/Xpo 2026 in London"
-            },
-            {
-              "title": "Gartner Says Organizations with Successful AI Initiatives Invest Up to Four Times More in Data and Analytics Foundations",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-16-gartner-says-organizations-with-successful-ai-initiatives-invest-up-to-four-times-more-in-data-and-analytics-foundations",
-              "pubDate": "2026-04-16T00:00:00",
-              "description": "Gartner Says Organizations with Successful AI Initiatives Invest Up to Four Times More in Data and Analytics Foundations"
-            },
-            {
-              "title": "Gartner Identifies Seven Behaviors That Define Future-Ready CFOs",
-              "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-14-gartner-identifies-seven-behaviors-that-define-future-ready-cfos",
-              "pubDate": "2026-04-14T00:00:00",
-              "description": "Gartner Identifies Seven Behaviors That Define Future-Ready CFOs"
             }
           ]
         }
@@ -746,124 +746,124 @@
           "url": "https://www.cas.cn/rss1/rss_kyjz/rss.xml",
           "entries": [
             {
-              "title": "连续血糖监测无线汗液柔性传感技术获进展",
-              "link": "https://www.cas.cn/syky/202604/t20260428_5108292.shtml",
+              "title": "研究提出小麦设计育种新策略",
+              "link": "https://www.cas.cn/syky/202605/t20260508_5108913.shtml",
               "pubDate": null,
-              "description": "运动干预是糖尿病预防与管理的重要手段，但运动状态下血糖波动复杂，传统指尖采血难以满足实时、连续监测需求。近日，中国科学院苏州生物医学工程技术研究所发现汗液pH与汗液分泌速率呈显著相关，而汗液分泌速率直接影响葡萄糖的细胞旁路转运过程的稀释作用。葡萄糖氧化酶活性具有明显的pH依赖性。团队构建了pH辅助校正模型，实现对酶活性变化和汗液稀释效应的动态补偿，并结合两点标定方法建立个体化预测模型，将汗液信号准确转换为血糖浓度。团队基于激光诱导石墨烯构建多孔电极，并通过原位沉积金纳米颗粒提升电化学活性，集成葡萄糖与pH双传感单元、微流控汗液采集结构及无线数据模块，形成可贴附皮肤的柔性监测系统。运动验证..."
+              "description": "小麦是全球数十亿人口赖以生存的重要口粮作物，也是我国最主要的粮食作物之一。决定小麦面团弹性、延展性等加工特性的核心，是籽粒中的面筋蛋白。近日，中国科学院遗传与发育生物学研究所等以中国推广面积最大的强筋小麦品种“济麦44”为对象，构建了高质量参考基因组，完整呈现了面筋蛋白基因座的精细结构。研究发现，长期以来备受关注的高分子量麦谷蛋白亚基（HMW-GSs）基因在演化过程中高度保守；相比之下，低分子量麦谷蛋白亚基（LMW-GSs）和α-/β-醇溶蛋白基因具有更丰富的拷贝数变化和结构变异。这提示，决定品质适应性演化的关键，并不总是最保守、最“经典”的基因，而往往来自更具可塑性的基因家族。研究构建..."
             },
             {
-              "title": "研究实现量子比特关联非凸结构的精细刻画",
-              "link": "https://www.cas.cn/syky/202604/t20260430_5108445.shtml",
+              "title": "研究揭示泛素连接酶协调酵母代谢新机制",
+              "link": "https://www.cas.cn/syky/202604/t20260429_5108365.shtml",
               "pubDate": null,
-              "description": "近日，中国科学技术大学等团队针对独立量子比特间的量子关联，发展出非线性分析框架，实现了对这类量子关联的非凸结构的精确刻画，并揭示了其在量子信息任务中的关键应用。量子关联是量子理论区别于经典理论的核心特征，也是量子信息处理中的关键资源。实际实验中，量子关联的产生不仅受量子力学基本原理约束，还受限于实验资源。作为最基础的实验平台，独立量子比特系统的关联集合具有本质非凸结构。精准刻画这类关联集合，是厘清量子基础特性、优化设计量子信息任务的关键前提，而传统依托凸优化的线性分析方法已无法适用。研究团队从不确定性关系出发，推导出一组量子比特间的贝尔型关联与制备—测量型关联特有的约束条件，精确描述了这..."
+              "description": "真核细胞中，脂质、甾醇和类胡萝卜素等重要代谢物的合成均依赖有限的前体资源。如何在相互关联且存在竞争关系的代谢通路间实现协调平衡，是生命科学和生物制造领域亟待解决的关键科学问题。中国科学院青岛生物能源与过程研究所研究团队，在红法夫酵母中鉴定出一个保守型E3泛素连接酶PTR1。研究发现其是协调多条乙酰辅酶A关联代谢通路的关键节点。PTR1缺失后，细胞代谢网络发生系统性重编程：虾青素产量提升至野生型的3倍，甾醇含量显著增加，脂质组成则向多不饱和方向转变。进一步研究表明，PTR1通过与白领蛋白复合体形成反馈调控回路，维持细胞代谢稳态。该研究揭示了蛋白泛素化在协调相互关联生物合成通路中的重要作用，..."
             },
             {
-              "title": "研究构建活动星系核辐射和光变的统一物理框架",
-              "link": "https://www.cas.cn/syky/202604/t20260422_5107566.shtml",
+              "title": "科学家发现冠心病新型生物标志物",
+              "link": "https://www.cas.cn/syky/202605/t20260508_5108911.shtml",
               "pubDate": null,
-              "description": "活动星系核是宇宙中明亮且演化活跃的天体，其能量源自中心超大质量黑洞不断吞噬周围物质的吸积过程。传统的活动星系核模型由吸积盘、宽线区、高能X射线的“冕”和外围尘埃环等独立组件构成，但各组件间的物理关联及剧烈光变机制仍是天体物理学研究的难题。近日，中国科学院上海天文台研究团队提出偏心吸积盘模型，发现超大质量黑洞周围的吸积盘呈偏心椭圆结构。该模型为理解活动星系核全波段辐射形成机理与剧烈光变现象提供了统一物理框架。研究团队通过高精度流体力学模拟和半解析计算，研究了超大质量黑洞附近偏心吸积流的演化过程。研究发现，中等偏心率（约0.5，来源于盘形成过程）的吸积盘在后续演化过程中会自发产生“偏心率级联..."
+              "description": "冠状动脉粥样硬化性心脏病（冠心病）是全球范围内导致死亡和残疾的首要心血管疾病，早期识别高风险人群对疾病防控具有重要意义。现有血脂检测指标低密度脂蛋白胆固醇（LDL-C）无法全面反映低密度脂蛋白（LDL）颗粒的致动脉粥样硬化作用，亟需开发新型标志物。近日，中国科学院昆明动物研究所等研究团队发现LL‑37‑ApoB‑100复合物可作为冠心病独立且高效的预测因子。研究证实LL-37与低密度脂蛋白核心载脂蛋白ApoB-100存在多位点、高亲和力直接结合，其复合物在动脉粥样硬化斑块及患者血浆中显著富集。基于冠状动脉造影人群的病例对照研究显示，冠心病患者血浆LL‑37‑ApoB‑100复合物水平显著..."
             },
             {
-              "title": "高分辨大宽带集成光子光谱仪成功实现天文观测",
-              "link": "https://www.cas.cn/syky/202604/t20260430_5108446.shtml",
+              "title": "研究揭示种子扩散与休眠权衡机制",
+              "link": "https://www.cas.cn/syky/202604/t20260429_5108371.shtml",
               "pubDate": null,
-              "description": "近日，中国科学院南京天文光学技术研究所研究团队，在面向天文观测的高分辨大宽带集成光子光谱仪研究中取得进展。团队提出并实现了一种基于级联相位调制波导阵列芯片与正交色散模块相结合的混合色散集成光子光谱仪，在500cm3量级体积内实现了超25000的光谱分辨率和超过180nm的工作带宽，并利用高分辨集成光子光谱仪实现了近红外太阳夫琅禾费线观测。团队采用低损耗氮化硅平台完成了光谱芯片制备，芯片尺寸仅9.6mm×3.2mm。系统集成后，整体光学组件体积小于500cm3，相比传统米级太阳光谱仪体积缩小超三个数量级。实验结果表明，该集成光谱仪在工作范围内分辨本领超20000，在光谱中心附近最高可达约2..."
+              "description": "种子扩散能力与休眠策略是影响植物种群动态的关键生态机制。中国科学院西双版纳热带植物园等研究团队，基于全球631种种子植物（涵盖118个科）的相关数据，系统解析了不同气候区域中种子传播方式与休眠策略的协同作用机制。研究发现，传播机制显著调控种子休眠与扩散距离的权衡关系：在非生物传播系统中，非休眠种子的最大扩散距离显著高于休眠种子，体现资源分配的权衡；而动物传播系统中，种子扩散距离更大且不受休眠状态影响。气候区域差异分析表明，热带地区动物传播对物种分布范围扩展具有显著促进作用，而温带地区扩散距离与分布范围呈显著正相关。该研究为“种子扩散—休眠权衡”理论提供了新证据，揭示了气候区域背景在调控植..."
             },
             {
-              "title": "研究揭示特大地磁暴成因",
-              "link": "https://www.cas.cn/syky/202604/t20260430_5108447.shtml",
+              "title": "新型表面增强拉曼光谱检测平台实现有机污染物高灵敏检测",
+              "link": "https://www.cas.cn/syky/202605/t20260506_5108718.shtml",
               "pubDate": null,
-              "description": "2024年10月9日01:56（世界时），太阳活动区AR 13848爆发X1.8级耀斑，引发强烈地磁扰动以及第25太阳活动周最强质子事件。传统自动识别程序将此次爆发定性为单一全晕状日冕物质抛射（CME），与原位探测数据显示的CME相互作用特征不符。因此，厘清源区CME的真实结构，成为解析此次磁暴成因的关键。近日，中国科学院国家空间科学中心、紫金山天文台、国家天文台等团队，利用“夸父一号”卫星莱曼阿尔法日冕仪观测数据，结合多源遥感与原位探测资料，揭示了此次磁暴由暗条—活动区CME感应爆发及相互作用共同驱动的物理机制。“夸父一号”日冕仪弥补了极紫外成像与常规白光日冕仪之间的观测间隙，捕捉到两..."
+              "description": "海水、生物血清等复杂样品中通常含有大量盐分、蛋白质等干扰物质，长期制约痕量污染物检测的准确性。表面增强拉曼光谱（SERS）技术虽具有高灵敏度和快速识别优势，但传统方法易受高盐环境和蛋白质吸附影响，导致信号不稳定和检测重复性下降。近日，中国科学院烟台海岸带研究所研究团队构建了一种基于蒸发驱动的水凝胶毫米凝珠SERS富集检测平台。该平台以海藻酸钠水凝胶毫米凝珠为三维载体，负载银纳米颗粒，通过吸附富集、分子筛分和蒸发浓缩作用，实现复杂基质中目标有机分子的高灵敏检测。样品吸附后经自然蒸发，凝珠均匀收缩使目标分子与银纳米颗粒同步浓缩，形成密集且稳定的SERS增强位点，实现高灵敏检测。研究提出两大核..."
             },
             {
-              "title": "拓扑半金属实现高效磁翻转",
-              "link": "https://www.cas.cn/syky/202604/t20260429_5108372.shtml",
+              "title": "研究揭示灌木入侵对草本生物量—物种丰富度关系的调控机制",
+              "link": "https://www.cas.cn/syky/202605/t20260508_5108914.shtml",
               "pubDate": null,
-              "description": "磁随机存储器（MRAM）利用磁化方向存储信息，兼具非易失性、高速度和高耐久性，是新一代信息存储的发展方向。其中，自旋—轨道力矩（SOT）利用强自旋轨道耦合材料高效产生自旋流，实现了读写解耦的磁矩操控，是推动MRAM向更低写入功耗、更高运行速度演进的核心技术。然而，现有SOT-MRAM仍需要较大的写入电流密度，不仅导致严重的焦耳发热，更限制了器件尺寸的进一步微缩与高密度集成，成为制约其发展的瓶颈。中国科学院宁波材料技术与工程研究所团队致力于高效SOT材料与器件研究。近期，科研团队利用晶体对称性工程，创制出六角相5d金属氧化物SrIrO3薄膜，证实了由非点式对称性保护的拓扑狄拉克半金属态，并..."
+              "description": "灌木入侵会普遍降低草本地上生物量及物种多样性，但其如何调控草本生物量—物种丰富度关系对降水变化的响应机制，目前仍缺乏系统认识。中国科学院西北生态环境资源研究院研究团队依托内蒙古乌拉特荒漠草原研究站，开展为期5年的草地与灌丛生态系统降水控制实验，同时整合全球相关实验数据，系统探究草地与灌丛生态系统结构与功能对降水变化的响应规律及作用机制。研究发现，在草地生态系统中，降水变化显著改变草本生物量与物种丰富度之间的关系，并主要通过调控土壤水分有效性影响该关系。在以灌木为主的生态系统中，该关系整体保持相对稳定，对降水波动的响应显著减弱，主要通过叶片经济谱调控草本生物量与物种丰富度之间的关系。研究指..."
             },
             {
-              "title": "金属离子团簇材料组装及生物功能研究获进展",
-              "link": "https://www.cas.cn/syky/202604/t20260424_5108040.shtml",
+              "title": "科研人员提出脂肪族分子骨架编辑策略",
+              "link": "https://www.cas.cn/syky/202605/t20260506_5108715.shtml",
               "pubDate": null,
-              "description": "金属离子团簇材料存在于人体骨骼、血液中，其可控的生物降解特性、生物相容性、生物活性，在骨缺损修复、口腔硬组织再生等方面展现出临床治疗潜力。而该类材料固有的热力学亚稳态特征、自发晶化趋势，以及尚不明确的生物学作用机制，制约其临床应用。中国科学院金属研究所此前提出了聚丙烯酸分子调控金属磷酸盐团簇热稳定性及锌掺杂非晶磷酸钙（ACZP）团簇的骨免疫调节再生机制。近期，团队依托已有成果，探究金属离子团簇在大尺寸骨缺损修复中的生物功能，以解决该方面支架材料难以兼顾力学支撑与生物活性的难题。受螳螂虾附肢中“马鞍”外层高矿化、内层富有机相的梯度层状结构启发，该研究以ACZP为核心组装活性单元，通过多级组..."
+              "description": "含氮杂环化合物在药物研发领域具有重要地位，其结构多样性与化学空间丰富度影响药物发现成功率。药物研发过程中，需通过结构—活性关系研究优化先导化合物，这一过程依赖于快速获取大量结构新颖、立体化学复杂的分子类似物。传统从头合成方法步骤繁复，难以适配现代药物研发的高效需求。骨架编辑技术可对分子核心结构实现原子级精准重排与替换，为分子骨架跃迁提供高效路径。该技术正推动发散性骨架编辑范式快速发展，使单一底物可实现多类核心结构改造，契合系统性构效关系研究需求。当前，针对普遍存在但活化位点缺失的脂肪族骨架开展多样性编辑，仍是合成化学领域的重要难题。近日，中国科学院上海有机化学研究所研发出发散性、连续性的..."
             },
             {
-              "title": "热带珊瑚岛氮肥形态调控土壤养分与植被恢复研究取得进展",
-              "link": "https://www.cas.cn/syky/202604/t20260429_5108366.shtml",
+              "title": "研究揭示骨关节炎病理过程新机制",
+              "link": "https://www.cas.cn/syky/202605/t20260507_5108818.shtml",
               "pubDate": null,
-              "description": "热带珊瑚岛土壤呈强碱性，保肥力弱且氮素匮乏。传统植被恢复通常依赖增加施肥量，但大量施肥易导致氮素流失，威胁珊瑚岛生态环境安全。近日，中国科学院华南植物园科研团队利用15N同位素示踪技术，以珊瑚砂为基质，选取细叶榕和大叶榄仁两种热带珊瑚岛适生物种，系统评估了铵态氮、硝态氮和酰胺态氮三种形态对植物生长及土壤养分固持的影响。研究发现，氮肥形态是决定养分利用效率的关键。团队提出，应当从“以施肥量为中心”的传统思路，转向“以氮肥形态优化为核心”。结果显示，在珊瑚岛植被恢复中，特别在干季，应采用以硝态氮为主的肥料，并结合有机改良与肥料控释技术，以提高施肥效果。该策略在提升植物生产力的同时，降低了氮素..."
+              "description": "骨关节炎是一种与衰老和代谢紊乱密切相关的全身性疾病。近日，中国科学院深圳先进技术研究院研究团队发现，雌激素相关受体α（ESRRA）作为调控代谢应激的核受体，在骨髓脂肪组织（MAT）扩张中起关键作用。团队构建了脂肪细胞特异性ESRRA敲除小鼠，并在自然衰老模型及高脂高胆固醇饮食联合手术诱导的实验性骨关节炎模型中开展验证。结果显示，ESRRA缺失可显著抑制MAT异常扩增，并明显减轻膝关节软骨基质丢失、软骨下骨硬化及滑膜增生等一系列骨关节炎病理改变。研究发现，ESRRA通过与补体系统替代途径的关键限速酶——补体因子D（CFD）基因启动子相结合，促进CFD转录表达。MAT来源的CFD与肝脏合成的..."
             },
             {
-              "title": "鱼类生殖神经内分泌调控研究取得进展",
-              "link": "https://www.cas.cn/syky/202604/t20260427_5108181.shtml",
+              "title": "科研人员观测到含有玻璃态关键结构单元的中性氧化硼团簇",
+              "link": "https://www.cas.cn/syky/202605/t20260506_5108714.shtml",
               "pubDate": null,
-              "description": "鱼类等脊椎动物的生殖系统主要受下丘脑—垂体—性腺（HPG）轴的调控，促性腺激素释放激素（GnRH）神经元位于HPG轴的上游核心，其合成和分泌的GnRH神经肽是脊椎动物生殖调控的关键信号分子。中国科学院水生生物研究所等研究团队利用斑马鱼模型，针对鱼类HPG轴中经典的信号分子GnRH3等神经内分泌因子的研究取得新进展，揭示了新激素SN的作用机制，且鉴定出SN是一种调节GnRH神经元发育的新因子，发现SN通过外泌体的方式运输并直接作用于GnRH神经元，进而促进GnRH神经元增殖和兴奋性。研究团队发现，scg2a阳性细胞与GnRH3神经元在脑内的分布存在密切关系。scg2a敲除导致GnRH3神经..."
+              "description": "氧化硼（B2O3）广泛应用于玻璃、光学材料和高能推进剂等领域，在常压下以玻璃态形式存在。玻璃态氧化硼模型被认为是由特定结构单元组成的二维网络，但其结构表征和生长机制仍不明确。研究氧化硼团簇结构的演化，对理解玻璃态物质的生长机制和成键特征具有重要意义。然而，与离子型氧化硼团簇相比，中性氧化硼团簇不带电荷，难于探测和质量选择，实验研究更具挑战性。因此，实现中性氧化硼团簇的精准光谱表征是研究人员长期以来的目标之一。近日，中国科学院大连化学物理研究所等科研团队，利用大连相干光源观测到含有玻璃态关键结构单元的中性氧化硼团簇，为理解玻璃态物质的微观结构和生长机制提供了新思路。为实现对中性团簇的精准探..."
             },
             {
-              "title": "研究揭示太阳风磁力线回转的主导机制",
-              "link": "https://www.cas.cn/syky/202604/t20260429_5108361.shtml",
+              "title": "研究提出多组分钙钛矿结晶同步化调控策略",
+              "link": "https://www.cas.cn/syky/202605/t20260507_5108819.shtml",
               "pubDate": null,
-              "description": "太阳风中存在磁力线回转这种奇特的磁场结构，呈现“S”型的扭曲结构。该结构普遍存在，对太阳风能量传输和动力学演化具有重要影响，但其起源机制存在争议。近期，中国科学院国家空间科学中心创新性地整合了多颗卫星跨越27年的连续观测数据，并结合太阳动力学天文台遥感影像，开展了迄今最长周期的统计分析，对主流的太阳表面起源假说给出了明确约束。磁力线回转的发生率并未在太阳活动极大年显著增加，且与太阳黑子数几乎无关，挑战了太阳表面起源假说的核心预测——该过程在活动高峰期应产生更多此类结构。日冕喷流对磁力线回转仅存在间接作用，主要通过调制太阳风速度施加影响，而非直接产生大量磁力线回转。同时，无论是统计还是个例..."
+              "description": "全钙钛矿叠层太阳能电池是下一代高效光伏技术的重要发展方向。该类电池由宽带隙和窄带隙钙钛矿子电池组成，吸光层体系包含多种卤素离子或金属离子。多组分特征使不同前驱体物种在成膜过程中容易出现成核和结晶速率不匹配，导致垂直组分分布不均、晶格应力积累、缺陷形成和非辐射复合增强，制约器件效率和稳定性提升。近期，中国科学院宁波材料技术与工程研究所在前期钙钛矿太阳能电池研究的基础上，提出了基于化学硬度理论的多组分钙钛矿结晶同步化调控策略。该策略基于硬软酸碱理论，根据不同前驱体组分的化学硬度差异，设计具有选择性配位能力的阴离子添加剂，调控多组分钙钛矿体系中的成核与晶体生长过程。研究发现，二氟草酸硼酸根离子..."
             },
             {
-              "title": "科研人员构建物理知识引导的深度学习太阳活动区磁分类模型",
-              "link": "https://www.cas.cn/syky/202604/t20260427_5108177.shtml",
+              "title": "超新星遗迹IC 443区域观测研究取得进展",
+              "link": "https://www.cas.cn/syky/202604/t20260429_5108367.shtml",
               "pubDate": null,
-              "description": "太阳活动区是耀斑和日冕物质抛射等爆发活动的主要源区，其黑子群磁结构的复杂程度与耀斑发生概率相关，因此准确识别活动区磁类型是空间天气预报中的基础问题。近日，中国科学院国家空间科学中心团队结合深度学习方法与太阳物理先验知识，构建了太阳活动区磁类型识别模型ViT-CNN-R，提升了自动识别活动区的磁类型能力。科研人员利用SDO/HMI磁图和黑子图作为双通道输入，通过Vision Transformer提取活动区磁结构的整体形态特征，通过卷积神经网络捕捉磁极分布和中性线等局部细节信息，同时将中性线区域的总无符号磁通量R值作为物理约束输入模型，从而在统一框架中融合全局结构、局部特征与物理信息，实现..."
+              "description": "宇宙线是来自太空的高能粒子，其起源与加速机制一直是天体物理学的核心科学谜题。有理论认为，超新星遗迹的激波可将粒子加速至较高能量，但能否达到PeV能区，一直缺乏直接观测证据。近日，科研人员依托高海拔宇宙线观测站（LHAASO）高灵敏度伽马射线探测优势，在超新星遗迹IC 443区域观测研究中取得进展。研究发现，该天体加速的质子宇宙线最低能量高于300 TeV，为超新星遗迹作为银河系“拍电子伏特加速器”提供了直接观测证据。IC 443是一个距离地球约1500光年的中年超新星遗迹，与周围稠密分子云的相互作用使其成为研究宇宙线加速的理想实验室。该加速源的伽马射线能谱呈现出中性π介子衰变所具有的独特..."
             },
             {
-              "title": "拉曼光谱跨域智能分析研究取得进展",
-              "link": "https://www.cas.cn/syky/202604/t20260427_5108179.shtml",
+              "title": "质子交换膜电解水制氢低铱催化剂研究取得进展",
+              "link": "https://www.cas.cn/syky/202604/t20260430_5108450.shtml",
               "pubDate": null,
-              "description": "拉曼光谱在生物医学检测、微生物识别和材料分析等领域展现出重要应用潜力。近日，中国科学院苏州生物医学工程技术研究所提出了一种面向拉曼光谱跨域迁移的拉曼光谱分类差异模型（RSCDM）。该方法基于无监督领域自适应思想，构建了“特征提取器+双分类器”协同框架，通过主动放大并逐步缩小两个分类器对目标域样本的预测差异，动态识别偏离源域分布的样本，并引导模型完成面向任务决策边界的特征对齐，从而有效缓解跨批次、跨样本和跨仪器引起的光谱差异问题。在基于拉曼光谱的病原菌种鉴定任务中，显著提升了模型在复杂多菌种分类场景下的识别稳定性、准确性和泛化能力。研究表明，RSCDM从方法学层面为这一问题提供了有效解决方..."
+              "description": "质子交换膜电解水制氢是绿氢生产的核心技术，但其阳极氧析出反应环境恶劣、动力学迟缓，且对贵金属铱高度依赖。传统铱基催化剂的吸附质演化机制存在理论过电位极限，反应速率受限于含氧中间体吸附能的线性比例关系。晶格氧机制可通过O-O直接耦合绕过这一限制，但易因氧空位累积导致催化剂结构退化失活。当前在低铱载量条件下兼顾催化活性与结构耐久性，是该领域的重要难题。近日，中国科学院上海高等研究院研究团队研制出超细IrRuCoMnV高熵合金催化剂（HEA@IrRu）。该催化剂通过构建富IrRu表面层与高熵合金内层结构，利用多元素协同效应调控电子结构及界面配位环境，将阳极氧析出反应路径从吸附质演化机制转换为具..."
             },
             {
-              "title": "研究揭示植物细胞稳态机制",
-              "link": "https://www.cas.cn/syky/202604/t20260424_5108041.shtml",
+              "title": "科学家提出日盲紫外非线性光学晶体协同设计新策略",
+              "link": "https://www.cas.cn/syky/202605/t20260506_5108716.shtml",
               "pubDate": null,
-              "description": "叶绿体发挥功能需要核基因编码的蛋白通过叶绿体内外膜上的TOC-TIC转运复合体进入叶绿体。TOC-TIC复合体对叶绿体生物发生和体内平衡至关重要。此前有研究发现，莱茵衣藻中叶绿体基因编码的TIC组分Orf2971缺失后引发叶绿体蛋白稳态失衡，导致叶绿体损伤，并启动多个途径来维持细胞稳态。近日，中国科学院植物研究所以莱茵衣藻为研究对象，通过脂质组学系统研究了Orf2971缺失后引起叶绿体损伤期间细胞内的脂质代谢变化过程。团队结合分子生物学和细胞生物学等实验手段对脂质变化进行验证和功能分析，结果表明Orf2971缺失后细胞内的三酰基甘油（TAG）含量显著升高并凝聚成脂滴。TAG含量表现出明显..."
+              "description": "日盲紫外非线性光学晶体在紫外激光频率转换、精密探测等领域具有重要应用价值。该类材料需同时具备非中心对称结构、适中双折射和宽光学带隙，但三者协同优化长期面临技术挑战。近日，中国科学院新疆理化技术研究所研究团队提出“局域构象限域+偶极工程”协同设计策略。研究通过将柔性丙二酸根螯合为六元环[C3H2O4BFR]-（R=F，Me，CF3），固定羧酸π共轭单元的相对取向，同时利用硼位取代基调控阴离子基元偶极矩，有效抑制反平行偶极排列，促进非中心对称结晶，为高性能日盲紫外非线性光学晶体设计提供新思路。研究团队围绕NaMaBF2、NaMaBFMe和NaMaBFCF3三个体系开展系统研究。理论计算表明，..."
             },
             {
-              "title": "科学家绘制大脑星形胶质细胞转录因子功能图谱",
-              "link": "https://www.cas.cn/syky/202604/t20260424_5108049.shtml",
+              "title": "可降解微塑料诱导激发效应研究获进展",
+              "link": "https://www.cas.cn/syky/202605/t20260506_5108717.shtml",
               "pubDate": null,
-              "description": "在大脑中，除了神经元，还住着数量庞大的星形胶质细胞，它们如同守护星一样，维持神经元正常运作。但当大脑生病，如患上阿尔茨海默病，这些“守护星”也会“黑化”，反而加速神经元死亡。如何“驯化”星形胶质细胞，让它们重新成为大脑的修复者？关键在于找到控制它们行为的“开关”——转录因子。它们就像细胞里的“总指挥”，决定基因表达或沉默。但人体内转录因子多达上千个，传统逐一排查效率很低。日前，中国科学院脑科学与智能技术卓越创新中心等，开发了体内功能获得性扰动测序平台iGOF-Perturb-seq，绘制出首张星形胶质细胞转录因子功能图谱，并从中筛选出一个潜在的阿尔茨海默病“干预开关”。研究人员通过单细胞..."
+              "description": "土壤是陆地生态系统最大碳库，其变化会影响大气二氧化碳浓度。微塑料经污水灌溉、农膜残留、有机肥施用等途径进入土壤。可降解微塑料作为碳源，通过激发效应影响土壤有机碳矿化，但其作用机制尚不明确。因此，研究可降解微塑料的转化过程及其对有机碳矿化的调控机理，是评估微塑料污染下土壤碳动态的关键科学问题。近日，中国科学院东北地理与农业生态研究所在可降解微塑料诱导激发效应研究方面取得进展。研究发现，与未添加微塑料的土壤相比，高可降解性聚羟基脂肪酸酯可通过分解释放更多可溶性有机碳促进微生物生长，进而以正激发效应提升土壤有机碳矿化。与之相反，低可降解性聚乳酸会吸附固持土壤中的可溶性有机碳，降低土壤碳有效性，..."
             },
             {
-              "title": "研究揭示内源信使调控膜损伤与细胞死亡新机制",
-              "link": "https://www.cas.cn/syky/202604/t20260422_5107567.shtml",
+              "title": "研究揭示棉花抗黄萎病新机制",
+              "link": "https://www.cas.cn/syky/202605/t20260507_5108821.shtml",
               "pubDate": null,
-              "description": "动物天然免疫系统中的经典DNA识别通路cGAS-cGAMP-STING，在感染、炎症及肿瘤免疫等过程中发挥重要作用。其中，2'3'-cGAMP作为第二信使，通过其2'-5'和3'-5'混合磷酸键结构，展现出对STING蛋白更强的激活能力，为相关免疫调控药物的设计奠定了重要理论基础。近日，中国科学院生物物理研究所等团队，解析了2'3'-cGAMP在原核生物中的生成机制、下游跨膜效应蛋白激活机制及其引发生物膜损伤和细胞死亡模式。研究发现，细菌广泛编码的CD-NTase在DNA和Mn2+存在时被激活，特异性合成与哺乳动物cGAS产物结构一致的2'3'-cGAMP。该信号分子的生成逻辑及结构特征..."
+              "description": "棉花作为重要经济作物，长期受黄萎病威胁。该病由大丽轮枝菌引发，其微菌核可长期潜伏，化学防治效果有限。栽培棉遗传多样性狭窄，抗病基因资源匮乏，“抗病不高产、高产不抗病”成为育种瓶颈。如何获取兼顾抗病性与产量的突破性基因，是棉花育种的核心科学问题。近日，中国科学院新疆生态与地理研究所研究团队从沙漠极端耐旱苔藓齿肋赤藓中挖掘出被子植物缺失的古老抗逆基因ScALDH21，并成功对棉花开展遗传转化，获得了稳定遗传株系。通过多年室内外实验验证，该基因可显著提升棉花对黄萎病的抗性，同时保持产量优势。研究系统解析了异源基因改良棉花抗病高产的分子机制。研究发现，ScALDH21基因可构建“三重防御+转录重..."
             },
             {
-              "title": "靶向特定蛋白互作界面抑制乙肝病毒的研究获进展",
-              "link": "https://www.cas.cn/syky/202604/t20260423_5107649.shtml",
+              "title": "研究解析关键蛋白促进急性髓系白血病发展的分子机制及靶向策略",
+              "link": "https://www.cas.cn/syky/202605/t20260507_5108822.shtml",
               "pubDate": null,
-              "description": "乙型肝炎病毒（HBV）慢性感染是公共卫生领域的重要挑战。现有治疗手段仅能抑制病毒复制，难以实现彻底清除，患者常需终身服药且存在耐药风险。近日，中国科学院上海药物研究所等团队，揭示靶向HBx-Smc6互作界面抑制乙型肝炎病毒的结构与功能机制，为慢性乙肝治疗提供新方向。研究利用杆状病毒昆虫细胞表达体系，成功表达并纯化含HBx、CRL4及人源Smc5/6复合物的十亚基组装复合物，通过冷冻电镜单颗粒分析技术解析其三维结构。研究发现，该复合物在锌离子稳定下折叠形成Y形构象，其“下臂”与DDB1蛋白结合，而“上臂”则通过由螺旋—转角—螺旋（HTH）基序主导的组合型HTH疏水口袋，识别Smc6蛋白表面..."
+              "description": "急性髓系白血病是恶性程度最高的白血病类型之一，以未分化髓系祖细胞的克隆性扩增为特征。临床治疗以化疗为主，缺乏有效的靶向治疗策略，亟需揭示其发病机制并开发新型治疗策略。近日，中国科学院上海营养与健康研究所等从RNA表观调控和代谢异常重编程等层面，揭示了RNA结合蛋白RBPMS驱动急性髓系白血病（AML）进程的关键分子机制，并提出了靶向RBPMS-FOXO1信号轴的小分子抑制剂治疗策略。为了鉴定AML中潜在的治疗靶点，研究人员通过分析临床数据库及患者样本，发现RNA结合蛋白RBPMS 在AML中显著高表达，且其高表达与患者预后差相关。功能上，RBPMS能够维持白血病干细胞的自我更新，促进AM..."
             },
             {
-              "title": "二氧化碳加氢制高碳烯烃与航煤馏分研究获进展",
-              "link": "https://www.cas.cn/syky/202604/t20260423_5107646.shtml",
+              "title": "石墨烯气凝胶/环氧树脂复合材料摩擦学性能研究获进展",
+              "link": "https://www.cas.cn/syky/202605/t20260507_5108817.shtml",
               "pubDate": null,
-              "description": "烯烃被认为是化学工业中的关键基础原料。高碳烯烃可作为较多高附加值化学品的理想化学中间体。重要的是，喷气燃料范围的烯烃可进一步加工用于生产可持续航空燃料。然而，现有催化体系链增长能力弱，高碳产物选择性较低。前期，中国科学院上海高等研究院团队，阐明了ZnFe2O4/χ-Fe5C2与ZnO/χ-Fe5C2界面上实现CO2加氢制C2+醇/烯的反应机制，精准调控了铁物种物相、助剂/碳化铁界面位点数目与电子性质、CO2与H2活化能力，构建了高性能的CO2加氢制C4+烯烃催化新体系。近期，研究团队构筑了K和Al共修饰的铁基催化剂，并原位构建了χ-Fe5C2/Fe3O4界面，用于二氧化碳加氢制取重质烯烃..."
+              "description": "精密传动部件、机器人关节和微驱动系统等智能装备对界面各向异性摩擦功能提出了迫切需求。金属材料会通过激光纹理、沟槽阵列等表面加工技术实现各向异性摩擦。环氧树脂（EP）基聚合物材料在采用类似方法加工时，存在熔融变形、快速磨损、耐久性差及可靠性不足等问题，难以实现各向异性摩擦功能。近日，中国科学院兰州化学物理研究所基于定向冷冻铸造与真空浸渍协同技术，在各向异性石墨烯气凝胶/环氧树脂（GA/EP）复合材料的设计制备与摩擦学性能研究方面获得进展。研究表明，GA/EP复合材料的热传导、力学和摩擦学性能均与气凝胶的微观取向高度相关。GA/EP复合材料顶部接触界面具有高度取向的三维导热网络结构，表现出高..."
             },
             {
-              "title": "研究发现笼目超导体中多重范霍夫奇点属性",
-              "link": "https://www.cas.cn/syky/202604/t20260424_5108048.shtml",
+              "title": "研究人员研发出抗体语言模型",
+              "link": "https://www.cas.cn/syky/202604/t20260422_5107565.shtml",
               "pubDate": null,
-              "description": "笼目晶格因其独特的几何阻挫结构以及范霍夫奇点、狄拉克锥等电子能带特征，已成为探索关联物理与拓扑物态的研究平台。特别是，在AV3Sb5这一类笼目超导体中，实验发现了一系列新奇的量子态。在二维体系中，范霍夫奇点导致态密度的对数发散，使微弱的电子相互作用也足以诱发丰富的关联电子态。因此，实验发现相互交织的量子态，被认为与费米能级附近的多重范霍夫奇点相关，而笼目晶格中范霍夫奇点的子晶格属性则直接影响所形成的电子关联态。尽管AV3Sb5体系中的多重范霍夫奇点已得到研究，但范霍夫奇点的确切属性及其与非常规电荷序以及超导态之间的内在联系存在争议。近期，中国科学院理论物理研究所等，开展了AV3Sb5全家..."
+              "description": "近日，中国科学院合肥物质科学研究院研发出基于表型感知对比学习的抗体语言模型BCRInsight。该模型通过对海量序列的自监督学习，实现了对复杂免疫信号的深度解码，在抗体结合位点预测和B细胞亚群分析等任务上均达到当前最佳性能。B细胞受体（BCR）免疫库蕴含丰富的生物学信号，决定抗原识别的特异性，记录B细胞激活、成熟及演化过程。传统方法难以解析抗体序列的复杂语义，单细胞测序技术成本高昂，因此亟需研发低成本、高效、可深度提取复杂生物语义的新型计算工具。研究团队构建了基于12层Transformer编码器、约8600万个可训练参数的深度学习框架BCRInsight。与传统仅依赖掩码的语言模型不同..."
             },
             {
-              "title": "二维超导迈斯纳效应探测研究获进展",
-              "link": "https://www.cas.cn/syky/202604/t20260424_5108046.shtml",
+              "title": "神经元尺度全凝胶电极阵列实现长期脑电信息记录",
+              "link": "https://www.cas.cn/syky/202604/t20260430_5108448.shtml",
               "pubDate": null,
-              "description": "近期，中国科学院合肥物质科学研究院等在二维超导迈斯纳效应探测方面取得进展。该成果实现了对微米尺度二维范德华超导抗磁信号的高灵敏探测，为理解低维超导本征物性提供了实验支撑。二维范德瓦尔斯超导因其低维量子效应和丰富的非常规物理性质，成为凝聚态物理研究的前沿热点。然而，由于其体积极小、磁信号微弱，其超导性依赖电输运中的零电阻特征，而作为超导两个重要判据之一的迈斯纳效应却难以直接观测，限制了对其超导物性的理解。研究团队基于前期自主发展的紧凑型动态磁扭矩探测技术，建立了一套适用于各向异性超导体系的高灵敏磁测方法与理论模型，实现了磁化强度、磁化率及抗磁屏蔽效率等关键物理量的定量提取。该技术磁矩灵敏度..."
+              "description": "植入式神经接口是脑科学研究的核心变革技术，如何解决免疫排斥诱发的生物适配失效问题是该领域的研究重点。近日，中国科学院苏州纳米技术与纳米仿生研究所研究设计出与神经元细胞尺寸、力学、含水及三维拓扑高度匹配的全水凝胶电极体系，并成功将PEDOT:PSS水凝胶纤维直径精准调控至神经元尺度。研究证实，该水凝胶电极能够随组织形变实现共形贴合，几乎不产生剪切损伤，展现出优异的动态软组织适配能力，在生理环境中可长期保持高导电稳定性。其拥有超高的电荷存储容量与电荷注入容量，在数万次电化学循环后性能衰减微弱，可同时胜任高质量神经信号记录与安全神经调控的双重功能。该全水凝胶电极阵列植入小鼠运动皮层16周后，小..."
             },
             {
-              "title": "研究人员解析阿尔茨海默病关键病理特征协同致病机制",
-              "link": "https://www.cas.cn/syky/202604/t20260424_5108047.shtml",
+              "title": "低能量无序有机光伏体系研究取得进展",
+              "link": "https://www.cas.cn/syky/202604/t20260429_5108376.shtml",
               "pubDate": null,
-              "description": "阿尔茨海默病中，神经细胞内磷酸化Tau蛋白（p-Tau）的异常聚集与神经退行性病变相关。同时，大脑葡萄糖代谢降低是预测认知功能障碍的重要临床指标。一个如同缠住神经元的“结”，一个好似掐断能量供给的“闸”，但这两个特征如何协同作用并共同驱动阿尔茨海默病进程，仍是尚未阐明的问题。近日，中国科学院上海有机化学研究所等，揭示了葡萄糖代谢降低与p-Tau协同作用，通过调控RIPK1介导的程序性坏死通路，驱动阿尔茨海默病发生发展的分子机制。体外细胞实验与体内动物模型研究表明，葡萄糖代谢降低与p-Tau并非独立发挥作用，而是形成协同效应，共同诱导神经元程序性坏死并导致神经元丢失。在低浓度葡萄糖环境下，..."
+              "description": "有机太阳能电池因轻质、柔性、颜色可调、可溶液加工等优点，在可穿戴能源、建筑光伏一体化、太空光伏等领域具有广阔的应用前景。近日，中国科学院国家纳米科学中心在有机太阳能电池新材料创制和高性能器件构筑方面取得进展。团队创新性提出了“三重限制振动”的分子设计理念和“垂直偏析合金”的三元工作机制，破解了长期制约有机光伏性能提高的电流—电压严重相互制衡的瓶颈难题，为高性能有机光伏材料的设计开辟了全新路径。团队提出了中心单元、端基、中心骨架“三重限制振动”的窄带隙分子设计策略，合成了新型窄带隙受体材料Qx-Se-NF。团队利用受体组分结晶差异诱导相分布，利用组分表面能差异调控相界面，构筑高度有序聚集体..."
             }
           ]
         },
@@ -871,6 +871,12 @@
           "name": "阿里研究院",
           "url": "https://wechat2rss.bestblogs.dev/feed/e2f1190c120f7f3d74b630bfcfe9e58296bd535c.xml",
           "entries": [
+            {
+              "title": "治理之智 | 美国如何用“安全评测”重塑AI治理秩序",
+              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627976&idx=1&sn=228b02c5b3755ad11513eeb184590a22",
+              "pubDate": "2026-05-09T09:42:00",
+              "description": "2026年5月5日，商务部NIST下属的AI标准与创新中心（CAISI）与Google DeepMind、微软、xAI签署新协议，连同此前已签约的Anthropic和OpenAI，美国五大AI实验室至此全部纳入联邦政府的“模型上线前安全审查”体系。"
+            },
             {
               "title": "劳动节前，我们和四位AI“超级个体”聊了聊",
               "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627965&idx=1&sn=828d63c1b9218c3791907cc6a8a28dca",
@@ -924,12 +930,6 @@
               "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627861&idx=1&sn=d6b5ee0f0d54053bf13f84bbde32c445",
               "pubDate": "2026-02-22T02:01:00",
               "description": "生成式 AI 的崛起为电商行业突破渗透率瓶颈提供了契机，其技术演进正推动行业从局部增效转向商业模式的质变。过去数年，电商平台对 AI 的应用多聚焦于内容生成、运营降本及搜推算法的强化，而 2026 年开年的一系列动作标志着“智能体电商”时代的正式到来。"
-            },
-            {
-              "title": "产业之声 | 从OpenClaw爆火，看代码数据的价值与软件行业的重构",
-              "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTg0NDE1Mw==&mid=2652627854&idx=1&sn=84e4504db66c3fa9b8bb481dee4e8bdc",
-              "pubDate": "2026-02-20T02:03:00",
-              "description": "OpenClaw开源智能体工具火爆破圈。与这股智能体工具热潮形成鲜明对比的，是“AI颠覆SaaS软件”的资本叙事：软件产业正经历着一场暴跌，从通用办公写作到ERP 软件，紧接着是法律、金融等专业领域软件。这“一热一冷”并非偶然，而是一场历时五年的技术演进。"
             }
           ]
         },
@@ -1064,160 +1064,178 @@
           "url": "rsshub://stdaily/digitalpaper",
           "entries": [
             {
-              "title": "今日要闻 - 习近平向全国广大劳动群众致以节日祝贺和诚挚慰问",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=9834adacce624a4aa172e0f3d3d4a79c&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "新华社北京4月30日电 在“五一”国际劳动节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大劳动群众致以节日祝贺和诚挚慰问。 习近平指出，在中国式现代化新征程上，广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造，为党和国家事业发展作出了重要贡献。 习近平强调，今年是中国共产党成立105周年，是“十五五”开局之年。希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神，苦干实干、敬业奉献，在推动经济社会高质量发展中发挥主力军作用、展现主人翁风采。各级党委和政府要切实维护广大劳动群众合法权益，着力解决急难愁盼问题，动员激励广大劳动群众为实现宏伟蓝图而不懈奋斗。"
+              "title": "今日要闻 - “拉索”在银河系发现超高能伽马射线双星",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=09c89b460bc74b668eef5e4b39f15a8c&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者陆成宽）记者8日从中国科学院高能物理研究所获悉，依托高海拔宇宙线观测站（LHAASO，简称“拉索”）的观测数据，来自该所等单位的科研人员首次在银河系内一个特殊天体系统中，探测到能量超过100万亿电子伏特的超高能伽马射线信号。这一发现将对这类天体的观测水平推向新高度，对现有粒子加速理论形成直接挑战。相关成果在线发表于《物理评论快报》，并被选为“编辑推荐”文章，入选“物理特色”。 宇宙线是来自外太空的高能粒子，主要成分为质子和其他原子核，其起源被誉为“世纪谜题”。由于质子碰撞产生的伽马光子能量通常约为质子能量的十分之一，因此，探测来自天体、能量超过百万电子伏特的..."
             },
             {
-              "title": "今日要闻 - 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=3b00a2a9c6ca41eaa5bfceb1e56cd97b&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "蔡奇出席 丁薛祥主持4月30日上午，中共中央总书记、国家主席、中央军委主席习近平在上海出席加强基础研究座谈会并发表重要讲话。新华社记者 翟健岚摄 新华社上海4月30日电 中共中央总书记、国家主席、中央军委主席习近平30日上午在上海出席加强基础研究座谈会并发表重要讲话。他强调，基础研究是整个科学体系的源头，是所有技术问题的总机关。要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。 中共中央政治局常委、中央办公厅主任蔡奇出席座谈会，中共中央政治局常委、国务院副总理丁薛祥主持座谈会。 座谈会上，科技部部长阴和俊、教育部部长怀进鹏、中国科学院院长侯建国、上海市..."
+              "title": "今日要闻 - 未来之城的雄安样板",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=7fa71a68bb014883bd0aec1f0e166f4d&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "【探 寻】 ◎本报记者 陈汝健 春风拂过白洋淀，创新的种子在雄安拔节生长。 首颗“雄安造”卫星待发，国内首个结构化数据大模型落地，90余家AI企业集聚发展…… 近日，重大成果密集在雄安涌现，为“新时代创新高地”写下生动注脚。3月23日，习近平总书记在雄安考察时强调：“要牢牢把握雄安新区作为北京非首都功能疏解集中承载地的首要功能定位”“努力建设新时代创新高地和推动高质量发展样板”。 这是面向未来的战略远见。2017年2月23日，习近平总书记在河北安新县考察时指出：“规划建设雄安新区是具有重大历史意义的战略选择，是疏解北京非首都功能、推进京津冀协同发展的历史性工程。” 9年来，“千年大计”从..."
             },
             {
-              "title": "今日要闻 - 在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=7e82e962a4ff40c4958f15a4c43e905f&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "新华社北京4月30日电 5月1日出版的第9期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话》。 文章强调，要充分认识制定和实施五年规划是我们的重要政治优势。制定和实施五年规划，有利于实现党的领导，有利于集中力量办大事，有利于前瞻性把握战略问题，有利于保持事业连续性。制定和实施五年规划，是一项政治性、政策性很强的工作，我们党在长期实践中创造积累了丰富经验。主要有：坚持党中央集中统一领导，坚持从实际出发，坚持全国一盘棋，坚持发扬民主、集思广益，坚持规划法定原则。要进一步坚定制度自信，不断结合新的实..."
+              "title": "今日要闻 - 天舟十号飞船近日择机发射",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=4729f53b08754273893e1f345b80fd69&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者付毅飞 王曼茜）据中国载人航天工程办公室消息，北京时间5月8日，天舟十号货运飞船与长征七号遥十一运载火箭组合体垂直转运至发射区。 目前，文昌航天发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作，计划于近日择机实施发射。 此前，天舟九号货运飞船于5月6日撤离空间站组合体，5月7日再入大气层。中国空间站正在等待天舟十号货运飞船的到来。 图为5月8日，天舟十号货运飞船与长征七号遥十一运载火箭组合体在垂直转运中。 新华社发（杨志远摄）"
             },
             {
-              "title": "今日要闻 - 全面加强基础研究 提升原始创新能力",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=8886e3b79145430c89e402ee8fd2d842&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "——习近平总书记在加强基础研究座谈会上的重要讲话指引方向、催人奋进◎本报记者 习近平总书记4月30日上午在上海出席加强基础研究座谈会时强调，基础研究是整个科学体系的源头，是所有技术问题的总机关。要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。广大科技工作者深入学习领会习近平总书记重要讲话精神，表示要深耕基础研究，提升原始创新能力，切实筑牢科技创新根基底座。 “习近平总书记强调，要加强统筹谋划和顶层设计，优化基础研究系统布局。这为科研选题、组织模式、学科建设等基础研究中的关键要素作出战略部署、提出明确要求。”中国科学院深圳先进技术研究院院长刘陈立聆听习..."
+              "title": "今日要闻 - 深入贯彻落实加强基础研究座谈会精神 全面提升基础研究水平和原始创新能力",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=231b1dbbd5d74aceaa16a05037489800&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "新华社北京5月8日电 近日，中共中央政治局常委、国务院副总理丁薛祥先后在福建、上海、北京调研基础研究。他指出，习近平总书记出席加强基础研究座谈会并发表重要讲话，发出了新时代新征程进一步打牢科技强国建设根基的号召。要深入学习贯彻习近平总书记重要讲话精神，发挥新型举国体制优势，以“十年磨一剑”的恒心和毅力，全面提升基础研究水平和原始创新能力。 丁薛祥前往中国科学院和怀柔国家实验室，了解原始创新和关键核心技术攻关进展。他指出，建成科技强国，必须把基础研究搞上去。要坚持“四个面向”战略导向，优化基础研究布局，突出主攻方向和重点领域，加强原创性颠覆性创新，实现科学发现和技术发明互促共进。丁薛祥实地..."
             },
             {
-              "title": "今日要闻 - “光荣属于劳动者，幸福属于劳动者”",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=075ce32214464dd480d6c0dd1e6c27cd&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "——习近平总书记同劳动者在一起的故事 劳动，是一切幸福的源泉；劳动者，是美好生活的创造者、守护者。 党的十八大以来，习近平总书记深情礼赞劳动创造，大力弘扬劳模精神、劳动精神、工匠精神，关心关爱一线劳动者，同广大劳动人民站在一起、想在一起、干在一起。 今年是中国共产党成立105周年，是“十五五”开局之年。在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，指出在中国式现代化新征程上，广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造，为党和国家事业发展作出了重要贡献。 “光荣属于劳动者，幸福属于劳动者。”习近平总书记的真切关怀，激励着亿万劳动者在强国..."
+              "title": "今日要闻 - 国务院成立湖南浏阳烟花厂爆炸事故调查组",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=963dd843895f42758fb5825b492dbf86&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者陆成宽）记者8日从应急管理部获悉，根据国家有关法律法规规定，国务院成立事故调查组，由应急管理部牵头，公安部、海关总署、市场监管总局、全国总工会和湖南省人民政府等相关方面参加，对湖南长沙浏阳市华盛烟花制造燃放有限公司“5·4”特别重大爆炸事故进行调查。 5月4日16时43分许，湖南省长沙市浏阳市华盛烟花制造燃放有限公司发生特别重大爆炸事故，截至5月8日12时，事故造成37人死亡、1人失联，在医救治51人。 5月8日下午，国务院湖南长沙浏阳市华盛烟花制造燃放有限公司“5·4”特别重大爆炸事故调查组召开第一次全体会议。国务院事故调查组组长、应急管理部部长张成中主持..."
             },
             {
-              "title": "今日要闻 - 加强基础研究，冲锋号已吹响",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=033b94dca6b2421f992129b683697547&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "◎本报评论员 4月30日，习近平总书记在上海出席加强基础研究座谈会并发表重要讲话。讲话充分肯定我国基础研究取得的成就，全面分析面临的新形势新挑战，并从优化基础研究系统布局、壮大基础研究人才队伍、加强对基础研究的支持保障、拓展基础研究国际合作等方面，作出战略部署、提出明确要求，为加强基础研究指明了前进方向、提供了根本遵循。这是一次在重要时间节点召开的重要会议，对加强基础研究、推进科技强国建设具有重要里程碑意义。加强基础研究，冲锋号已吹响。 党的十八大以来，党中央高度重视基础研究，把基础研究摆在创新驱动发展的突出位置。国家先后出台《国务院关于全面加强基础科学研究的若干意见》《加强“从0到1”..."
+              "title": "今日要闻 - 科技点亮美好生活",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=4536ed8309a24288bba8b61f3d4de4c2&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "——第二十八届中国北京国际科技产业博览会开幕北京科博会上，机器人为观众服务。本报记者 洪星摄 ◎本报记者 孙明源 华 凌 5月8日，第二十八届中国北京国际科技产业博览会（以下简称“北京科博会”）在国家会议中心如期开幕，展期3天，展览面向公众免费开放。 作为展示前沿科技成果、促进产业务实合作的重量级平台，本届北京科博会以“科技引领 创享未来”为主题，展览总面积约5万平方米。步入展馆，800余家中外企业和机构携其最新成果同台亮相，人工智能（AI）、集成电路、商业航天等领域的“硬核科技”密集输出，彰显出我国战略科技力量建设的显著成效。 现场熙攘的人群、亮丽的展台和产品，共同勾勒出一幅极具动感的..."
             },
             {
-              "title": "要 闻 - 砥砺奋进再出发",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=ba126618403b428b8ce92088d56882d9&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "——习近平总书记的节日祝贺和诚挚慰问激励广大劳动群众担当作为 在“五一”国际劳动节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大劳动群众致以节日祝贺和诚挚慰问。 广大劳动者表示，习近平总书记的深情问候饱含关怀、催人奋进。新征程上，要以习近平新时代中国特色社会主义思想为指导，立足岗位、实干担当，在辛勤劳动、诚实劳动、创造性劳动中不断创造新业绩，为推进中国式现代化、实现民族复兴伟业贡献力量。 哈尔滨汽轮机厂有限责任公司叶片分厂车间里，全国五一劳动奖章获得者、高级主任工程师刘云锋正带领团队进行技术交流。这个团队曾参与国产“华龙一号”等核电机组研发，攻克多项关键技术..."
+              "title": "今日要闻 - 中央宣传部等部门部署开展2026年文化科技卫生“三下乡”活动",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=3e2e358dcb234afa941cd67ff7daf63c&currentVersionName=01%C2%B7%E7%AC%AC01%E7%89%88%EF%BC%9A%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB&currentVersion=1&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "新华社北京5月8日电 近日，中央宣传部、国家发展改革委、教育部、科技部、司法部、农业农村部、文化和旅游部、国家卫生健康委、广电总局、共青团中央、全国妇联、中国文联、中国科协联合印发通知，部署开展2026年文化科技卫生“三下乡”活动。 通知强调，要坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻习近平文化思想和习近平总书记关于“三农”工作的重要论述，坚持以社会主义核心价值观为引领，主动适应农村人口结构和农民生产生活方式变化，持续改进创新组织方式和活动内容，广泛调动各方力量，推动更多优质文化科技卫生资源直达乡村，使“三下乡”活动更加贴近农村实际、更好满足农民期待，让基层真正得实惠，助力..."
             },
             {
-              "title": "要 闻 - 《习近平谈治国理政》第五卷英文版中马读者会在吉隆坡举行",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=c0e42528d955496ea60ec536d1750770&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "新华社吉隆坡4月30日电 （记者何光海 袁睿）《习近平谈治国理政》第五卷英文版中马读者会4月30日在马来西亚首都吉隆坡举行。 与会人士认为，习近平主席重要著作承载着代表东方智慧的伟大发展经验和治理理念，特别是在当前地缘政治格局复杂演变、全球治理体系深刻变革的背景下，中马通过著作传播深入开展治国理政经验交流，对深化中马友好互信和互利共赢，推动构建高水平战略性中马命运共同体具有重要意义。 马来西亚国会下议院议长佐哈里在致辞中表示，《习近平谈治国理政》阐释了中国的发展理念、重大战略以及在全球格局中的定位，有助于读者更深入理解中国政策背后的思想逻辑。对马来西亚而言，这不仅是了解中国的一扇窗口，更..."
+              "title": "要 闻 - 躺着就能赚钱？航天卧床实验没你想得那么简单",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=cb1f0001299e4670a69af83f371b17be&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "【热点回应】 ◎本报记者 付毅飞 近日，中国航天员科研训练中心发布信息，公开招募“地星三号”卧床实验志愿者。据了解，志愿者将随机被分为对照组和锻炼组，根据不同分组，卧床总时长约为15天或30天，根据实验进展可能适当延长，最长不超过60天。全程完成实验的志愿者，可获得2万至7万元参试补助。 公告发出后，引来广大网友关注。有人说：“‘躺着赚钱’的机会来了！”“感觉自己是天选之人。”也有人关心：“不能玩手机的话坚持不下来。” 这次实验旨在研究哪些具体的航天医学问题？志愿者需要完成哪些日常任务和测试？想入选志愿者需要具备哪些特质？全国空间探测技术首席科学传播专家庞之浩向科技日报记者进行了介绍。 ..."
             },
             {
-              "title": "要 闻 - 今年第二批915亿元支持设备更新资金已下达",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=e3649cbfc2544da899dc97518c9c2a66&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "科技日报北京4月30日电 （记者刘园园）记者30日从国家发展改革委获悉，近日，2026年第二批915亿元“两新”设备更新项目清单和资金安排已经下达。 该批资金将支持工业、能源电力等16个领域超过6700个项目，预计带动总投资超过3800亿元；同时，继续支持老旧营运货车、新能源城市公交车、老旧农机报废更新。 加上此前已下达的936亿元，今年已累计安排“两新”设备更新资金1851亿元，占全年2000亿元的92%。 国家信息中心经济预测部副研究员袁剑琴介绍，今年设备更新支持范围在总体保持延续的基础上，新增老旧小区加装电梯、养老机构、消防救援设施、检验检测、线下消费商业设施等领域。 “2026年..."
+              "title": "要 闻 - 人工智能终端进入“有标可依”新阶段",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=b62f6d240e0e49dfab6866a4f9bd141e&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "◎本报记者 崔 爽 5月8日，《人工智能终端智能化分级》（GB/Z 177—2026）系列国家标准正式发布。 人工智能终端是人工智能技术规模化落地、体系化发展的关键载体。近年来我国人工智能产业蓬勃发展，人工智能终端以丰富多元的智能场景为牵引，不断催生新产品、新业态、新体验，有效激发大众消费热情，成为撬动内需潜力、优化消费结构的重要支点。 从被动工具升级为智能助手 中国信息通信研究院总工程师魏然介绍，AI终端是以大模型为核心驱动的新一代智能终端。与传统终端相比，AI终端能够主动感知场景、精准理解用户意图，并具备文本、语音、音视频等多模态交互能力。 同时，AI终端还可支撑大模型生成式应用与智..."
             },
             {
-              "title": "要 闻 - 浙江：“十五五”期间实现6个重大突破",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=5ab05d55dc2445158141e22cac7125a8&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "科技日报杭州4月30日电 （记者江耘）30日，浙江省开局起步“十五五”专场新闻发布会在杭州市举行。浙江省委副书记、省长刘捷表示，浙江要突出创新引领核心地位，把创新浙江建设作为破解高质量发展新“成长烦恼”的关键路径，做深做透教育科技人才一体改革发展、科技创新和产业创新深度融合“两篇大文章”，着力营造一流创新生态。 浙江“十五五”发展的总目标是“高质量发展建设共同富裕示范区取得决定性进展，率先呈现基本实现社会主义现代化的生动图景”，到2030年，经济实力、科技实力、综合竞争力大幅跃升，人均地区生产总值接近发达经济体水平。 据了解，浙江省“十五五”期间要实现6个重大突破：一是创新浙江建设、现代..."
+              "title": "要 闻 - 四部门发文促进人工智能与能源双向赋能",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=1a381eea09fc4695ab77ce109d9064df&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者刘园园）8日，由国家发展改革委、国家能源局、工业和信息化部、国家数据局联合编制的《关于促进人工智能与能源双向赋能的行动方案》（以下简称《行动方案》）发布。《行动方案》旨在强化能源对人工智能发展的基础支撑作用，发挥人工智能对能源转型的叠加倍增作用，积极推进人工智能与能源双向赋能、深度融合发展。 《行动方案》明确，到2027年，支撑人工智能创新发展的安全、绿色、经济的能源保障体系初步构建，清洁能源与算力设施互动能力显著提升。能源领域高价值场景逐步开放应用，能源高质量数据集共建共享长效管理机制初步建立，能源企业算力资源利用效率持续优化、稳步提升。到2030年，人工..."
             },
             {
-              "title": "要 闻 - 在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=75b7c6dda4eb4f90826465e53ca850f8&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "新华社北京4月30日电 5月1日出版的第9期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话》。 文章强调，要充分认识制定和实施五年规划是我们的重要政治优势。制定和实施五年规划，有利于实现党的领导，有利于集中力量办大事，有利于前瞻性把握战略问题，有利于保持事业连续性。制定和实施五年规划，是一项政治性、政策性很强的工作，我们党在长期实践中创造积累了丰富经验。主要有：坚持党中央集中统一领导，坚持从实际出发，坚持全国一盘棋，坚持发扬民主、集思广益，坚持规划法定原则。要进一步坚定制度自信，不断结合新的实..."
+              "title": "要 闻 - 我科研团队实现14.5公里远距离“物质纠缠”",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=45491df421824654b371435bc609cd89&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报合肥5月8日电 （记者吴长锋）记者8日从中国科学技术大学获悉，该校李传锋、周宗权、黄运峰研究团队建立了“星汉二号”多模式量子中继网络，在安徽省合肥市实现了14.5公里的物质纠缠。相关研究成果7日发表于国际学术期刊《自然·光子学》。 量子中继是构建未来量子互联网的关键技术。由于量子信号在光纤中传输时会快速衰减，科学家通过量子中继将长距离信道分解为多段短程链路，分段建立物质纠缠态后再连接，从而克服光纤信道中的指数级损耗。 此前，量子中继协议主要分为单光子干涉和双光子干涉两类。单光子干涉仅需在中间站探测到一个光子，速率较高，但对信道相位抖动敏感，保真度受限；而双光子干涉需同时探测到一对..."
             },
             {
-              "title": "要 闻 - 厦门出台16条举措促经济结构升级",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=f952eff0748f4670834bb59c276502df&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "科技日报讯 （记者符晓波）4月29日，厦门市委、市政府印发《关于深入实施科技创新引领工程加快推动经济结构升级的若干措施》（以下简称《若干措施》），围绕五大维度推出16条具体措施，系统性重塑创新生态，为经济结构优化升级注入科创动能。 《若干措施》以深化科技体制机制改革为重点，力求从根本上疏通创新链条上的“梗阻”：提出在市委教育科技人才工作领导小组框架下，建立全新的科技服务统筹协调工作机制，并打造一个市场化运营的厦门市科技创新服务平台，设立每年总规模达2亿元的“科技服务专项资金池”，为这一融合机制提供坚实的资金保障；首次提出科技部门与工业、农业、海洋、国资、住建等领域主管部门联合设立科技专项..."
+              "title": "要 闻 - 第六代移动通信系统技术试验频率获批复",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=719777e3ee85496590bf27a98488de56&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者崔爽）记者8日获悉，为进一步推动我国6G技术研发、标准研制与产业化进程，工业和信息化部近日向 IMT-2030（6G）推进组批复6GHz频段6G试验频率使用许可，支持其在部分地区开展6G技术试验，面向国际电信联盟确定的6G典型场景与关键性能指标，开展技术研发攻关和测试验证。 6GHz频段指的是6425-7125MHz范围内的无线电频谱资源。2023年7月1日，工业和信息化部在全球率先将其划分用于国际移动通信系统。无线电频谱是信息时代的“数字土壤”，卫星通信、移动通信、无线网络等各类数字应用都需“扎根”其上。 但通信技术经过数十年发展，无线电频谱优质资源已所剩..."
             },
             {
-              "title": "要 闻 - 全面加强基础研究 提升原始创新能力",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=0606521d0fdc4523aaae93caad90ada6&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "——习近平总书记在加强基础研究座谈会上的重要讲话指引方向、催人奋进◎本报记者 习近平总书记4月30日上午在上海出席加强基础研究座谈会时强调，基础研究是整个科学体系的源头，是所有技术问题的总机关。要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。广大科技工作者深入学习领会习近平总书记重要讲话精神，表示要深耕基础研究，提升原始创新能力，切实筑牢科技创新根基底座。 “习近平总书记强调，要加强统筹谋划和顶层设计，优化基础研究系统布局。这为科研选题、组织模式、学科建设等基础研究中的关键要素作出战略部署、提出明确要求。”中国科学院深圳先进技术研究院院长刘陈立聆听习..."
+              "title": "要 闻 - 市场监管部门牵头的五项“一件事”改革如期完成",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=75fbe5b8158142dfa9a417a892b09290&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者付丽丽）8日，市场监管总局召开“高效办成一件事”专题新闻发布会。市场监管总局登记注册局副局长张炜表示，由市场监管部门牵头的五项“一件事”改革已全部如期完成，线上线下均实现“一门一网”办理，包括企业信息变更、注销登记、开办餐饮店、迁移登记及个体工商户转型为企业等重点领域。 张炜介绍，2024年以来，国务院分五批推进55项“一件事”重点事项，市场监管部门牵头其中5项。目前，各地已重构跨部门业务流程，打通业务系统，实现“一处变更、多处联动”。 具体来讲，企业办事流程显著优化。企业信息变更办理环节由6个压减至1个，企业迁移登记跑动次数由至少9次精简到1次；企业办理普..."
             },
             {
-              "title": "要 闻 - 加强基础研究，冲锋号已吹响",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=dca1c515d8e74b1f90a683bbec473e9e&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "◎本报评论员 4月30日，习近平总书记在上海出席加强基础研究座谈会并发表重要讲话。讲话充分肯定我国基础研究取得的成就，全面分析面临的新形势新挑战，并从优化基础研究系统布局、壮大基础研究人才队伍、加强对基础研究的支持保障、拓展基础研究国际合作等方面，作出战略部署、提出明确要求，为加强基础研究指明了前进方向、提供了根本遵循。这是一次在重要时间节点召开的重要会议，对加强基础研究、推进科技强国建设具有重要里程碑意义。加强基础研究，冲锋号已吹响。 党的十八大以来，党中央高度重视基础研究，把基础研究摆在创新驱动发展的突出位置。国家先后出台《国务院关于全面加强基础科学研究的若干意见》《加强“从0到1”..."
+              "title": "要 闻 - 图片新闻",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=8f427c74d7d64573b8f670467147945c&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "5月8日，面向无人驾驶车的自动充电及运营系统“来电岛1号”在山东省青岛市亮相。据介绍，该系统集成立体车库、充电机器人、泊车机器人与AI智能体等，可实现全无人运营下的自动泊车、自动充电、智能修车、虚拟电厂等功能，为无人驾驶规模化运营提供可复制方案。图为无人车在“来电岛1号”中进行自动洗车。新华社发（张进刚摄）"
             },
             {
-              "title": "要 闻 - 中国园林博物馆举行“红楼探园”展",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=a45e1054e0144f9d990ba38aefeb1860&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "近日，中国园林博物馆“典籍中的园林”品牌系列展览之一——“红楼探园”展举行。图为观众观看展览上的园林科普知识。本报记者 洪星摄"
+              "title": "要 闻 - 世界首套“三元混合气”盾构带压作业装备投用",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=7412dc9f7509478b946f6506b35cbe17&currentVersionName=02%C2%B7%E7%AC%AC02%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=2&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报舟山5月8日电 （记者何亮）8日，世界最长海底高铁隧道——甬舟铁路金塘海底隧道，世界首套“三元混合气”盾构带压作业装备正式投用。这套可科学配比氦气、氮气、氧气三种混合气体的新型国产装备由中铁十一局自主研发，用于“定海号”盾构机刀具检查更换作业，助力超级工程突破超高压禁区。 金塘海底隧道是甬舟铁路控制性工程，横跨浙江宁波与舟山之间的金塘水道，全长16.18公里，盾构段长11.21公里，为世界最长海底高铁隧道。项目建设采用两台超大直径盾构机，分别从宁波、舟山两侧同步始发、相向掘进，在穿越高水压及多种复杂地层后，在海底实现高精度对接。 超高压进舱作业是盾构领域公认的世界级难题。传统压缩..."
             },
             {
-              "title": "要 闻 - “平扫CT+AI”，肠癌“无感”早筛方案来了",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=a26c00b5c93c4b7587e1d1bcb30a82a0&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "【热点回应】◎本报记者 崔 爽 4月28日，阿里巴巴达摩院联合广东省人民医院等机构研发出肠癌筛查AI（人工智能）模型DAMO COCA，在国际上首次提出一种患者“无感”的肠癌机会性筛查方法。 这也是继胰腺癌和胃癌之后，达摩院发布的第三个癌症筛查AI模型。与传统的肠镜检查和平扫CT（计算机断层扫描）影像相比，AI模型筛查肠癌的特点是什么？AI模型多种癌症筛查进展如何？科技日报记者就此采访了有关专家。 第一问：为何急需创新肠癌筛查方法？ 肠癌通常指结直肠癌，即发生在人体消化道末端结肠和直肠的恶性肿瘤。据世界卫生组织估计，全球每年因结直肠癌死亡的人数超过90万，在所有癌症中高居第二位。 肠道息..."
+              "title": "要 闻 - 先进战斗机“黑灯工厂”造",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=43b9dc68c97a4934b8fa6be762ad53b1&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "——航空工业成飞构建先进航空装备柔性敏捷智能生产体系 【激发产业发展新动能】 ◎本报记者 都 芃 夜幕低垂，成都西郊一座“黑灯工厂”里，只有设备指示灯在厂房穹顶下幽幽闪烁。黑暗中，AGV小车无声穿梭，将物料准确投送至生产线，数控机床精密作业，一场无声的“机械芭蕾”正在上演。这里生产的是包括歼-20在内我国最先进战机的“骨骼”。 5月7日，记者跟随2026中国航空工业集团“国企开放日”活动走进航空工业成都飞机工业（集团）有限责任公司（以下简称“航空工业成飞”），探访了以“黑灯工厂”为核心要素的先进航空装备柔性敏捷智能工厂。 多种设备“说”一种语言 一直以来，先进航空装备都是高端复杂装备的典..."
             },
             {
-              "title": "要 闻 - 深化智能云体系建设，提供一体化AI服务",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=2f9dbcfaedd44ccda3d7cab689e26f30&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "——第九届数字中国建设峰会·智能云生态大会举行◎本报记者 崔 爽 智能的核心计量单元正在演变为“词元（Token）”。国家数据局统计显示，到2026年3月，中国日均Token调用量突破140万亿，相比2024年初的1000亿，两年增长超千倍。 Token不仅是大模型运行的“燃料”，更是AI时代统一的“度量衡”，推动AI价值加速走向可量化、可交易。 “智能云体系就是Token经营体系。”在4月30日举行的第九届数字中国建设峰会·智能云生态大会上，中国电信董事长柯瑞文表示，要深化智能云体系建设，积极推动Token经营，为全社会提供一体化AI服务。 依托智能云体系推动Token高效生产应用 今..."
+              "title": "要 闻 - 青岛科技大学汇聚各方力量激发创新“裂变”",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=bc379bbc42444181b4e104fbd626f7c4&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "【培育新质生产力在行动】 ◎本报记者 宋迎迎 通讯员 李鲲鹏 在青岛科技大学前沿生物医药技术研究院，研究人员正在进行一项关键实验，旨在提升线粒体活性，为治疗多种疾病开辟新路径。 在距离青岛3000公里外的西双版纳州，青岛科技大学云南天然橡胶产业技术研究院院长陈德宏带领团队成功从天然橡胶乳清废液中提取出第五代天然抗氧化剂——麦角硫因，目前实验室小试获得成功，团队正紧锣密鼓地推进中试放大。 这些创新场景，是青岛科技大学加快科研攻关、促进成果转化、以科技赋能新质生产力发展的生动实践。 “学校一体推进教育科技人才发展，聚焦橡胶特色、化工优势，汇聚各方创新力量服务产业技术攻坚，为新质生产力发展注入..."
             },
             {
-              "title": "要 闻 - 2025年数字中国发展指数同比增长12.99%",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=6c4ec6151b28489887ddecc16cfd5558&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "科技日报福州4月30日电 （记者杨雪）4月30日，数字中国发展指数在第九届数字中国建设峰会上发布。2025年数字中国发展指数为170.1，同比增长12.99%，增幅较上年扩大2.34个百分点，数字中国建设呈现加速前进的发展态势。 国家数据发展研究院院长胡坚波介绍，在去年基础上，他们修订完善了《数字中国发展指标体系》，测算形成数字中国发展指数。修订工作重点在于强化指标体系的系统性，明确各级指标的价值性，提高与其他指标体系的协同性，确保指标体系具有引领性。指标体系由去年的10个一级指标和47个二级指标调整为今年的10个一级指标、26个二级指标和78个三级指标。今年突出体现一二级指标的价值属性..."
+              "title": "要 闻 - 福建推广“企业家+科学家+投资人”协同创新模式",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=014a42d259104685ba55ca9eae664eaf&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报福州5月8日电 （记者谢开飞）8日，福建省开局起步“十五五”专场新闻发布会在福州市举行。福建省委副书记、省长赵龙在发布会上表示，未来五年，福建省将在推动科技创新和产业创新深度融合上闯出新路，推广“企业家+科学家+投资人”协同创新模式。 记者了解到，福建将引导企业家坚守主业、做强实业，坚定不移走实体经济高质量发展之路；引导科学家聚焦新质生产力、企业需求等热点问题，强化科研攻关，加快科技成果转化落地；引导投资人做“耐心资本”“智慧资本”“联动资本”，鼓励吸引更多长期资本、战略资本来福建，共同助力重点产业链高质量发展。 据介绍，福建实体经济根基稳固，2025年全省制造业增加值占地区生产..."
             },
             {
-              "title": "要 闻 - “光荣属于劳动者，幸福属于劳动者”",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=432f6547e1d64feb9348285b2f6a5a9f&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "——习近平总书记同劳动者在一起的故事 劳动，是一切幸福的源泉；劳动者，是美好生活的创造者、守护者。 党的十八大以来，习近平总书记深情礼赞劳动创造，大力弘扬劳模精神、劳动精神、工匠精神，关心关爱一线劳动者，同广大劳动人民站在一起、想在一起、干在一起。 今年是中国共产党成立105周年，是“十五五”开局之年。在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，指出在中国式现代化新征程上，广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造，为党和国家事业发展作出了重要贡献。 “光荣属于劳动者，幸福属于劳动者。”习近平总书记的真切关怀，激励着亿万劳动者在强国..."
+              "title": "要 闻 - 全球首艘2.4万标箱甲醇双燃料集装箱船建成",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=d6629d37a1ae474ca3f56c7158d070c4&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "图为全球首艘2.4万标箱甲醇双燃料集装箱船“东方智慧”轮。受访者供图 科技日报南通5月8日电 （记者张晔 通讯员彭常青）8日，全球首艘2.4万标箱甲醇双燃料集装箱船在江苏省南通市建造完成，并正式命名为“东方智慧”。 该船由南通中远海运川崎船舶工程有限公司建造，是目前世界最大级别甲醇双燃料集装箱船，标志着我国在超大型绿色智能船舶领域再次领跑全球。 “东方智慧”轮总长399.99米，型宽61.3米，最大载箱量24168标箱，载重22.5万吨，服务航速22.7节，各项指标均居世界同类船舶领先水平。作为船舶核心动力，该船搭载全球最大甲醇双燃料发动机及配套动力系统，可灵活使用甲醇与传统燃油双模式运..."
             },
             {
-              "title": "国 际 - 中巴携手筑起防灾减灾“智慧防线”",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=8b3acc006ed34f748b9535dd9e88f2b8&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "巴基斯坦留学生与中国学生一起在中国—巴基斯坦重大基础设施智慧防灾“一带一路”联合实验室做实验。本报记者 李林旭摄◎本报记者 李林旭 王小龙 实习记者 姚易安 当巴基斯坦史上最严重地震来袭时，赛义德·沙阿正在读小学三年级。 “大地在咆哮，天空在旋转，墙体在开裂，建筑物在倒塌。”时至今日，沙阿依然对这次地震有着刻骨铭心的记忆，“周围都是哭声，我非常害怕。” 2005年10月8日，巴基斯坦北部地区发生7.8级强烈地震，与我国1976年的唐山大地震震级一样。这次地震在巴基斯坦造成约7.3万人遇难，60多万间民宅倒塌。 这次地震也改变了巴基斯坦白沙瓦工程技术大学教授汗·沙赫扎达的人生轨迹。当时，他..."
+              "title": "要 闻 - 科技点亮美好生活",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=af0e1779ceb74c9db565492770bd83c3&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "——第二十八届中国北京国际科技产业博览会开幕北京科博会上，机器人为观众服务。本报记者 洪星摄 ◎本报记者 孙明源 华 凌 5月8日，第二十八届中国北京国际科技产业博览会（以下简称“北京科博会”）在国家会议中心如期开幕，展期3天，展览面向公众免费开放。 作为展示前沿科技成果、促进产业务实合作的重量级平台，本届北京科博会以“科技引领 创享未来”为主题，展览总面积约5万平方米。步入展馆，800余家中外企业和机构携其最新成果同台亮相，人工智能（AI）、集成电路、商业航天等领域的“硬核科技”密集输出，彰显出我国战略科技力量建设的显著成效。 现场熙攘的人群、亮丽的展台和产品，共同勾勒出一幅极具动感的..."
             },
             {
-              "title": "国 际 - 冻干人造血小板可稳定保存长达一年",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=a6f088387e1c41579e5210b8c116f01f&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "大幅提高急救止血能力 科技日报北京4月30日电 （记者刘霞）美国凯斯西储大学、匹兹堡大学及海马治疗公司的科学家证实，他们合成的人造血小板可经冷冻干燥处理，稳定保存数月乃至一年。不仅如此，他们还开发出一种可将合成血小板直接注入骨髓的新技术。相关研究论文分别刊登于最新一期《先进科学》杂志与《血栓和止血杂志》。 血小板负责凝血，能挽救因创伤而大出血、命悬一线的患者。然而，捐献的血小板只能在医院使用，室温下仅能保存数天，冷藏也不过维持数周。新研制的合成血小板有望打破这一僵局。 为验证冻干合成血小板的稳定性与有效性，团队将纳米颗粒形式的血小板置于室温和较高温度长时间储存，再水化处理后进行性能测试。..."
+              "title": "要 闻 - 我国人工繁育的鳗鲡仔鱼“满月”",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=a5892d458b8548af9fef5ba524e6be25&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报厦门5月8日电 （记者符晓波）记者8日从集美大学获悉，该校水产学院陈仕玺教授团队攻克亲鱼同步促熟、开口饵料配方与投喂等多项技术瓶颈，成功培育出生长状态稳定、可自主摄食的鳗鲡仔鱼。截至当日，该批仔鱼已健康存活33天。这是我国人工繁育鳗鲡仔鱼生长周期首次“满月”，有望实现人工繁育鳗鲡从“短期存活”到“稳定生长”的关键跨越。 鳗鲡俗称鳗鱼，拥有深海产卵、淡水育成、跨洋洄游的独特生物习性，其生长发育机制复杂，人工极难繁育，是全球唯一完全依靠野生苗种开展规模化养殖的物种。我国是世界鳗鱼养殖第一大国，年产量约占全球总量的75%，高度依赖野生苗种。 鳗鲡人工繁育面临世界级难题——亲鱼人工促熟催..."
             },
             {
-              "title": "国 际 - 新型干细胞产品治疗血癌获96%存活率",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=1e4bbf54c4184abf8aa56609bab426e5&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "科技日报北京4月30日电 （记者张梦然）混合干细胞技术出现突破：一项发表在最新《临床肿瘤学杂志》上的二期临床试验结果显示，名为dilanubicel的新型干细胞产品，使得接受脐带血移植的白血病及骨髓增生异常综合征患者取得了高达96%的存活率，且无患者出现严重的排异反应。这项由美国弗雷德·哈金森癌症中心领导的研究，为需要干细胞移植但缺乏完全匹配捐献者的患者，提供了一种更可及且更安全的新选择。 脐带血因其中的干细胞对配型要求相对宽松，在无法找到完美匹配捐献者的情况下，已成为血液疾病患者的重要移植来源。然而，单份脐带血中的细胞数量通常不足，限制了其应用。为解决此问题，该研究采用了一种创新的“双..."
+              "title": "要 闻 - 中国移动打造AI生产要素聚合地",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=1789fb85e0c84721a5dab8799a3fee5b&currentVersionName=03%C2%B7%E7%AC%AC03%E7%89%88%EF%BC%9A%E8%A6%81%20%E9%97%BB&currentVersion=3&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报苏州5月8日电 （记者杨雪）8日，在2026移动云大会上，中国移动发布一系列创新成果，打通“算力—模型—应用”全链路，旨在打造人工智能生产要素聚合地。 算力方面，中国移动以算网大脑实现模型与智能体全域分发，构建五层贯通架构，实现分钟级跨域调度，日调度Token（词元）为百万亿级。 模型方面，针对大模型生态多元化趋势，中国移动推出移动模型服务平台MoMA，标志着AI模型“超级入口”正式落地。平台承载中国移动自研九天大模型，整合包括DeepSeek、豆包、千问、GLM、MiniMax等超300款业界主流AI模型，通过独创的模型联邦与智能路由技术，实现多源异构模型的统一接入与能力输出。..."
             },
             {
-              "title": "国 际 - 音乐数字化可能让古典与爵士乐“简化”",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=7af9fe853c7b43c49a53e35a736c66ff&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "科技日报讯 （记者张梦然）发表在最新《科学报告》上的一项研究显示，自20世纪中叶以来，原本被视为“复杂”的古典和爵士音乐正变得更加简单和统一，从复杂程度上来看，其如今已更接近流行和摇滚等音乐流派。意大利图西亚大学与罗马大学研究团队认为，音乐数字化可能让艺术家更容易获取并从录音作品中汲取灵感，从而影响了不同流派的创作。 此前研究表明，流行歌曲的歌词和旋律近年来已变得更加简单，但尚不清楚古典和爵士等历史上被视为“复杂”的流派是否也受到了类似影响。 此次，研究团队分析了1600年至2021年间创作的21480首歌曲和乐曲的旋律与和声。他们发现，古典音乐的复杂度在1900年前曾多次起伏，但在整个..."
+              "title": "国 际 - 移动量子比特可在硅芯片中穿梭并交换信息",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=b2f1f0b1f17840b1aefe32a35bc96b15&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者张佳欣）最新发表于《自然》杂志的一项研究显示，荷兰代尔夫特理工大学研究团队在硅量子芯片上实现“移动量子比特”之间的量子逻辑运算，并进一步完成芯片内部的量子隐形传态。这意味着，原本固定不动的量子比特如今能够像信息“快递员”一样在芯片中移动并交换信息，这为未来构建大规模、可扩展量子计算机提供了新思路。 量子计算机实现大规模实用化一直卡在一个关键难题上：量子比特之间很难灵活、高效地“沟通”。传统量子芯片中的量子比特通常被固定在特定位置，只能与附近的“邻居”发生相互作用。这种限制使得量子芯片一旦规模扩大，信息传输就会变得异常复杂。 此次团队提出了一种类似“传送带”的..."
             },
             {
-              "title": "国 际 - NASA成功测试锂燃料电磁推进器",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=e2c4845b8a434fefa3eb9c59c4c527c8&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "科技日报北京4月30日电 （记者刘霞）据物理学家组织网29日报道，美国国家航空航天局（NASA）科学家在喷气推进实验室内，成功测试了一款以锂金属蒸气为动力的电磁推进器——锂基磁等离子体动力学（MPD）推进器。其测试功率一举超越了NASA现有所有航天器上的推进器，未来有望为载人火星任务乃至整个太阳系探索任务提速。 NASA局长贾里德·艾萨克曼表示，推进器此次测试的成功，标志着美国在派遣宇航员登陆火星方面取得了切实进展，也意味着美国电力推进系统首次在120千瓦这一高功率水平稳定运行。 测试在喷气推进实验室的可冷凝金属推进剂（CoMeT）真空设施内进行，该设施专门用于安全测试功率高达兆瓦级的金..."
+              "title": "国 际 - “虚拟宇宙”模拟暗能量与暗物质神秘角力",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=df665a035c61411cbfd8143484860706&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "可重构数十亿年宇宙演化历程科技日报北京5月8日电 （记者张梦然）国际天文学界发布迄今规模最大的“虚拟宇宙”数据集。由荷兰莱顿大学团队主导的FLAMINGO项目，首次在单一框架下实现对普通物质、暗物质与暗能量复杂相互作用的全流体力学模拟，可重构数十亿年宇宙演化历程。该项目生成的总数据量达2.5PB（拍字节），相当于50万部高清电影存储总和，其成果已提交至最新一期《天文学和计算》期刊。 FLAMINGO全称为“全流体力学大尺度结构全天映射模拟”，突破了以往宇宙模拟的尺度局限。传统模型往往难以兼顾宇宙网络宏观结构与星系内部物理过程，而该模拟在数十亿光年的范围内，同步呈现了从星系内气体湍流、恒星..."
             },
             {
-              "title": "国 际 - 面包小麦起源地锁定格鲁吉亚",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=b62a9913642e46e3902ccc2880c3e83f&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "格鲁吉亚新石器时代泥砖上的小麦穗印痕。图片来源：物理学家组织网 科技日报北京4月30日电 （记者刘霞）面包小麦是全球主要粮食作物之一，但其确切起源地一直是个未解之谜。由格鲁吉亚国家博物馆与加拿大多伦多大学等机构科学家组成的国际团队，借助遗传研究与古代植物遗骸，将这种小麦最初出现的地点锁定在南高加索地区的格鲁吉亚，由8000年前新石器时代的人类所栽培。相关论文发表于新一期《美国国家科学院院刊》。 面包小麦占全球小麦消费量的95%，是世界上最重要的谷物之一。先前的遗传分析显示，面包小麦源于已驯化的自由脱粒小麦与野生山羊草的杂交，该杂交种随后演化为今日的面包小麦。其栽培始于公元前6500年至公..."
+              "title": "国 际 - AI数据中心“向天而行”并非坦途",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=dbc8ad7688944a84a6ce81b1ef35affb&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "星云公司的太空数据中心（艺术图）。图片来源：技术内幕网站 【今日视点】 ◎本报记者 刘 霞 作为互联网、云计算与人工智能（AI）的底层基座，数据中心正伴随技术的狂飙突进而在全球多处“拔地而起”。然而，其占地广、能耗大、耗水多的特性也引发广泛争议，日渐成为舆论焦点。 英国《自然》网站在近日的报道中指出，当业界仍为地面数据中心的能耗、占地与散热难题焦头烂额之际，包括美国初创企业“星云”和埃隆·马斯克旗下SpaceX等科技先锋，已将目光投向浩瀚宇宙。他们计划将数据中心送入轨道，希望借太空的天然优势重塑算力基础设施。然而，这条“向天而行”之路并非坦途，诸多挑战正待跨越。 太空数据中心备受青睐 大..."
             },
             {
-              "title": "国 际 - 解开咖啡风味的化学密码",
-              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=4e655c6a8ad848f6b89e5756e98b6633&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-01",
-              "pubDate": "2026-04-30T16:00:00",
-              "description": "【科普园地】 ◎本报记者 张梦然 当我们站在咖啡馆琳琅满目的菜单前，或是面对电商平台上标注着各种等级与分数的咖啡豆时，一个根本的问题常常浮现：这些“AA级”“G1”“90+精品”的标签究竟从何而来？它们真的能科学地定义一杯咖啡的风味吗？科学家告诉我们，咖啡的等级评定绝非仅靠直觉，而是一套融合了数百年农艺经验与前沿分析技术的精密科学体系，其核心目标在于将抽象的风味与品质，转化为客观、可重复、可比较的数据与标准。 传统上，咖啡的初步分级严重依赖物理属性的严格筛选，包括测量豆粒的大小、密度、瑕疵率。以埃塞俄比亚的最高等级G1为例，其要求极为严苛，每300克生豆中，严重瑕疵豆不得超过3颗。这套基..."
+              "title": "国 际 - 普通LED光源“透视”材料内部3D光学指纹",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=352e5cf12f70403d804ccbcc531259c4&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者张佳欣）韩国延世大学领导的研究团队首次在世界上开发出一种名为“非相干介电张量断层成像”（iDTT）的新技术，仅利用普通LED光源，就能读取材料内部复杂的3D“光学指纹”，为材料科学、生物医学和半导体检测等领域提供了一种更稳定、更低成本的无损分析方法。相关成果发表于最新一期《自然·光子学》杂志。 一些材料具有一种被称为“光学各向异性”的固有特性，即光线沿不同方向传播时，材料的折射率会发生变化。这种性质如同材料内部结构和分子排列方式的“指纹”，是研究晶体、生物组织及复杂材料的重要依据。 此前，团队曾开发出“介电张量断层成像”（DTT）技术。所谓“介电张量”，是一..."
+            },
+            {
+              "title": "国 际 - 经颅磁刺激治疗抑郁症的作用机制揭示",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=6942914435284c9d88b5af38332c6212&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者张佳欣）经颅磁刺激（TMS）是一种已获美国食品药品监督管理局批准的非侵入式抑郁症疗法，但其如何在脑细胞层面发挥作用，长期以来一直是个“黑箱”。如今，美国加州大学洛杉矶分校与美国国立卫生研究院的科学家团队首次揭示，一种快速起效的TMS疗法能修复因压力受损的脑回路，从而产生抗抑郁效果。相关成果发表于新一期《细胞》杂志。 在重复经颅磁刺激（rTMS）中，放置在头皮上的线圈会产生脉冲式电磁场，从而对特定脑区进行刺激。虽然这种疗法有效，但标准rTMS通常需要持续6周甚至更长时间，且需要每日进行治疗。近年来出现的一种加速间歇性θ波爆发刺激（aiTBS）方案，可将疗程压缩..."
+            },
+            {
+              "title": "国 际 - 便携式传感器能快速检测水中永久化学物质",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=0391b12422f84bcbb7df53beb2d1460a&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者刘霞）由澳大利亚格里菲斯大学科学家领衔的团队，研制出一款可快速检测水中“永久化学物质”的便携式传感器。新型传感器可在现场以高灵敏度、高选择性地检测出水中的全氟和多氟烷基物质（PFAS），为实验室分析提供了一种实用的替代方案，有望改进环境监测的面貌。相关论文发表于新一期《环境科学与技术》杂志。 PFAS家族包含一万多种合成化学品，广泛用于消防泡沫、防水服装和不粘炊具等产品中。它们因碳氟键极其牢固，在自然界中数百年甚至上千年都难以降解。研究证实，人体即便长期暴露于低浓度PFAS环境中，也可能引发肝脏损伤、胆固醇代谢紊乱、免疫力下降乃至多种癌症。近期研究更揭示，P..."
+            },
+            {
+              "title": "国 际 - 30多亿年前地球生命就已利用金属钼存活",
+              "link": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=d605cc25f5fc4aaeabfc0237ca5540ce&currentVersionName=04%C2%B7%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD%20%E9%99%85&currentVersion=4&timeValue=2026-05-09",
+              "pubDate": "2026-05-08T16:00:00",
+              "description": "科技日报北京5月8日电 （记者刘霞）来自美国威斯康星大学麦迪逊分校、英国圣安德鲁斯大学和加拿大阿尔伯塔大学科学家发现，早在30多亿年前，地球上的生命就已利用金属钼存活，而当时的环境中，钼极度稀缺。相关论文发表于新一期《自然·通讯》杂志。 钼能加速细胞里关键的生化反应。这种金属是驱动生物体内几种主要生化反应之必需酶的核心组分，不仅对单个生物体至关重要，对整个地球的氮循环等生物地球化学循环同样影响深远。 此次团队搜集了有关钼在不同时期丰度的现有数据，重建了生命演化中使用钼的历史。结果发现，尽管钼很稀缺，但早期的古代微生物仍然找到了利用它的办法。对金属钨的使用，也同样如此。 研究表明，早期生命..."
             }
           ]
         }
